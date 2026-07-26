@@ -1,0 +1,69 @@
+name: Import content from Squarespace
+
+# You can't run commands locally, so this runs the import FOR you on GitHub's
+# machines and commits the result straight back to the repo.
+#
+# HOW TO USE IT:
+#   1. Push this repo to GitHub.
+#   2. Go to the "Actions" tab on github.com.
+#   3. Click "Import content from Squarespace" in the left sidebar.
+#   4. Click "Run workflow" (grey button, top right), then "Run workflow" again.
+#   5. Wait ~3 minutes. It commits the imported markdown and all the images.
+#
+# Run it while roganrecs.com is STILL on Squarespace. After DNS cutover
+# there is nothing left to import from.
+
+on:
+  workflow_dispatch:
+    inputs:
+      only:
+        description: 'Import a single URL only (e.g. /blog/joe-rogan-elk). Leave blank for all.'
+        required: false
+        default: ''
+      force:
+        description: 'Re-import pages already marked imported: true'
+        type: boolean
+        required: false
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci || npm install
+
+      - name: Run the import
+        run: |
+          ARGS=""
+          if [ -n "${{ inputs.only }}" ]; then ARGS="$ARGS --only=${{ inputs.only }}"; fi
+          if [ "${{ inputs.force }}" = "true" ]; then ARGS="$ARGS --force"; fi
+          node scripts/import-squarespace.mjs $ARGS
+
+      - name: Check the site still builds
+        run: npm run build
+
+      - name: Report SEO status
+        run: npm run seo:check
+
+      - name: Commit the imported content
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/content public/images
+          if git diff --staged --quiet; then
+            echo "Nothing changed — everything was already imported."
+          else
+            git commit -m "Import content from Squarespace"
+            git push
+          fi
