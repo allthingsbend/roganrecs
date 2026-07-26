@@ -1,0 +1,43 @@
+---
+import { FOOTER_LINKS } from '../../site.config.mjs';
+const year = new Date().getFullYear();
+---
+<footer class="site-footer">
+  <div class="shell">
+    <div class="footer-cols">
+      <div>
+        <h2>Rogan Recs</h2>
+        <p>
+          A fan-curated collection of the supplements, gear, books and coffee that come up
+          on the Joe Rogan Experience. Everything here is gathered from public episodes
+          and interviews.
+        </p>
+      </div>
+      <div>
+        <h2>Browse</h2>
+        <ul>
+          {FOOTER_LINKS.map((l) => <li><a href={l.href}>{l.label}</a></li>)}
+        </ul>
+      </div>
+      <div>
+        <h2>Site</h2>
+        <ul>
+          <li><a href="/about">About</a></li>
+          <li><a href="/contact">Contact</a></li>
+          <li><a href="/rss.xml">RSS feed</a></li>
+          <li><a href="/sitemap-html">Sitemap</a></li>
+        </ul>
+      </div>
+    </div>
+    <p class="legal">
+      Rogan Recs is an independent fan site. It is not affiliated with, endorsed by, or
+      sponsored by Joe Rogan, the Joe Rogan Experience, Spotify, or any brand mentioned.
+      Product mentions reflect what has been discussed publicly on the podcast and are not
+      medical advice — talk to a doctor before starting any supplement or protocol. Some
+      outbound links are affiliate links, which means we may earn a commission at no extra
+      cost to you.
+      <br /><br />
+      &copy; {year} Rogan Recs. All rights reserved.
+    </p>
+  </div>
+</footer>

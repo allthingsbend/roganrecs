@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Squarespace query-string URLs that used to generate duplicate pages.
+Disallow: /*?offset=
+Disallow: /*?author=
+Disallow: /*?format=
+Disallow: /*?category=
+Disallow: /*?tag=
+
+Sitemap: https://roganrecs.com/sitemap.xml

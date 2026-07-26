@@ -1,0 +1,19 @@
+# Cloudflare Pages redirects. One rule per line: <from> <to> <status>
+# Order matters — first match wins. Max 2,000 static rules.
+
+# --- Squarespace leftovers -------------------------------------------------
+# Squarespace kept a duplicate of the homepage at /homepage. It was in your
+# sitemap with priority 1.0, competing with "/" for the same query.
+/homepage            /                    301
+
+# The commerce cart page. It was noindex and had nothing on it.
+/cart                /                    301
+
+# Squarespace system paths that sometimes pick up stray links.
+/config              /                    301
+/config/*            /                    301
+
+# --- Add future URL changes below -----------------------------------------
+# If you ever rename a page, add the old path here rather than letting it 404.
+# Example:
+# /old-page-name     /new-page-name       301

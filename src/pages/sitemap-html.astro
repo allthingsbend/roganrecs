@@ -1,0 +1,57 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+/**
+ * Generated, not hand-maintained. Add a page, it shows up here.
+ * This is also a genuinely useful internal-linking page — it was already
+ * pulling 48 internal links on the old site.
+ */
+const pages = (await getCollection('pages'))
+  .filter((p) => p.id !== 'home' && !p.data.hidden && !p.data.noindex)
+  .sort((a, b) => (a.data.h1 ?? a.data.title).localeCompare(b.data.h1 ?? b.data.title));
+
+const posts = (await getCollection('blog'))
+  .filter((p) => !p.data.draft && !p.data.noindex)
+  .sort((a, b) => +new Date(b.data.pubDate) - +new Date(a.data.pubDate));
+
+const guides = pages.filter((p) => !p.id.includes('/'));
+const sub = pages.filter((p) => p.id.includes('/'));
+---
+<BaseLayout
+  title="Sitemap — Rogan Recs"
+  description="Every page on Rogan Recs in one place: supplement guides, podcast guest breakdowns, gear reviews and the full blog archive."
+  path="/sitemap-html"
+>
+  <div class="shell">
+    <div class="article" style="max-width: var(--shell);">
+      <p class="eyebrow">Site</p>
+      <h1>Sitemap</h1>
+
+      <div class="sitemap-group">
+        <h2>Guides</h2>
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/blog">Blog</a></li>
+          {guides.map((p) => <li><a href={`/${p.id}`}>{p.data.h1 ?? p.data.title}</a></li>)}
+        </ul>
+      </div>
+
+      {sub.length > 0 && (
+        <div class="sitemap-group">
+          <h2>Deep dives</h2>
+          <ul>
+            {sub.map((p) => <li><a href={`/${p.id}`}>{p.data.h1 ?? p.data.title}</a></li>)}
+          </ul>
+        </div>
+      )}
+
+      <div class="sitemap-group">
+        <h2>Blog archive</h2>
+        <ul>
+          {posts.map((p) => <li><a href={`/blog/${p.id}`}>{p.data.h1 ?? p.data.title}</a></li>)}
+        </ul>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

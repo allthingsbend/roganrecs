@@ -1,0 +1,73 @@
+---
+import { getCollection, getEntry, render } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import AffiliateDisclosure from '../components/AffiliateDisclosure.astro';
+
+const home = await getEntry('pages', 'home');
+const { Content } = await render(home);
+
+const posts = (await getCollection('blog'))
+  .filter((p) => !p.data.draft)
+  .sort((a, b) => +new Date(b.data.pubDate) - +new Date(a.data.pubDate))
+  .slice(0, 6);
+
+const guides = (await getCollection('pages'))
+  .filter((p) => !p.data.hidden && p.id !== 'home' && !p.id.includes('/'))
+  .sort((a, b) => a.data.order - b.data.order)
+  .slice(0, 8);
+
+const dateFmt = new Intl.DateTimeFormat('en-US', {
+  month: 'short',
+  day: 'numeric',
+  year: 'numeric',
+});
+---
+<BaseLayout
+  title={home.data.title}
+  description={home.data.description}
+  path="/"
+  image={home.data.image}
+  type="website"
+>
+  <section class="hero">
+    <div class="shell">
+      <p class="eyebrow">Fan-curated. Not affiliated with the JRE.</p>
+      <h1>{home.data.h1}</h1>
+      <p>{home.data.description}</p>
+    </div>
+  </section>
+
+  <div class="shell">
+    <div class="article">
+      <AffiliateDisclosure />
+      <Content />
+    </div>
+  </div>
+
+  <div class="shell">
+    <section class="section">
+      <h2>Start with a guide</h2>
+      <ul class="card-grid">
+        {guides.map((g) => (
+          <li class="card">
+            <h3><a href={`/${g.id}`}>{g.data.h1 ?? g.data.title}</a></h3>
+            <p>{g.data.description}</p>
+          </li>
+        ))}
+      </ul>
+    </section>
+
+    <section class="section">
+      <h2>Latest from the blog</h2>
+      <ul class="card-grid">
+        {posts.map((p) => (
+          <li class="card">
+            <span class="meta">{dateFmt.format(new Date(p.data.pubDate))}</span>
+            <h3><a href={`/blog/${p.id}`}>{p.data.h1 ?? p.data.title}</a></h3>
+            <p>{p.data.description}</p>
+          </li>
+        ))}
+      </ul>
+    </section>
+  </div>
+</BaseLayout>

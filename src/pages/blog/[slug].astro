@@ -1,0 +1,25 @@
+---
+import { getCollection, render } from 'astro:content';
+import ArticleLayout from '../../layouts/ArticleLayout.astro';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  return posts
+    .filter((p) => !p.data.draft)
+    .map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const path = `/blog/${entry.id}`;
+const words = (entry.body ?? '').split(/\s+/).filter(Boolean).length;
+
+const crumbs = [
+  { label: 'Home', href: '/' },
+  { label: 'Blog', href: '/blog' },
+  { label: entry.data.h1 ?? entry.data.title },
+];
+---
+<ArticleLayout data={entry.data} path={path} crumbs={crumbs} words={words}>
+  <Content />
+</ArticleLayout>

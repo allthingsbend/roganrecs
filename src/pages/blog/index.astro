@@ -1,0 +1,58 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { SITE } from '../../../site.config.mjs';
+
+const posts = (await getCollection('blog'))
+  .filter((p) => !p.data.draft)
+  .sort((a, b) => +new Date(b.data.pubDate) - +new Date(a.data.pubDate));
+
+const dateFmt = new Intl.DateTimeFormat('en-US', {
+  month: 'short',
+  day: 'numeric',
+  year: 'numeric',
+});
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Blog',
+    name: 'Rogan Recs Blog',
+    url: `${SITE.url}/blog`,
+    blogPost: posts.slice(0, 20).map((p) => ({
+      '@type': 'BlogPosting',
+      headline: p.data.h1 ?? p.data.title,
+      url: `${SITE.url}/blog/${p.id}`,
+      datePublished: new Date(p.data.pubDate).toISOString(),
+    })),
+  },
+];
+---
+<BaseLayout
+  title="Blog — Rogan Recs"
+  description="Deep dives on the gear, supplements, hunting trips, comedy shows and wellness protocols that come up on the Joe Rogan Experience podcast."
+  path="/blog"
+  jsonLd={jsonLd}
+>
+  <section class="hero">
+    <div class="shell">
+      <p class="eyebrow">Blog</p>
+      <h1>Everything we've dug into</h1>
+      <p>{posts.length} posts on the gear, supplements and rabbit holes from the JRE.</p>
+    </div>
+  </section>
+
+  <div class="shell">
+    <section class="section">
+      <ul class="card-grid">
+        {posts.map((p) => (
+          <li class="card">
+            <span class="meta">{dateFmt.format(new Date(p.data.pubDate))}</span>
+            <h3><a href={`/blog/${p.id}`}>{p.data.h1 ?? p.data.title}</a></h3>
+            <p>{p.data.description}</p>
+          </li>
+        ))}
+      </ul>
+    </section>
+  </div>
+</BaseLayout>

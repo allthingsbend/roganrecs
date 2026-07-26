@@ -1,0 +1,24 @@
+---
+/**
+ * The signature block. Use it anywhere you point someone at a product, so a
+ * recommendation looks and behaves the same everywhere on the site.
+ *
+ * Usage inside an .astro page:
+ *   <RecCard name="HAG Capisco" href="https://..." label="Rogan's podcast chair">
+ *     Why it is here, in a sentence or two.
+ *   </RecCard>
+ */
+interface Props {
+  name: string;
+  href: string;
+  label?: string;
+  cta?: string;
+}
+const { name, href, label = 'The pick', cta = 'Check price' } = Astro.props;
+---
+<aside class="rec">
+  <p class="rec__label">{label}</p>
+  <p class="rec__name">{name}</p>
+  <div class="rec__body"><slot /></div>
+  <a class="rec__cta" href={href} target="_blank" rel="sponsored nofollow noopener">{cta}</a>
+</aside>

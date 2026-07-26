@@ -1,0 +1,26 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout
+  title="Page not found — Rogan Recs"
+  description="That page isn't here. Browse the supplement guides, podcast guest breakdowns and gear reviews on Rogan Recs instead."
+  path="/404"
+  noindex={true}
+>
+  <div class="shell">
+    <div class="article">
+      <p class="eyebrow">404</p>
+      <h1>That page isn't here</h1>
+      <p class="lede">
+        It may have moved, or the link may be wrong. Here's where most people are headed:
+      </p>
+      <ul>
+        <li><a href="/supplements">Joe Rogan supplements guide</a></li>
+        <li><a href="/podcast-guests">Podcast guests</a></li>
+        <li><a href="/joe-rogan-books">Book recommendations</a></li>
+        <li><a href="/blog">The blog</a></li>
+        <li><a href="/sitemap-html">Full sitemap</a></li>
+      </ul>
+    </div>
+  </div>
+</BaseLayout>

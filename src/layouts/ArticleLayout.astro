@@ -1,0 +1,116 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import AffiliateDisclosure from '../components/AffiliateDisclosure.astro';
+import { SITE, CATEGORIES } from '../../site.config.mjs';
+
+interface Crumb { label: string; href?: string }
+
+interface Props {
+  data: any;
+  path: string;
+  crumbs?: Crumb[];
+  words?: number;
+  isArticle?: boolean;
+}
+
+const { data, path, crumbs = [], words = 0, isArticle = true } = Astro.props;
+
+const published = data.pubDate ?? data.updated ?? undefined;
+const modified = data.updated ?? data.pubDate ?? undefined;
+const readMins = words ? Math.max(1, Math.round(words / 225)) : 0;
+
+const fmt = (d) =>
+  new Intl.DateTimeFormat('en-US', { month: 'long', day: 'numeric', year: 'numeric' }).format(d);
+
+const jsonLd = [];
+
+if (crumbs.length) {
+  jsonLd.push({
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: crumbs.map((c, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: c.label,
+      ...(c.href ? { item: `${SITE.url}${c.href === '/' ? '' : c.href}` } : {}),
+    })),
+  });
+}
+
+if (isArticle) {
+  jsonLd.push({
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: data.h1 ?? data.title,
+    description: data.description,
+    mainEntityOfPage: { '@type': 'WebPage', '@id': `${SITE.url}${path}` },
+    author: { '@type': 'Organization', name: data.author ?? SITE.name, url: SITE.url },
+    publisher: {
+      '@type': 'Organization',
+      name: SITE.name,
+      logo: { '@type': 'ImageObject', url: new URL('/images/logo.png', SITE.url).href },
+    },
+    ...(published ? { datePublished: new Date(published).toISOString() } : {}),
+    ...(modified ? { dateModified: new Date(modified).toISOString() } : {}),
+    ...(data.image ? { image: new URL(data.image, SITE.url).href } : {}),
+  });
+}
+
+if (data.faq?.length) {
+  jsonLd.push({
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: data.faq.map((f) => ({
+      '@type': 'Question',
+      name: f.q,
+      acceptedAnswer: { '@type': 'Answer', text: f.a },
+    })),
+  });
+}
+
+const categoryLabel = CATEGORIES[data.category] ?? 'Rogan Recs';
+---
+<BaseLayout
+  title={data.title}
+  description={data.description}
+  path={path}
+  noindex={data.noindex}
+  image={data.image}
+  imageAlt={data.imageAlt}
+  type={isArticle ? 'article' : 'website'}
+  publishedTime={published ? new Date(published) : undefined}
+  modifiedTime={modified ? new Date(modified) : undefined}
+  jsonLd={jsonLd}
+>
+  <div class="shell">
+    <article class="article">
+      {crumbs.length > 1 && <Breadcrumbs items={crumbs} />}
+
+      <p class="eyebrow">{categoryLabel}</p>
+      <h1>{data.h1 ?? data.title}</h1>
+
+      <div class="spec-strip">
+        {modified && <span>Updated {fmt(new Date(modified))}</span>}
+        {readMins > 0 && <span>{readMins} min read</span>}
+        <span>{categoryLabel}</span>
+      </div>
+
+      <AffiliateDisclosure />
+
+      <slot />
+
+      {data.faq && data.faq.length > 0 && (
+        <section aria-labelledby="faq-heading">
+          <h2 id="faq-heading">Common questions</h2>
+          {data.faq.map((f) => (
+            <div>
+              <h3>{f.q}</h3>
+              <p>{f.a}</p>
+            </div>
+          ))}
+        </section>
+      )}
+    </article>
+  </div>
+</BaseLayout>

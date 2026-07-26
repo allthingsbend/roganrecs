@@ -1,0 +1,34 @@
+---
+import { getCollection, render } from 'astro:content';
+import ArticleLayout from '../layouts/ArticleLayout.astro';
+
+export async function getStaticPaths() {
+  const pages = await getCollection('pages');
+  return pages
+    .filter((p) => p.id !== 'home')
+    .map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const path = `/${entry.id}`;
+const words = (entry.body ?? '').split(/\s+/).filter(Boolean).length;
+
+// Breadcrumbs derived from the URL path, so nested pages like
+// /podcast-guests/joe-rogan-podcast-equipment get a real trail.
+const segments = entry.id.split('/');
+const crumbs = [{ label: 'Home', href: '/' }];
+if (segments.length > 1) {
+  const parentId = segments.slice(0, -1).join('/');
+  const all = await getCollection('pages');
+  const parent = all.find((p) => p.id === parentId);
+  crumbs.push({
+    label: parent?.data.h1 ?? parent?.data.title ?? segments[0].replace(/-/g, ' '),
+    href: `/${parentId}`,
+  });
+}
+crumbs.push({ label: entry.data.h1 ?? entry.data.title });
+---
+<ArticleLayout data={entry.data} path={path} crumbs={crumbs} words={words}>
+  <Content />
+</ArticleLayout>
