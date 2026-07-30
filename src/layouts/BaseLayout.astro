@@ -24,6 +24,19 @@ const props = Astro.props;
 <html lang={SITE.lang}>
   <head>
     <Seo {...props} />
+
+    <!-- Google Analytics 4. Same property as the Squarespace site, so your
+         historical data and the new data stay in one place. To change or
+         remove it, edit / delete this block. -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-XC52J75H6W"></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { dataLayer.push(arguments); }
+      gtag('js', new Date());
+      gtag('config', 'G-XC52J75H6W');
+    </script>
   </head>
   <body>
     <a class="skip-link" href="#main">Skip to content</a>
