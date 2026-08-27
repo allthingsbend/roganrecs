@@ -72,7 +72,7 @@ The appeal of SAM-e lies in its diverse range of health benefits. These include:
 
 #block-yui\_3\_17\_2\_1\_1703113073231\_6054 { --stroke-style: none;--stroke-thickness: 6px; } #block-yui\_3\_17\_2\_1\_1703113073231\_6054 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1703113073231\_6054 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1703113073231\_6054 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1703113073231\_6054 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1703113073231\_6054 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1703113073231\_6054 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
-![](/images/blog-sam-e-supplement-gary-brecka/sam-e.png)
+![Sam e](/images/blog-sam-e-supplement-gary-brecka/sam-e.png)
 
 ### Gary Brecka's Insights on SAM-e
 

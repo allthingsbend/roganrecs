@@ -30,7 +30,7 @@ Joe Rogan’s venture into merchandise with his brand [Higher Primate](https://w
 
 #block-13847e83f9e379dbc44a { --stroke-style: none;--stroke-thickness: 6px; } #block-13847e83f9e379dbc44a .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-13847e83f9e379dbc44a { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-13847e83f9e379dbc44a { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-13847e83f9e379dbc44a { } @media screen and (max-width: 767px) { #block-13847e83f9e379dbc44a { } } @media screen and (max-width: 767px) { #block-13847e83f9e379dbc44a .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
-![](/images/blog-joe-rogan-fanny-packs/jre-higher-primate-fanny-pack-buy.jpg)
+![Joe Rogan Experience higher primate fanny pack buy](/images/blog-joe-rogan-fanny-packs/jre-higher-primate-fanny-pack-buy.jpg)
 
 ### Rogan's Public Endorsement of Fanny Packs
 

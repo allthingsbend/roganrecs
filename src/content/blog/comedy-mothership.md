@@ -16,7 +16,7 @@ Joe Rogan, the renowned comedian, podcaster, and UFC commentator, has taken his 
 
 #block-e57548867b24f2c8294b { --stroke-style: none;--stroke-thickness: 6px; } #block-e57548867b24f2c8294b .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-e57548867b24f2c8294b { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-e57548867b24f2c8294b { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-e57548867b24f2c8294b { } @media screen and (max-width: 767px) { #block-e57548867b24f2c8294b { } } @media screen and (max-width: 767px) { #block-e57548867b24f2c8294b .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
-![](/images/blog-comedy-mothership/comedy-mothershp.jpg)
+![Comedy Mothership](/images/blog-comedy-mothership/comedy-mothershp.jpg)
 
 Rogan's vision for the Comedy Mothership began in 2022 when he took over the historic Ritz Theater, located at 320 E. 6th Street in downtown Austin. The Ritz, built in 1929, has a rich history as one of the first theaters in Austin to show movies. Rogan saw the potential to transform this iconic space into a hub for comedy, bringing in local architect Richard Weiss to lead the renovations​​​​. The result is a state-of-the-art comedy club that maintains the historic charm of the Ritz while offering modern amenities for both performers and audiences.
 
@@ -34,7 +34,7 @@ Along with "Kill Tony," the Comedy Mothership offers other unique shows like "Bo
 
 #block-yui\_3\_17\_2\_1\_1717625451806\_4201 { --stroke-style: none;--stroke-thickness: 6px; } #block-yui\_3\_17\_2\_1\_1717625451806\_4201 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1717625451806\_4201 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1717625451806\_4201 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1717625451806\_4201 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1717625451806\_4201 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1717625451806\_4201 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
-![](/images/blog-comedy-mothership/6th-st-austin-tx.png)
+![6th st austin Texas](/images/blog-comedy-mothership/6th-st-austin-tx.png)
 
 ### The Austin Comedy Scene
 

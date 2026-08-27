@@ -20,7 +20,7 @@ Rogan’s love for whiskey stands out. Rogan has frequently expressed his admira
 
 #block-511b5f1d4660a430d29b { --stroke-style: none;--stroke-thickness: 6px; } #block-511b5f1d4660a430d29b .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-511b5f1d4660a430d29b { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-511b5f1d4660a430d29b { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-511b5f1d4660a430d29b { } @media screen and (max-width: 767px) { #block-511b5f1d4660a430d29b { } } @media screen and (max-width: 767px) { #block-511b5f1d4660a430d29b .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
-![](/images/blog-joe-rogan-whiskey/buffalo-trace.png)
+![Buffalo trace](/images/blog-joe-rogan-whiskey/buffalo-trace.png)
 
 ### Joe Rogan’s Affinity for Buffalo Trace
 
@@ -70,7 +70,7 @@ Rogan typically enjoys his whiskey neat or on the rocks, allowing the pure flavo
 
 #block-yui\_3\_17\_2\_1\_1734649573451\_6698 { --stroke-style: none;--stroke-thickness: 6px; } #block-yui\_3\_17\_2\_1\_1734649573451\_6698 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1734649573451\_6698 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1734649573451\_6698 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1734649573451\_6698 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1734649573451\_6698 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1734649573451\_6698 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
-![](/images/blog-joe-rogan-whiskey/buffalo-trace-distillery.png)
+![Buffalo trace distillery](/images/blog-joe-rogan-whiskey/buffalo-trace-distillery.png)
 
 ### Wrapping It Up
 

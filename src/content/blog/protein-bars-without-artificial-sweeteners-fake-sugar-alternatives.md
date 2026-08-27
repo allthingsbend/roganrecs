@@ -171,7 +171,7 @@ It’s worth noting that research is ongoing, and official regulatory bodies sti
 
 #block-bf2dc6e94de12b93cb9b { --stroke-style: none;--stroke-thickness: 6px; } #block-bf2dc6e94de12b93cb9b .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-bf2dc6e94de12b93cb9b { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-bf2dc6e94de12b93cb9b { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-bf2dc6e94de12b93cb9b { } @media screen and (max-width: 767px) { #block-bf2dc6e94de12b93cb9b { } } @media screen and (max-width: 767px) { #block-bf2dc6e94de12b93cb9b .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
-![](/images/blog-protein-bars-without-artificial-sweeteners-fake-sugar-alternatives/natural-protein-bar.png)
+![Natural protein bar](/images/blog-protein-bars-without-artificial-sweeteners-fake-sugar-alternatives/natural-protein-bar.png)
 
 ## Natural Sweeteners and Why They’re Better
 
@@ -200,7 +200,7 @@ Fortunately, protein bar makers increasingly cater to those who prefer natural s
 
 #block-yui\_3\_17\_2\_1\_1732320943334\_3703 { --stroke-style: none;--stroke-thickness: 6px; } #block-yui\_3\_17\_2\_1\_1732320943334\_3703 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1732320943334\_3703 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1732320943334\_3703 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1732320943334\_3703 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1732320943334\_3703 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1732320943334\_3703 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
-![](/images/blog-protein-bars-without-artificial-sweeteners-fake-sugar-alternatives/homemade-protein-bars-no-artificial-sweeteners.png)
+![Homemade protein bars no artificial sweeteners](/images/blog-protein-bars-without-artificial-sweeteners-fake-sugar-alternatives/homemade-protein-bars-no-artificial-sweeteners.png)
 
 ### What to Look for in a High-Quality Protein Bar Without Artificial Sweeteners
 

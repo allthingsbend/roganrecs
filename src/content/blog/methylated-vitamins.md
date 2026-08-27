@@ -26,7 +26,7 @@ At a fundamental level, a vitamin is a compound that our bodies need in small am
 
 #block-6757cc1983b08a50cb75 { --stroke-style: none;--stroke-thickness: 6px; } #block-6757cc1983b08a50cb75 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-6757cc1983b08a50cb75 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-6757cc1983b08a50cb75 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-6757cc1983b08a50cb75 { } @media screen and (max-width: 767px) { #block-6757cc1983b08a50cb75 { } } @media screen and (max-width: 767px) { #block-6757cc1983b08a50cb75 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
-![](/images/blog-methylated-vitamins/vitamins-methylated.png)
+![Vitamins methylated](/images/blog-methylated-vitamins/vitamins-methylated.png)
 
 “Methylation” is a biochemical process that involves adding a small carbon and hydrogen group—known as a methyl group (–CH3)—to various compounds in the body. This addition can drastically alter a molecule’s function or prepare it for use in the body’s metabolic pathways. When it comes to vitamins, “methylated” forms are those that have already undergone this modification. Take vitamin B12, for example. Its common forms include cyanocobalamin, hydroxocobalamin, and methylcobalamin. Methylcobalamin is the methylated form, ready for the body to use without requiring a significant conversion process.
 
@@ -60,7 +60,7 @@ Beyond genetics, some individuals with certain health conditions may also benefi
 
 #block-yui\_3\_17\_2\_1\_1733473735867\_4022 { --stroke-style: none;--stroke-thickness: 6px; } #block-yui\_3\_17\_2\_1\_1733473735867\_4022 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1733473735867\_4022 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1733473735867\_4022 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1733473735867\_4022 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1733473735867\_4022 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1733473735867\_4022 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
-![](/images/blog-methylated-vitamins/vitamins-on-counter.png)
+![Vitamins on counter](/images/blog-methylated-vitamins/vitamins-on-counter.png)
 
 ### Science vs. Hype: The Current State of the Research
 

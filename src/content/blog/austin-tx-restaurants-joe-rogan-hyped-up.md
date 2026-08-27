@@ -17,7 +17,7 @@ Joe Rogan, now a resident of Austin, Texas, frequently shares his favorite local
 
 #block-08875e71181fd4cc5ad2 { --stroke-style: none;--stroke-thickness: 6px; } #block-08875e71181fd4cc5ad2 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-08875e71181fd4cc5ad2 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-08875e71181fd4cc5ad2 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-08875e71181fd4cc5ad2 { } @media screen and (max-width: 767px) { #block-08875e71181fd4cc5ad2 { } } @media screen and (max-width: 767px) { #block-08875e71181fd4cc5ad2 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
-![](/images/blog-austin-tx-restaurants-joe-rogan-hyped-up/modern-austin-tx-restaurants.png)
+![Modern austin Texas restaurants](/images/blog-austin-tx-restaurants-joe-rogan-hyped-up/modern-austin-tx-restaurants.png)
 
 **Franklin Barbecue**
 
@@ -49,7 +49,7 @@ For a more upscale dining experience, Rogan recommends [Garrison](https://www.ga
 
 #block-yui\_3\_17\_2\_1\_1718319450384\_2366 { --stroke-style: none;--stroke-thickness: 6px; } #block-yui\_3\_17\_2\_1\_1718319450384\_2366 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1718319450384\_2366 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1718319450384\_2366 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1718319450384\_2366 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1718319450384\_2366 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1718319450384\_2366 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
-![](/images/blog-austin-tx-restaurants-joe-rogan-hyped-up/austin-tx-restaurant.png)
+![Austin Texas restaurant](/images/blog-austin-tx-restaurants-joe-rogan-hyped-up/austin-tx-restaurant.png)
 
 ### The Rise of Austin’s Thriving Restaurant Scene
 

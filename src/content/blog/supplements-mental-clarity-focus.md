@@ -29,7 +29,7 @@ Cognitive supplements, also known as brain boosters or nootropics, are designed 
 
 #block-7d9e09d2199f48211b50 { --stroke-style: none;--stroke-thickness: 6px; } #block-7d9e09d2199f48211b50 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-7d9e09d2199f48211b50 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-7d9e09d2199f48211b50 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-7d9e09d2199f48211b50 { } @media screen and (max-width: 767px) { #block-7d9e09d2199f48211b50 { } } @media screen and (max-width: 767px) { #block-7d9e09d2199f48211b50 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
-![](/images/blog-supplements-mental-clarity-focus/mental-clarity-supplements.png)
+![Mental clarity supplements](/images/blog-supplements-mental-clarity-focus/mental-clarity-supplements.png)
 
 They cater to individuals facing challenges like demanding workloads, mental fatigue, or even age-related cognitive decline. Supplements for mental clarity typically fall into two categories:
 
@@ -66,7 +66,7 @@ Omega-3s, particularly EPA and DHA, are crucial for brain health.
 
 #block-yui\_3\_17\_2\_1\_1732233353734\_4524 { --stroke-style: none;--stroke-thickness: 6px; } #block-yui\_3\_17\_2\_1\_1732233353734\_4524 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1732233353734\_4524 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1732233353734\_4524 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1732233353734\_4524 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1732233353734\_4524 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1732233353734\_4524 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
-![](/images/blog-supplements-mental-clarity-focus/mental-focus-supplements.png)
+![Mental focus supplements](/images/blog-supplements-mental-clarity-focus/mental-focus-supplements.png)
 
 #### **Adaptogens**
 

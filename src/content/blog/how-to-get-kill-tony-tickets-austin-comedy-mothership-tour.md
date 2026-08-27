@@ -13,7 +13,6 @@ image: >-
   /images/blog-how-to-get-kill-tony-tickets-austin-comedy-mothership-tour/kill-tony-show.png
 ---
 
-# **How to Get Kill Tony Tickets: A Complete Guide**
 
 "Kill Tony" is a wildly popular live podcast and stand-up comedy show hosted by Tony Hinchcliffe, filmed at the iconic Comedy Mothership in Austin, Texas. Known for its unique format where comedians perform short sets followed by interviews, the show has captivated audiences worldwide. Securing tickets to a live recording can be a challenge due to its immense popularity, but here’s everything you need to know to improve your chances.
 
@@ -55,7 +54,7 @@ UN-BELIEVE-ABLE
 
 #block-b682030347d1bf319718 { --stroke-style: none;--stroke-thickness: 6px; } #block-b682030347d1bf319718 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-b682030347d1bf319718 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-b682030347d1bf319718 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-b682030347d1bf319718 { } @media screen and (max-width: 767px) { #block-b682030347d1bf319718 { } } @media screen and (max-width: 767px) { #block-b682030347d1bf319718 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
-![](/images/blog-how-to-get-kill-tony-tickets-austin-comedy-mothership-tour/kill-tony-show.png)
+![Kill tony show](/images/blog-how-to-get-kill-tony-tickets-austin-comedy-mothership-tour/kill-tony-show.png)
 
 ### **Tips for Securing Kill Tony Tickets**
 

@@ -16,7 +16,7 @@ Rogan has gotten MANY MMA fans into the scene. Joe Rogan's name is synonymous wi
 
 #block-1d144dd7b6fcbef6de68 { --stroke-style: none;--stroke-thickness: 6px; } #block-1d144dd7b6fcbef6de68 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-1d144dd7b6fcbef6de68 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-1d144dd7b6fcbef6de68 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-1d144dd7b6fcbef6de68 { } @media screen and (max-width: 767px) { #block-1d144dd7b6fcbef6de68 { } } @media screen and (max-width: 767px) { #block-1d144dd7b6fcbef6de68 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
-![](/images/blog-joe-rogans-influence-on-the-mma-community/rogan-mma-influence.png)
+![Joe Rogan mma influence](/images/blog-joe-rogans-influence-on-the-mma-community/rogan-mma-influence.png)
 
 ## Early Involvement and Commentary Style
 
@@ -32,7 +32,7 @@ Rogan has used his platform to promote MMA and educate fans about its intricacie
 
 #block-yui\_3\_17\_2\_1\_1718318851479\_2264 { --stroke-style: none;--stroke-thickness: 6px; } #block-yui\_3\_17\_2\_1\_1718318851479\_2264 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1718318851479\_2264 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1718318851479\_2264 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1718318851479\_2264 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1718318851479\_2264 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1718318851479\_2264 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
-![](/images/blog-joe-rogans-influence-on-the-mma-community/rogan-mma-gym.png)
+![Joe Rogan mma gym](/images/blog-joe-rogans-influence-on-the-mma-community/rogan-mma-gym.png)
 
 ### Mentoring and Inspiring the Next Generation
 

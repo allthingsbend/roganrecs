@@ -66,13 +66,12 @@ Cloudflare dashboard → Workers & Pages → Create → Pages → Connect to Git
 | Setting | Value |
 |---|---|
 | Framework preset | Astro |
-| Build command | `npm run build` |
+| Build command | `npm run build:check` |
 | Build output directory | `dist` |
 | Environment variable | `NODE_VERSION` = `20` |
 
-The build command is deliberately just `npm run build`. The SEO checker runs as a
-separate reporting step and never fails a deploy — you have no way to debug a
-broken build right now, and a failed build means no site.
+The checked build generates the site, fails on blocking SEO errors, and reports
+affiliate-tag status before Cloudflare publishes the deployment.
 
 You'll get a `roganrecs.pages.dev` URL. Click through it properly: all five nav
 items, a few blog posts, `/sitemap.xml`, `/rss.xml`, `/robots.txt`, and a made-up
@@ -116,8 +115,8 @@ keeps it exactly as written. A link **missing** one gets yours added. So your
 existing tagged links survive the import untouched, and anything that lost its
 tag along the way gets it back.
 
-**Two images.** Drop `og-default.jpg` (1200×630) and `logo.png` into
-`public/images/`. Until then social shares have no preview image.
+The default social image and structured-data logo are already included in
+`public/images/`.
 
 ---
 

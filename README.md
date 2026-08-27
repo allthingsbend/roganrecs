@@ -7,17 +7,13 @@ account to live site, with exact clicks. [`MIGRATION.md`](./MIGRATION.md) is the
 shorter reference version. [`SEO-PLAN.md`](./SEO-PLAN.md)
 records what was changed and what's left. This file is the reference.
 
-**No terminal? Open `design-preview.html` in a browser** to see the design, and
-use the GitHub Action in `.github/workflows/import-content.yml` to pull your
-Squarespace content across without a machine.
-
 If you do get a terminal:
 
 ```bash
 npm install
 npm run dev          # http://localhost:4321
 npm run build
-npm run seo:check    # report on dist/ (add --strict to make it fail)
+npm run build:check  # build + strict SEO and affiliate audits
 ```
 
 ---
@@ -48,6 +44,7 @@ public/
 scripts/
   import-squarespace.mjs One-time content migration.
   check-seo.mjs          Post-build audit.
+  check-affiliate-links.mjs  Affiliate ID and rel-attribute audit.
   urls.json              URL manifest, used by both.
 ```
 
@@ -126,9 +123,6 @@ failure once you have a machine to debug on.
 
 ## Things worth adding later
 
-- `public/images/og-default.jpg` — 1200×630, used for social shares site-wide
-- `public/images/logo.png` — referenced by the Organization schema
-- `public/apple-touch-icon.png` — 180×180
 - Cloudflare Web Analytics (free, cookieless, no consent banner needed)
 - Self-hosted fonts via `@fontsource` if you want to drop the Google Fonts request
 

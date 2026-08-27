@@ -125,7 +125,7 @@ workflow with `/blog/that-page-slug` typed into the **only** box.
   | Field | Value |
   |---|---|
   | Framework preset | **Astro** |
-  | Build command | `npm run build` |
+  | Build command | `npm run build:check` |
   | Build output directory | `dist` |
 
 - Expand **Environment variables**, click **Add variable**:
@@ -188,13 +188,8 @@ days, that's when you go back to the crawl comparison.
 
 # Two small things to do whenever you get a minute
 
-**Add two images** to `public/images/` via **Add file → Upload files** on GitHub:
-
-- `og-default.jpg` at 1200×630 — the picture that shows when someone shares a link
-- `logo.png` — used by the structured data
-
-Neither breaks anything by being missing. Social shares just look plain until
-they're there.
+The social-share image, structured-data logo, and Apple touch icon are included
+in the repository under `public/`.
 
 **Check your other affiliate programs.** Your Amazon tag (`rogan-recs-20`) is
 already set in `site.config.mjs` — I read it off your live links. If you're in

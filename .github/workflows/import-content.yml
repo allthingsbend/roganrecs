@@ -18,6 +18,7 @@ on:
     branches: [main]
     paths:
       - scripts/import-squarespace.mjs
+      - src/content/blog/how-to-get-kill-tony-tickets-austin-comedy-mothership-tour.md
   workflow_dispatch:
     inputs:
       only:

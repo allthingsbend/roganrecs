@@ -26,7 +26,7 @@ Jiu-jitsu puts a lot of stress on joints, tendons, and ligaments, especially in 
 
 #block-4ee7ffa25f6cd87eea0d { --stroke-style: none;--stroke-thickness: 6px; } #block-4ee7ffa25f6cd87eea0d .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-4ee7ffa25f6cd87eea0d { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-4ee7ffa25f6cd87eea0d { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-4ee7ffa25f6cd87eea0d { } @media screen and (max-width: 767px) { #block-4ee7ffa25f6cd87eea0d { } } @media screen and (max-width: 767px) { #block-4ee7ffa25f6cd87eea0d .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
-![](/images/blog-top-supplements-jiu-jitsu-athletes/bjj-supplements.png)
+![Brazilian jiu-jitsu supplements](/images/blog-top-supplements-jiu-jitsu-athletes/bjj-supplements.png)
 
 ## **2\. Fish Oil: Fight Inflammation and Support Recovery**
 
@@ -101,7 +101,7 @@ A good rash guard will keep you protected, wick away sweat, and allow you to tra
 
 #block-yui\_3\_17\_2\_1\_1732227656787\_6969 { --stroke-style: none;--stroke-thickness: 6px; } #block-yui\_3\_17\_2\_1\_1732227656787\_6969 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1732227656787\_6969 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1732227656787\_6969 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1732227656787\_6969 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1732227656787\_6969 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1732227656787\_6969 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
-![](/images/blog-top-supplements-jiu-jitsu-athletes/jit-jitsu-fish-oil-supplements.png)
+![Jiu jitsu fish oil supplements](/images/blog-top-supplements-jiu-jitsu-athletes/jit-jitsu-fish-oil-supplements.png)
 
 #### Why You Should Take Supplements for Jiu-Jitsu
 

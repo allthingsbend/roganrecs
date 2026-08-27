@@ -18,7 +18,7 @@ Joe Rogan's commitment to fitness extends beyond his well-known podcasting caree
 
 #block-f3fb98db7e7bbbe56405 { --stroke-style: none;--stroke-thickness: 6px; } #block-f3fb98db7e7bbbe56405 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-f3fb98db7e7bbbe56405 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-f3fb98db7e7bbbe56405 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-f3fb98db7e7bbbe56405 { } @media screen and (max-width: 767px) { #block-f3fb98db7e7bbbe56405 { } } @media screen and (max-width: 767px) { #block-f3fb98db7e7bbbe56405 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
-![](/images/blog-joe-rogan-kettlebells/single-kettlebell.png)
+![Single kettlebell](/images/blog-joe-rogan-kettlebells/single-kettlebell.png)
 
 His routine includes exercises like the Turkish Get-Up, Kettlebell Clean, Goblet Squat, and Single Leg Deadlift. These exercises focus on building overall strength, stability, and explosiveness, which are crucial for martial arts. Rogan emphasizes the importance of these exercises not just for physical fitness but for their functional benefits in real-world activities and sports.
 
@@ -30,7 +30,7 @@ Rogan's kettlebell workouts are known for their effectiveness in building streng
 
 #block-yui\_3\_17\_2\_1\_1705002256095\_2648 { --stroke-style: none;--stroke-thickness: 6px; } #block-yui\_3\_17\_2\_1\_1705002256095\_2648 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1705002256095\_2648 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1705002256095\_2648 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1705002256095\_2648 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1705002256095\_2648 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1705002256095\_2648 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
-![](/images/blog-joe-rogan-kettlebells/kettlebells.png)
+![Kettlebells](/images/blog-joe-rogan-kettlebells/kettlebells.png)
 
 ## Joe Rogan Kettlebells: A Game Changer for Strength Training
 

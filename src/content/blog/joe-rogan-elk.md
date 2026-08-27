@@ -16,7 +16,7 @@ Joe Rogan, a multifaceted personality known for his podcast, comedy, and UFC com
 
 #block-3b51fcc7b8fb59122b5e { --stroke-style: none;--stroke-thickness: 6px; } #block-3b51fcc7b8fb59122b5e .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-3b51fcc7b8fb59122b5e { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-3b51fcc7b8fb59122b5e { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-3b51fcc7b8fb59122b5e { } @media screen and (max-width: 767px) { #block-3b51fcc7b8fb59122b5e { } } @media screen and (max-width: 767px) { #block-3b51fcc7b8fb59122b5e .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
-![](/images/blog-joe-rogan-elk/elk-in-oregon-rogan.jpg)
+![Elk in oregon Joe Rogan](/images/blog-joe-rogan-elk/elk-in-oregon-rogan.jpg)
 
 Elk meat stands out for its nutritional superiority compared to conventional meats like beef or chicken. It's a leaner option, packed with protein and essential vitamins and minerals such as iron, zinc, and B vitamins, making it a powerhouse of nutrition. Rogan describes the experience of consuming elk meat as energizing, attributing this vitality to its "super-animal" qualities. The unique flavor of elk, especially when prepared with care, is another reason for Rogan's preference. He advocates for cooking elk meat at low temperatures and then searing it to perfection, a method that enhances its natural flavors without the gamey taste often associated with wild game.
 
@@ -30,7 +30,7 @@ The physical and mental challenges of bow hunting, the ethical pursuit of wild g
 
 #block-yui\_3\_17\_2\_1\_1707282095332\_2505 { --stroke-style: none;--stroke-thickness: 6px; } #block-yui\_3\_17\_2\_1\_1707282095332\_2505 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1707282095332\_2505 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1707282095332\_2505 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1707282095332\_2505 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1707282095332\_2505 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1707282095332\_2505 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
-![](/images/blog-joe-rogan-elk/elks.png)
+![Elks](/images/blog-joe-rogan-elk/elks.png)
 
 ### Why Elk Meat is Healthy and Tasty
 

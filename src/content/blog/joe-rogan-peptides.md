@@ -22,7 +22,7 @@ Joe Rogan, a name synonymous with candid discussions on diverse topics, has beco
 
 #block-2d9172f70d05606c3be2 { --stroke-style: none;--stroke-thickness: 6px; } #block-2d9172f70d05606c3be2 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-2d9172f70d05606c3be2 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-2d9172f70d05606c3be2 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-2d9172f70d05606c3be2 { } @media screen and (max-width: 767px) { #block-2d9172f70d05606c3be2 { } } @media screen and (max-width: 767px) { #block-2d9172f70d05606c3be2 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
-![](/images/blog-joe-rogan-peptides/bpc-157-peptide.png)
+![Bpc 157 peptide](/images/blog-joe-rogan-peptides/bpc-157-peptide.png)
 
 ## Joe Rogan's Advocacy for Peptides and BPC 157
 
@@ -34,7 +34,7 @@ The scientific community has been exploring BPC 157 for its therapeutic potentia
 
 #block-yui\_3\_17\_2\_1\_1705985641477\_6119 { --stroke-style: none;--stroke-thickness: 6px; } #block-yui\_3\_17\_2\_1\_1705985641477\_6119 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1705985641477\_6119 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1705985641477\_6119 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1705985641477\_6119 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1705985641477\_6119 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1705985641477\_6119 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
-![](/images/blog-joe-rogan-peptides/peptides.png)
+![Peptides](/images/blog-joe-rogan-peptides/peptides.png)
 
 ### Incorporation by Wellness Brands: Ways2Well and Others
 

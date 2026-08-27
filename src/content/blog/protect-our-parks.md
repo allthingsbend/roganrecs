@@ -18,7 +18,7 @@ Each episode is a masterclass in balancing the irreverent with the important, as
 
 #block-df217582667ba7fc8203 { } #block-df217582667ba7fc8203 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-df217582667ba7fc8203 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-df217582667ba7fc8203 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-df217582667ba7fc8203 { } @media screen and (max-width: 767px) { #block-df217582667ba7fc8203 { } } @media screen and (max-width: 767px) { #block-df217582667ba7fc8203 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
-![](/images/blog-protect-our-parks/protect-our-parks-image.jpg)
+![Protect our parks image](/images/blog-protect-our-parks/protect-our-parks-image.jpg)
 
 ## The Making of "Protect Our Parks"
 

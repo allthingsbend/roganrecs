@@ -20,7 +20,7 @@ Joe Rogan has been a prominent advocate of the carnivore diet. It is a dietary r
 
 The carnivore diet is a restrictive eating plan that focuses exclusively on animal-derived foods, such as meat, fish, eggs, and certain dairy products, while eliminating all plant-based foods, including fruits, vegetables, grains, and legumes. This diet is considered a subset of ketogenic diets due to its low carbohydrate content, but it is more extreme in its exclusion of all plant matter.
 
-[Healthline](https://www.healthline.com/nutrition/carnivore-diet?utm_source=chatgpt.com)
+[Healthline](https://www.healthline.com/nutrition/carnivore-diet)
 
 **Joe Rogan's Foray into the Carnivore Diet**
 
@@ -28,11 +28,11 @@ In January 2020, Joe Rogan embarked on a 30-day carnivore diet challenge, consum
 
 -   **Weight Loss**: Rogan reported a weight reduction of approximately 12 pounds, dropping from 205 to 193 pounds over the month.
 
-    [The Primal](https://www.theprimal.com/blog/joe-rogans-carnivore-diet?utm_source=chatgpt.com)
+    [The Primal](https://www.theprimal.com/blog/joe-rogans-carnivore-diet)
 
 -   **Enhanced Energy Levels**: He experienced more stable and consistent energy throughout the day, attributing this to the elimination of carbohydrate-induced blood sugar fluctuations.
 
-    [Carnivore Style](https://carnivorestyle.com/joe-rogan-carnivore-diet/?utm_source=chatgpt.com)
+    [Carnivore Style](https://carnivorestyle.com/joe-rogan-carnivore-diet/)
 
 -   **Improvement in Autoimmune Condition**: Rogan observed a reduction in symptoms of vitiligo, an autoimmune disorder characterized by loss of skin pigmentation.
 
@@ -43,7 +43,7 @@ In January 2020, Joe Rogan embarked on a 30-day carnivore diet challenge, consum
 
 Encouraged by these outcomes, Rogan revisited the carnivore diet in subsequent years, making modifications such as incorporating fruit to mitigate digestive discomfort.
 
-[Routines Club](https://www.routines.club/routine/the-joe-rogan-carnivore-diet?utm_source=chatgpt.com)
+[Routines Club](https://www.routines.club/routine/the-joe-rogan-carnivore-diet)
 
 **Joe Rogan Discussing Supplementing on the Carnivore Diet**
 
@@ -60,7 +60,7 @@ It's worth noting that while some proponents of the carnivore diet argue that a 
 
 #block-yui\_3\_17\_2\_1\_1734579839455\_4479 { --stroke-style: none;--stroke-thickness: 6px; } #block-yui\_3\_17\_2\_1\_1734579839455\_4479 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1734579839455\_4479 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1734579839455\_4479 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1734579839455\_4479 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1734579839455\_4479 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1734579839455\_4479 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
-![](/images/blog-carnivore-diet-joe-rogan/jre-pod.png)
+![Joe Rogan Experience pod](/images/blog-carnivore-diet-joe-rogan/jre-pod.png)
 
 **Potential Benefits of the Carnivore Diet**
 
@@ -68,11 +68,11 @@ Advocates of the carnivore diet, including Rogan, have reported various benefits
 
 -   **Weight Loss**: The diet's high protein and fat content can promote satiety, potentially leading to reduced calorie intake and weight loss.
 
-    [Healthline](https://www.healthline.com/nutrition/carnivore-diet?utm_source=chatgpt.com)
+    [Healthline](https://www.healthline.com/nutrition/carnivore-diet)
 
 -   **Improved Mental Clarity**: Some individuals report enhanced focus and mental clarity, possibly due to stabilized blood sugar levels and the absence of carbohydrate-induced energy crashes.
 
-    [Man of Many](https://manofmany.com/lifestyle/fitness/carnivore-diet-101?utm_source=chatgpt.com)
+    [Man of Many](https://manofmany.com/lifestyle/fitness/carnivore-diet-101)
 
 -   **Reduction in Inflammation**: Anecdotal evidence suggests that eliminating plant-based foods may reduce inflammation, benefiting individuals with autoimmune conditions.
 
@@ -91,11 +91,11 @@ Despite reported benefits, the carnivore diet has been met with criticism from h
 
 -   **Digestive Issues**: The lack of dietary fiber may cause digestive problems, including constipation.
 
-    [Cleveland Clinic Health](https://health.clevelandclinic.org/the-carnivore-diet?utm_source=chatgpt.com)
+    [Cleveland Clinic Health](https://health.clevelandclinic.org/the-carnivore-diet)
 
 -   **Sustainability and Environmental Concerns**: The diet's restrictive nature may make it challenging to maintain long-term, and increased meat consumption raises environmental sustainability issues.
 
-    [U.S. News Health](https://health.usnews.com/wellness/food/articles/carnivore-diet-reviews-everything-you-need-to-know?utm_source=chatgpt.com)
+    [U.S. News Health](https://health.usnews.com/wellness/food/articles/carnivore-diet-reviews-everything-you-need-to-know)
 
 
 
@@ -104,7 +104,7 @@ Despite reported benefits, the carnivore diet has been met with criticism from h
 
 Rogan acknowledges both the benefits and challenges of the carnivore diet. He emphasizes the importance of personal experimentation and listening to one's body, noting that dietary responses can vary significantly among individuals. Rogan's approach underscores the value of self-awareness and adaptability in dietary choices.
 
-[Carnivore Style](https://carnivorestyle.com/joe-rogan-carnivore-diet/?utm_source=chatgpt.com)
+[Carnivore Style](https://carnivorestyle.com/joe-rogan-carnivore-diet/)
 
 Joe Rogan's exploration of the carnivore diet has brought significant attention to this unconventional eating regimen. While he and others have reported benefits such as weight loss, increased energy, and improvements in certain health conditions, the diet remains controversial due to potential health risks and the lack of comprehensive scientific research. Individuals considering the carnivore diet should consult with healthcare professionals to ensure it aligns with their health goals and nutritional needs.
 
