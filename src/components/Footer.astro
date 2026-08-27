@@ -5,16 +5,19 @@ const year = new Date().getFullYear();
 <footer class="site-footer">
   <div class="shell">
     <div class="footer-cols">
-      <div>
-        <h2>Rogan Recs</h2>
+      <div class="footer-intro">
+        <a class="wordmark wordmark--footer" href="/" aria-label="Rogan Recs home">
+          <span class="wordmark__mark" aria-hidden="true">R</span>
+          <span class="wordmark__text">Rogan <strong>Recs</strong></span>
+        </a>
         <p>
-          A fan-curated collection of the supplements, gear, books and coffee that come up
-          on the Joe Rogan Experience. Everything here is gathered from public episodes
-          and interviews.
+          A clear, independent guide to the supplements, gear, books and ideas discussed
+          on the Joe Rogan Experience.
         </p>
+        <p class="footer-kicker">Fan-curated. Source-led. No hype required.</p>
       </div>
       <div>
-        <h2>Browse</h2>
+        <h2>Explore</h2>
         <ul>
           {FOOTER_LINKS.map((l) => <li><a href={l.href}>{l.label}</a></li>)}
         </ul>
@@ -29,15 +32,13 @@ const year = new Date().getFullYear();
         </ul>
       </div>
     </div>
-    <p class="legal">
-      Rogan Recs is an independent fan site. It is not affiliated with, endorsed by, or
-      sponsored by Joe Rogan, the Joe Rogan Experience, Spotify, or any brand mentioned.
-      Product mentions reflect what has been discussed publicly on the podcast and are not
-      medical advice — talk to a doctor before starting any supplement or protocol. Some
-      outbound links are affiliate links, which means we may earn a commission at no extra
-      cost to you.
-      <br /><br />
-      &copy; {year} Rogan Recs. All rights reserved.
-    </p>
+    <div class="legal">
+      <p>
+        Rogan Recs is an independent fan site and is not affiliated with Joe Rogan, the
+        Joe Rogan Experience, Spotify or any brand mentioned. Content is informational,
+        not medical advice. Some outbound links are affiliate links.
+      </p>
+      <p>&copy; {year} Rogan Recs.</p>
+    </div>
   </div>
 </footer>

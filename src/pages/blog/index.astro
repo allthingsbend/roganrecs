@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import ContentCard from '../../components/ContentCard.astro';
 import { SITE } from '../../../site.config.mjs';
 
 const posts = (await getCollection('blog'))
@@ -12,6 +13,8 @@ const dateFmt = new Intl.DateTimeFormat('en-US', {
   day: 'numeric',
   year: 'numeric',
 });
+
+const [featuredPost, ...remainingPosts] = posts;
 
 const jsonLd = [
   {
@@ -34,23 +37,66 @@ const jsonLd = [
   path="/blog"
   jsonLd={jsonLd}
 >
-  <section class="hero">
-    <div class="shell">
-      <p class="eyebrow">Blog</p>
-      <h1>Everything we've dug into</h1>
-      <p>{posts.length} posts on the gear, supplements and rabbit holes from the JRE.</p>
+  <section class="listing-hero">
+    <div class="shell listing-hero__grid">
+      <div>
+        <p class="eyebrow">The Rogan Recs archive</p>
+        <h1>Every rabbit hole, made easier to follow.</h1>
+        <p>{posts.length} guides on the gear, supplements, comedy and ideas that come up on the JRE.</p>
+      </div>
+      <div class="listing-hero__stat" aria-label={`${posts.length} published guides`}>
+        <strong>{posts.length}</strong>
+        <span>deep dives<br />and counting</span>
+      </div>
     </div>
   </section>
 
-  <div class="shell">
+  <div class="shell blog-index">
+    {featuredPost && (
+      <section class="featured-story" aria-labelledby="featured-story-heading">
+        <div class="featured-story__media">
+          {featuredPost.data.image && (
+            <img
+              src={featuredPost.data.image}
+              alt={featuredPost.data.imageAlt ?? ''}
+              width="900"
+              height="600"
+              loading="eager"
+            />
+          )}
+        </div>
+        <div class="featured-story__body">
+          <p class="eyebrow">Featured guide</p>
+          <span class="meta">{dateFmt.format(new Date(featuredPost.data.pubDate))}</span>
+          <h2 id="featured-story-heading">
+            <a href={`/blog/${featuredPost.id}`}>
+              {featuredPost.data.h1 ?? featuredPost.data.title}
+            </a>
+          </h2>
+          <p>{featuredPost.data.description}</p>
+          <a class="button button--dark" href={`/blog/${featuredPost.id}`}>Read the guide</a>
+        </div>
+      </section>
+    )}
+
     <section class="section">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Browse the archive</p>
+          <h2>All articles</h2>
+        </div>
+      </div>
       <ul class="card-grid">
-        {posts.map((p) => (
-          <li class="card">
-            <span class="meta">{dateFmt.format(new Date(p.data.pubDate))}</span>
-            <h3><a href={`/blog/${p.id}`}>{p.data.h1 ?? p.data.title}</a></h3>
-            <p>{p.data.description}</p>
-          </li>
+        {remainingPosts.map((p) => (
+          <ContentCard
+            href={`/blog/${p.id}`}
+            title={p.data.h1 ?? p.data.title}
+            description={p.data.description}
+            image={p.data.image}
+            imageAlt={p.data.imageAlt}
+            category={p.data.category}
+            meta={dateFmt.format(new Date(p.data.pubDate))}
+          />
         ))}
       </ul>
     </section>

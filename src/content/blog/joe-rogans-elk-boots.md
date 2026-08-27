@@ -38,7 +38,6 @@ Rogan received these custom elk leather boots during a live UFC event, adding an
 
 If you were to make a pair of your own elk boots, how would they look? We envision ours looking like this:
 
-#block-415a0a88726dec8eebac { --stroke-style: none;--stroke-thickness: 6px; } #block-415a0a88726dec8eebac .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-415a0a88726dec8eebac { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-415a0a88726dec8eebac { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-415a0a88726dec8eebac { } @media screen and (max-width: 767px) { #block-415a0a88726dec8eebac { } } @media screen and (max-width: 767px) { #block-415a0a88726dec8eebac .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
 ![elk boots self made](/images/blog-joe-rogans-elk-boots/elk-boots.png)
 
@@ -47,5 +46,3 @@ If you were to make a pair of your own elk boots, how would they look? We envisi
 [Origin](https://originusa.com/collections/hunt) is not just about making boots; it’s about telling a story through each product. Their partnership with Rogan highlights their commitment to producing high-quality, American-made goods that resonate with their customers' values and lifestyles. The company’s ethos is built around supporting local economies and preserving traditional manufacturing techniques, making their products stand out in the market.
 
 Joe Rogan's elk leather boots from Origin are more than just footwear; they symbolize a blend of passion, craftsmanship, and American heritage. This collaboration has not only created a unique product but also brought attention to the importance of quality and authenticity in the apparel industry. Whether you're a fan of Rogan, a UFC enthusiast, or someone who appreciates finely crafted goods, these boots tell a story that’s worth every step.
-
-#block-yui\_3\_17\_2\_1\_1717622954561\_6325 { --stroke-style: none;--stroke-thickness: 6px; } #block-yui\_3\_17\_2\_1\_1717622954561\_6325 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1717622954561\_6325 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1717622954561\_6325 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1717622954561\_6325 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1717622954561\_6325 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1717622954561\_6325 .sqs-html-content { } } @media screen and (max-width: 767px) { }

@@ -28,7 +28,6 @@ So, next time you catch a UFC event or listen to Rogan’s podcast, take a close
 
 Joe Rogan’s venture into merchandise with his brand [Higher Primate](https://www.higherprimate.com/products/signature-hp-roots-bag-2-pocket) showcases his personal style and preference for functional accessories. The brand features a range of fanny packs, each designed with a unique blend of practicality and style. These aren’t just any ordinary fanny packs; they're a statement – merging Rogan’s rugged, outdoorsy persona with an urban, modern aesthetic. The fanny packs from Higher Primate stand out for their durability and versatile design, appealing to a broad audience that values both form and function.
 
-#block-13847e83f9e379dbc44a { --stroke-style: none;--stroke-thickness: 6px; } #block-13847e83f9e379dbc44a .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-13847e83f9e379dbc44a { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-13847e83f9e379dbc44a { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-13847e83f9e379dbc44a { } @media screen and (max-width: 767px) { #block-13847e83f9e379dbc44a { } } @media screen and (max-width: 767px) { #block-13847e83f9e379dbc44a .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
 ![Joe Rogan Experience higher primate fanny pack buy](/images/blog-joe-rogan-fanny-packs/jre-higher-primate-fanny-pack-buy.jpg)
 
@@ -42,7 +41,6 @@ Rogan’s influence extends far into the realms of fashion and utility wear. His
 
 The resurgence of the fanny pack, driven in part by Joe Rogan’s influence, highlights an interesting intersection of celebrity impact, practicality, and fashion trends. Rogan's approach to popularizing fanny packs through his brand and public endorsements reflects a deeper cultural shift towards valuing functionality in fashion. It’s a reminder of how trends can cycle and evolve, often in unexpected ways, guided by figures who dare to embrace and promote what they genuinely love.
 
-#block-yui\_3\_17\_2\_1\_1705984552418\_3030 { --stroke-style: none;--stroke-thickness: 6px; } #block-yui\_3\_17\_2\_1\_1705984552418\_3030 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1705984552418\_3030 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1705984552418\_3030 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1705984552418\_3030 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1705984552418\_3030 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1705984552418\_3030 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
 #### The Cultural Resurgence of Fanny Packs in 2024
 
@@ -73,39 +71,3 @@ Yes, Joe Rogan often talks about his fanny packs on "The Joe Rogan Experience." 
 **Are Joe Rogan’s fanny packs available for purchase?**
 
 Yes, Joe Rogan’s fanny packs are available for purchase. You can find them through his official merchandise channels or on his website. They come in various styles and designs, catering to different preferences and needs.
-
-#block-yui\_3\_17\_2\_1\_1705984552418\_4407 { --stroke-style: none;--stroke-thickness: 6px; } #block-yui\_3\_17\_2\_1\_1705984552418\_4407 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1705984552418\_4407 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1705984552418\_4407 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1705984552418\_4407 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1705984552418\_4407 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1705984552418\_4407 .sqs-html-content { } } @media screen and (max-width: 767px) { }
-
-Featured
-
-[
-
-![Joe Rogan’s Take on the Carnivore Diet](/images/blog-joe-rogan-fanny-packs/jre-pod.png)
-
-](/blog/carnivore-diet-joe-rogan)
-
-December 18, 2024
-
-[Joe Rogan’s Take on the Carnivore Diet](/blog/carnivore-diet-joe-rogan)
-
-December 18, 2024
-
-December 18, 2024
-
-December 13, 2024
-
-[Joe Rogan Showcases Sorinex X-Factor: The Ultimate Equipment for Striking Sports](/blog/joe-rogan-showcases-sorinex-x-factor-the-ultimate-equipment-for-striking-sports)
-
-December 13, 2024
-
-December 13, 2024
-
-December 11, 2024
-
-[Joe Rogan’s Neufit EMS Training (Electrical Muscle Stimulation)](/blog/joe-rogans-neufit-ems-training-electrical-muscle-stimulation)
-
-December 11, 2024
-
-December 11, 2024
-
-.fe-block-yui\_3\_17\_2\_1\_1705984552418\_5046 {mix-blend-mode: ; }

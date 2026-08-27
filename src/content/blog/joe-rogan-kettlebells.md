@@ -16,7 +16,6 @@ _Updated 12/19/24_
 
 Joe Rogan's commitment to fitness extends beyond his well-known podcasting career, and his enthusiasm for kettlebell workouts is a significant aspect of his fitness regimen. Rogan’s approach to kettlebell training is deeply influenced by functional movement philosophies and his background in martial arts, particularly Brazilian Jiu-Jitsu.
 
-#block-f3fb98db7e7bbbe56405 { --stroke-style: none;--stroke-thickness: 6px; } #block-f3fb98db7e7bbbe56405 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-f3fb98db7e7bbbe56405 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-f3fb98db7e7bbbe56405 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-f3fb98db7e7bbbe56405 { } @media screen and (max-width: 767px) { #block-f3fb98db7e7bbbe56405 { } } @media screen and (max-width: 767px) { #block-f3fb98db7e7bbbe56405 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
 ![Single kettlebell](/images/blog-joe-rogan-kettlebells/single-kettlebell.png)
 
@@ -28,7 +27,6 @@ When it comes to kettlebell equipment, Rogan is known for using unique and visua
 
 Rogan's kettlebell workouts are known for their effectiveness in building strength, flexibility, and cardiovascular endurance. The workouts often engage multiple muscle groups, contributing to overall strength, power, and stamina. They are also efficient, offering a comprehensive full-body workout without spending excessive time.
 
-#block-yui\_3\_17\_2\_1\_1705002256095\_2648 { --stroke-style: none;--stroke-thickness: 6px; } #block-yui\_3\_17\_2\_1\_1705002256095\_2648 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1705002256095\_2648 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1705002256095\_2648 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1705002256095\_2648 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1705002256095\_2648 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1705002256095\_2648 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
 ![Kettlebells](/images/blog-joe-rogan-kettlebells/kettlebells.png)
 
@@ -71,39 +69,3 @@ Rogan's use of unique equipment like the Onnit Gorilla Head kettlebells reflects
 Joe Rogan’s approach to kettlebell workouts, influenced by figures like Hanes and Dudley, and his broader perspective on fitness, illustrates a commitment to functional strength, mental toughness, and a balanced approach to physical well-being. His routines, combining strength, flexibility, and endurance training, serve as an inspiration for fitness enthusiasts looking to elevate their own workout regimens.
 
 Need some [energy](/energy-drink-joe-rogan) for your next kettlebell workout?
-
-#block-yui\_3\_17\_2\_1\_1705002256095\_4728 { --stroke-style: none;--stroke-thickness: 6px; } #block-yui\_3\_17\_2\_1\_1705002256095\_4728 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1705002256095\_4728 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1705002256095\_4728 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1705002256095\_4728 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1705002256095\_4728 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1705002256095\_4728 .sqs-html-content { } } @media screen and (max-width: 767px) { }
-
-Featured
-
-[
-
-![Joe Rogan’s Take on the Carnivore Diet](/images/blog-joe-rogan-kettlebells/jre-pod.png)
-
-](/blog/carnivore-diet-joe-rogan)
-
-December 18, 2024
-
-[Joe Rogan’s Take on the Carnivore Diet](/blog/carnivore-diet-joe-rogan)
-
-December 18, 2024
-
-December 18, 2024
-
-December 13, 2024
-
-[Joe Rogan Showcases Sorinex X-Factor: The Ultimate Equipment for Striking Sports](/blog/joe-rogan-showcases-sorinex-x-factor-the-ultimate-equipment-for-striking-sports)
-
-December 13, 2024
-
-December 13, 2024
-
-December 11, 2024
-
-[Joe Rogan’s Neufit EMS Training (Electrical Muscle Stimulation)](/blog/joe-rogans-neufit-ems-training-electrical-muscle-stimulation)
-
-December 11, 2024
-
-December 11, 2024
-
-.fe-block-yui\_3\_17\_2\_1\_1705002256095\_7019 {mix-blend-mode: ; }

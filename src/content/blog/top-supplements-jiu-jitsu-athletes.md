@@ -24,7 +24,6 @@ Jiu-jitsu puts a lot of stress on joints, tendons, and ligaments, especially in 
 
 **How to Use:** Mix collagen powder into your morning coffee, smoothie, or post-training shake. For best results, pair it with vitamin C to boost collagen synthesis.
 
-#block-4ee7ffa25f6cd87eea0d { --stroke-style: none;--stroke-thickness: 6px; } #block-4ee7ffa25f6cd87eea0d .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-4ee7ffa25f6cd87eea0d { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-4ee7ffa25f6cd87eea0d { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-4ee7ffa25f6cd87eea0d { } @media screen and (max-width: 767px) { #block-4ee7ffa25f6cd87eea0d { } } @media screen and (max-width: 767px) { #block-4ee7ffa25f6cd87eea0d .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
 ![Brazilian jiu-jitsu supplements](/images/blog-top-supplements-jiu-jitsu-athletes/bjj-supplements.png)
 
@@ -99,7 +98,6 @@ If you’re looking for some of the best **No-Gi rash guards**, check out this s
 
 A good rash guard will keep you protected, wick away sweat, and allow you to train at your best. Invest in the right gear before hitting the mats.
 
-#block-yui\_3\_17\_2\_1\_1732227656787\_6969 { --stroke-style: none;--stroke-thickness: 6px; } #block-yui\_3\_17\_2\_1\_1732227656787\_6969 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1732227656787\_6969 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1732227656787\_6969 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1732227656787\_6969 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1732227656787\_6969 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1732227656787\_6969 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
 ![Jiu jitsu fish oil supplements](/images/blog-top-supplements-jiu-jitsu-athletes/jit-jitsu-fish-oil-supplements.png)
 
@@ -112,39 +110,3 @@ One of the most significant benefits of supplements for jiu-jitsu is injury prev
 Supplements also optimize recovery by speeding up muscle repair and replenishing lost nutrients. Whether it’s protein for muscle rebuilding, creatine for energy restoration, or electrolytes for rehydration, these supplements allow you to bounce back faster after intense sessions. For athletes juggling training, work, and life, supplementation becomes a practical and effective way to maintain peak performance.
 
 Lastly, supplements can enhance your overall health and longevity in the sport. By supporting your immune system, gut health, and mental clarity, you’re not just improving your performance today but ensuring you can continue practicing jiu-jitsu for years to come. Supplements are a tool to help you thrive in a demanding martial art and enjoy every roll to the fullest.
-
-#block-yui\_3\_17\_2\_1\_1732227656787\_3762 { --stroke-style: none;--stroke-thickness: 6px; } #block-yui\_3\_17\_2\_1\_1732227656787\_3762 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1732227656787\_3762 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1732227656787\_3762 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1732227656787\_3762 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1732227656787\_3762 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1732227656787\_3762 .sqs-html-content { } } @media screen and (max-width: 767px) { }
-
-Featured
-
-[
-
-![Joe Rogan’s Take on the Carnivore Diet](/images/blog-top-supplements-jiu-jitsu-athletes/jre-pod.png)
-
-](/blog/carnivore-diet-joe-rogan)
-
-December 18, 2024
-
-[Joe Rogan’s Take on the Carnivore Diet](/blog/carnivore-diet-joe-rogan)
-
-December 18, 2024
-
-December 18, 2024
-
-December 13, 2024
-
-[Joe Rogan Showcases Sorinex X-Factor: The Ultimate Equipment for Striking Sports](/blog/joe-rogan-showcases-sorinex-x-factor-the-ultimate-equipment-for-striking-sports)
-
-December 13, 2024
-
-December 13, 2024
-
-December 11, 2024
-
-[Joe Rogan’s Neufit EMS Training (Electrical Muscle Stimulation)](/blog/joe-rogans-neufit-ems-training-electrical-muscle-stimulation)
-
-December 11, 2024
-
-December 11, 2024
-
-.fe-block-yui\_3\_17\_2\_1\_1732227656787\_4388 {mix-blend-mode: ; }

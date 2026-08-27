@@ -28,7 +28,6 @@ Both PEMF and grounding mats offer non-invasive ways to enhance health and well-
 
 [**Shop PEMF Mats Online!**](https://www.amazon.com/s?crid=2IP3N5TATF0F&k=pemf%20mats&language=en_US&linkCode=ll2&linkId=c5cccb59fbc9a1d3693869fda2018e29&ref_=as_li_ss_tl&sprefix=pemf%20mats%2Caps%2C167&tag=rogan-recs-20)
 
-#block-521f88f024797a57959b { --stroke-style: none;--stroke-thickness: 6px; } #block-521f88f024797a57959b .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-521f88f024797a57959b { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-521f88f024797a57959b { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-521f88f024797a57959b { } @media screen and (max-width: 767px) { #block-521f88f024797a57959b { } } @media screen and (max-width: 767px) { #block-521f88f024797a57959b .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
 ![Grounding mats at home](/images/blog-gary-brecka-pemf-mat-grounding-mats/grounding-mats-at-home.png)
 
@@ -55,7 +54,6 @@ PEMF mats offer a range of health benefits:
 
 Brecka emphasizes the power of these mats to improve blood cell separation, waste elimination, and detoxification, ultimately enhancing overall well-being and potentially altering life trajectories​​.
 
-#block-yui\_3\_17\_2\_1\_1702935690796\_2695 { --stroke-style: none;--stroke-thickness: 6px; } #block-yui\_3\_17\_2\_1\_1702935690796\_2695 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1702935690796\_2695 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1702935690796\_2695 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1702935690796\_2695 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1702935690796\_2695 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1702935690796\_2695 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
 ![PEMF mat office](/images/blog-gary-brecka-pemf-mat-grounding-mats/pemf-mat-office.png)
 
@@ -75,44 +73,7 @@ While the scientific community continues to research and evaluate the full exten
 
 In his podcast "The Ultimate Human," Brecka discusses how "earthing" or grounding can provide significant benefits. He suggests that simply touching the Earth's surface can optimize health at the cellular level. The PEMF Mat, according to Brecka, not only grounds the body but also makes the blood alkaline, contributing to overall health enhancement. He emphasizes the importance of adding grounding to one's routine to become the "ultimate human"​​.
 
-#block-yui\_3\_17\_2\_1\_1702935690796\_4101 { --stroke-style: none;--stroke-thickness: 6px; } #block-yui\_3\_17\_2\_1\_1702935690796\_4101 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1702935690796\_4101 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1702935690796\_4101 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1702935690796\_4101 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1702935690796\_4101 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1702935690796\_4101 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
 ![PEMF mats](/images/blog-gary-brecka-pemf-mat-grounding-mats/pemf-mats.png)
 
 PEMF and grounding mats, championed by experts like Gary Brecka, offer intriguing potential for health and wellness. While these fields are still emerging in scientific research, the anecdotal and early scientific evidence suggests a promising future. Whether for pain relief, improved sleep, or general well-being, these mats are becoming a valuable tool in modern health practices.
-
-#block-yui\_3\_17\_2\_1\_1702935690796\_5460 { --stroke-style: none;--stroke-thickness: 6px; } #block-yui\_3\_17\_2\_1\_1702935690796\_5460 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1702935690796\_5460 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1702935690796\_5460 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1702935690796\_5460 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1702935690796\_5460 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1702935690796\_5460 .sqs-html-content { } } @media screen and (max-width: 767px) { }
-
-Featured
-
-[
-
-![Joe Rogan’s Take on the Carnivore Diet](/images/blog-gary-brecka-pemf-mat-grounding-mats/jre-pod.png)
-
-](/blog/carnivore-diet-joe-rogan)
-
-December 18, 2024
-
-[Joe Rogan’s Take on the Carnivore Diet](/blog/carnivore-diet-joe-rogan)
-
-December 18, 2024
-
-December 18, 2024
-
-December 13, 2024
-
-[Joe Rogan Showcases Sorinex X-Factor: The Ultimate Equipment for Striking Sports](/blog/joe-rogan-showcases-sorinex-x-factor-the-ultimate-equipment-for-striking-sports)
-
-December 13, 2024
-
-December 13, 2024
-
-December 11, 2024
-
-[Joe Rogan’s Neufit EMS Training (Electrical Muscle Stimulation)](/blog/joe-rogans-neufit-ems-training-electrical-muscle-stimulation)
-
-December 11, 2024
-
-December 11, 2024
-
-.fe-block-yui\_3\_17\_2\_1\_1707264193771\_6588 {mix-blend-mode: ; }

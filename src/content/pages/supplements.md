@@ -6,8 +6,8 @@ category: supplements
 order: 10
 updated: 2026-07-25
 imported: true
-image: "/images/supplements/joe-rogan-supplements-list.jpg"
-imageAlt: "A range of supplement bottles laid out on a counter"
+image: "/images/blog-methylated-vitamins/vitamins-on-counter.png"
+imageAlt: "Supplement bottles arranged on a kitchen counter"
 faq:
   - q: "What creatine does Joe Rogan take?"
     a: "He has talked about using creatine gummies from Create, and has said he eats six a day. Creatine monohydrate powder is cheaper and better studied if you don't care about the format."

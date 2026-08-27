@@ -52,7 +52,6 @@ Because it’s the #1 live comedy podcast in the world!!
 
 UN-BELIEVE-ABLE
 
-#block-b682030347d1bf319718 { --stroke-style: none;--stroke-thickness: 6px; } #block-b682030347d1bf319718 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-b682030347d1bf319718 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-b682030347d1bf319718 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-b682030347d1bf319718 { } @media screen and (max-width: 767px) { #block-b682030347d1bf319718 { } } @media screen and (max-width: 767px) { #block-b682030347d1bf319718 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
 ![Kill tony show](/images/blog-how-to-get-kill-tony-tickets-austin-comedy-mothership-tour/kill-tony-show.png)
 
@@ -74,8 +73,3 @@ If you couldn’t score a ticket, arriving early and joining the standby line is
 -   **What to Expect**: Sometimes tickets open up due to no-shows or last-minute cancellations, but competition in the standby line can be intense.
 
 -   **Plan Ahead**: Bring snacks, water, and patience if you decide to try this route.
-
-
-
-
-#block-yui\_3\_17\_2\_1\_1732234610972\_11010 { --stroke-style: none;--stroke-thickness: 6px; } #block-yui\_3\_17\_2\_1\_1732234610972\_11010 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1732234610972\_11010 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1732234610972\_11010 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1732234610972\_11010 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1732234610972\_11010 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1732234610972\_11010 .sqs-html-content { } } @media screen and (max-width: 767px) { }

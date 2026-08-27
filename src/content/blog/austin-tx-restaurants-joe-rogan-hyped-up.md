@@ -15,7 +15,6 @@ image: >-
 
 Joe Rogan, now a resident of Austin, Texas, frequently shares his favorite local eateries on his podcast, "The Joe Rogan Experience." His recommendations often reflect his love for high-quality, flavorful food, and his influence has turned many of these spots into must-visit destinations for food enthusiasts.
 
-#block-08875e71181fd4cc5ad2 { --stroke-style: none;--stroke-thickness: 6px; } #block-08875e71181fd4cc5ad2 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-08875e71181fd4cc5ad2 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-08875e71181fd4cc5ad2 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-08875e71181fd4cc5ad2 { } @media screen and (max-width: 767px) { #block-08875e71181fd4cc5ad2 { } } @media screen and (max-width: 767px) { #block-08875e71181fd4cc5ad2 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
 ![Modern austin Texas restaurants](/images/blog-austin-tx-restaurants-joe-rogan-hyped-up/modern-austin-tx-restaurants.png)
 
@@ -47,7 +46,6 @@ Another barbecue spot that has received Rogan's seal of approval is [Terry Black
 
 For a more upscale dining experience, Rogan recommends [Garrison](https://www.garrisongrill.com/), a modern American grill located at the Fairmont Austin. He enjoys the sophisticated atmosphere and the high-quality, wood-fired dishes. Garrison's commitment to culinary excellence and innovation makes it a standout choice for a special night out.
 
-#block-yui\_3\_17\_2\_1\_1718319450384\_2366 { --stroke-style: none;--stroke-thickness: 6px; } #block-yui\_3\_17\_2\_1\_1718319450384\_2366 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1718319450384\_2366 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1718319450384\_2366 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1718319450384\_2366 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1718319450384\_2366 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1718319450384\_2366 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
 ![Austin Texas restaurant](/images/blog-austin-tx-restaurants-joe-rogan-hyped-up/austin-tx-restaurant.png)
 
@@ -84,39 +82,3 @@ The city’s economic boom has also played a role. With a thriving tech industry
 The future of Austin’s restaurant scene looks promising. The city continues to attract culinary talent from around the world, eager to contribute to its dynamic food culture. Upcoming restaurant openings are highly anticipated, with concepts ranging from upscale dining to innovative fusion cuisine.
 
 Austin’s rapid growth has transformed its restaurant scene into one of the most exciting and diverse in the country. The combination of cultural diversity, economic prosperity, and a community-oriented approach to dining has created a unique culinary landscape that continues to evolve and thrive. Whether you’re a long-time resident or a first-time visitor, Austin’s restaurants offer something for everyone, making it a true foodie destination.
-
-#block-yui\_3\_17\_2\_1\_1718742152641\_6490 { --stroke-style: none;--stroke-thickness: 6px; } #block-yui\_3\_17\_2\_1\_1718742152641\_6490 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1718742152641\_6490 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1718742152641\_6490 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1718742152641\_6490 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1718742152641\_6490 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1718742152641\_6490 .sqs-html-content { } } @media screen and (max-width: 767px) { }
-
-Featured
-
-[
-
-![Joe Rogan’s Take on the Carnivore Diet](/images/blog-austin-tx-restaurants-joe-rogan-hyped-up/jre-pod.png)
-
-](/blog/carnivore-diet-joe-rogan)
-
-December 18, 2024
-
-[Joe Rogan’s Take on the Carnivore Diet](/blog/carnivore-diet-joe-rogan)
-
-December 18, 2024
-
-December 18, 2024
-
-December 13, 2024
-
-[Joe Rogan Showcases Sorinex X-Factor: The Ultimate Equipment for Striking Sports](/blog/joe-rogan-showcases-sorinex-x-factor-the-ultimate-equipment-for-striking-sports)
-
-December 13, 2024
-
-December 13, 2024
-
-December 11, 2024
-
-[Joe Rogan’s Neufit EMS Training (Electrical Muscle Stimulation)](/blog/joe-rogans-neufit-ems-training-electrical-muscle-stimulation)
-
-December 11, 2024
-
-December 11, 2024
-
-.fe-block-yui\_3\_17\_2\_1\_1718742152641\_6995 {mix-blend-mode: ; }

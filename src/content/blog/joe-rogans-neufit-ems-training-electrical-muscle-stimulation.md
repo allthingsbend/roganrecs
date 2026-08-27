@@ -15,7 +15,6 @@ imported: true
 
 Joe Rogan continually explores innovative methods to enhance his training and rehabilitation routines. In his recent appearance on the _More Plates More Dates_ podcast (Episode #2239) with Derek, Rogan got into the transformative potential of Electromuscular Stimulation (EMS) technology, specifically highlighting his experience with Neufit’s cutting-edge EMS systems. And how great it has been for rehabilitation of the body.
 
-#block-6642df5a2f0ace37a1ac { --stroke-style: none;--stroke-thickness: 6px; } #block-6642df5a2f0ace37a1ac .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-6642df5a2f0ace37a1ac { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-6642df5a2f0ace37a1ac { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-6642df5a2f0ace37a1ac { } @media screen and (max-width: 767px) { #block-6642df5a2f0ace37a1ac { } } @media screen and (max-width: 767px) { #block-6642df5a2f0ace37a1ac .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
 ### **Understanding Electromuscular Stimulation (EMS)**
 
@@ -83,5 +82,3 @@ Electromuscular Stimulation (EMS) is revolutionizing the way we approach fitness
 Embrace the future of fitness and rehabilitation with Neufit’s advanced EMS systems, and take a step towards achieving unparalleled muscle strength, faster recovery, and overall enhanced well-being. As Joe Rogan continues to explore and advocate for cutting-edge health technologies, the integration of EMS into your routine could be the key to unlocking your full physical potential.
 
 **Discover Neufit’s EMS Solutions Today:** [Neufit Official Website](https://www.neu.fit/)
-
-#block-yui\_3\_17\_2\_1\_1733959138106\_3540 { --stroke-style: none;--stroke-thickness: 6px; } #block-yui\_3\_17\_2\_1\_1733959138106\_3540 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1733959138106\_3540 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1733959138106\_3540 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1733959138106\_3540 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1733959138106\_3540 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1733959138106\_3540 .sqs-html-content { } } @media screen and (max-width: 767px) { }

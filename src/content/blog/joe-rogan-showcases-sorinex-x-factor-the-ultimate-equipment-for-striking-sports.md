@@ -25,7 +25,6 @@ In the opening moments of the [JRE episode](https://www.youtube.com/watch?v=8a0_
 
 The machine’s ability to mimic real-world movements sets it apart, allowing athletes to train in ways that directly translate to their sport.
 
-#block-e1608c3298ff494cb7fd { --stroke-style: none;--stroke-thickness: 6px; } #block-e1608c3298ff494cb7fd .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-e1608c3298ff494cb7fd { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-e1608c3298ff494cb7fd { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-e1608c3298ff494cb7fd { } @media screen and (max-width: 767px) { #block-e1608c3298ff494cb7fd { } } @media screen and (max-width: 767px) { #block-e1608c3298ff494cb7fd .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
 
 
@@ -75,7 +74,6 @@ Check out the official [Sorinex X-Factor™ product page](https://www.sorinex.co
 
 For a closer look, watch this informative video showcasing the X-Factor™ and how it’s changing the game for athletes everywhere.
 
-#block-yui\_3\_17\_2\_1\_1734135751812\_8469 { --stroke-style: none;--stroke-thickness: 6px; } #block-yui\_3\_17\_2\_1\_1734135751812\_8469 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1734135751812\_8469 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1734135751812\_8469 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1734135751812\_8469 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1734135751812\_8469 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1734135751812\_8469 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
 
 
@@ -114,39 +112,3 @@ Absolutely! The X-Factor is designed to be user-friendly, with adjustable settin
 #### 8\. **Where can I buy the Sorinex X-Factor?**
 
 The Sorinex X-Factor is available for purchase directly on the Sorinex website. Visit [this link](https://www.sorinex.com/products/x-factor) for more information on pricing and customization options.
-
-#block-yui\_3\_17\_2\_1\_1734135751812\_6621 { --stroke-style: none;--stroke-thickness: 6px; } #block-yui\_3\_17\_2\_1\_1734135751812\_6621 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1734135751812\_6621 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1734135751812\_6621 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1734135751812\_6621 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1734135751812\_6621 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1734135751812\_6621 .sqs-html-content { } } @media screen and (max-width: 767px) { }
-
-Featured
-
-[
-
-![Joe Rogan’s Take on the Carnivore Diet](/images/blog-joe-rogan-showcases-sorinex-x-factor-the-ultimate-equipment-for-striking-sports/jre-pod.png)
-
-](/blog/carnivore-diet-joe-rogan)
-
-December 18, 2024
-
-[Joe Rogan’s Take on the Carnivore Diet](/blog/carnivore-diet-joe-rogan)
-
-December 18, 2024
-
-December 18, 2024
-
-December 13, 2024
-
-[Joe Rogan Showcases Sorinex X-Factor: The Ultimate Equipment for Striking Sports](/blog/joe-rogan-showcases-sorinex-x-factor-the-ultimate-equipment-for-striking-sports)
-
-December 13, 2024
-
-December 13, 2024
-
-December 11, 2024
-
-[Joe Rogan’s Neufit EMS Training (Electrical Muscle Stimulation)](/blog/joe-rogans-neufit-ems-training-electrical-muscle-stimulation)
-
-December 11, 2024
-
-December 11, 2024
-
-.fe-block-yui\_3\_17\_2\_1\_1734647545447\_4454 {mix-blend-mode: ; }

@@ -18,7 +18,6 @@ Simply put, Rogan loves Buffalo Trace whiskey. And especially the fact that they
 
 Rogan’s love for whiskey stands out. Rogan has frequently expressed his admiration for Buffalo Trace, a brand that not only boasts a rich flavor profile but also an illustrious history that predates the United States itself. This blog delves into Rogan's affinity for Buffalo Trace, explores the distillery's storied past, and highlights what makes this whiskey so exceptional.
 
-#block-511b5f1d4660a430d29b { --stroke-style: none;--stroke-thickness: 6px; } #block-511b5f1d4660a430d29b .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-511b5f1d4660a430d29b { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-511b5f1d4660a430d29b { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-511b5f1d4660a430d29b { } @media screen and (max-width: 767px) { #block-511b5f1d4660a430d29b { } } @media screen and (max-width: 767px) { #block-511b5f1d4660a430d29b .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
 ![Buffalo trace](/images/blog-joe-rogan-whiskey/buffalo-trace.png)
 
@@ -28,7 +27,6 @@ Joe Rogan’s podcast, "The Joe Rogan Experience," often features a variety of w
 
 Rogan's discussions about Buffalo Trace often highlight the whiskey's complex flavor, which includes notes of caramel, vanilla, and oak. He appreciates how these flavors come together to create a balanced and enjoyable drinking experience. For Rogan, Buffalo Trace is more than just a drink; it’s a journey through history with every sip​​.
 
-#block-yui\_3\_17\_2\_1\_1718775912425\_3383 { --stroke-style: none;--stroke-thickness: 6px; } #block-yui\_3\_17\_2\_1\_1718775912425\_3383 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1718775912425\_3383 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1718775912425\_3383 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1718775912425\_3383 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1718775912425\_3383 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1718775912425\_3383 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
 ### Joe Rogan Tries Bodega Cat Whiskey on JRE
 
@@ -36,7 +34,6 @@ In a recent Protect Our Parks episode of _The Joe Rogan Experience_, comedians M
 
 However, true to form, Rogan reaffirmed his love for Buffalo Trace, calling it his go-to whiskey. While Bodega Cat has earned its place as a solid option, Rogan made it clear that Buffalo Trace still reigns supreme in his collection.
 
-#block-yui\_3\_17\_2\_1\_1734649573451\_7681 { --stroke-style: none;--stroke-thickness: 6px; } #block-yui\_3\_17\_2\_1\_1734649573451\_7681 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1734649573451\_7681 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1734649573451\_7681 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1734649573451\_7681 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1734649573451\_7681 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1734649573451\_7681 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
 ### The Rich History of Buffalo Trace
 
@@ -68,7 +65,6 @@ On "The Joe Rogan Experience," whiskey tastings have become a regular feature, o
 
 Rogan typically enjoys his whiskey neat or on the rocks, allowing the pure flavors to shine through. His discussions often delve into the history, production, and enjoyment of whiskey, making these episodes a treat for both seasoned enthusiasts and newcomers alike. Through these tastings, Rogan shares his love for whiskey and invites his audience to join him on this flavorful journey​​​​.
 
-#block-yui\_3\_17\_2\_1\_1734649573451\_6698 { --stroke-style: none;--stroke-thickness: 6px; } #block-yui\_3\_17\_2\_1\_1734649573451\_6698 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1734649573451\_6698 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1734649573451\_6698 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1734649573451\_6698 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1734649573451\_6698 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1734649573451\_6698 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
 ![Buffalo trace distillery](/images/blog-joe-rogan-whiskey/buffalo-trace-distillery.png)
 
@@ -83,40 +79,3 @@ For further reading:
 -   [Buffalo Trace Distillery - Wikipedia](https://en.wikipedia.org/wiki/Buffalo_Trace_Distillery)​​
 
 -   Exploring the World of Buffalo Trace Whiskey with Joe Rogan​​
-
-
-#block-yui\_3\_17\_2\_1\_1718775912425\_5862 { --stroke-style: none;--stroke-thickness: 6px; } #block-yui\_3\_17\_2\_1\_1718775912425\_5862 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1718775912425\_5862 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1718775912425\_5862 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1718775912425\_5862 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1718775912425\_5862 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1718775912425\_5862 .sqs-html-content { } } @media screen and (max-width: 767px) { }
-
-Featured
-
-[
-
-![Joe Rogan’s Take on the Carnivore Diet](/images/blog-joe-rogan-whiskey/jre-pod.png)
-
-](/blog/carnivore-diet-joe-rogan)
-
-December 18, 2024
-
-[Joe Rogan’s Take on the Carnivore Diet](/blog/carnivore-diet-joe-rogan)
-
-December 18, 2024
-
-December 18, 2024
-
-December 13, 2024
-
-[Joe Rogan Showcases Sorinex X-Factor: The Ultimate Equipment for Striking Sports](/blog/joe-rogan-showcases-sorinex-x-factor-the-ultimate-equipment-for-striking-sports)
-
-December 13, 2024
-
-December 13, 2024
-
-December 11, 2024
-
-[Joe Rogan’s Neufit EMS Training (Electrical Muscle Stimulation)](/blog/joe-rogans-neufit-ems-training-electrical-muscle-stimulation)
-
-December 11, 2024
-
-December 11, 2024
-
-.fe-block-yui\_3\_17\_2\_1\_1718775912425\_8033 {mix-blend-mode: ; }

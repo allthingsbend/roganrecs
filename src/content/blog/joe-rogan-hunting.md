@@ -20,7 +20,6 @@ Joe Rogan, a multifaceted personality known for his podcast "The Joe Rogan Exper
 
 Rogan's approach to hunting is multifaceted, involving both the physical aspects of the activity and its deeper, more philosophical implications. His discussions often delve into the ethics of hunting, the connection to nature it fosters, and the skill and discipline required for bow hunting. He frequently hosts a range of expert hunters and outdoorsmen on his podcast, contributing to rich, diverse discussions about the sport. Prominent guests have included Cameron Hanes, a master bowhunter and elite athlete; Steven Rinella, an outdoorsman and the host of the show “MeatEater”; and Adam Greentree, an Australian bowhunter known for his extreme expertise in outdoor wildlife.
 
-#block-5f6522a5092d58619750 { --stroke-style: none;--stroke-thickness: 6px; } #block-5f6522a5092d58619750 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-5f6522a5092d58619750 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-5f6522a5092d58619750 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-5f6522a5092d58619750 { } @media screen and (max-width: 767px) { #block-5f6522a5092d58619750 { } } @media screen and (max-width: 767px) { #block-5f6522a5092d58619750 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
 ![hunting elk in colorado](/images/blog-joe-rogan-hunting/hunting-elk.png)
 
@@ -34,7 +33,6 @@ Overall, Joe Rogan's involvement in hunting is a significant aspect of his publi
 
 When it comes to exploring the depths of hunting and the outdoors, Joe Rogan often turns to one man for insight and inspiration: Steve Rinella. Rinella, an acclaimed outdoorsman, writer, and the host of the popular show "[MeatEater](https://www.themeateater.com)," has been a significant influence on Rogan's perspective on hunting, conservation, and the natural world.
 
-#block-yui\_3\_17\_2\_1\_1705001362071\_2241 { --stroke-style: none;--stroke-thickness: 6px; } #block-yui\_3\_17\_2\_1\_1705001362071\_2241 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1705001362071\_2241 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1705001362071\_2241 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1705001362071\_2241 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1705001362071\_2241 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1705001362071\_2241 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
 Rinella's "MeatEater" stands out as a beacon of hunting shows. Unlike traditional hunting programs that often focus solely on the act of hunting, "MeatEater" delves deeper. It's a show that weaves together the thrill of the hunt with a profound respect for nature and wildlife. Rinella's approach is thoughtful and educational; he illuminates the intricacies of hunting, the importance of sustainable practices, and the deep connection between humans and the environment.
 
@@ -44,7 +42,6 @@ What truly sets Rinella apart, and what Rogan often emphasizes, is his ability t
 
 Steve Rinella's impact on Joe Rogan's view of hunting is profound. Through their shared experiences and discussions, they explore not just the how of hunting, but the why, offering audiences a nuanced view of a practice as old as humanity itself. Rinella’s "MeatEater" is not just a show; it's an educational journey that celebrates the natural world in all its complexity and beauty.
 
-#block-yui\_3\_17\_2\_1\_1705002127069\_6447 { --stroke-style: none;--stroke-thickness: 6px; } #block-yui\_3\_17\_2\_1\_1705002127069\_6447 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1705002127069\_6447 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1705002127069\_6447 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1705002127069\_6447 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1705002127069\_6447 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1705002127069\_6447 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
 ![two male deer in field](/images/blog-joe-rogan-hunting/image-asset.jpeg)
 
@@ -52,7 +49,6 @@ Steve Rinella's impact on Joe Rogan's view of hunting is profound. Through their
 
 Joe Rogan's foray into the world of bow hunting is as much about the sport as it is about the influence of notable figures in the field. Among these, Cameron Hanes and John Dudley stand out as significant mentors. Hanes, an elite athlete and master bowhunter, has been instrumental in shaping Rogan's archery skills and philosophy. His approach to bow hunting as a discipline that demands both physical and mental fortitude has deeply resonated with Rogan. Dudley, a world-class archery and bowhunting expert, is another key influence. His technical expertise and skill in archery have provided Rogan with invaluable insights into the sport. Both Hanes and Dudley have appeared on Rogan's podcast, where their discussions often revolve around the intricacies of bow hunting, from the nuances of gear to the ethics of the hunt. These conversations reflect not just a shared passion for bow hunting but a profound respect for the discipline and the wildlife.
 
-#block-yui\_3\_17\_2\_1\_1705001362071\_8645 { --stroke-style: none;--stroke-thickness: 6px; } #block-yui\_3\_17\_2\_1\_1705001362071\_8645 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1705001362071\_8645 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1705001362071\_8645 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1705001362071\_8645 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1705001362071\_8645 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1705001362071\_8645 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
 ![elk bow hunt in forest](/images/blog-joe-rogan-hunting/elk-bow-hunt.png)
 
@@ -103,39 +99,3 @@ Joe Rogan uses a variety of high-quality hunting gear. Some of the equipment he 
 **What brand bow does Rogan shoot?**
 
 Joe Rogan primarily shoots a custom PSE EVO NTN 33 bow. This bow was built by John Dudley from Nock On Archery, a renowned archery expert and bow builder. The custom bow, known as "KONG," is designed to be extremely powerful and precise, making it well-suited for Rogan's hunting needs​
-
-#block-yui\_3\_17\_2\_1\_1705001362071\_10290 { --stroke-style: none;--stroke-thickness: 6px; } #block-yui\_3\_17\_2\_1\_1705001362071\_10290 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1705001362071\_10290 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1705001362071\_10290 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1705001362071\_10290 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1705001362071\_10290 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1705001362071\_10290 .sqs-html-content { } } @media screen and (max-width: 767px) { }
-
-Featured
-
-[
-
-![Joe Rogan’s Take on the Carnivore Diet](/images/blog-joe-rogan-hunting/jre-pod.png)
-
-](/blog/carnivore-diet-joe-rogan)
-
-December 18, 2024
-
-[Joe Rogan’s Take on the Carnivore Diet](/blog/carnivore-diet-joe-rogan)
-
-December 18, 2024
-
-December 18, 2024
-
-December 13, 2024
-
-[Joe Rogan Showcases Sorinex X-Factor: The Ultimate Equipment for Striking Sports](/blog/joe-rogan-showcases-sorinex-x-factor-the-ultimate-equipment-for-striking-sports)
-
-December 13, 2024
-
-December 13, 2024
-
-December 11, 2024
-
-[Joe Rogan’s Neufit EMS Training (Electrical Muscle Stimulation)](/blog/joe-rogans-neufit-ems-training-electrical-muscle-stimulation)
-
-December 11, 2024
-
-December 11, 2024
-
-.fe-block-yui\_3\_17\_2\_1\_1705001362071\_12375 {mix-blend-mode: ; }

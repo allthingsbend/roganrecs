@@ -10,7 +10,7 @@ export async function getStaticPaths() {
 }
 
 const { entry } = Astro.props;
-const { Content } = await render(entry);
+const { Content, headings } = await render(entry);
 const path = `/blog/${entry.id}`;
 const words = (entry.body ?? '').split(/\s+/).filter(Boolean).length;
 
@@ -19,7 +19,47 @@ const crumbs = [
   { label: 'Blog', href: '/blog' },
   { label: entry.data.h1 ?? entry.data.title },
 ];
+
+const allPosts = await getCollection('blog');
+const allPages = await getCollection('pages');
+const related = [
+  ...allPosts
+    .filter((item) =>
+      !item.data.draft &&
+      item.id !== entry.id &&
+      item.data.category === entry.data.category,
+    )
+    .map((item) => ({
+      href: `/blog/${item.id}`,
+      title: item.data.h1 ?? item.data.title,
+      description: item.data.description,
+      image: item.data.image,
+      imageAlt: item.data.imageAlt,
+      category: item.data.category,
+    })),
+  ...allPages
+    .filter((item) =>
+      !item.data.hidden &&
+      item.id !== 'home' &&
+      item.data.category === entry.data.category,
+    )
+    .map((item) => ({
+      href: `/${item.id}`,
+      title: item.data.h1 ?? item.data.title,
+      description: item.data.description,
+      image: item.data.image,
+      imageAlt: item.data.imageAlt,
+      category: item.data.category,
+    })),
+].slice(0, 3);
 ---
-<ArticleLayout data={entry.data} path={path} crumbs={crumbs} words={words}>
+<ArticleLayout
+  data={entry.data}
+  path={path}
+  crumbs={crumbs}
+  headings={headings}
+  related={related}
+  words={words}
+>
   <Content />
 </ArticleLayout>

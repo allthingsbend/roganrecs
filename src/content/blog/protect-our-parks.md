@@ -16,7 +16,6 @@ The "Protect Our Parks" series isn't just a set of episodes on The Joe Rogan Exp
 
 Each episode is a masterclass in balancing the irreverent with the important, as these stand-up comics and podcasters weave tales of their efforts to save local parks, one laugh at a time. It's a narrative spun with the threads of environmentalism, community activism, and, of course, the kind of storytelling that can only come from a group of friends with microphones and an unfiltered platform.
 
-#block-df217582667ba7fc8203 { } #block-df217582667ba7fc8203 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-df217582667ba7fc8203 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-df217582667ba7fc8203 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-df217582667ba7fc8203 { } @media screen and (max-width: 767px) { #block-df217582667ba7fc8203 { } } @media screen and (max-width: 767px) { #block-df217582667ba7fc8203 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
 ![Protect our parks image](/images/blog-protect-our-parks/protect-our-parks-image.jpg)
 
@@ -26,7 +25,6 @@ The seed was planted by Ari Shaffir's actual involvement in New York City park p
 
 Each time these comics gather, they fortify the message that our parks are more than just patches of grass – they're communal living rooms, stages for the stories of our lives. The episodes are infused with anecdotes and misadventures, making the cause both relatable and riotously entertaining. Whether it's riffing on the quirks of park-goers or the bureaucratic red tape that often binds the branches of conservation efforts, they make a compelling case for why these green spaces deserve our attention and action.
 
-#block-yui\_3\_17\_2\_1\_1705987069200\_2733 { } #block-yui\_3\_17\_2\_1\_1705987069200\_2733 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1705987069200\_2733 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1705987069200\_2733 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1705987069200\_2733 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1705987069200\_2733 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1705987069200\_2733 .sqs-html-content { } } @media screen and (max-width: 767px) { }
 
 ### Key Episodes and Discussions
 
@@ -41,39 +39,3 @@ The impact of "Protect Our Parks" reaches beyond the bounds of The Joe Rogan Exp
 The reception of the series has been as warm as a sunny day in the park, with fans appreciating the blend of wit and wisdom. It's clear that Rogan and his comedic compatriots have tapped into something special: the universal love for a place of peace, play, and preservation. The series has become a touchstone for those who believe that laughter can be a force for change, and that even the most light-hearted conversations can have a lasting impact.
 
 "Protect Our Parks" is more than a mere collection of podcast episodes; it's a growing legacy, a lush landscape of laughs and learning. Joe Rogan, Shane Gillis, Mark Normand, and Ari Shaffir have created something as enduring as the parks they aim to protect, proving that even in a digital world, the grass can be greener on our side of the fence.
-
-#block-yui\_3\_17\_2\_1\_1705987069200\_7715 { } #block-yui\_3\_17\_2\_1\_1705987069200\_7715 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; } #block-yui\_3\_17\_2\_1\_1705987069200\_7715 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } #block-yui\_3\_17\_2\_1\_1705987069200\_7715 { --tweak-text-block-radius: 0px 0px 0px 0px; } #block-yui\_3\_17\_2\_1\_1705987069200\_7715 { } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1705987069200\_7715 { } } @media screen and (max-width: 767px) { #block-yui\_3\_17\_2\_1\_1705987069200\_7715 .sqs-html-content { } } @media screen and (max-width: 767px) { }
-
-Featured
-
-[
-
-![Joe Rogan’s Take on the Carnivore Diet](/images/blog-protect-our-parks/jre-pod.png)
-
-](/blog/carnivore-diet-joe-rogan)
-
-December 18, 2024
-
-[Joe Rogan’s Take on the Carnivore Diet](/blog/carnivore-diet-joe-rogan)
-
-December 18, 2024
-
-December 18, 2024
-
-December 13, 2024
-
-[Joe Rogan Showcases Sorinex X-Factor: The Ultimate Equipment for Striking Sports](/blog/joe-rogan-showcases-sorinex-x-factor-the-ultimate-equipment-for-striking-sports)
-
-December 13, 2024
-
-December 13, 2024
-
-December 11, 2024
-
-[Joe Rogan’s Neufit EMS Training (Electrical Muscle Stimulation)](/blog/joe-rogans-neufit-ems-training-electrical-muscle-stimulation)
-
-December 11, 2024
-
-December 11, 2024
-
-.fe-block-yui\_3\_17\_2\_1\_1705987069200\_8766 {mix-blend-mode: ; }

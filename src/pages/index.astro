@@ -2,6 +2,7 @@
 import { getCollection, getEntry, render } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import AffiliateDisclosure from '../components/AffiliateDisclosure.astro';
+import ContentCard from '../components/ContentCard.astro';
 
 const home = await getEntry('pages', 'home');
 const { Content } = await render(home);
@@ -14,13 +15,24 @@ const posts = (await getCollection('blog'))
 const guides = (await getCollection('pages'))
   .filter((p) => !p.data.hidden && p.id !== 'home' && !p.id.includes('/'))
   .sort((a, b) => a.data.order - b.data.order)
-  .slice(0, 8);
+  .slice(0, 6);
 
 const dateFmt = new Intl.DateTimeFormat('en-US', {
   month: 'short',
   day: 'numeric',
   year: 'numeric',
 });
+
+const fallbackImages = {
+  supplements: '/images/blog-methylated-vitamins/vitamins-on-counter.png',
+  gear: '/images/blog-joe-rogan-kettlebells/kettlebells.png',
+  wellness: '/images/joe-rogan-sauna-guide/sauna-kettlebell.png',
+  outdoors: '/images/blog-joe-rogan-elk/elk-in-oregon-rogan.jpg',
+  comedy: '/images/blog-comedy-mothership/comedy-mothershp.jpg',
+  podcast: '/images/podcast-guests/podcast-microphone.png',
+  food: '/images/joe-rogan-coffee/coffee-weights.png',
+  site: undefined,
+};
 ---
 <BaseLayout
   title={home.data.title}
@@ -29,45 +41,135 @@ const dateFmt = new Intl.DateTimeFormat('en-US', {
   image={home.data.image}
   type="website"
 >
-  <section class="hero">
-    <div class="shell">
-      <p class="eyebrow">Fan-curated. Not affiliated with the JRE.</p>
-      <h1>{home.data.h1}</h1>
-      <p>{home.data.description}</p>
+  <section class="home-hero">
+    <div class="shell home-hero__grid">
+      <div class="home-hero__copy">
+        <p class="eyebrow">The independent JRE field guide</p>
+        <h1>{home.data.h1}</h1>
+        <p>{home.data.description}</p>
+        <div class="button-row">
+          <a class="button button--accent" href="/supplements">Explore the supplement stack</a>
+          <a class="button button--ghost" href="#guides">Browse every guide</a>
+        </div>
+        <ul class="trust-list" aria-label="How Rogan Recs works">
+          <li>Public episodes & interviews</li>
+          <li>Evidence noted plainly</li>
+          <li>Independent fan site</li>
+        </ul>
+      </div>
+
+      <div class="hero-collage" aria-label="Featured Rogan Recs guides">
+        <a class="hero-collage__main" href="/joe-rogan-sauna-guide">
+          <img
+            src="/images/joe-rogan-sauna-guide/joe-rogan-sauna-guide.png"
+            alt="Warm wooden sauna interior"
+            width="900"
+            height="600"
+            loading="eager"
+            fetchpriority="high"
+          />
+          <span><small>Recovery</small> The sauna guide</span>
+        </a>
+        <a href="/joe-rogan-cold-plunge-guide">
+          <img
+            src="/images/joe-rogan-cold-plunge-guide/rogan-cold-plugne.jpg"
+            alt="Cold plunge setup"
+            width="450"
+            height="300"
+            loading="eager"
+          />
+          <span>Cold plunge</span>
+        </a>
+        <a href="/podcast-guests">
+          <img
+            src="/images/podcast-guests/podcast-microphone.png"
+            alt="Podcast microphone"
+            width="450"
+            height="300"
+            loading="eager"
+          />
+          <span>Guest guides</span>
+        </a>
+      </div>
     </div>
   </section>
 
-  <div class="shell">
-    <div class="article">
-      <AffiliateDisclosure />
-      <Content />
+  <section class="topic-rail" aria-label="Browse by topic">
+    <div class="shell">
+      <span>Browse:</span>
+      <a href="/supplements">Supplements</a>
+      <a href="/joe-rogan-sauna-guide">Sauna</a>
+      <a href="/joe-rogan-cold-plunge-guide">Cold plunge</a>
+      <a href="/joe-rogan-books">Books</a>
+      <a href="/joe-rogan-coffee">Coffee</a>
+      <a href="/podcast-guests/joe-rogan-podcast-equipment">Podcast gear</a>
     </div>
+  </section>
+
+  <div class="shell home-disclosure">
+      <AffiliateDisclosure />
   </div>
 
-  <div class="shell">
-    <section class="section">
-      <h2>Start with a guide</h2>
+  <div class="shell home-sections">
+    <section class="section" id="guides">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Start here</p>
+          <h2>Essential guides</h2>
+        </div>
+        <a href="/sitemap-html">See every guide <span aria-hidden="true">→</span></a>
+      </div>
       <ul class="card-grid">
         {guides.map((g) => (
-          <li class="card">
-            <h3><a href={`/${g.id}`}>{g.data.h1 ?? g.data.title}</a></h3>
-            <p>{g.data.description}</p>
-          </li>
+          <ContentCard
+            href={`/${g.id}`}
+            title={g.data.h1 ?? g.data.title}
+            description={g.data.description}
+            image={g.data.image ?? fallbackImages[g.data.category]}
+            imageAlt={g.data.imageAlt}
+            category={g.data.category}
+          />
         ))}
       </ul>
     </section>
 
-    <section class="section">
-      <h2>Latest from the blog</h2>
+    <section class="section section--tinted">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Go deeper</p>
+          <h2>Recent deep dives</h2>
+        </div>
+        <a href="/blog">Visit the blog <span aria-hidden="true">→</span></a>
+      </div>
       <ul class="card-grid">
         {posts.map((p) => (
-          <li class="card">
-            <span class="meta">{dateFmt.format(new Date(p.data.pubDate))}</span>
-            <h3><a href={`/blog/${p.id}`}>{p.data.h1 ?? p.data.title}</a></h3>
-            <p>{p.data.description}</p>
-          </li>
+          <ContentCard
+            href={`/blog/${p.id}`}
+            title={p.data.h1 ?? p.data.title}
+            description={p.data.description}
+            image={p.data.image ?? fallbackImages[p.data.category]}
+            imageAlt={p.data.imageAlt}
+            category={p.data.category}
+            meta={dateFmt.format(new Date(p.data.pubDate))}
+          />
         ))}
       </ul>
     </section>
   </div>
+
+  <section class="home-explainer">
+    <div class="shell home-explainer__grid">
+      <div class="home-explainer__intro">
+        <p class="eyebrow">A useful index, not a hype machine</p>
+        <h2>What was discussed, what it does and whether it makes sense.</h2>
+        <p>
+          The JRE covers a lot of ground. Rogan Recs turns those long conversations into
+          practical, readable guides—with uncertainty and safety caveats left intact.
+        </p>
+      </div>
+      <div class="article home-explainer__content">
+        <Content />
+      </div>
+    </div>
+  </section>
 </BaseLayout>

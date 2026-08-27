@@ -2,19 +2,39 @@
 import BaseLayout from './BaseLayout.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import AffiliateDisclosure from '../components/AffiliateDisclosure.astro';
+import ContentCard from '../components/ContentCard.astro';
 import { SITE, CATEGORIES } from '../../site.config.mjs';
 
 interface Crumb { label: string; href?: string }
+interface Heading { depth: number; slug: string; text: string }
+interface RelatedItem {
+  href: string;
+  title: string;
+  description: string;
+  image?: string;
+  imageAlt?: string;
+  category?: keyof typeof CATEGORIES;
+}
 
 interface Props {
   data: any;
   path: string;
   crumbs?: Crumb[];
+  headings?: Heading[];
+  related?: RelatedItem[];
   words?: number;
   isArticle?: boolean;
 }
 
-const { data, path, crumbs = [], words = 0, isArticle = true } = Astro.props;
+const {
+  data,
+  path,
+  crumbs = [],
+  headings = [],
+  related = [],
+  words = 0,
+  isArticle = true,
+} = Astro.props;
 
 const published = data.pubDate ?? data.updated ?? undefined;
 const modified = data.updated ?? data.pubDate ?? undefined;
@@ -70,6 +90,8 @@ if (data.faq?.length) {
 }
 
 const categoryLabel = CATEGORIES[data.category] ?? 'Rogan Recs';
+const tocHeadings = headings.filter((heading) => heading.depth === 2 || heading.depth === 3).slice(0, 12);
+const featuredSelector = data.image?.replace(/["\\]/g, '\\$&');
 ---
 <BaseLayout
   title={data.title}
@@ -83,34 +105,111 @@ const categoryLabel = CATEGORIES[data.category] ?? 'Rogan Recs';
   modifiedTime={modified ? new Date(modified) : undefined}
   jsonLd={jsonLd}
 >
-  <div class="shell">
-    <article class="article">
+  <section class="article-hero">
+    <div class="shell">
       {crumbs.length > 1 && <Breadcrumbs items={crumbs} />}
-
-      <p class="eyebrow">{categoryLabel}</p>
-      <h1>{data.h1 ?? data.title}</h1>
-
-      <div class="spec-strip">
-        {modified && <span>Updated {fmt(new Date(modified))}</span>}
-        {readMins > 0 && <span>{readMins} min read</span>}
-        <span>{categoryLabel}</span>
+      <div class:list={['article-hero__grid', { 'article-hero__grid--text': !data.image }]}>
+        <div class="article-hero__copy">
+          <p class="eyebrow">{categoryLabel}</p>
+          <h1>{data.h1 ?? data.title}</h1>
+          <p class="article-hero__lede">{data.description}</p>
+          <div class="spec-strip">
+            {modified && <span>Updated {fmt(new Date(modified))}</span>}
+            {readMins > 0 && <span>{readMins} min read</span>}
+            <span>Independent guide</span>
+          </div>
+        </div>
+        {data.image && (
+          <figure class="article-hero__media">
+            <img
+              src={data.image}
+              alt={data.imageAlt ?? `${data.h1 ?? data.title} guide`}
+              width="900"
+              height="600"
+              loading="eager"
+              decoding="async"
+              fetchpriority="high"
+            />
+          </figure>
+        )}
       </div>
+    </div>
+  </section>
 
+  <div class="shell article-shell">
+    <article class="article">
       <AffiliateDisclosure />
 
-      <slot />
+      {tocHeadings.length >= 2 && (
+        <details class="mobile-toc">
+          <summary>On this page</summary>
+          <ol>
+            {tocHeadings.map((heading) => (
+              <li class:list={{ 'toc-subitem': heading.depth === 3 }}>
+                <a href={`#${heading.slug}`}>{heading.text}</a>
+              </li>
+            ))}
+          </ol>
+        </details>
+      )}
+
+      <div class="article-content">
+        <slot />
+      </div>
 
       {data.faq && data.faq.length > 0 && (
-        <section aria-labelledby="faq-heading">
+        <section class="faq-section" aria-labelledby="faq-heading">
+          <p class="eyebrow">Quick answers</p>
           <h2 id="faq-heading">Common questions</h2>
-          {data.faq.map((f) => (
-            <div>
-              <h3>{f.q}</h3>
+          <div class="faq-list">
+            {data.faq.map((f, index) => (
+              <details class="faq-item" open={index === 0}>
+                <summary>{f.q}</summary>
               <p>{f.a}</p>
-            </div>
-          ))}
+              </details>
+            ))}
+          </div>
         </section>
       )}
     </article>
+
+    {tocHeadings.length >= 2 && (
+      <aside class="article-sidebar" aria-label="On this page">
+        <div class="article-sidebar__inner">
+          <p>On this page</p>
+          <ol>
+            {tocHeadings.map((heading) => (
+              <li class:list={{ 'toc-subitem': heading.depth === 3 }}>
+                <a href={`#${heading.slug}`}>{heading.text}</a>
+              </li>
+            ))}
+          </ol>
+        </div>
+      </aside>
+    )}
   </div>
+
+  {related.length > 0 && (
+    <section class="related-section">
+      <div class="shell">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Keep exploring</p>
+            <h2>Related guides</h2>
+          </div>
+          <a href="/blog">View all articles <span aria-hidden="true">→</span></a>
+        </div>
+        <ul class="card-grid">
+          {related.map((item) => <ContentCard {...item} />)}
+        </ul>
+      </div>
+    </section>
+  )}
+
+  {data.image && (
+    <style
+      is:inline
+      set:html={`.article-content p:has(> img[src="${featuredSelector}"]:only-child) { display: none; }`}
+    ></style>
+  )}
 </BaseLayout>

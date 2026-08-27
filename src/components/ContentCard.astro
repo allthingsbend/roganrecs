@@ -1,0 +1,48 @@
+---
+import { CATEGORIES } from '../../site.config.mjs';
+
+interface Props {
+  href: string;
+  title: string;
+  description: string;
+  image?: string;
+  imageAlt?: string;
+  category?: keyof typeof CATEGORIES;
+  meta?: string;
+  featured?: boolean;
+}
+
+const {
+  href,
+  title,
+  description,
+  image,
+  imageAlt,
+  category = 'site',
+  meta,
+  featured = false,
+} = Astro.props;
+
+const categoryLabel = CATEGORIES[category] ?? 'Guide';
+---
+
+<li class:list={['content-card', { 'content-card--featured': featured }]}>
+  <a class="content-card__media" href={href} aria-label={title}>
+    {image ? (
+      <img src={image} alt={imageAlt ?? ''} loading="lazy" decoding="async" />
+    ) : (
+      <span class="content-card__fallback" aria-hidden="true">{categoryLabel.slice(0, 1)}</span>
+    )}
+  </a>
+  <div class="content-card__body">
+    <div class="content-card__meta">
+      <span>{categoryLabel}</span>
+      {meta && <span>{meta}</span>}
+    </div>
+    <h3><a href={href}>{title}</a></h3>
+    <p>{description}</p>
+    <a class="content-card__link" href={href} aria-label={`Read ${title}`}>
+      Read guide <span aria-hidden="true">→</span>
+    </a>
+  </div>
+</li>
