@@ -14,11 +14,6 @@ name: Import content from Squarespace
 # there is nothing left to import from.
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - scripts/import-squarespace.mjs
-      - src/content/blog/how-to-get-kill-tony-tickets-austin-comedy-mothership-tour.md
   workflow_dispatch:
     inputs:
       only:
