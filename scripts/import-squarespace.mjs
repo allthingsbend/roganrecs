@@ -29,7 +29,11 @@ const args = process.argv.slice(2);
 const DRY = args.includes('--dry-run');
 const FORCE = args.includes('--force');
 const ONLY = args.find((a) => a.startsWith('--only='))?.split('=')[1];
-const DELAY_MS = 500;
+const DELAY_MS = 1200;      // pause between pages — be polite, avoid tarpitting
+const TIMEOUT_MS = 20000;   // hard ceiling on any single request
+const RETRIES = 3;          // attempts per request
+const BACKOFF_MS = 2000;    // grows on each retry
+const IMAGE_WIDTH = '1500w';
 
 const manifest = JSON.parse(await fs.readFile(path.join(__dirname, 'urls.json'), 'utf8'));
 const ORIGIN = manifest.origin;
@@ -54,13 +58,39 @@ const stats = { ok: [], skipped: [], failed: [], images: 0 };
 
 /* ------------------------------------------------------------------ fetch */
 
-async function fetchText(url) {
-  const res = await fetch(url, {
-    headers: { 'User-Agent': 'RoganRecsMigration/1.0 (+site owner migration)' },
+/**
+ * Node's fetch has NO default timeout. If the server accepts the connection and
+ * then goes quiet — which Squarespace does once it decides you're a bot — the
+ * script waits forever. Every network call here is bounded and retried.
+ */
+async function fetchWithTimeout(url, ms = TIMEOUT_MS) {
+  return fetch(url, {
+    headers: { 'User-Agent': 'Mozilla/5.0 (compatible; RoganRecsMigration/1.0)' },
     redirect: 'follow',
+    signal: AbortSignal.timeout(ms),
   });
-  if (!res.ok) throw new Error(`${res.status} ${res.statusText} for ${url}`);
-  return res.text();
+}
+
+async function fetchText(url) {
+  let lastErr;
+  for (let attempt = 1; attempt <= RETRIES; attempt++) {
+    try {
+      const res = await fetchWithTimeout(url);
+      if (res.status === 429 || res.status >= 500) {
+        throw new Error(`${res.status} ${res.statusText}`);
+      }
+      if (!res.ok) throw new Error(`${res.status} ${res.statusText}`);
+      return await res.text();
+    } catch (err) {
+      lastErr = err;
+      if (attempt < RETRIES) {
+        const backoff = BACKOFF_MS * attempt;
+        console.log(`    retry ${attempt}/${RETRIES - 1} in ${backoff}ms (${err.message})`);
+        await sleep(backoff);
+      }
+    }
+  }
+  throw new Error(`${lastErr?.message ?? 'failed'} for ${url}`);
 }
 
 /**
@@ -78,7 +108,14 @@ async function getBodyHtml(urlPath) {
       data?.collection?.mainContent ||
       data?.collection?.description ||
       null;
-    if (html && html.trim().length > 40) {
+    // Squarespace 7.1 sometimes returns a long-looking but completely empty
+    // layout div for Fluid Engine pages. Validate rendered text, not markup
+    // length, so those pages fall through to the server-rendered HTML below.
+    const jsonText =
+      typeof html === 'string'
+        ? cheerio.load(html).text().replace(/\s+/g, ' ').trim()
+        : '';
+    if (jsonText.length > 40) {
       return {
         html,
         source: 'json',
@@ -91,12 +128,43 @@ async function getBodyHtml(urlPath) {
   }
 
   // Fallback: scrape the rendered page and strip the chrome.
+  // Squarespace uses different wrappers depending on page type — index pages,
+  // collection pages and plain pages all differ — so try several in order and
+  // keep whichever yields the most text.
   const html = await fetchText(`${ORIGIN}${urlPath}`);
   const $ = cheerio.load(html);
-  $('header, footer, nav, script, style, noscript, .sqs-announcement-bar, .Header, .Footer, #footer-sections, .sqs-block-form, .eventlist-meta').remove();
-  const main = $('main#page').html() || $('[data-content-field="main-content"]').html() || $('main').html();
-  if (!main) throw new Error('no main content found');
-  return { html: main, source: 'scrape', publishOn: null, assetUrl: null };
+  $(
+    'header, footer, nav, script, style, noscript, svg, form, ' +
+      '.sqs-announcement-bar, .Header, .Footer, #footer-sections, ' +
+      '.sqs-block-form, .eventlist-meta, .BlogItem-pagination, ' +
+      '.sqs-cookie-banner-v2, #preFooter, .Mobile, .Mobile-bar'
+  ).remove();
+
+  const candidates = [
+    'main#page',
+    '[data-content-field="main-content"]',
+    'main',
+    '#content',
+    'article',
+    '.Index',
+    '.Main-content',
+    '.sqs-layout',
+  ];
+
+  let best = null;
+  let bestLen = 0;
+  for (const sel of candidates) {
+    const el = $(sel).first();
+    if (!el.length) continue;
+    const len = el.text().replace(/\s+/g, ' ').trim().length;
+    if (len > bestLen) {
+      bestLen = len;
+      best = el.html();
+    }
+  }
+
+  if (!best || bestLen < 40) throw new Error('no main content found on page');
+  return { html: best, source: 'scrape', publishOn: null, assetUrl: null };
 }
 
 /* ----------------------------------------------------------------- images */
@@ -105,7 +173,7 @@ function cleanImageUrl(src) {
   try {
     const u = new URL(src, ORIGIN);
     // Ask the CDN for a large rendition, not the tiny lazy-load placeholder.
-    u.searchParams.set('format', '2500w');
+    u.searchParams.set('format', IMAGE_WIDTH);
     return u.href;
   } catch {
     return null;
@@ -132,13 +200,43 @@ async function downloadImage(src, slugDir) {
 
   if (DRY) return rel;
 
-  const res = await fetch(url);
+  let res;
+  try {
+    res = await fetchWithTimeout(url, TIMEOUT_MS);
+  } catch (err) {
+    console.log(`    image timed out, skipping: ${safe}`);
+    return null;
+  }
   if (!res.ok) return null;
   const buf = Buffer.from(await res.arrayBuffer());
   await fs.mkdir(path.dirname(abs), { recursive: true });
   await fs.writeFile(abs, buf);
   stats.images += 1;
   return rel;
+}
+
+function imageAltFromPath(local, slugDir) {
+  const file = path.basename(local, path.extname(local));
+  const genericProductImage = /^[a-z0-9]{10,}\._sl\d+_$/i.test(file);
+  const source = genericProductImage ? `${slugDir} product` : file;
+  const replacements = new Map([
+    ['jre', 'Joe Rogan Experience'],
+    ['rogan', 'Joe Rogan'],
+    ['tx', 'Texas'],
+    ['bjj', 'Brazilian jiu-jitsu'],
+    ['pemf', 'PEMF'],
+    ['h2tab', 'H2Tab'],
+    ['pic', 'portrait'],
+    ['plugne', 'plunge'],
+    ['mothershp', 'Mothership'],
+  ]);
+
+  const words = source
+    .split(/[-_]+/)
+    .filter(Boolean)
+    .map((word) => replacements.get(word.toLowerCase()) ?? word);
+  const alt = words.join(' ').replace(/\s+/g, ' ').trim();
+  return alt ? alt[0].toUpperCase() + alt.slice(1) : 'Article image';
 }
 
 /* --------------------------------------------------------------- rewrites */
@@ -163,7 +261,7 @@ async function transform(html, slugDir) {
       $img.remove();
       continue;
     }
-    const alt = ($img.attr('alt') || '').trim();
+    const alt = ($img.attr('alt') || '').trim() || imageAltFromPath(local, slugDir);
     $img.replaceWith(`<img src="${local}" alt="${alt.replace(/"/g, '')}" loading="lazy" />`);
   }
 
@@ -175,6 +273,13 @@ async function transform(html, slugDir) {
       const u = new URL(href, ORIGIN);
       if (u.hostname === ORIGIN_HOST) {
         $a.attr('href', u.pathname.replace(/\/$/, '') || '/');
+      } else {
+        // Remove attribution added by AI-assisted source research. It is not
+        // the publisher's campaign parameter and should not ship on the site.
+        if (u.searchParams.get('utm_source') === 'chatgpt.com') {
+          u.searchParams.delete('utm_source');
+          $a.attr('href', u.href);
+        }
       }
     } catch {
       /* relative already */
@@ -193,6 +298,16 @@ function tidyMarkdown(md) {
     .trim();
 }
 
+function removeLeadingH1(md) {
+  const lines = md.split('\n');
+  const firstH1 = lines.findIndex((line) => /^#\s+/.test(line));
+
+  // ArticleLayout already renders the frontmatter h1. Fluid Engine pages often
+  // repeat that same heading inside the first few content blocks.
+  if (firstH1 >= 0 && firstH1 <= 5) lines.splice(firstH1, 1);
+  return lines.join('\n').replace(/^\n+/, '');
+}
+
 /* ------------------------------------------------------------------- main */
 
 async function importOne({ path: urlPath, file }) {
@@ -208,9 +323,9 @@ async function importOne({ path: urlPath, file }) {
   const { html, source, publishOn } = await getBodyHtml(urlPath);
   const slugDir = (urlPath === '/' ? 'home' : urlPath.replace(/^\//, '')).replace(/\//g, '-');
   const cleaned = await transform(html, slugDir);
-  const md = tidyMarkdown(turndown.turndown(cleaned));
+  const md = removeLeadingH1(tidyMarkdown(turndown.turndown(cleaned)));
 
-  if (md.length < 120) throw new Error(`suspiciously short body (${md.length} chars)`);
+  if (md.length < 60) throw new Error(`suspiciously short body (${md.length} chars)`);
 
   const firstImage = md.match(/!\[[^\]]*\]\((\/images\/[^)]+)\)/)?.[1];
 
@@ -237,18 +352,22 @@ if (!targets.length) {
 
 console.log(`${DRY ? '[DRY RUN] ' : ''}Importing ${targets.length} URLs from ${ORIGIN}\n`);
 
+let i = 0;
 for (const t of targets) {
+  i += 1;
+  const label = `[${String(i).padStart(2, '0')}/${targets.length}] ${t.path}`;
+  console.log(label);
   try {
     await importOne(t);
-    process.stdout.write('.');
+    console.log(`    ok`);
   } catch (err) {
     stats.failed.push(`${t.path} — ${err.message}`);
-    process.stdout.write('x');
+    console.log(`    FAILED: ${err.message}`);
   }
   await sleep(DELAY_MS);
 }
 
-console.log('\n');
+console.log('');
 console.log(`Imported : ${stats.ok.length}`);
 console.log(`Skipped  : ${stats.skipped.length} (already imported — use --force to redo)`);
 console.log(`Images   : ${stats.images}`);
@@ -257,5 +376,23 @@ if (stats.failed.length) {
   console.log('\nFailures — import these by hand or re-run just that URL:');
   for (const f of stats.failed) console.log('  ' + f);
 }
+// Report anything still holding the placeholder, so nothing goes unnoticed.
+const stillStubs = [];
+for (const t of [...manifest.pages, ...manifest.posts]) {
+  try {
+    const raw = await fs.readFile(path.join(ROOT, t.file), 'utf8');
+    if (raw.includes('Content not imported yet')) stillStubs.push(t.path);
+  } catch {
+    /* ignore */
+  }
+}
+
+if (stillStubs.length) {
+  console.log(`\nSTILL EMPTY (${stillStubs.length}) — these pages have no body content:`);
+  for (const s of stillStubs) console.log('  ' + s);
+} else {
+  console.log('\nEvery page has body content.');
+}
+
 console.log('\nNow read through the imported files. Squarespace markup is messy and');
 console.log('the conversion is never perfect — check headings, lists and image alt text.');

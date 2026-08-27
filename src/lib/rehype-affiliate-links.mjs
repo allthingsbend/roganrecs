@@ -49,8 +49,9 @@ export function rehypeAffiliateLinks() {
       node.properties.rel = 'sponsored nofollow noopener';
       node.properties['data-affiliate'] = program.name;
 
-      // Backfill the tracking param only when it isn't already there.
-      if (program.id && !url.searchParams.has(program.param)) {
+      // Backfill when the tracking param is missing or present but empty.
+      // Squarespace product blocks commonly emit `?tag=` with no value.
+      if (program.id && !url.searchParams.get(program.param)) {
         url.searchParams.set(program.param, program.id);
         node.properties.href = url.href;
       }

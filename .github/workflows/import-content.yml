@@ -14,6 +14,10 @@ name: Import content from Squarespace
 # there is nothing left to import from.
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - scripts/import-squarespace.mjs
   workflow_dispatch:
     inputs:
       only:
@@ -53,7 +57,10 @@ jobs:
         run: npm run build
 
       - name: Report SEO status
-        run: npm run seo:check
+        run: npm run seo:check -- --strict
+
+      - name: Report affiliate link status
+        run: npm run links:check
 
       - name: Commit the imported content
         run: |

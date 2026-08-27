@@ -10,11 +10,13 @@
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
+    "build:check": "astro build && node scripts/check-seo.mjs --strict && node scripts/check-affiliate-links.mjs",
     "preview": "astro preview",
     "astro": "astro",
     "import": "node scripts/import-squarespace.mjs",
     "import:dry": "node scripts/import-squarespace.mjs --dry-run",
-    "seo:check": "node scripts/check-seo.mjs"
+    "seo:check": "node scripts/check-seo.mjs",
+    "links:check": "node scripts/check-affiliate-links.mjs"
   },
   "dependencies": {
     "astro": "^5.6.1",
