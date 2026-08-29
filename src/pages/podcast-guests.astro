@@ -1,0 +1,385 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+
+const FEED_URL = 'https://feeds.megaphone.fm/GLT1412515089';
+
+const decodeEntities = (value = '') => value
+  .replace(/&amp;/g, '&')
+  .replace(/&quot;/g, '"')
+  .replace(/&#39;|&apos;/g, "'")
+  .replace(/&lt;/g, '<')
+  .replace(/&gt;/g, '>')
+  .replace(/&#8217;/g, '’')
+  .replace(/&#8211;/g, '–')
+  .replace(/&#8212;/g, '—');
+
+const cleanText = (value = '') => decodeEntities(
+  value
+    .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim(),
+);
+
+const extractTag = (xml, tag) => {
+  const match = xml.match(new RegExp(`<${tag}(?:\\s[^>]*)?>([\\s\\S]*?)<\\/${tag}>`, 'i'));
+  return match ? cleanText(match[1]) : '';
+};
+
+const extractAttr = (xml, tag, attr) => {
+  const match = xml.match(new RegExp(`<${tag}[^>]*\\s${attr}=["']([^"']+)["'][^>]*>`, 'i'));
+  return match ? decodeEntities(match[1]) : '';
+};
+
+const trimCopy = (value, max = 175) => value.length > max ? `${value.slice(0, max).replace(/\s+\S*$/, '')}…` : value;
+
+let episodes = [];
+let feedError = false;
+
+try {
+  const response = await fetch(FEED_URL, {
+    headers: { 'user-agent': 'RoganRecs/1.0 (+https://roganrecs.com)' },
+  });
+  if (!response.ok) throw new Error(`RSS returned ${response.status}`);
+  const xml = await response.text();
+  const items = xml.match(/<item\b[\s\S]*?<\/item>/gi) ?? [];
+
+  episodes = items.slice(0, 12).map((item) => {
+    const title = extractTag(item, 'title');
+    const description = extractTag(item, 'description') || extractTag(item, 'content:encoded');
+    const dateRaw = extractTag(item, 'pubDate');
+    const link = extractTag(item, 'link') || extractTag(item, 'guid');
+    const episodeTag = extractTag(item, 'podcast:episode') || extractTag(item, 'itunes:episode');
+    const episodeMatch = title.match(/#\s?(\d+)/);
+    const guest = title
+      .replace(/^The Joe Rogan Experience\s*[-–—:]?\s*/i, '')
+      .replace(/^#\s?\d+\s*[-–—:]?\s*/i, '')
+      .trim();
+
+    return {
+      title,
+      guest: guest || title,
+      description: trimCopy(description),
+      date: dateRaw ? new Date(dateRaw) : null,
+      link,
+      episode: episodeTag || episodeMatch?.[1] || '',
+      image: extractAttr(item, 'itunes:image', 'href'),
+    };
+  });
+} catch (error) {
+  console.warn('Could not refresh JRE RSS feed:', error);
+  feedError = true;
+}
+
+const fmtDate = (date) => date && !Number.isNaN(date.getTime())
+  ? new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric', year: 'numeric' }).format(date)
+  : '';
+
+const featuredGuides = [
+  {
+    name: 'Andrew Huberman',
+    label: 'Neuroscience & performance',
+    href: '/podcast-guests/andrew-huberman-supplement-guide',
+    image: '/images/podcast-guests/andrew-huberman-pic.jpg',
+    copy: 'A sourced guide to the supplements, doses, sleep tools and performance compounds Huberman has actually discussed or used.',
+  },
+  {
+    name: 'Dr. Rhonda Patrick',
+    label: 'Nutrition & longevity',
+    href: '/podcast-guests/dr-rhonda-patrick-supplements',
+    image: '/images/podcast-guests/rhonda-patrick.jpg',
+    copy: 'Her current supplement routine, updated doses, evidence and the difference between her personal stack and general recommendations.',
+  },
+  {
+    name: 'JRE Podcast Equipment',
+    label: 'Studio gear',
+    href: '/podcast-guests/joe-rogan-podcast-equipment',
+    image: '/images/podcast-guests/podcast-microphone.png',
+    copy: 'The microphones, headphones and studio equipment associated with the Joe Rogan Experience setup.',
+  },
+];
+
+const topics = [
+  ['Health & longevity', 'health longevity nutrition supplements'],
+  ['Science', 'science research physics neuroscience biology'],
+  ['Comedy', 'comedy comedian stand-up'],
+  ['MMA & sports', 'mma ufc fighter athlete sports'],
+  ['History & ideas', 'history author archaeology philosophy'],
+  ['Technology', 'technology ai software space'],
+];
+
+const faq = [
+  ['How often does this page update?', 'The latest-episodes section is generated from the public JRE RSS feed whenever Rogan Recs builds. A scheduled daily rebuild keeps it fresh even when no other site changes are made.'],
+  ['Does JRE publish an upcoming guest schedule?', 'Not consistently. We avoid listing rumored guests as confirmed. This page focuses on newly published episodes and clearly sourced guest guides.'],
+  ['Where can I watch or listen to JRE?', 'Use the episode links below to open the destination supplied by the show feed. JRE is also available through major podcast platforms and YouTube.'],
+];
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: 'JRE Podcast Guests & Latest Episodes',
+    description: 'Latest Joe Rogan Experience episodes plus useful guides to recurring JRE guests, their recommendations, books, supplements and gear.',
+    url: 'https://roganrecs.com/podcast-guests',
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://roganrecs.com' },
+      { '@type': 'ListItem', position: 2, name: 'Podcast Guests' },
+    ],
+  },
+];
+---
+<BaseLayout
+  title="JRE Podcast Guests & Latest Episodes"
+  description="Latest Joe Rogan Experience episodes plus useful guides to recurring JRE guests, their recommendations, books, supplements and gear."
+  path="/podcast-guests"
+  image="/images/podcast-guests/podcast-microphone.png"
+  imageAlt="Podcast microphone"
+  type="website"
+  jsonLd={jsonLd}
+>
+  <section class="guest-hero">
+    <div class="shell">
+      <Breadcrumbs items={[{ label: 'Home', href: '/' }, { label: 'Podcast Guests' }]} />
+      <div class="guest-hero__grid">
+        <div>
+          <p class="eyebrow">Joe Rogan Experience</p>
+          <h1>JRE guests, latest episodes & what’s worth exploring</h1>
+          <p class="guest-hero__lede">A useful way into the Joe Rogan Experience: see the newest episodes, browse guest guides, and jump to the health, science, comedy, MMA and gear topics people actually search for.</p>
+          <div class="button-row">
+            <a class="button button--accent" href="#latest">Latest episodes</a>
+            <a class="button button--ghost" href="#guest-guides">Guest guides</a>
+          </div>
+        </div>
+        <div class="guest-hero__panel">
+          <span class="live-dot" aria-hidden="true"></span>
+          <p class="meta">Automatically refreshed</p>
+          <strong>{episodes.length ? `${episodes.length} newest episodes loaded` : 'Episode feed ready to refresh'}</strong>
+          <p>We pull from the public JRE RSS feed at build time and refresh this page daily. No made-up “upcoming” guest calendar.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section latest-section" id="latest">
+    <div class="shell">
+      <div class="section-heading latest-heading">
+        <div>
+          <p class="eyebrow">Newest on JRE</p>
+          <h2>Latest Joe Rogan Experience episodes</h2>
+          {episodes[0]?.date && <p class="section-note">Feed refreshed with episodes through {fmtDate(episodes[0].date)}.</p>}
+        </div>
+        <a href={FEED_URL}>RSS feed <span aria-hidden="true">→</span></a>
+      </div>
+
+      <div class="episode-tools" aria-label="Filter episodes">
+        <label class="episode-search">
+          <span>Search latest episodes</span>
+          <input id="episode-search" type="search" placeholder="Guest, topic, episode number…" autocomplete="off" />
+        </label>
+        <div class="topic-filters" aria-label="Filter by topic">
+          <button type="button" class="topic-chip is-active" data-filter="">All</button>
+          {topics.map(([label, keywords]) => <button type="button" class="topic-chip" data-filter={keywords}>{label}</button>)}
+        </div>
+      </div>
+
+      {episodes.length > 0 ? (
+        <div class="episode-grid" id="episode-grid">
+          {episodes.map((episode, index) => (
+            <article class:list={['episode-card', { 'episode-card--lead': index === 0 }]} data-search={`${episode.title} ${episode.guest} ${episode.description}`.toLowerCase()}>
+              <div class="episode-card__top">
+                <div>
+                  <p class="meta">{episode.episode ? `JRE #${episode.episode}` : 'JRE episode'}{episode.date ? ` · ${fmtDate(episode.date)}` : ''}</p>
+                  <h3>{episode.guest}</h3>
+                </div>
+                {index === 0 && <span class="new-badge">Latest</span>}
+              </div>
+              {episode.description && <p>{episode.description}</p>}
+              {episode.link && <a class="episode-link" href={episode.link} rel="nofollow noopener" target="_blank">Open episode <span aria-hidden="true">↗</span></a>}
+            </article>
+          ))}
+        </div>
+      ) : (
+        <div class="feed-fallback">
+          <h3>Latest episodes are temporarily unavailable</h3>
+          <p>{feedError ? 'The external feed did not respond during this build.' : 'The feed did not return episode items.'} The rest of this guide still works, and the next scheduled build will try again automatically.</p>
+        </div>
+      )}
+      <p class="no-results" id="no-results" hidden>No matching episodes in the latest batch. Try a different guest or topic.</p>
+    </div>
+  </section>
+
+  <section class="section section--tinted" id="guest-guides">
+    <div class="shell">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Go deeper</p>
+          <h2>Featured JRE guest & studio guides</h2>
+        </div>
+      </div>
+      <div class="guide-grid">
+        {featuredGuides.map((guide) => (
+          <a class="guide-card" href={guide.href}>
+            <div class="guide-card__media"><img src={guide.image} alt="" loading="lazy" decoding="async" /></div>
+            <div class="guide-card__body">
+              <p class="meta">{guide.label}</p>
+              <h3>{guide.name}</h3>
+              <p>{guide.copy}</p>
+              <span>Explore guide →</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="shell discovery-grid">
+      <div>
+        <p class="eyebrow">Browse smarter</p>
+        <h2>What people come to JRE for</h2>
+        <p>JRE covers too much ground for a giant alphabetical guest list to be useful. These are the main paths into the archive, with Rogan Recs guides where we can add something beyond a basic episode listing.</p>
+      </div>
+      <div class="topic-cards">
+        <a href="/supplements"><strong>Health, supplements & longevity</strong><span>Rogan’s supplement stack, Huberman, Rhonda Patrick and wellness topics →</span></a>
+        <a href="/joe-rogan-cold-plunge-guide"><strong>Recovery & performance</strong><span>Cold plunge, sauna, training and recovery practices →</span></a>
+        <a href="/blog/protect-our-parks"><strong>Comedy & recurring friends</strong><span>Protect Our Parks and the recurring comedy universe →</span></a>
+        <a href="/podcast-guests/joe-rogan-podcast-equipment"><strong>Podcast setup & gear</strong><span>Microphones, headphones, chairs and studio equipment →</span></a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--tinted">
+    <div class="shell explainer-grid">
+      <div>
+        <p class="eyebrow">How this page works</p>
+        <h2>Latest episodes, without pretending rumors are confirmed</h2>
+      </div>
+      <div class="explainer-copy">
+        <p>The Joe Rogan Experience does not maintain a dependable public calendar of future guests. Rather than publish speculative “upcoming” names, this page uses the show’s public RSS feed for recently released episodes.</p>
+        <p>For guests with a dedicated Rogan Recs page, we go further: we separate things a guest has actually said or used from third-party summaries, add primary sources where possible, and keep older claims from being presented as if they are current.</p>
+        <p>That makes this page both a current JRE episode tracker and the front door to the deeper guides on the site.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section faq-wrap">
+    <div class="shell">
+      <p class="eyebrow">Quick answers</p>
+      <h2>JRE guest & episode FAQs</h2>
+      <div class="faq-grid">
+        {faq.map(([q, a], index) => (
+          <details open={index === 0}>
+            <summary>{q}</summary>
+            <p>{a}</p>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <script is:inline>
+    (() => {
+      const search = document.getElementById('episode-search');
+      const cards = [...document.querySelectorAll('.episode-card')];
+      const chips = [...document.querySelectorAll('.topic-chip')];
+      const empty = document.getElementById('no-results');
+      if (!search || !cards.length) return;
+      let topicTerms = [];
+      const apply = () => {
+        const query = search.value.trim().toLowerCase();
+        let visible = 0;
+        cards.forEach((card) => {
+          const haystack = card.dataset.search || '';
+          const queryMatch = !query || haystack.includes(query);
+          const topicMatch = !topicTerms.length || topicTerms.some((term) => haystack.includes(term));
+          const show = queryMatch && topicMatch;
+          card.hidden = !show;
+          if (show) visible += 1;
+        });
+        if (empty) empty.hidden = visible !== 0;
+      };
+      search.addEventListener('input', apply);
+      chips.forEach((chip) => chip.addEventListener('click', () => {
+        chips.forEach((item) => item.classList.remove('is-active'));
+        chip.classList.add('is-active');
+        topicTerms = (chip.dataset.filter || '').split(/\s+/).filter(Boolean);
+        apply();
+      }));
+    })();
+  </script>
+
+  <style>
+    .guest-hero { padding-block: clamp(3.5rem, 8vw, 6.5rem); background: radial-gradient(circle at 12% 20%, rgba(239,98,43,.18), transparent 28rem), var(--ink); color: #fff; }
+    .guest-hero :global(.crumbs) { margin-bottom: 2rem; }
+    .guest-hero :global(.crumbs a), .guest-hero :global(.crumbs span) { color: #c9c6be; }
+    .guest-hero__grid { display: grid; grid-template-columns: minmax(0,1.35fr) minmax(280px,.65fr); gap: clamp(2rem,7vw,6rem); align-items: end; }
+    .guest-hero .eyebrow { color: var(--gold); }
+    .guest-hero h1 { max-width: 12ch; color: #fff; }
+    .guest-hero__lede { max-width: 61ch; margin: 1.5rem 0 0; color: #cbc7bd; font-size: var(--step-1); line-height: 1.6; }
+    .guest-hero__panel { border: 1px solid rgba(255,255,255,.14); border-radius: var(--radius-lg); padding: 1.6rem; background: rgba(255,255,255,.055); box-shadow: 0 24px 60px rgba(0,0,0,.22); }
+    .guest-hero__panel .meta { color: var(--gold); }
+    .guest-hero__panel strong { display: block; margin:.35rem 0 .6rem; color:#fff; font:700 1.35rem/1.2 var(--font-display); }
+    .guest-hero__panel p:last-child { margin:0; color:#aaa69d; font-family:var(--font-ui); font-size:.9rem; line-height:1.6; }
+    .live-dot { width:.65rem; height:.65rem; display:inline-block; margin-right:.4rem; border-radius:50%; background:#69d18b; box-shadow:0 0 0 5px rgba(105,209,139,.12); }
+    .section-note { margin:.7rem 0 0; color:var(--muted); font-family:var(--font-ui); font-size:.9rem; }
+    .episode-tools { margin-bottom:1.5rem; padding:1rem; border:1px solid var(--line); border-radius:var(--radius); background:var(--surface); }
+    .episode-search span { display:block; margin-bottom:.45rem; color:var(--ink-3); font:700 .77rem/1.2 var(--font-ui); text-transform:uppercase; letter-spacing:.08em; }
+    .episode-search input { width:100%; min-height:50px; border:1px solid var(--line); border-radius:.8rem; padding:.8rem 1rem; background:#fff; color:var(--ink); font:500 1rem/1.2 var(--font-ui); }
+    .topic-filters { display:flex; gap:.5rem; overflow-x:auto; padding-top:.8rem; scrollbar-width:none; }
+    .topic-filters::-webkit-scrollbar { display:none; }
+    .topic-chip { flex:0 0 auto; border:1px solid var(--line); border-radius:99px; padding:.55rem .8rem; background:var(--paper); color:var(--ink-3); font:700 .76rem/1 var(--font-ui); cursor:pointer; }
+    .topic-chip.is-active { border-color:var(--ink); background:var(--ink); color:#fff; }
+    .episode-grid { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:1rem; }
+    .episode-card { min-width:0; display:flex; flex-direction:column; min-height:265px; border:1px solid var(--line); border-radius:var(--radius); padding:1.25rem; background:var(--surface); }
+    .episode-card--lead { grid-column:span 2; background:linear-gradient(135deg,#fff,#f2ece2); }
+    .episode-card__top { display:flex; justify-content:space-between; gap:1rem; align-items:flex-start; }
+    .episode-card h3 { margin:.45rem 0 0; font-size:clamp(1.25rem,1rem + .7vw,1.7rem); line-height:1.1; letter-spacing:-.025em; }
+    .episode-card > p { margin:1rem 0; color:var(--muted); font-family:var(--font-ui); font-size:.9rem; line-height:1.6; }
+    .episode-link { margin-top:auto; color:var(--ink); font:700 .82rem/1 var(--font-ui); text-decoration:none; }
+    .episode-link span { color:var(--accent); }
+    .new-badge { border-radius:99px; padding:.4rem .58rem; background:var(--accent); color:#fff; font:700 .68rem/1 var(--font-ui); text-transform:uppercase; letter-spacing:.08em; }
+    .feed-fallback,.no-results { border:1px dashed var(--line); border-radius:var(--radius); padding:1.5rem; background:var(--surface); }
+    .guide-grid { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:1.2rem; }
+    .guide-card { overflow:hidden; border:1px solid var(--line); border-radius:var(--radius); background:var(--surface); color:var(--ink); text-decoration:none; transition:transform 180ms ease, box-shadow 180ms ease; }
+    .guide-card:hover { transform:translateY(-4px); box-shadow:var(--shadow); }
+    .guide-card__media { aspect-ratio:16/9; overflow:hidden; background:var(--ink-2); }
+    .guide-card__media img { width:100%; height:100%; object-fit:cover; }
+    .guide-card__body { padding:1.2rem; }
+    .guide-card h3 { margin:.4rem 0 .65rem; font-size:1.45rem; }
+    .guide-card__body > p:not(.meta) { color:var(--muted); font-family:var(--font-ui); font-size:.9rem; line-height:1.6; }
+    .guide-card__body > span { color:var(--accent-dark); font:700 .82rem/1 var(--font-ui); }
+    .discovery-grid,.explainer-grid { display:grid; grid-template-columns:minmax(260px,.7fr) minmax(0,1.3fr); gap:clamp(2rem,7vw,6rem); align-items:start; }
+    .discovery-grid h2,.explainer-grid h2,.faq-wrap h2 { margin:0; font-size:var(--step-3); line-height:1.08; letter-spacing:-.035em; }
+    .discovery-grid > div:first-child > p:last-child { color:var(--muted); }
+    .topic-cards { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:.8rem; }
+    .topic-cards a { display:flex; flex-direction:column; gap:.45rem; border:1px solid var(--line); border-radius:var(--radius-sm); padding:1rem; background:var(--surface); color:var(--ink); text-decoration:none; }
+    .topic-cards strong { font:700 1.05rem/1.2 var(--font-display); }
+    .topic-cards span { color:var(--muted); font:500 .84rem/1.5 var(--font-ui); }
+    .explainer-copy p { margin-top:0; color:var(--ink-3); }
+    .faq-grid { max-width:850px; margin-top:1.5rem; display:grid; gap:.7rem; }
+    .faq-grid details { border:1px solid var(--line); border-radius:var(--radius-sm); padding:.9rem 1rem; background:var(--surface); }
+    .faq-grid summary { cursor:pointer; font:700 .95rem/1.4 var(--font-ui); }
+    .faq-grid p { margin:.8rem 0 0; color:var(--muted); }
+    @media (max-width:900px) {
+      .guest-hero__grid,.discovery-grid,.explainer-grid { grid-template-columns:1fr; }
+      .episode-grid,.guide-grid { grid-template-columns:repeat(2,minmax(0,1fr)); }
+      .episode-card--lead { grid-column:span 2; }
+    }
+    @media (max-width:640px) {
+      .guest-hero { padding-top:2.5rem; }
+      .guest-hero h1 { font-size:clamp(2.45rem,13vw,4rem); }
+      .guest-hero__panel { padding:1.15rem; }
+      .latest-heading { align-items:flex-start; }
+      .latest-heading > a { display:none; }
+      .episode-grid,.guide-grid,.topic-cards { grid-template-columns:1fr; }
+      .episode-card--lead { grid-column:auto; }
+      .episode-card { min-height:0; }
+      .section { padding-block:3rem; }
+    }
+  </style>
+</BaseLayout>
