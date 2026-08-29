@@ -1,6 +1,6 @@
 ---
 title: 'Andrew Huberman Supplements: His Stack, Doses & Evidence'
-h1: Andrew Huberman Supplements: A Sourced Guide to His Stack
+h1: 'Andrew Huberman Supplements: A Sourced Guide to His Stack'
 description: >-
   A sourced guide to supplements Andrew Huberman has said he uses or discussed,
   including sleep, focus, creatine, omega-3s and hormone-related supplements.
