@@ -1,94 +1,86 @@
 ---
-title: 'Joe Rogan Smelling Salts: Why They''re on the JRE'
-h1: Smelling Salts on the Joe Rogan Experience Podcast
+title: 'Joe Rogan Smelling Salts: What They Do, Brands & Safety'
+h1: 'Joe Rogan Smelling Salts: Why They Show Up on JRE'
 description: >-
-  Why smelling salts keep showing up on the JRE, what ammonia inhalants actually
-  do, the safety caveats, and the brands guests have reached for.
+  A sourced guide to the smelling salts used on JRE, how ammonia inhalants work,
+  what they can and cannot improve, safety concerns and buying considerations.
 category: gear
 order: 90
-updated: 2024-05-09T00:00:00.000Z
+updated: 2026-08-29
 imported: true
 image: /images/smelling-salts-jre-podcast/rogan-smelling-salts-theo-von.jpg
+imageAlt: 'Joe Rogan and Theo Von trying smelling salts on JRE'
+faq:
+  - q: 'What are smelling salts?'
+    a: 'Smelling salts are ammonia-based inhalants that irritate the nose and airways, provoking a sharp inhalation and brief increase in alertness.'
+  - q: 'Do smelling salts increase strength?'
+    a: 'They can make someone feel more alert, but research does not consistently show meaningful improvements in maximal strength or power.'
+  - q: 'Are smelling salts safe?'
+    a: 'Brief use can cause eye, nose and airway irritation. They should never be used to wake someone after a suspected concussion or head injury because that can delay proper evaluation.'
 ---
 
-![Joe Rogan smelling salts theo von](/images/smelling-salts-jre-podcast/rogan-smelling-salts-theo-von.jpg)
+![Joe Rogan smelling salts with Theo Von](/images/smelling-salts-jre-podcast/rogan-smelling-salts-theo-von.jpg)
 
+Smelling salts have become a recurring JRE gag because the reaction is immediate and dramatic. But the product itself is simple: **ammonia vapor irritates the upper airway, triggering a reflexive inhalation and a short burst of alertness**.
 
-## Wake Up Your Senses: The Joe Rogan Way with Smelling Salts
+That is different from proving that smelling salts make you stronger, improve athletic performance or safely 'wake up' an injured person.
 
-_Updated 5/9/24_
+## Why Joe Rogan uses smelling salts on the podcast
 
-Are you ready to dive into one of the most electrifying (and nostril-flaring) aspects of "The Joe Rogan Experience"? Yes, we're talking about those infamous moments when Joe and his guests, like the hilarious Theo Von, break out the smelling salts. It's not just a blast of scent; it's a blast of fun and adrenaline that's become a signature moment in many episodes. So, let's sniff out what this is all about!
+On JRE, smelling salts are usually entertainment first. Rogan and guests have opened strong ammonia products, taken a cautious sniff and reacted to the intense burning sensation.
 
-It’s also been mentioned that they have smelling salts at the Comedy Mothership (Rogan’s comedy club in Austin) that is up for grabs. Talk about (hopefully) having a great set after getting a whiff!
+The effect can feel like a sudden reset because ammonia activates sensory nerves and produces a rapid respiratory response. It is not a stimulant in the same way caffeine is, and the effect is very short-lived.
 
-### The Smelling Salt Saga on JRE
+## Do smelling salts improve strength or performance?
 
--   What Are Smelling Salts?: They're not your grandma's lavender sachets, that's for sure. Smelling salts are ammonia-based compounds that release a gas, which triggers a reaction when inhaled, usually causing a person to inhale deeply and wake up.
+The evidence is much less exciting than the reaction videos.
 
--   Rogan’s Ritual: Joe Rogan, always up for experiences that shake things up, introduced smelling salts as a fun and quirky ritual on his podcast. It's his way of saying, "Let's get this party started!"
+Small studies of ammonia inhalants have generally found **little or no consistent improvement in maximal strength, sprinting or power output**. Athletes may feel more psyched up, but subjective arousal is not the same thing as a meaningful performance gain.
 
--   Memorable Moments: Remember when Theo Von’s reaction was a mix of shock, disbelief, and pure comedy? That's the kind of unforgettable, unscripted content that makes JRE a fan favorite.
+That makes smelling salts closer to a pre-lift ritual than an evidence-based performance supplement.
 
+## The biggest safety mistake: head injuries
 
-### Why Smelling Salts?
+Smelling salts should **not** be used to wake up or 'test' someone after a suspected concussion.
 
--   A Jolt of Reality: For Rogan, it's all about that instant jolt – a literal 'wake-up' call. It’s like a pre-workout for the brain before diving deep into conversations.
+If a person has been hit in the head, is confused, unconscious or neurologically abnormal, they need appropriate medical evaluation. An ammonia inhalant can provoke sudden head movement and may distract from symptoms that matter.
 
--   The Guest Factor: The varied reactions of guests, from intrigue to outright astonishment, add a layer of spontaneity to each episode.
+That old sports-movie use case is exactly the one to avoid.
 
+## How to use smelling salts more safely
 
-#### Joe Rogan and Theo Von's Smelling Salts Adventure
+If a healthy adult chooses to use them:
 
-On an episode of "The Joe Rogan Experience," Joe Rogan and comedian Theo Von delved into the eye-watering world of smelling salts. Known for his adventurous spirit, Rogan introduced Von to the intense experience of ammonia inhalants. The reaction was priceless – a blend of shock, hilarity, and perhaps a hint of regret. Rogan, always up for a good time, seemed to relish in the moment, showcasing his love for the unexpected and unconventional. This segment, like many others on the JRE podcast, highlighted Rogan's penchant for exploration and experimentation, whether it's with ideas, guests, or, in this case, a jar of smelling salts.
+- follow the manufacturer's distance and exposure instructions
+- do not put the container directly under the nostrils
+- avoid direct skin or eye contact
+- use in a ventilated area
+- do not repeatedly inhale for a stronger effect
+- stop if you develop significant coughing, wheezing, eye pain or breathing difficulty
 
-### Not Just for Kicks
+People with respiratory disease or strong chemical sensitivities should be especially cautious.
 
--   A History of Revival: Historically, smelling salts have been used to revive people from fainting. In the JRE universe, they serve to energize and add a bit of lightheartedness.
+## What brands show up around JRE?
 
+Brands and packaging change, and JRE clips often feature whatever strong ammonia product is around rather than one permanent 'official Rogan brand.' That is why we would shop by **sealed packaging, clear instructions and reputable manufacturer** rather than chasing an old screenshot.
 
--   Athletic Connection: Athletes have used them for a quick pick-me-up. Rogan, with his deep interest in fitness and martial arts, might appreciate this aspect.
+[Browse smelling salts on Amazon](https://www.amazon.com/s?k=smelling+salts+ammonia+inhalant)
 
+## Smelling salts vs. caffeine
 
-#### Safety First
+| | Smelling salts | Caffeine |
+|---|---|---|
+| Main effect | Brief sensory jolt | Central nervous system stimulation |
+| Duration | Seconds to minutes | Hours |
+| Evidence for performance | Limited/inconsistent | Stronger for endurance and alertness |
+| Best use | Short arousal ritual | Sustained alertness/performance |
 
--   A Word of Caution: While it's all fun and games, it's essential to acknowledge that smelling salts should be used responsibly. They are potent and not everyone's cup of tea (or sniff of salt).
+If you want actual sustained alertness, our [Joe Rogan Neuro Gum guide](/supplements/neuro-gum-joe-rogan) covers caffeine plus L-theanine in a more practical format.
 
--   In the end, the use of smelling salts on "The Joe Rogan Experience" is less about the salts themselves and more about the experience – a burst of energy, a moment of hilarity, and a signature Rogan move. It's this blend of the unexpected, the humorous, and the real that keeps fans coming back for more. So, next time you tune in, who knows? You might just catch another whiff of the JRE smelling salt saga!
+## Sources
 
+For research, see PubMed's indexed literature on [ammonia inhalants and athletic performance](https://pubmed.ncbi.nlm.nih.gov/?term=ammonia+inhalants+athletic+performance) and sports-medicine discussions of ammonia inhalants in head injury.
 
-![smelling salts](/images/smelling-salts-jre-podcast/smelling-salts.png)
+## Bottom line
 
-#### FAQs - Smelling Salts on JRE Podcast
-
-**What are smelling salts?**
-
-Smelling salts are compounds that release ammonia gas, which triggers an inhalation reflex, causing the muscles controlling breathing to work faster.
-
-**Why does Joe Rogan use smelling salts on his podcast?**
-
-Joe Rogan often uses smelling salts for a bit of fun and to energize the atmosphere during podcast recordings, especially when featuring certain guests.
-
-**Who are some of the notable guests who have tried smelling salts with Joe Rogan?**
-
-Guests like Theo Von and many others have tried smelling salts on the podcast, often leading to humorous and memorable moments.
-
-**Are smelling salts safe to use?**
-
-Smelling salts are generally safe when used sparingly and responsibly, but they can be potent and should not be overused.
-
-**How do smelling salts affect the body?**
-
-The ammonia gas from smelling salts irritates the mucous membranes, which results in an inhalation reflex. This can lead to increased alertness and breathing rate.
-
-**Can anyone use smelling salts?**
-
-While smelling salts are commonly used in sports and entertainment, they are not suitable for everyone, especially those with certain respiratory conditions.
-
-**Where can I buy smelling salts like the ones used by Joe Rogan?**
-
-Smelling salts similar to those used by Rogan are available in sports stores and online. It’s important to purchase from reputable sources.
-
-**Has Joe Rogan discussed the benefits of smelling salts?**
-
-Joe Rogan, along with his guests, often discusses the immediate, invigorating effects of smelling salts, though they're generally used more for entertainment on the show.
+The JRE appeal is obvious: smelling salts create an instant, hilarious reaction. The physiological reality is narrower. They can produce a sharp burst of alertness, but they are **not a proven strength enhancer and should never be used as concussion treatment**.
