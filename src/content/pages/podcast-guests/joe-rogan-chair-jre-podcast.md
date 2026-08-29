@@ -1,262 +1,109 @@
 ---
-title: 'Joe Rogan''s Podcast Chair: The HAG Capisco'
-h1: Joe Rogan's Podcast Chair
+title: 'Joe Rogan Podcast Chair: HÅG Capisco Model, Fit & Alternatives'
+h1: 'Joe Rogan Podcast Chair: The HÅG Capisco Explained'
 description: >-
-  The chair on the JRE set is the HAG Capisco. Why Rogan uses a saddle chair,
-  how it is meant to be sat in, what it costs, and the alternatives.
+  The chair associated with Joe Rogan's JRE studio, how the HÅG Capisco works,
+  sizing, ergonomic tradeoffs, price and lower-cost alternatives.
 category: gear
 order: 23
-updated: 2024-11-06T00:00:00.000Z
+updated: 2026-08-29
 imported: true
 image: /images/podcast-guests-joe-rogan-chair-jre-podcast/hag-capisco-chair.jpg
+imageAlt: 'HÅG Capisco saddle-style office chair used in the JRE studio'
+faq:
+  - q: 'What chair does Joe Rogan use on the podcast?'
+    a: 'The chair most commonly identified with the JRE studio is the HÅG Capisco, a saddle-style ergonomic task chair designed for varied sitting positions.'
+  - q: 'Is the HÅG Capisco good for long podcast sessions?'
+    a: 'It is designed to encourage movement and multiple postures rather than locking the user into one position. Whether it is comfortable for multi-hour sessions depends heavily on fit, seat height and personal preference.'
+  - q: 'Is the HÅG Capisco worth the price?'
+    a: 'It can make sense for people who like saddle seating and change posture frequently. It is expensive, so trying one locally or buying from a seller with a good return policy is sensible.'
 ---
 
-## Exploring the Unique Comfort of Joe Rogan's Podcast Chair: The HAG Capisco
+## The short answer
 
-_Update 11/6/24_
+The chair most closely associated with Joe Rogan's JRE studio is the **HÅG Capisco**, a distinctive saddle-seat office chair from Norwegian manufacturer Flokk/HÅG.
 
-Joe Rogan's studio setup isn't complete without the HÅG Capisco, a chair that stands out not just for its looks but for its functionality. Rogan often discusses health, wellness, and longevity on his podcast, and this chair choice reflects those values. Its ergonomic features support better posture and reduce back strain—perfect for hours of podcasting.
+What makes it different is not celebrity branding. The Capisco is built around **movement**: sit facing forward, turn sideways, perch higher, or even sit backward using the backrest as chest support.
 
-[**Get Rogan’s Podcast Chair on Amazon!**](https://www.amazon.com/Capisco-Ergonomic-Office-Chair-Saddle/dp/B072K3G8K5?language=en_US&linkCode=ll1&linkId=9dce494720bb0e4c0c20d8132770aad5&ref_=as_li_ss_tl&tag=rogan-recs-20&th=1)
+## Why the Capisco looks so unusual
 
-### Key Features of the HÅG Capisco
+The design is inspired by a horseback-riding posture. Instead of a wide flat office seat and large recliner-style back, the Capisco uses a narrower saddle seat and a T-shaped backrest.
 
-**Unique Saddle Seat**
+That changes the sitting experience in a few ways:
 
-The HÅG Capisco’s saddle-style seat encourages an open hip angle, which promotes circulation and better posture.
+- the hips can sit more open than in a deep lounge chair
+- the chair works well at taller desk heights
+- the user can rotate through several supported positions
+- it encourages frequent repositioning instead of one 'perfect' posture
 
-**Adjustability**
+That last point is the useful ergonomic idea. There is no single posture that magically prevents back pain. For many desk workers, **changing position regularly** is more realistic than trying to sit perfectly still all day.
 
-The chair is fully adjustable, from seat height to backrest tilt, allowing users to find their perfect sitting position.
+## Which HÅG Capisco model is it?
 
-**Versatility in Seating Positions**
+The classic model most people mean is the **HÅG Capisco 8106**, though upholstery, lift height, base and color can vary. Studio furniture also changes over time, so we would not treat one old set photo as proof of the exact configuration currently in use.
 
-With its unique design, you can sit in various positions—facing forward, backward, or even sideways.
+If you are shopping, focus on the fit variables instead of the color:
 
-**Sustainable Materials**
+- seat-height range
+- standard vs. tall gas lift
+- footring if used at standing-desk height
+- seat depth and upholstery
+- return policy
 
-Made with 50% recycled materials, the Capisco aligns with eco-friendly values.
+[Browse HÅG Capisco listings on Amazon](https://www.amazon.com/s?k=HAG+Capisco)
 
-**Durability**
+## Is a saddle chair actually better for posture?
 
-Known for its high-quality build, the Capisco is designed for long-term use, even with daily wear.
+'Better posture' is too simplistic. A saddle-style seat changes hip and trunk angles, but comfort and musculoskeletal outcomes vary person to person.
 
-![hag capisco chair jre podcast](/images/podcast-guests-joe-rogan-chair-jre-podcast/hag-capisco-chair.jpg)
+The Capisco's real advantage is that it makes **movement and posture variation easy**. That can be useful during a long podcast, editing session or desk day.
 
-Specification
+It will not automatically fix back pain, and some people dislike saddle seats completely.
 
-Details
+## Who is likely to like it?
 
-Seat Height
+The Capisco makes the most sense if you:
 
-Adjustable from 19" to 26"
+- use a sit-stand desk
+- like sitting higher than a standard office chair
+- frequently change position
+- prefer a firmer, active sitting style
+- want a chair that lets you sit backward or sideways occasionally
 
-Backrest Height
+It may be a poor fit if you want a plush reclining chair, need a large headrest, or strongly prefer a broad flat seat.
 
-Adjustable
+## Cheaper alternatives
 
-Material
+You do not need the exact JRE chair to get the core idea.
 
-50% Recycled Plastic, Upholstered in Eco Fabric
+Look for:
 
-Weight Capacity
+1. **Adjustable saddle stools** — cheaper, minimal and good for short active-sitting sessions.
+2. **Sit-stand stools** — designed for leaning/perching at elevated desks.
+3. **Traditional ergonomic task chairs** — often better if you want lumbar support and conventional armrests.
 
-Up to 250 lbs
+[Browse saddle office chairs on Amazon](https://www.amazon.com/s?k=ergonomic+saddle+office+chair)
 
-Colors Available
+## Setting up a Capisco correctly
 
-Black, Red, Blue, Green
+A few setup details matter more than the logo:
 
-Warranty
+- adjust height so your feet are supported
+- keep the desk high enough that your shoulders can relax
+- do not force the widest saddle position if it irritates the hips
+- rotate positions throughout the day
+- stand and walk regularly even if the chair feels great
 
-10 Years
+The chair should support movement, not replace it.
 
-![rogan podcast chair](/images/podcast-guests-joe-rogan-chair-jre-podcast/joe-rogan-podcast-chair.jpg)
+## Pair it with the actual podcast gear
 
-Feature
+If you are building a JRE-inspired studio, the chair is one small piece. The microphone and signal chain matter much more for audio quality.
 
-HÅG Capisco
+See our [Joe Rogan podcast equipment guide](/podcast-guests/joe-rogan-podcast-equipment) for the Shure SM7B and the rest of the setup.
 
-Herman Miller Aeron
+## Bottom line
 
-Steelcase Leap
+The HÅG Capisco is a legitimately unusual ergonomic chair, not just a prop from the JRE set. Its best feature is the ability to **change positions easily during long seated sessions**.
 
-Seat Style
-
-Saddle
-
-Mesh
-
-Cushioned
-
-Adjustability
-
-Full
-
-Full
-
-Full
-
-Weight Capacity
-
-250 lbs
-
-300 lbs
-
-400 lbs
-
-Materials
-
-Recycled Plastic
-
-Recycled Plastic
-
-Steel and Fabric
-
-Price Range
-
-$$$
-
-$$$$
-
-$$$
-
-Ergonomic Benefits
-
-Excellent
-
-Excellent
-
-Excellent
-
-### Rogan on the Capisco Ergonomic Chair
-
-#### A Chair Beyond the Podcast Studio
-
-The HAG Capisco is not just limited to podcast studios. Its versatility makes it suitable for offices, home studios, and anywhere where prolonged sitting is a norm. Its unique design encourages a healthier sitting posture, making it a popular choice among professionals who are conscious of their seating habits.
-
-The HAG Capisco chair is more than just a piece of furniture in Joe Rogan’s podcast studio. It’s a testament to his dedication to comfort, health, and style. For aspiring podcasters and professionals alike, the HAG Capisco is a symbol of the importance of ergonomic furniture in creating a productive and healthy work environment. As we spend more time seated, especially in today's digital world, choosing the right chair, like the HAG Capisco, can make a significant difference in our work and well-being.
-
-![Chair](/images/podcast-guests-joe-rogan-chair-jre-podcast/chair.png)
-
-Joe Rogan has often spoken about the ergonomic benefits of the HAG Capisco chair, particularly highlighting its role in alleviating his chronic back pain​​. His endorsement underscores the chair's impact on improving back health, which is a significant consideration given the long hours he spends podcasting and the importance of maintaining good posture during these sessions.
-
-#### JRE Podcast Chair Testimonials
-
-_Anna R._
-
-_"I bought this chair after seeing it on the JRE podcast, and it’s been a game-changer for my back pain."_
-
-_Mark L._
-
-_"It’s one of the most comfortable chairs I’ve ever used, and the versatility is a huge plus!"_
-
-_Sarah K._
-
-_"Expensive but worth it. It feels sturdy and supportive even after long workdays."_
-
-#### Maintenance and Care Tips for the HÅG Capisco Chair
-
-Proper care and maintenance can extend the life of your HÅG Capisco chair and keep it looking and functioning like new. Here are some helpful tips:
-
-**1.Cleaning the Upholstery and Frame**
-
-Fabric Upholstery: Regularly vacuum the seat and backrest to prevent dust buildup. For deeper cleaning, use a mild fabric cleaner. Dampen a soft cloth with the cleaner, gently wipe any stains, and avoid soaking the fabric.
-
-Plastic Frame: Wipe down the plastic parts with a soft, damp cloth and mild soap if necessary. Avoid using harsh chemicals, as these can damage the finish.
-
-Leather Upholstery (if applicable): For leather versions, use a specialized leather cleaner. Apply a small amount on a cloth and gently rub it into the leather, following up with a conditioner every few months to keep the leather soft and supple.
-
-**2\. Protecting Against Sunlight and Heat**
-
-Direct sunlight can fade upholstery over time. If possible, place your chair away from windows or use curtains to block direct sunlight during the day. High temperatures can also affect the materials, so avoid placing the chair near heat sources like radiators or heating vents.
-
-**3\. Regular Adjustment Checks**
-
-The HÅG Capisco is fully adjustable, so periodic checks are a good idea to ensure everything is working smoothly. This includes:
-
-Seat Height Adjustment: Test the seat height lever to ensure it moves up and down easily.
-
-Backrest Tilt: Adjust the backrest tilt to verify that it locks securely in various positions.
-
-Seat Depth: If your model includes adjustable seat depth, check that it slides smoothly and holds its position.
-
-If you notice stiffness or difficulty adjusting, try lightly lubricating the moving parts with a silicone-based lubricant. Avoid oil-based products, as they can attract dust and may damage plastic components.
-
-**4\. Caster Maintenance**
-
-The wheels on the HÅG Capisco chair can collect dirt, hair, and debris over time, affecting mobility. Follow these steps to keep them rolling smoothly:
-
-Regular Cleaning: Every few months, turn the chair over and inspect the casters. Use a pair of tweezers or a small brush to remove any hair or dust trapped in the wheels.
-
-Replacement: If a caster becomes damaged or excessively worn, it’s best to replace it to maintain stability. Replacement casters are often available directly from the manufacturer or office furniture suppliers.
-
-**5\. Tightening Screws and Bolts**
-
-With regular use, screws and bolts can sometimes become loose. Every six months, inspect the chair to make sure all screws, particularly those around the backrest and seat, are securely tightened. Use the appropriate screwdriver or Allen wrench, usually provided with the chair.
-
-#### FAQs - JRE Podcast Chair
-
-**Why did Joe Rogan choose the HAG Capisco chair?**
-
-Joe Rogan chose the HAG Capisco chair for its ergonomic benefits, particularly to maintain comfort and proper posture during his long podcast recording sessions​​.
-
-**What are the unique features of the HAG Capisco chair?**
-
-The HAG Capisco chair features a distinctive saddle-shaped seat and T-shaped backrest, designed to support a variety of sitting positions and encourage natural movement and blood circulation​​.
-
-**How does the chair promote proper posture?**
-
-The chair's design focuses on reducing pressure on critical areas like the spine, hips, and thighs, and it encourages proper posture by aligning the head, neck, and shoulders​​.
-
-**Is the HAG Capisco chair versatile for different work environments?**
-
-Yes, the chair's adaptability extends to various desk heights and work surfaces, making it suitable for diverse office settings, including home studios and professional offices​​.
-
-**What is the ergonomic design philosophy behind the chair?**
-
-Ergonomics, the study of people's efficiency in their working environment, is at the core of the HAG Capisco's design, emphasizing active sitting that encourages movement and adjusts to the user’s body​​.
-
-**What impact does the chair have on health and productivity?**
-
-Joe Rogan's endorsement of the chair highlights its impact on health and productivity, demonstrating how ergonomic furniture can enhance work performance and overall quality of life​​.
-
-**Can the HAG Capisco chair be considered environmentally friendly?**
-
-The chair is primarily made from recyclable materials, reflecting a commitment to environmental sustainability in addition to ergonomic innovation​​.
-
-**How has the HAG Capisco chair evolved over time?**
-
-Over the years, the chair has evolved, consistently reducing its weight, enhancing its sustainability, and improving its overall design​​.
-
-**What warranty comes with the HAG Capisco chair?**
-
-The HAG Capisco chair comes with a comprehensive warranty that covers the chair's mechanism, frame, and other critical components, ensuring long-term reliability and customer satisfaction.
-
-**How does the chair accommodate different body types?**
-
-The HAG Capisco chair is designed with adjustability in mind, featuring adjustable seat height, seat depth, and backrest tilt, allowing it to comfortably accommodate a wide range of body types and sizes.
-
-**What materials are used in the construction of the chair?**
-
-The chair is constructed using high-quality materials that prioritize durability and comfort, including aluminum for the base, and a choice of fabric or leather for the seat, incorporating recycled and sustainable options wherever possible.
-
-**Is the chair easy to assemble?**
-
-Yes, the HAG Capisco chair is designed for easy assembly, with straightforward instructions and minimal parts, allowing users to quickly set it up right out of the box.
-
-**How does the chair contribute to a dynamic work environment?**
-
-Its design promotes shifting between various sitting positions throughout the day, supporting a dynamic work environment that encourages creativity, engagement, and productivity.
-
-**Can the HAG Capisco chair help reduce work-related injuries?**
-
-By promoting an ergonomic sitting posture and facilitating movement, the chair can help reduce the risk of work-related musculoskeletal disorders, such as back pain and repetitive strain injuries.
-
-**Are there any accessories recommended with the HAG Capisco chair?**
-
-For enhanced ergonomics, accessories such as adjustable footrests, desk risers, and monitor stands may complement the chair, encouraging a fully ergonomic workstation setup.
-
-**How does the design of the HAG Capisco chair reflect modern office trends?**
-
-The chair's innovative design aligns with modern office trends towards flexibility, wellness, and sustainability, making it a popular choice for contemporary workspaces seeking to foster a healthy and dynamic office culture.
+But it is expensive and highly preference-dependent. If possible, sit in one before buying. If you mainly want the ergonomic concept, a lower-cost saddle or active-sitting chair can get you much of the way there.
