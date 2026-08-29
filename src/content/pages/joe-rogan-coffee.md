@@ -1,159 +1,208 @@
 ---
-title: 'Joe Rogan''s Coffee: Black Rifle & His Daily Cup'
-h1: Joe Rogan Coffee
-description: >-
-  The coffee brands that come up on the Joe Rogan Experience, including Black
-  Rifle, how Rogan takes his, and what to try if you want the same cup.
+title: "Joe Rogan Coffee: Black Rifle, Laird & More"
+h1: "Joe Rogan coffee: what he actually drinks on JRE"
+description: "A sourced guide to coffee Joe Rogan has used or discussed on JRE, including Black Rifle, Laird Superfood, Caveman Coffee and Four Sigmatic."
 category: food
 order: 40
-updated: 2024-06-13T00:00:00.000Z
+updated: 2026-08-29
 imported: true
-image: /images/joe-rogan-coffee/coffee-working-out.png
+image: "/images/joe-rogan-coffee/coffee-working-out.png"
+imageAlt: "Coffee beside workout equipment"
+faq:
+  - q: "What coffee does Joe Rogan drink?"
+    a: "Black Rifle Coffee is the clearest recent answer we can verify. In JRE #2170 in 2024, Rogan said the studio was drinking Black Rifle coffee and using it in a Laird Superfood setup. He has also discussed Caveman Coffee, Laird Superfood and Four Sigmatic over the years."
+  - q: "Does Joe Rogan drink Black Rifle Coffee?"
+    a: "Yes. In JRE #2170, Rogan explicitly identified the black coffee being served in the studio as Black Rifle Coffee. Black Rifle founder Evan Hafer has also appeared on JRE multiple times, including episode #2453 in February 2026."
+  - q: "Which Black Rifle Coffee does Joe Rogan drink?"
+    a: "We can verify that Rogan has used Black Rifle Coffee, but not one permanent roast as his current favorite. Current Black Rifle staples include Just Black, AK-Espresso, Silencer Smooth and Beyond Black."
+  - q: "What is the turmeric coffee Joe Rogan drinks?"
+    a: "Rogan has used Laird Superfood products in the JRE studio. In JRE #2170 he described a setup combining Black Rifle coffee with ingredients including coconut oil, turmeric and cacao."
+  - q: "Does Joe Rogan drink Caveman Coffee?"
+    a: "Historically, yes. Rogan discussed Caveman Coffee and its sourcing in older JRE episodes. Those references are useful history but should not be treated as proof that Caveman is his current daily coffee."
+  - q: "Does Joe Rogan drink mushroom coffee?"
+    a: "Four Sigmatic has a long-running association with Rogan and JRE, and the company still features a Rogan endorsement. It is better described as a coffee he has used and promoted than as his only current coffee."
+  - q: "How much caffeine is too much?"
+    a: "The FDA says 400 mg of caffeine per day is an amount not generally associated with negative effects for most adults, although sensitivity and coffee caffeine content vary widely."
 ---
 
-![Coffee working out](/images/joe-rogan-coffee/coffee-working-out.png)
+Joe Rogan has talked about a lot of coffee over the years, which is why simple answers like **"Joe Rogan's favorite coffee is ___"** tend to get outdated fast.
 
+The clearest recent answer we can actually verify is **Black Rifle Coffee Company**. In a 2024 episode of JRE, Rogan identified the black coffee being served in the studio as Black Rifle and said they used Black Rifle coffee in a Laird Superfood setup. He has also had long-running connections to **Laird Superfood, Caveman Coffee and Four Sigmatic**.
 
-**_Key points_** _(updated 6/13/24)_
+**Last reviewed: August 29, 2026.** We separate direct/recent evidence from older mentions so you can see what is current, what is historical, and what is simply JRE-associated.
 
--   Black Rifle Coffee Company
+> **Affiliate disclosure:** Rogan Recs may earn a commission from qualifying Amazon purchases. That does not change which products we include or how we describe Rogan's connection to them.
 
-    -   Joe Rogan's most talked-about and favorite coffee brand. Known for its strong, robust flavors and veteran-owned status.
+## Joe Rogan's coffee at a glance
 
--   Caveman Coffee
+| Coffee / product | Rogan connection | Best for | Buy |
+|---|---|---|---|
+| **Black Rifle Coffee** | Direct studio use confirmed in JRE #2170; long-running JRE relationship | The clearest answer to "what coffee does Joe Rogan drink?" | [Shop Black Rifle Coffee on Amazon](https://www.amazon.com/s?k=Black+Rifle+Coffee) |
+| **Laird Superfood Turmeric Creamer** | Rogan described using a Laird setup with Black Rifle coffee, turmeric, coconut oil and cacao | Recreating the more elaborate JRE-style cup | [Shop Laird Turmeric Creamer on Amazon](https://www.amazon.com/s?k=Laird+Superfood+Turmeric+Creamer) |
+| **Caveman Coffee** | Direct historical mentions going back to early JRE | Fans interested in Rogan's older coffee recommendations | [Shop Caveman Coffee on Amazon](https://www.amazon.com/s?k=Caveman+Coffee) |
+| **Four Sigmatic Mushroom Coffee** | Long-running Rogan/JRE association; Rogan endorsement remains on the brand's site | People specifically looking for mushroom coffee | [Shop Four Sigmatic on Amazon](https://www.amazon.com/s?k=Four+Sigmatic+Mushroom+Coffee) |
 
-    -   Another brand often mentioned by Rogan, recognized for its unique blends and commitment to quality.
+**If you only want one answer:** start with **Black Rifle Coffee**. It has the strongest recent, direct evidence of being served in the JRE studio.
 
--   Laird Hamilton Coffee & Creamers
+## 1. Black Rifle Coffee: the strongest current answer
 
-    -   Featured in Rogan's discussions, this brand is known for its health-conscious approach and innovative coffee products.
+Black Rifle Coffee Company is the coffee brand we can most confidently connect to Rogan's more recent studio routine.
 
+During **JRE #2170 with Max Lugavere** in 2024, Rogan was discussing Laird Hamilton's coffee products when the cup in front of him came up. The coffee was identified as Black Rifle, and Rogan explained that the studio used Black Rifle coffee in the Laird setup.
 
-[**Get Black Rifle Coffee on Amazon**](https://www.amazon.com/s?crid=Y3Z0YLS4GMH3&k=black%20rifle%20coffee&language=en_US&linkCode=ll2&linkId=a9e118d18336befd96abacc1f88f7d48&ref_=as_li_ss_tl&sprefix=black%20rifle%20coffee%2Caps%2C188&tag=rogan-recs-20)
+That is much stronger evidence than an old sponsor list or a generic claim that Black Rifle is "his favorite." It is Rogan describing what they were actually using in the studio at that time.
 
-## Coffee Discussed on the Joe Rogan Experience
+Black Rifle also has a sustained JRE connection. Founder **Evan Hafer** has appeared on JRE repeatedly, including **#1546, #1693, #2070, #2230 and #2453**. His latest appearance in that run, #2453, aired in February 2026.
 
-Joe Rogan, the influential podcaster and commentator, is not just known for his thought-provoking conversations and diverse array of guests. He's also famous for his love of coffee. Among his preferred brands, Black Rifle Coffee Company stands out. This article delves into why Black Rifle is Rogan's number one choice and what makes this brand unique.
+[Shop Black Rifle Coffee on Amazon](https://www.amazon.com/s?k=Black+Rifle+Coffee)
 
-### Joe Rogan's Coffee Philosophy
+### Which Black Rifle Coffee should you buy?
 
-Rogan's approach to coffee mirrors his approach to life: intense, authentic, and uncompromising. For him, coffee isn't just a beverage; it's a ritual and a vital part of his daily regimen. His podcast often features a cup of steaming coffee at his side, a testament to his belief in its power to enhance focus and energy.
+There is no good evidence that Rogan has declared one current Black Rifle roast his permanent favorite, so we would not pretend otherwise. Instead, here are some of the brand's current core options:
 
-### Why Black Rifle Coffee Company?
+| Roast | Style | Who it makes sense for | Amazon |
+|---|---|---|---|
+| **Just Black** | Medium roast | Best all-around starting point | [Check Just Black](https://www.amazon.com/s?k=Black+Rifle+Coffee+Just+Black) |
+| **AK-Espresso** | Espresso-focused roast | Espresso machines, moka pots or a bolder cup | [Check AK-Espresso](https://www.amazon.com/s?k=Black+Rifle+Coffee+AK+Espresso) |
+| **Silencer Smooth** | Lighter, smoother option | People who do not want a heavy dark roast | [Check Silencer Smooth](https://www.amazon.com/s?k=Black+Rifle+Coffee+Silencer+Smooth) |
+| **Beyond Black** | Darker roast | People who want a more intense, roasty cup | [Check Beyond Black](https://www.amazon.com/s?k=Black+Rifle+Coffee+Beyond+Black) |
 
-Black Rifle Coffee Company has captured Rogan's attention and loyalty for several reasons. Firstly, the brand's commitment to quality resonates with Rogan's pursuit of excellence. They source premium beans and roast them to perfection, ensuring a rich, robust flavor that appeals to connoisseurs like Rogan.
+Black Rifle currently sells several of these in **ground coffee, whole bean and K-Cup formats**, so the practical choice may be as much about your brewer as the roast.
 
-Secondly, Black Rifle's ethos aligns with Rogan's values. As a company founded by veterans, it represents strength, resilience, and a dedication to community and country. These qualities deeply resonate with Rogan, who often voices support for the military and first responders.
+### Our pick: Black Rifle Just Black
 
-#### The Taste Test
+If you are coming to this page because you simply want to try the coffee most closely tied to Rogan right now, **Just Black is the easiest place to start**. It is a mainstream medium roast rather than an extreme light or dark roast, and it is widely available in multiple formats.
 
-Rogan's endorsement is not just about the brand's ethos; it's also about the taste. He has often been heard praising the smooth yet bold flavor of Black Rifle's coffee, highlighting its balance of acidity and sweetness. This perfect blend makes it a frequent choice for his morning brew.
+[Shop Black Rifle Just Black on Amazon](https://www.amazon.com/s?k=Black+Rifle+Coffee+Just+Black)
 
-#### The Range of Choices
+**Important:** that is our buying recommendation, not a claim that Just Black is Rogan's personal favorite roast.
 
-Black Rifle offers a variety of blends and roasts, catering to a wide range of preferences. Some of the favorites include:
+## 2. The Laird Superfood connection
 
--   AK-47 Espresso Blend: A powerful, intense blend that's perfect for those who like their coffee strong.
+The more interesting part of Rogan's coffee setup is that he has not always been drinking plain black coffee.
 
--   Silencer Smooth Roast: As the name suggests, this one is for lovers of a smoother, more subtle flavor.
+In the same JRE #2170 conversation, Rogan said he had been drinking Laird Hamilton's coffee in the studio and described a Laird setup that used **Black Rifle coffee** with ingredients including **coconut oil, turmeric and cacao**.
 
--   C.A.F. (Caffeinated as Fk)\*\*: A high-caffeine option for those who need an extra kick to start their day.
+That gives us a useful way to understand the two brands:
 
+- **Black Rifle** can be the coffee itself.
+- **Laird Superfood** can be the add-in / functional-coffee side of the cup.
 
-Rogan's preference often leans towards the bolder blends, reflecting his dynamic personality.
+Laird's current **Turmeric Superfood Creamer** is a powdered, dairy-free creamer made with coconut milk powder, organic coconut sugar, organic turmeric powder and seaweed-derived calcium.
 
-#### Beyond the Cup
+[Shop Laird Superfood Turmeric Creamer on Amazon](https://www.amazon.com/s?k=Laird+Superfood+Turmeric+Creamer)
 
-Black Rifle's impact goes beyond the coffee cup. They are committed to supporting veterans and first responders, aligning with Rogan's own initiatives to give back to these communities. This social responsibility aspect is a significant factor in Rogan's support for the brand.
+### A simple Rogan-inspired cup
 
-#### Rogan's Influence on Coffee Culture
+If you want the easy version rather than trying to duplicate an old studio machine:
 
-Rogan's endorsement of Black Rifle has introduced the brand to his massive audience, influencing coffee culture significantly. Fans of the podcast are now exploring more artisanal, quality-focused coffee options, moving away from generic, mass-produced brands.
+1. Brew the Black Rifle roast you prefer.
+2. Add Laird Turmeric Superfood Creamer to taste.
+3. Froth or blend if you want a smoother texture.
 
-Joe Rogan's preference for Black Rifle Coffee Company is more than just a taste choice; it's a reflection of his values, his lifestyle, and his commitment to quality and community. For Rogan and his followers, coffee is more than a beverage – it's a statement.
+That is a **Rogan-inspired** cup, not a claim that he follows that exact recipe every morning in 2026.
 
-#### Joe Rogan and Black Rifle Coffee Company: A Blend of Passion and Quality
+![Coffee and weights](/images/joe-rogan-coffee/coffee-weights.png)
 
-Joe Rogan, the famed podcast host and a man of eclectic tastes, has a well-known appreciation for a good cup of coffee. Among the various brands he's discussed, Black Rifle Coffee Company stands out as a particular favorite. This is more than just a preference for taste; it aligns with Rogan's support for veteran-owned businesses and his love for high-quality, artisanal products.
+## 3. Caveman Coffee: a real Rogan favorite historically
 
-Black Rifle Coffee Company, founded by former Green Beret Evan Hafer, is renowned not just for its robust flavors but also for its commitment to supporting veterans and first responders. This ethos resonates deeply with Rogan, who often uses his platform to advocate for the well-being and recognition of veterans. The company's mission to serve coffee and culture to the people who love America aligns seamlessly with Rogan's patriotic sentiments and his support for those who serve.
+Caveman Coffee belongs on this page, but it needs the right date label.
 
-On his podcast, Rogan has often highlighted the importance of knowing where your coffee comes from and the process behind its creation. Black Rifle Coffee, with its focus on small-batch, high-quality roasting, embodies this philosophy. They are known for sourcing the best beans, ensuring a rich and full-bodied experience in every cup - something that Rogan, as a coffee connoisseur, highly values.
+Rogan was talking positively about Caveman Coffee more than a decade ago. In **JRE #587 with Ron Finley** in December 2014, he described Caveman as a friend's single-source coffee company and specifically praised its direct relationship with coffee farmers.
 
-But it's not just about the quality of the coffee. For Rogan, the story behind Black Rifle Coffee Company is equally compelling. The brand represents resilience, dedication, and a commitment to excellence - traits that Rogan admires and often seeks in the products he endorses. By choosing Black Rifle Coffee, Rogan is not just enjoying a premium coffee experience; he's also making a statement of support for a company that embodies values he holds dear.
+He also discussed Caveman Coffee in **JRE #467 with coffee expert Peter Giuliano**, saying the company roasted coffee as orders came in and mentioning co-owner Tate Fletcher as a serious coffee enthusiast.
 
-![Coffee weights](/images/joe-rogan-coffee/coffee-weights.png)
+Those are direct Rogan references, not secondhand internet lore.
 
-Black Rifle Coffee has become a staple on the Joe Rogan Experience
+[Shop Caveman Coffee on Amazon](https://www.amazon.com/s?k=Caveman+Coffee)
 
-### Coffee + Hard Workouts
+### Is Caveman Coffee still Joe Rogan's coffee?
 
-Coffee can be a powerful ally for those who incorporate it into their workout routine. One of the primary benefits is its ability to enhance physical performance. Caffeine, the active ingredient in coffee, acts as a stimulant that can increase adrenaline levels in the body, preparing it for intense physical exertion. This boost can lead to improved strength, endurance, and overall workout efficiency. Additionally, caffeine helps in mobilizing fatty acids from the fat tissues, making them available for use as energy, which can be particularly beneficial for those engaged in endurance sports or high-intensity training sessions.
+We would call it a **historical Rogan recommendation**, not his verified current daily coffee.
 
-Coffee can also positively impact mental focus and motivation during workouts. The cognitive benefits of caffeine include increased alertness and concentration, which can help athletes maintain focus on their exercises and routines. This heightened mental state can reduce the perception of effort, making workouts feel less strenuous and more enjoyable. Furthermore, the antioxidant properties of coffee contribute to reducing inflammation and muscle soreness, aiding in quicker recovery times. By combining these physical and mental benefits, coffee can be an effective tool for enhancing workout performance and overall fitness progress.
+That distinction matters. A lot of old "Joe Rogan favorite products" pages take a 2014 or 2015 quote and silently present it as a 2026 routine. We are not doing that here.
 
-#### **FAQs about Joe Rogan and Coffee**
+## 4. Four Sigmatic mushroom coffee
 
-**What is Joe Rogan's favorite coffee?**
+Four Sigmatic is another long-running JRE-associated brand. Rogan has publicly praised Four Sigmatic's Lion's Mane products, and Four Sigmatic still features his endorsement on its own coffee marketing.
 
-Joe Rogan has expressed his preference for Black Rifle Coffee Company, a veteran-owned business known for its high-quality coffee and commitment to supporting veterans and first responders.
+That makes it a legitimate inclusion in a guide to coffee Rogan has used or promoted, but it is not the strongest answer to "what is Joe Rogan drinking now?"
 
-**Has Joe Rogan talked about Laird Hamilton's coffee products?**
+[Shop Four Sigmatic Mushroom Coffee on Amazon](https://www.amazon.com/s?k=Four+Sigmatic+Mushroom+Coffee)
 
-Yes, Joe Rogan has discussed Laird Hamilton's coffee products, including the turmeric creamer. Rogan, known for his interest in health and wellness, appreciates the added health benefits that come with ingredients like turmeric.
+### Should you buy mushroom coffee because Rogan uses it?
 
-**What makes Black Rifle Coffee Company unique?**
+Only if you actually want mushroom coffee.
 
-Black Rifle Coffee Company is unique for its dedication to quality and its mission to support American veterans and first responders. Founded by a former Green Beret, the company focuses on small-batch, premium roasting and is known for its robust flavors.
+Do not assume a more complicated ingredient list automatically makes a coffee better. If what you want is caffeine and coffee flavor, normal coffee is simpler and usually cheaper. Four Sigmatic makes more sense for someone who specifically wants a coffee-and-mushroom blend and likes the taste.
 
-**Does Joe Rogan prefer a specific type of coffee blend or roast?**
+## What we would buy
 
-While Joe Rogan hasn't specified a favorite blend or roast, his endorsement of Black Rifle Coffee suggests a preference for rich, full-bodied flavors often found in medium to dark roasts.
+For readers who do not want to research every bag and product, this is the shortlist:
 
-**What is special about Laird Hamilton's turmeric creamer mentioned by Rogan?**
+1. **Best overall / closest to the current JRE connection:** [Black Rifle Just Black](https://www.amazon.com/s?k=Black+Rifle+Coffee+Just+Black)
+2. **Best for espresso or a bolder cup:** [Black Rifle AK-Espresso](https://www.amazon.com/s?k=Black+Rifle+Coffee+AK+Espresso)
+3. **Best add-in for the Laird-style setup:** [Laird Turmeric Superfood Creamer](https://www.amazon.com/s?k=Laird+Superfood+Turmeric+Creamer)
+4. **Best if you specifically want mushroom coffee:** [Four Sigmatic Mushroom Coffee](https://www.amazon.com/s?k=Four+Sigmatic+Mushroom+Coffee)
 
-Laird Hamilton's turmeric creamer, highlighted by Rogan, combines the health benefits of turmeric with a dairy-free creamer. Turmeric is known for its anti-inflammatory properties and adds a unique flavor profile to the coffee.
+If you use a Keurig, Black Rifle also sells K-Cups:
 
-**How does Joe Rogan incorporate coffee into his diet and routine?**
+[Shop Black Rifle Coffee K-Cups on Amazon](https://www.amazon.com/s?k=Black+Rifle+Coffee+K+Cups)
 
-Joe Rogan often enjoys coffee as part of his morning routine and has mentioned it as a staple in his diet. He values high-quality coffee and prefers brands that align with his principles of wellness and support for veterans.
+Amazon availability and pricing change frequently, so the links above intentionally go to current Amazon results rather than hard-coding a price that may be wrong next week.
 
-**Has Rogan ever discussed the health benefits of coffee on his podcast?**
+## Does Joe Rogan drink coffee before workouts?
 
-Yes, Joe Rogan frequently discusses the health benefits of coffee on his podcast, including its antioxidant properties and its impact on cognitive function and physical performance.
+Rogan's broader routine frequently mixes caffeine, training, sauna and other performance habits, but the useful question is whether **caffeine itself can help exercise performance**.
 
-**Does Joe Rogan use any special brewing methods for his coffee?**
+The sports-nutrition evidence is reasonably strong: caffeine can improve performance in many people, although response varies. Research reviews often study doses around **3–6 mg of caffeine per kilogram of body weight** before exercise. That is a research range, **not a target everyone should copy**, and higher doses are not automatically better.
 
-While Joe Rogan hasn't detailed specific brewing methods, his preference for quality suggests he might favor methods that enhance the coffee's flavor, such as French press or pour-over.
+For everyday intake, the FDA says **400 mg of caffeine per day** is an amount not generally associated with negative effects for most adults. Sensitivity varies substantially, and coffee caffeine content varies by bean, brew method and serving size.
 
-**Is there a particular coffee product Rogan recommends for athletes or fitness enthusiasts?**
+The practical takeaway is simpler: if coffee helps your workout and does not wreck your sleep, make you anxious or cause other side effects, it can be useful. You do not need an extreme dose.
 
-Rogan hasn't recommended a specific coffee product for athletes, but his discussions often lean towards coffee brands that offer both a high-quality taste and health benefits, like those with added natural ingredients for wellness.
+## Black Rifle vs. Caveman vs. Four Sigmatic
 
-**What does Joe Rogan think about adding creamers or sweeteners to coffee?**
+| If you want... | Start here |
+|---|---|
+| The coffee with the clearest recent JRE studio connection | [Black Rifle Coffee](https://www.amazon.com/s?k=Black+Rifle+Coffee) |
+| A classic medium roast | [Black Rifle Just Black](https://www.amazon.com/s?k=Black+Rifle+Coffee+Just+Black) |
+| A historical Rogan coffee recommendation | [Caveman Coffee](https://www.amazon.com/s?k=Caveman+Coffee) |
+| Mushroom coffee | [Four Sigmatic](https://www.amazon.com/s?k=Four+Sigmatic+Mushroom+Coffee) |
+| A turmeric/coconut-based coffee add-in | [Laird Turmeric Creamer](https://www.amazon.com/s?k=Laird+Superfood+Turmeric+Creamer) |
 
-Joe Rogan's opinions about creamers and sweeteners aren't explicitly detailed, but his interest in Laird Hamilton's turmeric creamer suggests an openness to health-conscious additions to coffee.
+## What changed from the old "Joe Rogan coffee" lists?
 
-**What's the story behind Black Rifle Coffee Company's founding?**
+Rogan's coffee history spans years.
 
-Black Rifle Coffee Company was founded by a former Green Beret with a mission to support American veterans and first responders. This veteran-owned business combines a love for coffee with a strong commitment to its community.
+Older articles often bundled together every coffee brand ever mentioned on JRE and called all of them his "favorites." A more accurate way to read the history is:
 
-**How does Black Rifle Coffee Company support veterans?**
+- **Black Rifle Coffee:** strongest recent direct evidence and an ongoing JRE relationship.
+- **Laird Superfood:** directly connected to the studio coffee setup Rogan described in 2024.
+- **Caveman Coffee:** strong direct historical connection, especially in older JRE episodes.
+- **Four Sigmatic:** long-running Rogan/JRE-associated mushroom coffee brand.
 
-The company actively supports veterans and first responders through various initiatives and partnerships. Their commitment goes beyond just financial contributions, focusing on meaningful support and community engagement.
+That is why this page does not crown four different brands as his "number one favorite" at the same time.
 
-**Are there any unique flavors or blends offered by Black Rifle Coffee Company?**
+## More Joe Rogan food, drink and performance guides
 
-Black Rifle Coffee Company is known for its diverse range of blends and flavors. Each blend is crafted to provide a unique tasting experience, catering to different preferences.
+- [Joe Rogan supplements: complete guide](/supplements)
+- [Joe Rogan energy drinks](/energy-drink-joe-rogan)
+- [Joe Rogan books](/joe-rogan-books)
+- [Joe Rogan sauna guide](/joe-rogan-sauna-guide)
+- [Joe Rogan cold plunge guide](/joe-rogan-cold-plunge-guide)
 
-**How does Joe Rogan's endorsement impact Black Rifle Coffee Company?**
+## Sources and verification
 
-Joe Rogan's endorsement brings significant visibility and credibility to Black Rifle Coffee Company, aligning with his audience who value quality, authenticity, and support for veterans.
+We prioritize direct JRE transcripts and primary brand information where possible.
 
-**Has Joe Rogan collaborated with Black Rifle Coffee Company for any special products?**
+- **JRE #2170 — Max Lugavere (2024):** Rogan discusses Laird's coffee setup and identifies the studio coffee as Black Rifle. [Read the transcript](https://jre.ai/episodes/2170-max-lugavere/transcript)
+- **JRE #2453 — Evan Hafer (February 12, 2026):** recent appearance by Black Rifle founder Evan Hafer. [Watch on PowerfulJRE](https://www.youtube.com/watch?v=y2SD_z61FRo)
+- **JRE #587 — Ron Finley (2014):** Rogan discusses Caveman Coffee's sourcing and farmer relationship. [Read the transcript](https://podscripts.co/podcasts/the-joe-rogan-experience/587-ron-finley)
+- **JRE #467 — Peter Giuliano (2014):** Rogan discusses Caveman Coffee's roasting and Tate Fletcher. [Read the transcript](https://podscripts.co/podcasts/the-joe-rogan-experience/467-peter-giuliano)
+- **Black Rifle Coffee Company:** current product lineup and available formats. [View Black Rifle's shop](https://www.blackriflecoffee.com/shop)
+- **Laird Superfood:** current Turmeric Superfood Creamer ingredients. [View the product](https://lairdsuperfood.com/products/superfood-creamer-turmeric)
+- **Four Sigmatic:** current brand page featuring Rogan's endorsement. [View Four Sigmatic](https://us.foursigmatic.com/pages/ground-coffee-fb)
+- **FDA:** general guidance on caffeine intake for most adults. [Read FDA caffeine guidance](https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much)
 
-As of now, there's no specific collaboration product between Joe Rogan and Black Rifle Coffee Company, but Rogan's endorsement of the brand speaks to his appreciation of their products and mission.
-
-**What does Joe Rogan appreciate most about Black Rifle Coffee Company?**
-
-Joe Rogan appreciates Black Rifle Coffee Company's dedication to quality, their support for veterans, and their commitment to producing robust and flavorful coffee.
+**Editorial note:** Rogan's routine changes. If he explicitly identifies a different current coffee or roast in a newer episode, this page should be updated rather than treating an old mention as permanent.
