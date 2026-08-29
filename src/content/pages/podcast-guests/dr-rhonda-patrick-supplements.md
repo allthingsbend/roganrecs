@@ -1,148 +1,410 @@
 ---
-title: 'Dr. Rhonda Patrick''s Supplements: The Full List'
-h1: Dr. Rhonda Patrick Supplements
+title: 'Dr. Rhonda Patrick Supplements: Current Stack, Doses & Evidence'
+h1: 'Dr. Rhonda Patrick Supplements: A Sourced Guide to Her Current Stack'
 description: >-
-  Dr. Rhonda Patrick's supplement recommendations, including omega-3s, vitamin
-  D, magnesium and sulforaphane, and the reasoning she gives for each.
+  A sourced guide to Dr. Rhonda Patrick's current supplements, doses and timing,
+  including omega-3s, vitamin D, magnesium, creatine, sulforaphane and more.
 category: supplements
 order: 22
-updated: 2025-01-02T00:00:00.000Z
+updated: 2026-08-28T00:00:00.000Z
 imported: true
 image: /images/podcast-guests-dr-rhonda-patrick-supplements/dr-rhonda-patrick.png
 ---
 
-![Dr rhonda patrick](/images/podcast-guests-dr-rhonda-patrick-supplements/dr-rhonda-patrick.png)
+![Dr. Rhonda Patrick](/images/podcast-guests-dr-rhonda-patrick-supplements/dr-rhonda-patrick.png)
 
+Dr. Rhonda Patrick has discussed supplements for years, but her routine is **not a fixed list that stays the same forever**. She changes doses based on diet, training, bloodwork, travel, sleep and new research. That is important because many online “Rhonda Patrick supplement stack” lists still repeat doses she used years ago as if they are current.
 
-## Navigating the Nutritional Wisdom of Dr. Rhonda Patrick: A Deep Dive into Her Supplement Recommendations
+This guide focuses on what Patrick has **recently said she personally takes**, what she considers higher-priority for many people, the doses and timing she has publicly described, and where the evidence is strong, mixed or still emerging.
 
-_Updated 1/1/25_
+> **Quick takeaway:** Patrick's most consistently emphasized core supplements are omega-3s, a multivitamin, vitamin D, magnesium and creatine. Her own larger routine also includes compounds such as sulforaphane, vitamin K2, PQQ, ubiquinol, cocoa flavanols, myo-inositol and — depending on the situation — melatonin and beetroot.
 
-Dr. Rhonda Patrick, a biomedical scientist and health advocate, emphasizes the importance of supplementation to support health and longevity. Below is a list of supplements she frequently discusses, recommends, and incorporates into her regimen:
+For Joe Rogan's broader routine, see our [Joe Rogan supplements guide](/supplements). You can also compare this page with our [Andrew Huberman supplements guide](/podcast-guests/andrew-huberman-supplement-guide).
 
--   Multivitamin: A high-quality multivitamin with bioavailable forms of vitamins and minerals, including methylated B vitamins and antioxidants like CoQ10 and lutein.
+## Dr. Rhonda Patrick's supplement stack at a glance
 
--   Omega-3 Fatty Acids: Daily intake of 2 to 4 grams of combined EPA and DHA for anti-inflammatory and cognitive benefits.
+| Supplement | Recent personal dose / use she has described | Typical timing she has described | Why it is in her routine |
+| --- | --- | --- | --- |
+| Creatine monohydrate | Usually 5–10 g/day; often 10 g, split into two 5 g doses | Morning / around training | Muscle performance and possible brain-energy support |
+| Omega-3 fish oil | About 2 g/day in a 2025 routine update after previously using more | Split with meals | EPA/DHA intake and omega-3 status |
+| Multivitamin | One daily serving of her chosen product | With food, often lunch or morning | Micronutrient “insurance” |
+| Vitamin D3 | Around 2,000 IU supplemental in one routine because her multivitamin supplied another 2,000 IU; she often discusses 2,000–4,000 IU as a general range | With a meal, often evening | Maintain adequate vitamin D status |
+| Magnesium glycinate | About 125–250 mg supplemental depending on the routine update | Evening | Fill magnesium gaps; she also prioritizes magnesium-rich foods |
+| Vitamin K2 | Included in her evening routine | With a meal | Bone and calcium-related physiology |
+| Sulforaphane precursor supplement | Avmacol in a recent routine update | With breakfast | Supports production of sulforaphane / Nrf2 signaling |
+| Cocoa flavanols | CocoaVia | Lunch or morning | Vascular and cognitive-interest compounds |
+| PQQ | Included in her routine | Often lunch / morning | Mitochondrial-interest supplement |
+| Ubiquinol / CoQ10 | Included in her evening routine | After dinner | Mitochondrial energy metabolism |
+| Myo-inositol | One scoop in a recent routine update | Evening | Personal sleep/metabolic use |
+| Melatonin | 3 mg in a 2025 routine update for her specific night-terror use; sometimes situational, including travel | Evening | Sleep / circadian support for a specific personal reason |
+| Beetroot extract | About 1 tablespoon on endurance or demanding work days | Before relevant activity | Dietary nitrate / nitric oxide pathway |
+| Glutamine | 5 g in a 2025 routine update | Morning | Personal training/nutrition routine |
 
--   Vitamin D3: Approximately 5,000 IU daily to support immune function and maintain optimal blood levels.
+**These are not universal prescriptions.** They are public descriptions of Patrick's own changing routine plus doses she has discussed. Your needs can differ based on diet, medications, health conditions, body size, laboratory values and goals.
 
--   Vitamin K2: Often paired with vitamin D3 to support bone and cardiovascular health by aiding proper calcium utilization.
+## Her five “highest-priority” supplements
 
--   Magnesium: Prefers magnesium glycinate, around 120 mg daily, to support muscle and nerve function, energy production, and DNA repair.
+In a 2026 discussion, Patrick highlighted five supplements that she thinks cover especially common nutritional or performance gaps: **omega-3s, a multivitamin, vitamin D, magnesium and creatine**.
 
--   Sulforaphane: Consumed through dietary sources like broccoli sprouts or supplements containing glucoraphanin and myrosinase for antioxidant benefits.
+She did not argue that every person needs the exact same dose. Instead, she framed them around common shortfalls, food intake, exercise and measurable status.
 
--   Alpha-Lipoic Acid: A potent antioxidant taken to support mitochondrial function and combat oxidative stress, typically around 600 mg daily.
+Source: [FoundMyFitness — How Five Common Supplements Fit a Health Plan](https://www.foundmyfitness.com/episodes/how-five-common-supplements-fit-a-health-plan)
 
--   Pyrroloquinoline Quinone: Included for its role in mitochondrial biogenesis and cognitive function, around 20 mg daily.
+### 1. Omega-3 fatty acids
 
--   Melatonin: Used for sleep regulation, with a higher dosage of 10 mg in her regimen.
+Omega-3s are near the top of Patrick's list, particularly for people who do not regularly eat fatty fish.
 
--   Creatine: Included for muscle energy and cognitive benefits, at a dose of 5 grams daily.
+In a 2026 discussion, she described **about 2 grams per day of EPA + DHA as a useful starting point** for someone trying to raise a low Omega-3 Index. The exact dose needed varies with baseline status, body size, product form, diet and the amount of EPA and DHA actually contained in the supplement.
 
--   Cocoa Extract: Taken for its cardiovascular and cognitive benefits, often in a concentrated supplement form.
+That is also a good example of why her old supplement lists can be misleading. Patrick previously used **4–6 grams of EPA + DHA per day**, but later lowered her own supplemental dose to roughly **2 grams daily** because she was eating a lot of salmon and her Omega-3 Index had become very high.
 
--   Benfotiamine: A fat-soluble form of vitamin B1 used to support nerve health and glucose metabolism.
+In her 2025 routine update she described taking roughly **1 gram with breakfast and another gram after dinner**.
 
--   Probiotics: Occasionally used to maintain gut health, particularly after disruptions like alcohol consumption or antibiotic use.
+Source: [FoundMyFitness — How Dr. Rhonda Patrick Builds Her Supplement Routine](https://www.foundmyfitness.com/episodes/rhonda-patrick-supplement-routine-2025)
 
--   N-Acetyl Cysteine: Taken to enhance glutathione production for detoxification and antioxidant defense.
+#### What matters when choosing fish oil?
 
--   Collagen Peptides: Used to support joint, skin, and connective tissue health.
+Do not judge an omega-3 supplement by the big “1,000 mg fish oil” number on the front of the bottle. The important numbers are the actual amounts of **EPA and DHA**.
 
--   Curcumin Phytosome: Included for its anti-inflammatory properties, as a natural alternative to painkillers.
+Patrick also emphasizes testing rather than assuming more is always better. The Omega-3 Index measures EPA and DHA in red blood cell membranes and can provide a more useful feedback loop than blindly copying someone else's dose.
 
--   Choline: Ensures adequate intake for brain health and liver function, supporting cognitive function and cellular health.
+A high-quality product should also have strong oxidation and contaminant controls. Independent testing is useful because fish oil quality can vary considerably.
 
--   Vitamin C: Liposomal vitamin C is taken for enhanced absorption and to support immune function.
+## 2. Multivitamin
 
--   Zinc Lozenges: Taken during times of increased viral exposure to boost immune defense.
+Patrick often describes a multivitamin as **nutritional insurance**, not a replacement for vegetables, fruit, protein or an otherwise nutrient-dense diet.
 
+Her recent public routines have included a **one-capsule Pure Encapsulations multivitamin**, which she has said is convenient because she already takes several other supplements. She has also discussed other reputable products over the years.
 
-Rhonda Patrick is a veritable powerhouse of scientific knowledge and practical wisdom in the realm of biomedical science. If you're as intrigued by the interplay of diet, supplements, and well-being as we are, then you're in for an enlightening journey.
+The strongest reason to include a multivitamin is not that it “optimizes” every pathway. It is that diets are imperfect and small micronutrient gaps can accumulate.
 
-Imagine sitting down for a coffee with Dr. Patrick. Her energy is infectious, her brain a treasure trove of facts and figures about how the foods we eat, and the supplements we take, can radically transform our health. "Let's dive deep into the world of micronutrients," she might say, her eyes sparkling with the passion of someone who lives and breathes science. She's not just a researcher; she's a storyteller who makes complex biochemistry understandable and, dare we say, fun!
+There is also some randomized evidence in older adults. The COSMOS research program found modest improvements in certain measures of global cognition and episodic memory among older adults taking a standard daily multivitamin. That does not prove a multivitamin improves cognition in every healthy young adult, but it is more meaningful evidence than many supplement claims have.
 
-Dr. Patrick doesn't just regurgitate facts; she connects the dots. With a knack for breaking down the science of nutrition into bite-sized, digestible pieces, she makes you realize that understanding your body's needs isn't just about reading labels or following trends. It's about embarking on a personal health journey, armed with knowledge and curiosity.
+Patrick's own multivitamin has also contributed vitamin D to her total daily intake, which matters when calculating her separate D3 dose.
 
-As you listen to her, you'll find yourself captivated by the way she explains how each supplement isn't just a pill or a powder, but a key to unlocking better health. She might lean in and say, "Did you know that Vitamin D isn't just a vitamin? It's like a hormone, influencing everything from your bones to your brain." You'll feel her enthusiasm as she talks about the wonders of Omega-3s or the hidden powers of Vitamin K2.
+## 3. Vitamin D3
 
-Grab your favorite healthy smoothie, and let's explore Dr. Rhonda Patrick's world of supplements. You're not just reading a blog; you're stepping into a narrative that could very well change the way you think about health and longevity. Ready to get a little nerdy about nutrients? Let’s go!
+Patrick has talked about vitamin D for years, but one of the biggest mistakes is copying a single dose without considering **total intake and blood level**.
 
-#### Rhonda Patrick on Vitamin D, Omega-3s and Exercise
+In her 2025 supplement update, she said she was taking around **2,000 IU of separate vitamin D3** because her multivitamin already supplied about **2,000 IU**, bringing her supplemental total to roughly 4,000 IU before considering sun exposure or food.
 
-#### Dr. Rhonda Patrick's Approach to Supplements
+In 2026, she again used **4,000 IU per day as a common reference point**, while emphasizing that individual needs vary.
 
-To truly grasp the essence of Dr. Rhonda Patrick's approach to supplements, one must understand her holistic and dynamic philosophy towards health. Dr. Patrick doesn't just see supplements as a band-aid solution for dietary deficiencies; she views them as integral tools in the grand scheme of health optimization, cognitive enhancement, and the pursuit of longevity.
+Source: [FoundMyFitness — How Five Common Supplements Fit a Health Plan](https://www.foundmyfitness.com/episodes/how-five-common-supplements-fit-a-health-plan)
 
-Imagine Dr. Patrick in her element, meticulously analyzing the latest scientific research, her eyes lighting up as she uncovers another piece of the puzzle linking nutrition to optimal health. She approaches supplementation with the precision of a scientist and the care of a health advocate. Her strategy is not static; it's a living, breathing entity that evolves with each new discovery and personal health insight.
+Vitamin D is fat-soluble, so it should not be treated like an unlimited “more is better” supplement. A **25-hydroxyvitamin D blood test** is far more useful than guessing indefinitely.
 
-For Dr. Patrick, supplements are more than just a means to fill gaps in nutrition; they are powerful agents that can actively tune the body's complex systems. She often emphasizes the importance of understanding the bioavailability of supplements – how well our bodies can absorb and use them – and the synergy between different nutrients. It's like conducting an orchestra where each instrument (or nutrient) plays a critical role in creating a harmonious symphony of health.
+Patrick has also discussed taking vitamin D with food. Absorption studies suggest taking D3 with a fat-containing meal can improve absorption compared with taking it without dietary fat.
 
-Her recommendations often stem from a deep dive into the cellular level, examining how specific supplements can influence gene expression, metabolic pathways, and the aging process itself. It's not uncommon for her to discuss how certain vitamins or minerals can impact mitochondrial function or the body's inflammatory response, shedding light on how these tiny capsules of nutrients can have profound effects on our well-being.
+Source: [FoundMyFitness — How to Time Supplements for Better Absorption](https://www.foundmyfitness.com/episodes/how-to-time-supplements-for-better-absorption)
 
-This approach is far from one-size-fits-all. Dr. Patrick is a staunch advocate for personalized nutrition, recognizing that each individual's health journey is unique. She encourages her audience to not just follow recommendations blindly but to understand their own bodies, listen to them, and adjust their supplement intake accordingly. This could involve considering factors like genetic predispositions, lifestyle, and current health status.
+## 4. Magnesium
 
-#### Key Supplements Recommended by Dr. Rhonda Patrick
+Magnesium is another nutrient Patrick consistently emphasizes because it participates in hundreds of enzymatic reactions, including energy metabolism, DNA-related processes, nerve function and muscle function.
 
-Vitamin D3: A champion of Vitamin D3, Dr. Patrick underscores its essential role in maintaining bone strength and regulating immune responses. She emphasizes personalized dosing, recognizing that each individual has an optimal level for maximum benefit.
+She tries to obtain substantial magnesium from food, especially leafy greens, but also supplements.
 
-Vitamin K2: Dr. Patrick highlights the often-overlooked Vitamin K2 for its critical roles in bone and dental health, cognitive function, and immunity. She delves into the historical dietary patterns to underscore the importance of K2, advocating for its inclusion in modern diets.
+Her public dose has changed. In the 2025 routine update she described about **125 mg of magnesium glycinate** in the evening. In a 2026 discussion she described **250 mg per day**, or two 125 mg capsules, while continuing to emphasize dietary magnesium.
 
-Omega-3 Fatty Acids: Dr. Patrick places significant importance on omega-3 fatty acids, especially from high-quality sources like Nordic Naturals EPA Xtra Fish Oil and Omega-3 Phospholipids, for their heart and brain health benefits.
+Source: [FoundMyFitness — How Five Common Supplements Fit a Health Plan](https://www.foundmyfitness.com/episodes/how-five-common-supplements-fit-a-health-plan)
 
-Multivitamins: The Pure Encapsulations O.N.E. Multivitamin is featured prominently in Dr. Patrick's recommendations, praised for its comprehensive coverage and bioavailability.
+The form matters mostly for absorption and gastrointestinal tolerance. Patrick has used glycinate and previously discussed citrate/malate forms. Magnesium oxide tends to be less well absorbed and is more likely to have a laxative effect.
 
-Other Supplements: This section would delve into the specific benefits of additional supplements like Vitamin B12, Magnesium Citrate-Malate, and others, highlighting their unique roles in maintaining health.
+People with significant kidney disease should not self-prescribe high-dose magnesium because impaired kidneys may have difficulty clearing excess magnesium.
 
-4\. Dr. Rhonda Patrick's Dietary Recommendations
+## 5. Creatine
 
-Complementing her supplement advice, Dr. Patrick advocates for a diet rich in natural micronutrients, time-restricted eating, and a reduction in simple carbohydrates. This section would provide a glimpse into her dietary philosophy and how it aligns with her supplement regimen.
+Creatine has become one of the most prominent parts of Patrick's current routine.
 
-5\. How to Integrate Supplements into Your Routine
+She has said her typical personal intake is **10 grams per day**, often split into **two 5-gram doses**. In a 2025 update, she said she may take only 5 grams on some running days and sometimes increases the dose during travel or severe sleep deprivation.
 
-This practical section would offer readers guidance on how to incorporate Dr. Patrick’s supplement recommendations into their daily lives, with a focus on tailoring choices to individual health needs and goals.
+In her 2026 discussion she again described **10 grams per day**, typically 5 grams before training and 5 grams afterward.
 
-The blog would conclude by summarizing Dr. Rhonda Patrick’s key messages about supplements and encouraging readers to approach their health journey with a balanced and research-informed perspective.
+Source: [FoundMyFitness — How Five Common Supplements Fit a Health Plan](https://www.foundmyfitness.com/episodes/how-five-common-supplements-fit-a-health-plan)
 
-![fish oil](/images/podcast-guests-dr-rhonda-patrick-supplements/fish-oil.png)
+### Why does she take more than the common 3–5 g maintenance dose?
 
-Dr. Rhonda Patrick emphasizes the significant benefits of Omega-3 fatty acids, particularly in supporting brain health, reducing inflammation, and promoting heart health. She advocates for the inclusion of Omega-3-rich foods or high-quality supplements in the diet, underscoring their essential role in maintaining overall wellness.
+Creatine's strongest evidence is for increasing muscle phosphocreatine, improving repeated high-intensity performance and supporting gains from resistance training. A common maintenance dose is **3–5 grams per day**.
 
-#### FoundMyFitness by Dr. Rhonda Patrick
+Patrick's interest in a higher dose is partly about the brain. Brain creatine appears harder to increase than muscle creatine, and she has highlighted emerging studies suggesting benefits under conditions of high energetic stress such as sleep deprivation.
 
-FoundMyFitness," hosted by Dr. Rhonda Patrick, is an informative platform where she shares her extensive knowledge on health, wellness, and longevity. The website is rich with content on various topics such as the benefits of Omega-3 fatty acids, the importance of micronutrients, and the latest research in biomedicine. Dr. Patrick presents complex scientific information in a way that's engaging and easy to understand, making it a valuable resource for anyone looking to enhance their health and wellness journey. For a more detailed exploration of her insights, visit [FoundMyFitness](https://www.foundmyfitness.com).
+That does **not** mean 10–20 grams per day has been proven superior for routine cognition in healthy, well-rested adults. It means Patrick is making a personal, evidence-informed choice based on a developing research area.
 
-#### FAQs - Dr. Rhonda Patrick Supplements (2025)
+She uses **creatine monohydrate**, the form with by far the strongest research base, and has said she prioritizes NSF-certified products for purity.
 
-**Why does Dr. Rhonda Patrick recommend multivitamins?**
+## Sulforaphane and broccoli-sprout compounds
 
-To ensure you're not deficient in micronutrients, acting as an insurance alongside a varied diet rich in vegetables and fruits.
+Sulforaphane has been central to Patrick's work for years. It is an isothiocyanate generated when the precursor **glucoraphanin** interacts with the enzyme **myrosinase**, which is abundant in broccoli sprouts and related cruciferous vegetables.
 
-**What does Dr. Patrick say about Vitamin D3?**
+Sulforaphane activates Nrf2-related cellular defense pathways and has been studied in areas ranging from detoxification enzymes to inflammation and neurological conditions. The research is interesting, but it is not accurate to claim that sulforaphane has been proven to prevent cancer or dramatically extend human lifespan.
 
-5000IU daily! She advocates for Vitamin D3 for boosting immunity, body composition, and reducing heart disease rates, emphasizing finding your "vitamin D sweet spot."
+In her 2025 routine update, Patrick said she takes **Avmacol**, a supplement designed to deliver glucoraphanin with myrosinase so the body can generate sulforaphane.
 
-**How does Vitamin K2 benefit health according to Dr. Patrick?**
+This distinction matters when shopping: a bottle labeled “broccoli extract” is not automatically equivalent to a product that has demonstrated delivery of a meaningful sulforaphane precursor system.
 
-Vitamin K2 is crucial for immunity, cognitive function, dental health, and bone development, often lacking in Western diets.
+## Vitamin K2
 
-**What are Dr. Patrick's views on Omega-3 fatty acids?**
+Patrick includes vitamin K2 in her personal routine, typically with her evening supplements.
 
-Essential for brain health, mood regulation, insulin sensitivity, and heart health, recommending food sources and supplements like Nordic Naturals ProOmega for purity.
+Vitamin K is involved in activating proteins that regulate blood clotting and calcium handling. K2 is often discussed alongside vitamin D because both intersect with bone metabolism, although the internet frequently overstates the claim that everyone taking vitamin D “must” take K2.
 
-**What multivitamin does Dr. Rhonda Patrick include in her routine?**
+People taking **warfarin or other vitamin-K-sensitive anticoagulants** should not change vitamin K intake without medical guidance.
 
-Pure Encapsulations Multi, for its comprehensive coverage of essential nutrients in bioavailable forms.
+## Cocoa flavanols / CocoaVia
 
-**Why pair Vitamin K2 with calcium and D3?**
+Patrick has long been interested in cocoa flavanols, which have been studied for effects on endothelial function, cerebral blood flow and cardiovascular markers.
 
-They work synergistically for maximum health benefits, particularly for bones and dental health.
+Her routine has included **CocoaVia**, a standardized cocoa-flavanol product. In different routine updates she has taken it with lunch or in the morning.
 
-**Can diet alone provide all necessary Omega-3s?**
+The useful distinction here is between cocoa flavanols and generic chocolate. Chocolate can contain calories, sugar and variable flavanol levels, while research products use standardized flavanol amounts.
 
-While food is preferred, supplementation may be necessary due to mercury risks in seafood, with Nordic Naturals ProOmega as a recommended supplement.
+Cocoa flavanols are promising for vascular function, but they should not be framed as a proven longevity drug.
 
-**What's the importance of fermented foods in Dr. Patrick's recommendations?**
+## PQQ
 
-They're a key source of Vitamin K2, essential for several health aspects, from immunity to bone health.
+Pyrroloquinoline quinone, or PQQ, is part of Patrick's personal routine and is often discussed in relation to mitochondrial signaling.
+
+Animal and mechanistic research around PQQ is interesting, while large, high-quality human outcome trials remain limited. That puts it in a **lower-confidence tier than creatine or correcting a clear nutrient deficiency**.
+
+Patrick has commonly paired her interest in PQQ with other mitochondrial-related compounds such as CoQ10 / ubiquinol.
+
+## CoQ10 / ubiquinol
+
+Coenzyme Q10 is involved in the mitochondrial electron-transport chain and cellular energy production. Supplemental forms include **ubiquinone** and **ubiquinol**.
+
+In her 2025 routine update Patrick said she had switched to a **VesiSorb ubiquinol** formulation because of its bioavailability characteristics.
+
+CoQ10 has more established clinical relevance in some specific settings — including certain cardiovascular contexts and statin-associated muscle symptoms — than it does as a universal anti-aging supplement for healthy people.
+
+If someone takes warfarin or is being treated for cardiovascular disease, they should discuss CoQ10 with their clinician because supplement-drug interactions and treatment goals can matter.
+
+## Myo-inositol
+
+Patrick has said she takes **myo-inositol in the evening**, including a scoop in her 2025 routine.
+
+Inositol compounds participate in cellular signaling and have been researched for conditions including polycystic ovary syndrome, insulin sensitivity and some psychiatric applications. Results depend heavily on the population and dose.
+
+Its presence in Patrick's routine should not be interpreted as evidence that every person needs an inositol supplement.
+
+## Melatonin: her dose is personal, not a universal recommendation
+
+One of the most misleading items on older Rhonda Patrick stack pages is melatonin.
+
+Patrick said in 2025 that she was taking **3 mg at night**, but she specifically explained that this dose was tied to her history of **night terrors** and that she had titrated down from a higher amount to find the lowest dose that worked for her.
+
+She also noted that she sometimes goes through periods without taking it. In a 2026 description of her routine, she mentioned using melatonin while jet-lagged after international travel.
+
+Source: [FoundMyFitness — How Dr. Rhonda Patrick Builds Her Supplement Routine](https://www.foundmyfitness.com/episodes/rhonda-patrick-supplement-routine-2025)
+
+So “Rhonda Patrick takes 3 mg of melatonin” is true in a specific context. “Rhonda Patrick recommends 3 mg of melatonin to everyone” is not.
+
+## Beetroot extract and dietary nitrate
+
+Patrick has described using roughly **a tablespoon of beetroot extract** on endurance-training days or days when she wants additional performance support.
+
+Beetroot is rich in nitrate, which can be converted through the nitrate-nitrite-nitric oxide pathway. Controlled research supports modest benefits for exercise efficiency and performance in some populations, particularly endurance contexts.
+
+This is a **situational performance tool** in her routine rather than a foundational nutrient supplement.
+
+## Glutamine
+
+In her 2025 routine update Patrick said she takes **5 grams of glutamine in the morning**.
+
+Glutamine is abundant in the body and has important roles in nitrogen transport, immune cells and the gut. Supplementation is useful in certain clinical settings, but evidence for meaningful performance gains in well-nourished healthy athletes is much less compelling than the evidence for creatine.
+
+That makes glutamine a good example of why a personal stack should not automatically become a universal recommendation list.
+
+## Alpha-lipoic acid
+
+Patrick has included **alpha-lipoic acid (ALA)** in her routine. ALA acts as a cofactor in mitochondrial metabolism and has antioxidant properties.
+
+Clinical evidence is strongest in narrower contexts such as diabetic neuropathy rather than broad anti-aging claims. High-dose use can affect blood sugar, so people on glucose-lowering medication should be cautious.
+
+## Vitamin C
+
+Her routine has also included supplemental **vitamin C**, often in the evening.
+
+Vitamin C is essential, but severe deficiency is uncommon in people eating adequate fruit and vegetables. Supplementation may be useful when intake is low, but mega-dosing should not be assumed to produce additional longevity or immune benefits.
+
+## What about NAD supplements and Tru Niagen?
+
+In a 2025 presentation later published by FoundMyFitness, Patrick listed **Tru Niagen (nicotinamide riboside)** among her evening supplements.
+
+Nicotinamide riboside is a precursor used by the body to make NAD+, a molecule involved in redox reactions and cellular metabolism. Human studies show that NR can increase NAD-related metabolites, but evidence that it meaningfully extends lifespan or prevents age-related disease in humans is not established.
+
+Source: [FoundMyFitness — How Exercise, Nutrition, and Heat Fit Into a Weekly Routine](https://www.foundmyfitness.com/episodes/how-exercise-nutrition-and-heat-fit-into-a-weekly-routine)
+
+## Does Rhonda Patrick still take all the supplements from older lists?
+
+Not necessarily.
+
+Older articles often include compounds such as high-dose omega-3s, calcium, lutein/zeaxanthin, benfotiamine, NAC, probiotics, collagen, curcumin, high-dose melatonin, specific eye-health formulas and older sulforaphane products.
+
+Patrick may have used or discussed those compounds at different points, but that does not mean each one belongs in her **current daily stack**.
+
+For this page, we give priority to her more recent first-party routine updates and clearly label older or situational items instead of merging every supplement she has ever mentioned into one giant list.
+
+## Her routine by time of day
+
+Patrick's 2025 first-party routine update gives a useful picture of how she organizes her supplements.
+
+### Morning
+
+- Creatine, often split into two 5 g servings
+- Glutamine
+- Beetroot extract on endurance or demanding work days
+- Fish oil with breakfast
+- Alpha-lipoic acid
+- Avmacol / sulforaphane precursor system
+
+### Midday / lunch
+
+- PQQ
+- CocoaVia / cocoa flavanols
+- Multivitamin
+
+### Evening / after dinner
+
+- Vitamin D3
+- Magnesium
+- Vitamin K2
+- Second fish-oil dose
+- Vitamin C
+- Ubiquinol
+- Myo-inositol
+- Melatonin when part of her current sleep routine
+
+This timing is **her routine**, not a requirement. The most important timing considerations are usually tolerance, consistency, whether a supplement is better absorbed with food, and whether the ingredient is stimulating or sleep-oriented.
+
+## Brands Dr. Patrick has named
+
+Patrick has publicly named brands such as Pure Encapsulations, Thorne, NOW, Avmacol and CocoaVia in descriptions of her own routine. She has also explicitly said in first-party discussions that she does **not have a financial affiliation with the brands she was naming** in those routine updates.
+
+A brand mention is useful because it can clarify the exact formulation she is talking about, but readers should not assume that the brand itself is the reason a supplement works.
+
+For products such as creatine, fish oil and botanical extracts, priorities include:
+
+- accurate ingredient and dose labeling
+- appropriate third-party testing
+- contaminant testing
+- oxidation control for oils
+- standardized active compounds where relevant
+- avoiding proprietary blends that hide doses
+
+## What is actually evidence-backed vs. more experimental?
+
+A useful way to think about Patrick's stack is by evidence tier rather than by popularity.
+
+### Higher-confidence uses
+
+**Creatine monohydrate:** strong evidence for strength, power and resistance-training support.
+
+**Vitamin D:** strong reason to correct deficiency; dose should be based on intake, sun exposure and blood status.
+
+**Magnesium:** essential nutrient; supplementation is most compelling when diet is inadequate or needs are increased.
+
+**Omega-3s:** well-established biology and clinical uses, particularly for triglyceride lowering; broader cognitive and longevity effects depend on population and dose.
+
+**Multivitamin:** useful as nutritional insurance; some randomized evidence suggests modest cognitive benefit in older adults.
+
+### Promising but more context-dependent
+
+**Sulforaphane:** interesting human and mechanistic research, but not a proven disease-prevention drug.
+
+**Cocoa flavanols:** evidence for vascular effects; long-term clinical outcome evidence is more limited.
+
+**Beetroot nitrate:** good exercise-performance evidence in certain contexts.
+
+**Myo-inositol:** useful evidence for selected metabolic and reproductive indications, not universally needed.
+
+### More experimental for general longevity
+
+**PQQ, nicotinamide riboside and some mitochondrial-targeted combinations:** biologically interesting with human biomarker data, but far less evidence for meaningful long-term health outcomes than headlines often imply.
+
+## The bigger lesson from Patrick's supplement routine
+
+Patrick's actual approach is more measured than a shopping-list interpretation makes it look.
+
+She repeatedly adjusts her routine based on **diet and biomarkers**. Her omega-3 intake dropped when her fish intake and Omega-3 Index made the previous dose unnecessary. Her vitamin D intake depends partly on how much she gets from her multivitamin and, ideally, blood testing. She has changed magnesium forms and amounts. Melatonin use depends on her personal sleep situation. Creatine dose changes with training, travel and sleep deprivation.
+
+That is a much more useful model than copying every dose exactly.
+
+## Safety considerations before copying the stack
+
+Even common supplements can have meaningful interactions or risks.
+
+Extra caution is warranted if you:
+
+- take anticoagulants or antiplatelet medication
+- have kidney or liver disease
+- take blood-pressure or glucose-lowering medications
+- are pregnant or breastfeeding
+- have surgery scheduled
+- are taking high-dose vitamin D or multiple products containing the same vitamins
+- use prescription medications that could interact with melatonin, magnesium or botanical compounds
+
+Also check for **duplicate ingredients**. A multivitamin plus separate vitamin D, vitamin K, magnesium or other formulas can add up quickly.
+
+## Frequently asked questions
+
+### What are Dr. Rhonda Patrick's top five supplements?
+
+In a recent 2026 discussion she highlighted **omega-3s, a multivitamin, vitamin D, magnesium and creatine** as five high-priority supplements based on common nutritional and performance considerations.
+
+### How much creatine does Rhonda Patrick take?
+
+She has said she typically takes **10 grams per day**, often split into two 5-gram doses. She may use 5 grams on some lower-demand days and has described higher short-term intakes during travel or severe sleep deprivation. Standard evidence-based maintenance doses for muscle are often lower, around 3–5 grams per day.
+
+### How much omega-3 does Rhonda Patrick take?
+
+Her dose has changed. In her 2025 routine update she said she had reduced supplemental EPA/DHA from roughly 4 grams to about **2 grams per day** because she ate substantial salmon and her Omega-3 Index was already very high.
+
+### How much vitamin D does Rhonda Patrick take?
+
+In a 2025 routine update she described taking about **2,000 IU of separate vitamin D3** in addition to approximately 2,000 IU from her multivitamin. In broader discussions she often references a total range around **2,000–4,000 IU per day**, but she strongly emphasizes vitamin D status and individual variability.
+
+### What form of magnesium does Rhonda Patrick take?
+
+Her recent routine has included **magnesium glycinate**. She has also used and discussed citrate/malate formulations in the past. In recent public discussions her supplemental amount has ranged from roughly **125 to 250 mg per day**.
+
+### Does Rhonda Patrick take sulforaphane?
+
+Yes. In a recent routine update she said she takes **Avmacol**, which provides glucoraphanin and myrosinase to support sulforaphane production. She has also long emphasized broccoli sprouts and cruciferous vegetables as food sources.
+
+### Does Rhonda Patrick take melatonin?
+
+She has. In a 2025 routine update she described **3 mg at night**, specifically for her personal history of night terrors. She has also described situational use around jet lag. That should not be interpreted as a universal 3 mg recommendation.
+
+### Does Rhonda Patrick take NAD boosters?
+
+She has listed **Tru Niagen / nicotinamide riboside** in a recent description of her personal routine. NR can raise NAD-related metabolites, but meaningful human longevity benefits have not been proven.
+
+### What fish oil brand does Rhonda Patrick recommend?
+
+She has named different products over the years, and her choices have changed. Rather than treating one brand as permanently “the Rhonda Patrick fish oil,” focus on the amount of EPA + DHA, oxidation/contaminant testing and whether the product helps you reach an appropriate Omega-3 Index.
+
+### Does she recommend taking everything on this page?
+
+No. This page documents her personal routine and the supplements she discusses most often. Patrick's own behavior shows the opposite of a one-size-fits-all approach: she adjusts supplements based on diet, testing, training and specific goals.
+
+## Bottom line
+
+Dr. Rhonda Patrick's supplement routine is extensive, but the most useful part is not the number of bottles. It is the hierarchy behind it.
+
+Her **core five** are relatively straightforward: omega-3s, a multivitamin, vitamin D, magnesium and creatine. Her larger personal stack adds more targeted compounds such as sulforaphane, cocoa flavanols, PQQ, ubiquinol, myo-inositol and selected performance or sleep tools.
+
+The key is to separate three questions:
+
+1. **Does Patrick personally take it?**
+2. **Is there good evidence for the goal you care about?**
+3. **Do you personally need it at that dose?**
+
+Those are not the same question — and keeping them separate makes this a much more useful way to read any celebrity, scientist or podcast supplement stack.
+
+### Primary sources used for this guide
+
+- [FoundMyFitness — How Dr. Rhonda Patrick Builds Her Supplement Routine](https://www.foundmyfitness.com/episodes/rhonda-patrick-supplement-routine-2025)
+- [FoundMyFitness — How Five Common Supplements Fit a Health Plan](https://www.foundmyfitness.com/episodes/how-five-common-supplements-fit-a-health-plan)
+- [FoundMyFitness — How Exercise, Nutrition, and Heat Fit Into a Weekly Routine](https://www.foundmyfitness.com/episodes/how-exercise-nutrition-and-heat-fit-into-a-weekly-routine)
+- [FoundMyFitness — How to Time Supplements for Better Absorption](https://www.foundmyfitness.com/episodes/how-to-time-supplements-for-better-absorption)
+- [FoundMyFitness — How to Evaluate a Supplement Stack: Evidence, Dose, and Quality](https://www.foundmyfitness.com/episodes/how-to-evaluate-a-supplement-stack-evidence-dose-and-quality)
