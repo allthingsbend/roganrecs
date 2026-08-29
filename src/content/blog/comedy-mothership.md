@@ -1,50 +1,189 @@
 ---
-title: 'Comedy Mothership: Joe Rogan''s Austin Club Guide'
-h1: Comedy Mothership
+title: 'Comedy Mothership Austin: Tickets, Rules, Rooms and What to Expect'
+h1: Comedy Mothership Austin Guide
+
 description: >-
-  A guide to Joe Rogan's Austin comedy club: the rooms, the phone-free policy,
-  who performs there, and the realistic ways to get a ticket.
+  A practical guide to Joe Rogan's Comedy Mothership in Austin: tickets, age rules,
+  phone policy, rooms, arrival timing, resale warnings and what to expect at a show.
 category: comedy
 pubDate: '2024-06-05'
-updated: 2024-06-05T00:00:00.000Z
+updated: 2026-08-28T00:00:00.000Z
 author: Rogan Recs
 imported: true
 image: /images/blog-comedy-mothership/comedy-mothershp.jpg
 ---
 
-Joe Rogan, the renowned comedian, podcaster, and UFC commentator, has taken his love for comedy to the next level with the launch of his own comedy club in Austin, Texas. Named the [Comedy Mothership](https://comedymothership.com/), this venue is quickly becoming a cornerstone of the comedy scene, attracting top talent from around the world and offering audiences a unique comedic experience. Nestled in the heart of Austin, the Comedy Mothership promises a fresh take on live comedy, blending Rogan’s signature style with an inclusive, vibrant atmosphere.
+The **Comedy Mothership** is Joe Rogan's comedy club on East 6th Street in downtown Austin, Texas. It opened inside the historic Ritz Theater and quickly became one of the most talked-about comedy venues in the country.
 
+If you're planning to go, the practical details matter more than the origin story: **where to buy tickets, how early to arrive, what the age rules are, whether resale tickets are valid, and what happens to your phone once you're inside.**
+
+> **Quick answer:** Buy directly from ComedyMothership.com. The club is 21+, requires a physical government-issued ID, discourages and can cancel resale tickets, and warns that arriving more than 30 minutes late can result in your seat being released. Doors generally open one hour before showtime.
 
 ![Comedy Mothership](/images/blog-comedy-mothership/comedy-mothershp.jpg)
 
-Rogan's vision for the Comedy Mothership began in 2022 when he took over the historic Ritz Theater, located at 320 E. 6th Street in downtown Austin. The Ritz, built in 1929, has a rich history as one of the first theaters in Austin to show movies. Rogan saw the potential to transform this iconic space into a hub for comedy, bringing in local architect Richard Weiss to lead the renovations​​​​. The result is a state-of-the-art comedy club that maintains the historic charm of the Ritz while offering modern amenities for both performers and audiences.
+## Where is Comedy Mothership?
 
-### A Unique Comedy Experience
+**320 E. 6th Street, Austin, TX 78701**
 
-The Comedy Mothership features two main showrooms: Fat Man and Little Boy. Fat Man is the larger headliner showroom, ideal for big-name acts and packed audiences, while Little Boy offers a more intimate setting, perfect for up-and-coming comics and special showcases. With cabaret-style seating and discreet table service, the club provides a cozy and engaging environment for comedy lovers. This setup ensures that every seat in the house offers a great view and a personal connection to the performance​​​​.
+The club sits between San Jacinto Boulevard and Trinity Street in the historic Ritz building on Sixth Street.
 
-Rogan's club is more than just a place to see comedy; it's designed to create a phone-free environment using [Yondr bags](https://www.overyondr.com/phone-locking-pouch). This policy ensures that audiences remain focused on the performance, maintaining the integrity of the live comedy experience by preventing distractions and unauthorized recordings​​. The Comedy Mothership also emphasizes high-quality sound and lighting systems, enhancing the overall experience for both comedians and audiences.
+That location makes it easy to combine a show with dinner or drinks downtown, but it also means you should plan for traffic, parking, rideshare congestion and busy sidewalks on weekend nights.
 
-### Bringing the Best to Austin
+## How to buy Comedy Mothership tickets
 
-The Comedy Mothership is already making waves by hosting some of the biggest names in comedy. Regular events like "Joe Rogan and Friends" feature top-tier comedians, providing a stage for both established and emerging talents. The club’s booker, Adam Eget, curates lineups that highlight the best of the comedy world, ensuring every show is packed with laughs​​​​. The club hosts the popular "[Kill Tony](https://www.youtube.com/channel/UCwzCMiicL-hBUzyjWiJaseg)" show every Monday, where aspiring comedians get a chance to perform and receive feedback from Tony Hinchcliffe and other guest comedians.
+The club's official guidance is unusually clear: **buy tickets through ComedyMothership.com.**
 
-Along with "Kill Tony," the Comedy Mothership offers other unique shows like "Bottom of the Barrel," a midweek event that showcases lesser-known but incredibly talented comics. These diverse offerings make the club a dynamic venue that supports a wide range of comedic styles and performers. This variety keeps the audience engaged and ensures that there is always something new and exciting happening at the Comedy Mothership.
+The venue says it does not sell tickets through third-party marketplaces such as Ticketmaster, Vivid Seats or SeatGeek for its regular club shows, and it warns that tickets bought elsewhere may be invalid, counterfeit or canceled.
 
+That matters because high-demand shows create a huge resale market.
 
-![6th st austin Texas](/images/blog-comedy-mothership/6th-st-austin-tx.png)
+### Best ticket-buying strategy
 
-### The Austin Comedy Scene
+1. Check the official calendar regularly.
+2. Create any required account before a major ticket drop.
+3. Be logged in and ready before tickets go on sale.
+4. Have payment information ready.
+5. Do not assume a resale listing means the ticket will be honored.
+6. Read the event-specific rules before checkout.
 
-The success of the Comedy Mothership has had a ripple effect on the broader Austin comedy scene. Many comedians are now moving to Austin, drawn by the vibrant community and the opportunities that Rogan's club presents. This influx of talent has benefited other comedy clubs in the area as well, leading to a thriving ecosystem of venues and performers. Clubs like Cap City Comedy and Velveeta Room have seen increased attendance and interest, thanks in part to the buzz generated by the Comedy Mothership​​​​.
+For especially difficult tickets, see our separate [Kill Tony ticket guide](/blog/how-to-get-kill-tony-tickets-austin-comedy-mothership-tour).
 
-This growth has positioned Austin as a new comedy hub, rivaling traditional hotspots like New York and Los Angeles. The city's supportive environment, coupled with the diverse range of comedy venues, makes it an attractive destination for both seasoned comedians and newcomers looking to make their mark. As more talent flocks to Austin, the city's reputation as a comedy capital continues to grow.
+## Can you buy resale tickets?
 
+This is one of the biggest traps for visitors.
 
-### Accessibility and Convenience
+Comedy Mothership states that **ticket resale is prohibited** and that tickets suspected of being purchased for resale can be canceled. It also says electronic tickets may not be delivered until the day of the performance as an anti-scalping measure.
 
-Located in the heart of Austin, the Comedy Mothership is easily accessible with plenty of parking options nearby. The club operates with a two-drink minimum policy and welcomes guests aged 21 and older, creating a vibrant and inclusive atmosphere for all comedy fans. With its strategic location and top-notch amenities, the Comedy Mothership is well-positioned to become a staple of Austin's entertainment landscape​​.
+So even if a third-party site displays a listing, that does not mean the venue guarantees it.
 
-The Comedy Mothership’s accessibility extends beyond its physical location. The club frequently updates its schedule and tickets online, making it easy for fans to stay informed about upcoming shows and events. The venue also offers a variety of ticketing options, from general admission to VIP packages, ensuring that everyone can find a way to enjoy the shows.
+## What time should you arrive?
 
-Joe Rogan's Comedy Mothership is more than just a comedy club; it's a testament to his dedication to the art of comedy and his commitment to providing a premier venue for comedians and audiences alike. Whether you're a local or visiting Austin, a night at the Comedy Mothership promises to be an unforgettable experience filled with laughter and entertainment. The club’s blend of historic charm, modern amenities, and top-tier talent makes it a must-visit destination for comedy lovers.
+The club says doors open **one hour before the listed showtime**.
+
+It also warns that guests who arrive more than 30 minutes late can have their tickets canceled and seats sold to someone else, with no refund under that circumstance.
+
+For a popular show, arriving early is the better move. It gives you time to deal with ID checks, phone procedures, seating and downtown traffic without turning the beginning of the night into a sprint.
+
+## Is Comedy Mothership 21+?
+
+Yes. The official venue policy is **21 and older for all shows and events**.
+
+You need a **valid physical government-issued ID**. A photo of your ID on your phone is not something to count on, especially since phones may be secured for the show anyway.
+
+## What happens to your phone?
+
+Comedy Mothership is designed around a phone-free comedy experience. Like many high-profile comedy venues and tours, it uses a system that keeps phones inaccessible during the performance while allowing guests to retain possession of them.
+
+The point is to prevent recording, protect unreleased material and keep the room focused on the show.
+
+If you need to use your phone during the night, ask venue staff about the designated process rather than trying to bypass the policy.
+
+## The two main rooms
+
+The club is known for two comedy rooms: **Fat Man** and **Little Boy**.
+
+The room named on your ticket matters because different shows can be happening in the building on the same night. Do not assume that seeing a famous comedian listed somewhere on the schedule means that person is performing in your room.
+
+Lineups can also change, especially for showcase-style shows.
+
+## Will Joe Rogan be there?
+
+Maybe — but buying a Comedy Mothership ticket is **not a guarantee that Joe Rogan will perform**.
+
+He appears at the club, including on some "Joe Rogan and Friends" lineups, but the venue hosts many comedians and shows that do not include him.
+
+If your entire reason for going is to see Rogan specifically, buy a show where he is actually listed rather than hoping for a surprise appearance.
+
+## What shows happen at Comedy Mothership?
+
+The calendar changes constantly, but the club regularly features:
+
+- headlining stand-up sets
+- showcase-style lineups
+- Joe Rogan and Friends shows
+- Bottom of the Barrel
+- Kill Tony recordings
+- touring and visiting comedians
+
+The best source for the current schedule is always the venue's official calendar rather than an old blog post.
+
+## Kill Tony at Comedy Mothership
+
+*Kill Tony* is one of the hardest tickets associated with the venue. The format combines one-minute stand-up sets from names drawn from a bucket with interviews and appearances from established comics.
+
+Because the demand and ticket process are unusual, we maintain a separate guide on [how to get Kill Tony tickets](/blog/how-to-get-kill-tony-tickets-austin-comedy-mothership-tour).
+
+![6th Street Austin Texas](/images/blog-comedy-mothership/6th-st-austin-tx.png)
+
+## What is Mitzi's?
+
+Mitzi's is the bar connected with Comedy Mothership. The exact operating hours can change, so check the club's current information if you are planning to meet there before or after a show.
+
+The name is a tribute to Mitzi Shore, the longtime owner of The Comedy Store in Los Angeles and an enormously influential figure in stand-up comedy.
+
+## Is there a drink minimum?
+
+Policies can vary by event and can change over time. Check the details attached to your specific ticket rather than relying on an old article that may list a food or beverage minimum no longer in effect.
+
+That same rule applies to seating, show length and performer lineup.
+
+## Parking and getting there
+
+The club is in downtown Austin, so there is no giant dedicated suburban parking lot attached to the venue. Your main options are:
+
+- downtown parking garages
+- metered street parking where available
+- rideshare
+- walking from a downtown hotel
+
+Build in extra time on Friday and Saturday nights or when a major downtown event is happening.
+
+## Best way to plan the night
+
+A simple plan works well:
+
+**90 minutes before:** Be downtown and parked or dropped off.
+
+**60 minutes before:** Doors open for many shows; get checked in.
+
+**Before showtime:** Handle drinks/restroom and settle in before the room gets dark.
+
+**After the show:** Expect Sixth Street and rideshare pickup zones to be busy.
+
+## Frequently asked questions
+
+### Who owns Comedy Mothership?
+
+Joe Rogan founded the club after acquiring and renovating the historic Ritz location in Austin.
+
+### Is Comedy Mothership actually in the old Ritz Theater?
+
+Yes. The venue occupies the historic Ritz building on East 6th Street.
+
+### Can minors go with a parent?
+
+No. The club's published policy states that shows and events are 21+.
+
+### Can I transfer my ticket to a friend?
+
+Ticket policies are strict and can vary by timing and event. The venue states that there are no refunds or transfers on the day of the show. Check the current official policy before making plans around a transfer.
+
+### Are StubHub or Vivid Seats tickets safe?
+
+The venue explicitly warns against third-party resale purchases and says it cannot guarantee their validity. Buy direct whenever possible.
+
+### Does Joe Rogan perform there every night?
+
+No. He performs at the club, but many shows feature other comedians.
+
+### Is Kill Tony filmed there?
+
+Yes, the regular Austin version of *Kill Tony* has been recorded at Comedy Mothership, alongside larger touring and arena events elsewhere.
+
+## Official sources and related guides
+
+- [Comedy Mothership official website](https://comedymothership.com/)
+- [Comedy Mothership box office information](https://comedymothership.com/box-office-info)
+- [Comedy Mothership FAQ](https://comedymothership.com/faq)
+- [How to get Kill Tony tickets](/blog/how-to-get-kill-tony-tickets-austin-comedy-mothership-tour)
+- [Austin restaurants Joe Rogan has discussed](/blog/austin-tx-restaurants-joe-rogan-hyped-up)
