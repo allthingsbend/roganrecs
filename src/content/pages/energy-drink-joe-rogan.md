@@ -1,119 +1,212 @@
 ---
-title: 'Joe Rogan''s Energy Drink: Kill Cliff Flaming Joe'
-h1: 'Flaming Joe by Kill Cliff: A Spicy Twist on Energy'
-description: >-
-  Flaming Joe is Joe Rogan's Kill Cliff energy drink. Here is what is in it, how
-  it tastes, what the CBD version is, and where to buy a case.
+title: "Joe Rogan Energy Drink: Kill Cliff Flaming Joe Guide"
+h1: "Joe Rogan energy drink: Kill Cliff Flaming Joe explained"
+description: "A current guide to Joe Rogan's Kill Cliff Spicy Pineapple energy drink, formerly Flaming Joe, including caffeine, CBD versions, ingredients and where to buy."
 category: food
 order: 80
-updated: 2024-05-09T00:00:00.000Z
+updated: 2026-08-29
 imported: true
-image: /images/energy-drink-joe-rogan/kill-cliff-flaming-joe.jpg
+image: "/images/energy-drink-joe-rogan/kill-cliff-flaming-joe.jpg"
+imageAlt: "Kill Cliff Flaming Joe spicy pineapple energy drink"
+faq:
+  - q: "What energy drink does Joe Rogan drink?"
+    a: "Joe Rogan has a long-running partnership with Kill Cliff. The clearest Rogan-specific product is Kill Cliff Energy Joe Rogan's Spicy Pineapple, the drink originally launched as Flaming Joe."
+  - q: "Is Flaming Joe still available?"
+    a: "Yes. Kill Cliff now sells the caffeinated version as Joe Rogan's Spicy Pineapple and still refers to the flavor as Flaming Joe in its marketing."
+  - q: "How much caffeine is in Joe Rogan's Kill Cliff energy drink?"
+    a: "The current Kill Cliff Energy Spicy Pineapple contains 150 mg of caffeine per can, according to Kill Cliff."
+  - q: "Does Flaming Joe contain CBD?"
+    a: "There are separate products. The standard Kill Cliff Energy Spicy Pineapple is the 150 mg caffeine energy drink. Kill Cliff also markets a separate CBD Spicy Pineapple version containing 25 mg CBD."
+  - q: "What does Flaming Joe taste like?"
+    a: "Kill Cliff describes it as sweet pineapple with a subtle spicy kick. The current product is labeled Spicy Pineapple."
+  - q: "Is Kill Cliff sugar free?"
+    a: "The current Kill Cliff Energy Spicy Pineapple is listed by Kill Cliff as zero sugar."
+  - q: "Can I buy Flaming Joe on Amazon?"
+    a: "Amazon availability changes. We link to current Amazon search results so readers can see which Kill Cliff Spicy Pineapple listings are available now."
 ---
 
-![Kill cliff flaming joe](/images/energy-drink-joe-rogan/kill-cliff-flaming-joe.jpg)
+If you are looking for **Joe Rogan's energy drink**, the simple answer is **Kill Cliff** — specifically **Joe Rogan's Spicy Pineapple**, the drink longtime JRE fans will remember as **Flaming Joe**.
 
+The old page made this more confusing than it needed to be because Kill Cliff has sold multiple Rogan-branded formulas over time. The important distinction today is that the **standard energy version and the CBD version are separate drinks**.
 
-## Joe Rogan Energy + CBD Drink
+**Last reviewed: August 29, 2026.** Product formulas and availability can change, so we prioritize Kill Cliff's current product pages over old articles and archived labels.
 
-_Summary_
+> **Affiliate disclosure:** Rogan Recs may earn a commission from qualifying Amazon purchases. Affiliate relationships do not change the product facts or editorial notes below.
 
--   _KILL CLIFF CBD JOE ROGAN'S FLAMING JOE_
+## Joe Rogan's Kill Cliff drinks at a glance
 
--   _25mg CBD_
+| Product | What it is | Current key detail | Where to look |
+|---|---|---|---|
+| **Kill Cliff Energy Joe Rogan's Spicy Pineapple** | The current caffeinated Flaming Joe | **150 mg caffeine, zero sugar** | [Check Amazon](https://www.amazon.com/s?k=Kill+Cliff+Joe+Rogan+Spicy+Pineapple) |
+| **Kill Cliff CBD Joe Rogan's Spicy Pineapple** | Separate CBD version | **25 mg CBD**; verify current caffeine on the can | Kill Cliff direct |
+| **Kill Cliff Energy + CBD Elk Blood** | Another Rogan collaboration | Energy + CBD formula | Kill Cliff direct |
+| **Other Kill Cliff Energy flavors** | Non-Rogan-specific energy line | Typically positioned as 150 mg caffeine energy drinks | [Browse Kill Cliff on Amazon](https://www.amazon.com/s?k=Kill+Cliff+energy+drink) |
 
--   _B Vitamins_
+**If you only want the Joe Rogan energy drink:** look for **Kill Cliff Energy Joe Rogan's Spicy Pineapple**.
 
--   _Electrolytes_
+[Shop Kill Cliff Spicy Pineapple on Amazon](https://www.amazon.com/s?k=Kill+Cliff+Joe+Rogan+Spicy+Pineapple)
 
--   _Antioxidants_
+## Flaming Joe is now Joe Rogan's Spicy Pineapple
 
--   _Natural Ingredients_
+The branding has changed, but the Rogan connection has not disappeared.
 
--   [**_Buy online_**](https://www.amazon.com/Pineapple-Natural-Caffeine-Electrolytes-Vitamins/dp/B093TJTMTL?language=en_US&linkCode=ll1&linkId=159c6d2c5bc4cb13b5eb8058c324082d&ref_=as_li_ss_tl&tag=rogan-recs-20&th=1)
+Kill Cliff's current Joe Rogan collection says **Spicy Pineapple was formerly Flaming Joe** and describes Rogan as being directly involved in developing the flavor. Kill Cliff says the recipe went through multiple rounds of tweaking before the final pineapple-and-heat profile was released.
 
+That makes this different from a random energy drink Rogan happened to mention once on JRE. It is an actual **Joe Rogan x Kill Cliff collaboration**.
 
-_Updated 5/9/24_
+### What does it taste like?
 
-We’re not talking Monsters or Rockstars here, we’re talking about an energy drink Rogan directly was involved in creating! Energy drinks are a dime a dozen, but every so often, something new ignites the market. Enter the "Flaming Joe" by Kill Cliff, a brainchild of none other than Joe Rogan himself. This isn't your average energy drink; it's a spicy pineapple concoction that promises not just a kick of energy but an adventure for your taste buds.
+The concept is straightforward:
 
-**The Fusion of Flavors**
+- sweet pineapple up front
+- a mild spicy / jalapeño-style kick
+- carbonation and energy-drink acidity underneath
 
-At the heart of Flaming Joe is an intriguing blend of juicy pineapple with an undercurrent of heat. It's a taste profile that's bold and refreshing, a departure from the usual citrus or berry flavors that dominate the energy drink landscape. This drink is for those who dare to venture into new flavor territories.
+It is a much more specific flavor than the usual blue-raspberry or generic citrus energy drink. If spicy drinks sound terrible to you, this probably is not the can to buy just because Rogan's name is on it.
 
-**Clean Energy, No Compromises**
+## How much caffeine is in Flaming Joe?
 
-Kill Cliff is known for its commitment to clean, healthy ingredients, and Flaming Joe is no exception. Packed with B-vitamins and devoid of the usual suspects like artificial sweeteners and preservatives, it's designed to energize your body and mind without the guilt. Whether you're gearing up for a workout or need to power through a long day, Flaming Joe has got your back.
+The **current Kill Cliff Energy Spicy Pineapple contains 150 mg of caffeine per can**, according to Kill Cliff.
 
-**A Drink for Everyone**
+That is enough to be a meaningful caffeine dose without being one of the most extreme energy drinks on the market. For comparison, the FDA says **400 mg per day** is an amount not generally associated with negative effects for most healthy adults, while also emphasizing that caffeine sensitivity varies widely.
 
-This isn't just an energy drink for athletes; it's for anyone who needs a lift. With its natural ingredients and unique flavor, Flaming Joe is redefining what an energy drink can be. It's a testament to Kill Cliff's mission of creating products that not only perform but also delight.
+The practical point: **150 mg is not trivial**. If you already drink coffee, use pre-workout, chew caffeinated gum or drink another energy product the same day, those doses add together.
 
-#### **About Kill Cliff**
+[Check current Kill Cliff Energy options on Amazon](https://www.amazon.com/s?k=Kill+Cliff+150mg+caffeine)
 
-Kill Cliff was founded by Todd Ehrlich, a former Navy SEAL, with the aim of creating clean and healthy energy drinks for athletes and fitness enthusiasts. The company's dedication to using natural ingredients and avoiding artificial additives helped it gain popularity among health-conscious consumers. Additionally, Kill Cliff's support of veteran communities and military families resonated with many, further boosting its appeal. Joe Rogan's involvement, marked by the creation of the unique "Flaming Joe" flavor, added to the brand's visibility and appeal. Rogan's widespread influence in the fitness and wellness community helped bring more attention to Kill Cliff's products. You can learn more about Kill Cliff's history and ethos on their [website](https://killcliff.com).
+## Energy Flaming Joe vs. CBD Flaming Joe
 
-#### **Other Kill Cliff Flavors**
+This is the part older Joe Rogan energy-drink articles often get wrong.
 
--   Lemon Lime: A classic citrus flavor that provides a refreshing and tangy taste.
+There have been **multiple Spicy Pineapple / Flaming Joe products**, and they should not be treated as the same formula.
 
--   Blood Orange: This flavor combines the sweetness of oranges with a hint of tartness, creating a unique and vibrant taste.
+### Kill Cliff Energy Spicy Pineapple
 
--   Blackberry Lemonade: A delightful blend of blackberries and lemonade, offering a balance of sweet and sour notes.
+This is the straightforward energy-drink version.
 
--   Cherry Lime Grenade: This flavor combines the sweetness of cherries with the zesty kick of lime for a dynamic and exciting taste.
+Kill Cliff currently lists it as:
 
--   Tropicool Thunder: A tropical-inspired flavor that often includes a mix of fruit flavors like pineapple, mango, and coconut, creating a refreshing and exotic experience.
+- **150 mg caffeine**
+- **zero sugar**
+- pineapple + spice flavor
+- electrolytes including sodium, potassium and magnesium
+- additional ingredients such as B vitamins, ginger and ginseng
 
--   Strawberry Daze: A sweet and fruity option with the luscious taste of ripe strawberries.
+If your search is simply "Joe Rogan energy drink," this is the version we would assume you mean.
 
--   Orange Kush: A play on the popular "Orange Crush" flavor, this beverage offers a vibrant and tangy orange taste.
+### Kill Cliff CBD Spicy Pineapple
 
--   Raspberry Blueberry: A berry medley that combines the sweetness of raspberries with the richness of blueberries.
+Kill Cliff also sells a separate **CBD Joe Rogan's Spicy Pineapple** product and lists **25 mg CBD per can**.
 
--   Freedom Stash (Limited Edition): Occasionally, Kill Cliff releases special, limited-edition flavors like Freedom Stash, which can feature unique and seasonal tastes.
+One caution: Kill Cliff's current CBD product copy contains **conflicting caffeine numbers in different parts of the same page**. Because of that inconsistency, we would verify the caffeine amount on the current can or nutrition label rather than repeat one website number as fact.
 
--   Ignite Series: In addition to their standard flavors, Kill Cliff has an "Ignite" series that includes options like "Cherry Limeade" and "Fruit Punch." These drinks typically contain caffeine and electrolytes for an added energy boost.
+That is exactly why we do not recommend using an old screenshot or an old Rogan article to calculate your caffeine intake.
 
+**CBD note:** laws, shipping availability, workplace rules and individual responses vary. Amazon is not our recommended source for ingestible CBD products.
 
-![kill cliff energy](/images/energy-drink-joe-rogan/kill-cliff-energy.jpg)
+![Kill Cliff energy drink](/images/energy-drink-joe-rogan/kill-cliff-energy.jpg)
 
-![Onnit kettlebell](/images/energy-drink-joe-rogan/onnit-kettlebell.jpg)
+## What's actually in the current energy version?
 
-#### **FAQs - Flaming Joe Energy Drink by Kill Cliff**
+Kill Cliff positions Spicy Pineapple as a **zero-sugar energy drink** built around caffeine plus electrolytes and functional ingredients.
 
-**What is the flavor profile of Flaming Joe?**
+The current product page highlights:
 
-Flaming Joe features a spicy pineapple fusion, combining the sweetness of pineapple with a hint of heat.
+| Ingredient / feature | Why it is there |
+|---|---|
+| **150 mg caffeine** | Stimulation and alertness |
+| **Electrolytes** | Sodium, potassium and magnesium for fluid/electrolyte replacement |
+| **B vitamins** | Nutrients involved in normal energy metabolism |
+| **Ginger** | Flavor / functional ingredient |
+| **Ginseng** | Common stimulant-adjacent botanical ingredient |
+| **Zero sugar** | Avoids a large sugar load |
 
-**What makes Flaming Joe different from other energy drinks?**
+That does **not** mean every ingredient independently produces a noticeable performance benefit. The ingredient doing most of the obvious acute work is still caffeine.
 
-It offers a unique flavor and is made with natural ingredients, focusing on clean energy without artificial sweeteners or preservatives.
+## Is Kill Cliff a good pre-workout drink?
 
-**Is Flaming Joe suitable for athletes?**
+It can fill that role if what you mainly want from a pre-workout is **caffeine in a ready-to-drink can**.
 
-Yes, it's designed to provide clean energy, making it suitable for athletes and those leading an active lifestyle.
+A 150 mg dose is enough for many people to notice increased alertness and training motivation. It is also much simpler than powdered pre-workouts containing long lists of stimulants and performance ingredients.
 
-**Are there any artificial ingredients in Flaming Joe?**
+But it is not the same thing as a full pre-workout formula. If your goal is evidence-based training supplementation, ingredients such as **creatine** are better thought of as daily supplements rather than something an energy drink needs to contain.
 
-Flaming Joe prides itself on being free from artificial sweeteners and preservatives.
+See our [Joe Rogan supplements guide](/supplements) for that distinction.
 
-**Can anyone drink Flaming Joe, or is it targeted at a specific audience?**
+### When does 150 mg make sense?
 
-It's designed for a broad range of consumers, from elite athletes to anyone needing an energy boost.
+Potentially useful situations include:
 
-**How does Flaming Joe provide energy?**
+- before a workout when you tolerate caffeine well
+- a mid-day energy boost that will not interfere with your sleep
+- replacing a sugary energy drink with a zero-sugar option
+- when you want a fixed dose rather than guessing how much caffeine is in a large coffee
 
-Flaming Joe contains a blend of B-vitamins and natural ingredients that are formulated to boost energy levels effectively.
+If caffeine late in the day hurts your sleep, the performance tradeoff is usually not worth it.
 
-**Is Flaming Joe a high-calorie drink?**
+## What we would buy
 
-Flaming Joe is designed to be a low-calorie option, making it suitable for those conscious of their calorie intake.
+### Best match for the actual Joe Rogan product
 
-**Can Flaming Joe be consumed daily?**
+**Kill Cliff Energy Joe Rogan's Spicy Pineapple / Flaming Joe**
 
-Yes, its natural ingredient profile makes it suitable for daily consumption as part of a balanced diet.
+This is the obvious choice if you landed here specifically because of Rogan. It is his named collaboration and the current energy version is still actively marketed by Kill Cliff.
 
-**Does Flaming Joe contain caffeine?**
+[Shop Joe Rogan's Kill Cliff Spicy Pineapple on Amazon](https://www.amazon.com/s?k=Kill+Cliff+Joe+Rogan+Spicy+Pineapple)
 
-Yes, The new Flaming Joe Ignite contains 150mg of clean green tea caffeine. It contains a moderate amount of caffeine sourced naturally, providing a sustained energy boost without the crash often associated with synthetic caffeine.
+### Best if you just want to try Kill Cliff
+
+If Spicy Pineapple sounds too weird, there is no reason to force it. Kill Cliff currently sells other energy and recovery flavors, and Amazon inventory often varies by case size and flavor.
+
+[Browse Kill Cliff drinks on Amazon](https://www.amazon.com/s?k=Kill+Cliff+drinks)
+
+### Best if you mainly want caffeine
+
+You do not need a branded JRE drink to get caffeine. Coffee is usually cheaper, and we have a separate guide to [coffee Joe Rogan has actually used and discussed](/joe-rogan-coffee).
+
+## Kill Cliff vs. a typical energy drink
+
+The main selling points are less about a magical formula and more about **dose, sugar and branding**.
+
+| If you care most about... | Kill Cliff Spicy Pineapple |
+|---|---|
+| Rogan connection | Excellent — direct collaboration |
+| Caffeine | 150 mg in current Energy version |
+| Sugar | Zero sugar |
+| Unique flavor | Very distinctive spicy pineapple |
+| Simple caffeine source | Good, though coffee is cheaper |
+| CBD | Separate CBD product, not the standard Energy can |
+
+## Is Kill Cliff "healthy"?
+
+"Healthy energy drink" is too broad to be useful.
+
+A better way to evaluate it is to ask what you are comparing it with. A zero-sugar, 150 mg caffeine drink may fit someone's diet better than a high-sugar energy drink. That does not turn caffeine into a health food or make unlimited intake harmless.
+
+The biggest practical variables are:
+
+- your total daily caffeine
+- how caffeine affects your sleep and anxiety
+- whether you are stacking it with coffee or pre-workout
+- whether you actually need an energy drink at all
+
+For most people, those questions matter more than whether the label includes antioxidants or B vitamins.
+
+## Other Joe Rogan drink and performance guides
+
+- [Joe Rogan coffee guide](/joe-rogan-coffee)
+- [Joe Rogan supplements guide](/supplements)
+- [Joe Rogan Neuro Gum guide](/supplements/neuro-gum-joe-rogan)
+- [Joe Rogan sauna guide](/joe-rogan-sauna-guide)
+- [Joe Rogan cold plunge guide](/joe-rogan-cold-plunge-guide)
+
+## Sources and verification
+
+We prioritize the current manufacturer pages for product formulas because Kill Cliff has changed names and versions over time.
+
+- **Kill Cliff — Joe Rogan collection:** identifies Spicy Pineapple as formerly Flaming Joe and shows the current Rogan collaborations. [View the collection](https://killcliff.com/collections/joe-rogan)
+- **Kill Cliff — Energy Spicy Pineapple:** current product page lists zero sugar and 150 mg caffeine. [View the product](https://killcliff.com/products/kill-cliff-ignite-flaming-joe)
+- **Kill Cliff — CBD Spicy Pineapple:** current separate CBD product page lists 25 mg CBD. [View the CBD product](https://killcliff.com/products/kill-cliff-cbd-flaming-joe)
+- **FDA — caffeine guidance:** discusses the commonly cited 400 mg/day level for most adults and variability in caffeine sensitivity. [Read FDA guidance](https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much)
+
+**Editorial note:** Kill Cliff has renamed and reformulated products over time. When the current can and an old article disagree, the current product label wins.
