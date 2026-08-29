@@ -6,8 +6,8 @@ category: wellness
 order: 50
 updated: 2026-08-29
 imported: true
-image: "/images/joe-rogan-sauna-guide/joe-rogan-sauna-guide.png"
-imageAlt: "Traditional home sauna with wooden benches and heater"
+image: "https://images.unsplash.com/photo-1774876549571-32d7b9051ddf?auto=format&fit=crop&w=1600&q=82"
+imageAlt: "Traditional wooden sauna interior with benches and stone heater"
 faq:
   - q: "What temperature does Joe Rogan use in the sauna?"
     a: "Rogan said in JRE #2170 that his experimentation had settled around 185°F for 20 minutes. Earlier episodes include 180°F for 20–25 minutes. Those are his personal routines, not a universal prescription."
@@ -47,6 +47,8 @@ That is the useful answer if you are searching for Joe Rogan's sauna temperature
 | Cold plunge | Often pairs heat with cold exposure |
 | Should beginners copy it? | **No — build heat tolerance gradually** |
 
+![Modern wooden sauna interior with heater and benches](https://images.unsplash.com/photo-1779956510692-11aece5fc288?auto=format&fit=crop&w=1400&q=78)
+
 ## The current best answer: 185°F for 20 minutes
 
 In **JRE #2170**, Rogan described his own sauna experimentation in unusually useful detail.
@@ -77,6 +79,8 @@ The old version of this page mixed these together. They are not the same thing.
 | **Infrared sauna** | Infrared emitters heat the body/surfaces more directly | Lower air temperature | Rogan has discussed and used infrared, but often says he prefers hotter traditional sauna |
 | **Steam room** | Steam creates very high humidity | Lower temperature but extremely humid | Different environment; not what Rogan means when describing 180–185°F dry sauna sessions |
 
+![Sauna heater stones and wooden bucket](https://images.unsplash.com/photo-1774876549455-207ca86c7900?auto=format&fit=crop&w=1400&q=78)
+
 Traditional Finnish sauna is not simply a "steam sauna." A Finnish sauna can be fairly dry most of the time, with **löyly** — water thrown onto hot stones — creating temporary increases in humidity.
 
 That distinction matters because **185°F at low humidity feels completely different from 185°F in saturated steam**, which would be dangerously intense.
@@ -90,6 +94,8 @@ He described his sauna reaching 180°F and above, while many infrared units oper
 [Read JRE #1178](https://jre.ai/episodes/1178-dr-rhonda-patrick/transcript)
 
 That does **not** prove traditional sauna is universally healthier than infrared. It means that if your goal is to recreate Rogan's own documented routine, a traditional heater that can hold roughly 180°F is the closer match.
+
+![Dark modern sauna interior with warm lighting](https://images.unsplash.com/photo-1779956511263-7fc151a832ef?auto=format&fit=crop&w=1400&q=78)
 
 ## What does the science actually say about sauna?
 
@@ -154,7 +160,7 @@ The practical benefit may simply be that **you feel better and enjoy the ritual 
 
 For some athletes, that is valuable even before attaching a biomarker to it.
 
-![Sauna and kettlebell recovery setup](/images/joe-rogan-sauna-guide/sauna-kettlebell.png)
+![Cozy sauna and recovery space](https://images.unsplash.com/photo-1773423386509-b57f17224b30?auto=format&fit=crop&w=1400&q=78)
 
 ## Joe Rogan's sauna + cold plunge routine
 
@@ -167,6 +173,8 @@ In JRE #2170, he described doing **185°F for 20 minutes**, then cold, and somet
 This is a Rogan habit, not a requirement for sauna benefits.
 
 You do not need a cold plunge to "activate" sauna. If the contrast feels good and you tolerate it well, it can be an enjoyable ritual. If not, simply cooling down normally is fine.
+
+![Cold plunge after sauna](https://images.unsplash.com/photo-1713270281683-2a6f0ef76a9c?auto=format&fit=crop&w=1400&q=78)
 
 For more detail, see our [Joe Rogan cold plunge guide](/joe-rogan-cold-plunge-guide).
 
@@ -184,6 +192,8 @@ Look for:
 - A reliable thermometer.
 - Stones designed for the heater if you want löyly.
 - Enough bench height to sit in the hotter part of the room.
+
+![Wood-burning sauna heater with stones and visible fire](https://images.unsplash.com/photo-1741601272304-db36024f5752?auto=format&fit=crop&w=1400&q=78)
 
 [Shop home traditional saunas on Amazon](https://www.amazon.com/s?k=traditional+home+sauna)
 
