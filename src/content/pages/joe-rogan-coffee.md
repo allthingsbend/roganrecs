@@ -6,8 +6,8 @@ category: food
 order: 40
 updated: 2026-08-29
 imported: true
-image: "/images/joe-rogan-coffee/coffee-working-out.png"
-imageAlt: "Coffee beside workout equipment"
+image: "https://images.unsplash.com/photo-1766747021051-b2d2e8610883?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=1800"
+imageAlt: "Steaming black coffee on a wooden table in morning light"
 faq:
   - q: "What coffee does Joe Rogan drink?"
     a: "Black Rifle Coffee is the clearest recent answer we can verify. In JRE #2170 in 2024, Rogan said the studio was drinking Black Rifle coffee and using it in a Laird Superfood setup. He has also discussed Caveman Coffee, Laird Superfood and Four Sigmatic over the years."
@@ -102,7 +102,7 @@ If you want the easy version rather than trying to duplicate an old studio machi
 
 That is a **Rogan-inspired** cup, not a claim that he follows that exact recipe every morning in 2026.
 
-![Coffee and weights](/images/joe-rogan-coffee/coffee-weights.png)
+![French press coffee and mug on a table](https://images.unsplash.com/photo-1763931413710-cb62218fc4ff?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=1800)
 
 ## 3. Caveman Coffee: a real Rogan favorite historically
 
