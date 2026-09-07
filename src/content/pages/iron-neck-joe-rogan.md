@@ -95,7 +95,7 @@ This is the decision most buyers actually need help with.
 | Regular price | **$349** | **$599** |
 | Who should buy it? | Most people | Athletes who specifically need resisted rotation |
 
-Iron Neck's own current comparison says the defining difference is the Pro's **rotational resistance and variable friction dial**. Both include the core headpiece, linear resistance and anchor setup. citeturn728092search0turn728092search2
+Iron Neck's [current 3.0 vs. 3.0 Pro comparison](https://www.iron-neck.com/products/iron-neck-3-0-pro) says the defining difference is the Pro's **rotational resistance and variable friction dial**. Both include the core headpiece, linear resistance and anchor setup.
 
 ### Which one would we buy?
 
@@ -111,7 +111,7 @@ If your answer is “the Pro is better because it costs more,” save the $250.
 
 Iron Neck regularly runs sales.
 
-At the time we checked on **September 6, 2026**, the manufacturer showed the 3.0 at **$299 sale / $349 regular** and the Pro at **$499 sale / $599 regular** on parts of its current storefront. Other live storefront variants showed regular pricing, which is exactly why hard-coding a sale price into an evergreen guide is a bad idea. citeturn728092search0turn728092search6turn728092search9
+At the time we checked on **September 6, 2026**, the manufacturer showed the 3.0 at **$299 sale / $349 regular** and the Pro at **$499 sale / $599 regular** on parts of its current storefront. Other live storefront variants showed regular pricing, which is exactly why hard-coding a sale price into an evergreen guide is a bad idea.
 
 Our advice:
 
@@ -239,7 +239,7 @@ Do not buy a device as a diagnosis.
 
 Neck pain can come from muscular load tolerance, joints, discs, nerves, headache disorders, prior trauma and a pile of other causes. Resistance exercise can absolutely be part of rehabilitation for some people, but that does not mean one product fixes every neck problem.
 
-Iron Neck's site makes broad claims around mobility, discomfort and posture. Those are manufacturer claims and should not be confused with a personalized medical assessment. citeturn728092search7
+Iron Neck's own [clinical page](https://www.iron-neck.com/pages/clinic) makes broad claims around mobility, discomfort and posture. Those are manufacturer claims and should not be confused with a personalized medical assessment.
 
 If you have persistent or neurological symptoms, get the problem assessed before you start loading it harder.
 
