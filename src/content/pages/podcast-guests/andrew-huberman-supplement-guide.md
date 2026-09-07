@@ -1,245 +1,291 @@
 ---
-title: 'Andrew Huberman Supplements: His Stack, Doses & Evidence'
-h1: 'Andrew Huberman Supplements: A Sourced Guide to His Stack'
-description: >-
-  A sourced guide to supplements Andrew Huberman has said he uses or discussed,
-  including sleep, focus, creatine, omega-3s and hormone-related supplements.
+title: "Andrew Huberman Supplements: Stack, Doses, Evidence & What to Buy"
+h1: "Andrew Huberman supplements: what he uses, what is worth buying and what to skip"
+description: "A practical, sourced guide to Andrew Huberman's supplement stack, including sleep, creatine, focus, omega-3s and hormone-related products, with buying advice and evidence context."
 category: supplements
 order: 21
-updated: 2026-08-28T00:00:00.000Z
+updated: 2026-09-06
 imported: true
-image: >-
-  /images/podcast-guests-andrew-huberman-supplement-guide/andrew-huberman-pic.jpg
+image: "/images/podcast-guests-andrew-huberman-supplement-guide/andrew-huberman-pic.jpg"
+faq:
+  - q: "What supplements does Andrew Huberman take?"
+    a: "Huberman has publicly discussed personal use of creatine, omega-3s, magnesium, apigenin, L-theanine, Alpha-GPC, tongkat ali and other supplements. His routine changes, and not every compound discussed on Huberman Lab is part of his personal stack."
+  - q: "What is Andrew Huberman's sleep stack?"
+    a: "The best-known combination is magnesium threonate or bisglycinate, apigenin and L-theanine before bed, with other tools such as myo-inositol discussed for specific situations."
+  - q: "How much creatine does Huberman take?"
+    a: "Huberman has discussed 5 grams per day as a common dose and has said he personally uses closer to 10 grams per day based on his body size."
+  - q: "Does Huberman take Alpha-GPC?"
+    a: "Yes. He has described using around 300 mg before some workouts or focused work, while also discussing uncertainty around long-term use."
+  - q: "Does Andrew Huberman take tongkat ali?"
+    a: "He has publicly discussed personal use of tongkat ali. Human evidence is much thinner than it is for creatine, and botanical quality varies."
+  - q: "Does Huberman recommend fadogia agrestis?"
+    a: "It is more accurate to say he has discussed and historically used it. Human safety data are very limited, so we treat fadogia as a high-caution item rather than a normal supplement recommendation."
 ---
 
-![Andrew Huberman portrait](/images/podcast-guests-andrew-huberman-supplement-guide/andrew-huberman-pic.jpg)
+Andrew Huberman has discussed enough supplements to fill a kitchen cabinet. That does **not** mean his advice is to buy the kitchen cabinet.
 
-Andrew Huberman has discussed a long list of supplements across Huberman Lab episodes, interviews and Q&As. But there is an important distinction that gets lost on many supplement-stack pages: **a supplement appearing on his podcast does not necessarily mean he takes it every day, recommends it to everyone, or considers the evidence equally strong.**
+A useful Huberman supplement guide has to separate three things: what he has personally said he uses, what he has discussed as a goal-specific tool, and what merely appeared in a scientific conversation.
 
-This guide separates supplements Huberman has publicly said he uses from compounds he has discussed more generally, while adding the context that matters: why he uses them, doses he has mentioned, how often he has described taking them, and where the evidence or safety picture is less certain.
+> **The short version:** if you strip away the internet's tendency to turn every podcast sentence into a shopping list, **creatine, adequate omega-3 intake, correcting actual deficiencies and a selective sleep stack** are the most defensible places to look. The hormone-oriented botanicals deserve much more caution.
 
-> **Quick takeaway:** Huberman's overall approach is not "take everything." He repeatedly emphasizes behavior, nutrition, sleep and exercise first, then using supplements selectively for a specific goal.
+**Last reviewed: September 6, 2026.** This guide is intentionally practical. We include shopping links where the product decision is clear, but we are not turning every molecule into a button.
 
-For Joe Rogan's broader supplement routine, see our [Joe Rogan supplements guide](/supplements).
+For Rogan's own routine, see the main [Joe Rogan supplements guide](/supplements).
 
-## Andrew Huberman supplement stack at a glance
+## Huberman supplement stack at a glance
 
-| Goal | Supplement | Dose Huberman has discussed | How he has described using it | Evidence / caution |
-| --- | --- | --- | --- | --- |
-| Sleep | Magnesium threonate | Around 145 mg before bed in some protocols | Part of his commonly discussed sleep stack | Evidence for magnesium and sleep is mixed and may depend on baseline status |
-| Sleep | Apigenin | Around 50 mg before bed | Often paired with magnesium | Human sleep evidence is still limited |
-| Sleep | L-theanine | Roughly 100–400 mg before bed | Used selectively; vivid dreams can occur | May support relaxation; response varies |
-| Sleep | Myo-inositol | Discussed for middle-of-the-night waking | Situational | Evidence depends on use case |
-| Performance / brain | Creatine monohydrate | Commonly 5 g/day; Huberman has said he personally uses about 10 g/day at his body size | Daily | Strong evidence for strength and power; cognition research is promising |
-| Focus | Alpha-GPC | 300–600 mg before deep work or training | Huberman has described using about 300 mg, often several times weekly | Can increase acetylcholine; long-term safety questions remain |
-| Focus | L-tyrosine | Often discussed around demanding cognitive work | Occasional / situational | More compelling under stress or sleep loss than as a universal nootropic |
-| General health | Omega-3s | Huberman has frequently emphasized EPA/DHA intake | Regular | Evidence varies by outcome; strongest for triglyceride lowering |
-| Hormone-related | Tongkat ali | Often discussed in the few-hundred-mg range | Has described personal use | Human evidence exists but is limited |
-| Hormone-related | Fadogia agrestis | Often discussed around 400–600 mg | Historically discussed as a hormone-support tool | Human safety data are very limited; animal toxicity concerns matter |
+| Goal | Supplement | Publicly discussed dose/use | Our take |
+|---|---|---|---|
+| **Performance** | Creatine monohydrate | 5 g/day common; Huberman has said he uses more based on body size | **Best value on the page** |
+| **Sleep** | Magnesium threonate / bisglycinate | Commonly discussed before bed | Reasonable, especially if intake is low |
+| **Sleep** | Apigenin | Often around 50 mg | Interesting, but thinner evidence |
+| **Sleep** | L-theanine | Often 100 to 400 mg | Useful for some, not everyone |
+| **Brain / cardiovascular** | Omega-3s | Regular EPA/DHA emphasis | Good if dietary intake is low |
+| **Focus** | Alpha-GPC | Often around 300 mg situationally | Goal-specific, not a daily default |
+| **Hormone-related** | Tongkat ali | Few-hundred-mg range discussed | Limited evidence, quality matters |
+| **Hormone-related** | Fadogia agrestis | Historically discussed | **High caution** |
+| **General nutrition** | Vitamin D | Discussed frequently | Test before blindly dosing high |
+| **Stress** | Ashwagandha | Situational | Can help some people, not harmless |
 
-**Important:** These are doses Huberman has discussed publicly, not personalized medical recommendations. His own routine has also changed over time.
+## If you only want the five things worth researching
 
-## Huberman's supplement philosophy
+The whole point of this page is to make the decision smaller.
 
-Huberman's supplementation episode lays out a useful hierarchy: identify the outcome you want, then ask whether behavior, nutrition or medical care is the more appropriate tool before adding a supplement. He does not present supplements as replacements for sleep, exercise, food quality or treatment.
+1. **Creatine monohydrate** if strength, power or possibly cognitive support fit your goals.
+2. **Omega-3s** if you do not eat enough fatty fish.
+3. **Magnesium** if intake is low or you have a clear reason to try it.
+4. **A simple sleep stack** only if behavior and schedule are already handled.
+5. **Vitamin D testing** if deficiency is plausible.
 
-That distinction matters because Huberman Lab has covered hundreds of molecules. Some are part of Huberman's personal routine. Others are examples from research or guest conversations.
+Everything after that becomes more situational, more expensive, less certain or all three.
 
-Source: [Huberman Lab — Developing a Rational Approach to Supplementation for Health & Performance](https://www.hubermanlab.com/episode/developing-a-rational-approach-to-supplementation-for-health-and-performance)
+## 1. Creatine: the easiest yes
 
-## Huberman's sleep supplements
+Creatine is the least exciting answer, which is probably why it is one of the best.
 
-Sleep is probably the area most associated with the "Huberman supplement stack." His best-known combination is magnesium, apigenin and L-theanine, generally taken before bed.
+Huberman has discussed **5 grams per day** as a common dose and has said he personally takes closer to **10 grams per day** based on his body size.
 
-### Magnesium threonate or magnesium bisglycinate
+For most people, the form to buy is simple: **creatine monohydrate**.
 
-Huberman has repeatedly discussed magnesium threonate and magnesium bisglycinate in the context of sleep. In his Sleep Toolkit episode, magnesium threonate appears alongside apigenin and theanine.
+You do not need a proprietary matrix, a neon tub or creatine blessed under a full moon.
 
-A commonly cited version of his personal protocol has included roughly **145 mg of magnesium threonate 30–60 minutes before sleep**. Be careful when comparing labels: some list the weight of the entire magnesium-threonate compound while others list elemental magnesium.
+[Shop creatine monohydrate on Amazon](https://www.amazon.com/s?k=creatine+monohydrate+powder)
 
-Magnesium is essential for nerve signaling, muscle function and hundreds of enzymatic reactions. But the claim that magnesium reliably transforms sleep for everyone is stronger than the evidence. Benefits may be more noticeable in people with inadequate magnesium intake or certain sleep problems.
+### Why it is near the top
 
-Source: [Huberman Lab — Sleep Toolkit](https://www.hubermanlab.com/episode/sleep-toolkit-tools-for-optimizing-sleep-and-sleep-wake-timing)
+Creatine has strong evidence for strength and high-intensity performance. Research on cognition is promising, especially under certain conditions, but the exercise case is more established.
+
+Plain powder is cheap, widely available and easy to evaluate.
+
+For more on the overlap between Huberman and Rogan here, see our [Joe Rogan creatine guide](/supplements/joe-rogan-creatine).
+
+## 2. Huberman's sleep stack
+
+The most famous Huberman supplement stack is the bedtime combination of **magnesium, apigenin and L-theanine**.
+
+The important thing is not to confuse "Huberman has discussed this" with "every human needs all three forever."
+
+### Magnesium
+
+Huberman has frequently discussed magnesium threonate and bisglycinate in the context of sleep.
+
+[Compare magnesium threonate on Amazon](https://www.amazon.com/s?k=magnesium+L-threonate)
+
+If you want a simpler and usually less expensive option, [magnesium glycinate](https://www.amazon.com/s?k=magnesium+glycinate) is also widely used.
+
+**Our take:** magnesium makes the most sense when dietary intake is low, you tolerate it well and you have a reason to use it. More exotic forms are not automatically better because the label sounds neurological.
 
 ### Apigenin
 
-Apigenin is a flavonoid found naturally in chamomile and other plants. Huberman has commonly discussed **about 50 mg before bed** as part of his sleep protocol.
+Huberman has commonly discussed **around 50 mg** before bed.
 
-The rationale is relaxation and reduced mental activation before sleep. The direct human sleep evidence is much thinner than the popularity of the "Huberman sleep stack" might imply.
+Apigenin is found naturally in chamomile and other plants. The human sleep evidence is much thinner than the internet popularity of the "Huberman sleep stack" suggests.
+
+You can [compare apigenin supplements on Amazon](https://www.amazon.com/s?k=apigenin+50mg) if you specifically want to try the stack, but this is not where we would start before fixing sleep timing, light exposure and caffeine.
 
 ### L-theanine
 
-Huberman has discussed **roughly 100–400 mg of L-theanine** before sleep. L-theanine is an amino acid found in tea and is often used for relaxation without heavy sedation.
+Huberman has discussed roughly **100 to 400 mg** before sleep in some contexts and has noted that some people experience vivid dreams.
 
-He has also noted that some people experience unusually vivid dreams from theanine, which can make it a poor fit for them.
+L-theanine is also commonly paired with caffeine during the day.
 
-### Myo-inositol, glycine and GABA
+[Shop L-theanine on Amazon](https://www.amazon.com/s?k=L-theanine)
 
-Huberman has also discussed myo-inositol, glycine and GABA in the context of sleep. These are better thought of as **situational tools**, not mandatory pieces of a fixed nightly stack.
+### The sleep-stack buying order
 
-Myo-inositol has been discussed particularly for people who wake during the night and have trouble falling back asleep.
+If we were spending our own money:
 
-### What about melatonin?
+1. fix wake time and light exposure
+2. move caffeine earlier
+3. get the room dark and cool
+4. consider magnesium
+5. only then experiment with apigenin or theanine individually
 
-Huberman has generally been cautious about routine melatonin supplementation in healthy adults. He has emphasized that many commercial products contain doses much higher than endogenous nighttime production and that melatonin is not his default recommendation for improving ordinary sleep quality.
+That is less exciting than buying three bottles at once. It is also easier to figure out what actually helped.
 
-That does not mean melatonin has no legitimate uses. It can be helpful for specific circadian-rhythm situations, and clinical use should be individualized.
+## 3. Omega-3s: look at EPA and DHA, not bottle size
 
-## Creatine: one of the strongest entries on the list
+Huberman frequently discusses omega-3 fatty acids in the context of brain and cardiovascular health.
 
-Creatine monohydrate is one of the most evidence-backed supplements Huberman discusses.
+The shopping mistake here is buying based on a giant **"1,000 mg fish oil"** number without checking how much EPA and DHA the serving actually provides.
 
-He has explained that **5 grams per day** is a common dose and that he personally takes closer to **10 grams per day** because he is around 100 kg / 220 lb. He has also emphasized that a loading phase is not required; consistent daily intake will raise tissue creatine stores over time.
+[Shop omega-3 supplements by EPA + DHA on Amazon](https://www.amazon.com/s?k=omega+3+EPA+DHA+fish+oil)
 
-Creatine's strongest evidence is for muscle strength, power and training performance. Huberman also highlights research into brain creatine and cognition, especially in people who consume little or no meat and when brain-energy demand is high.
+If you eat fatty fish regularly, the value proposition changes. If you rarely do, supplementation may make more sense.
 
-Sources: [Huberman Lab AMA #11](https://www.hubermanlab.com/episode/ama-11-improve-task-switching-productivity-and-brain-fog) and [Nutrients for Brain Health & Performance](https://www.hubermanlab.com/episode/nutrients-for-brain-health-and-performance)
+The evidence also depends on the outcome. Prescription omega-3 products can lower high triglycerides. Broader claims about making every healthy person smarter are much less settled.
 
-For most people, **plain creatine monohydrate** is the form with the deepest evidence base. More expensive variants have not consistently shown superior real-world results.
+## 4. Alpha-GPC: useful tool, not a breakfast vitamin
 
-## Alpha-GPC for focus and training
+Huberman has described using **Alpha-GPC**, often around **300 mg**, before some workouts or deep cognitive work.
 
-Alpha-GPC is one of the clearest examples of a supplement Huberman has described using personally for focused work and workouts.
+That makes it a classic example of something better thought of as a **situational tool** rather than a daily nutritional foundation.
 
-In his Focus Toolkit episode, he discusses **300–600 mg**, with **300 mg often being enough for him**, taken roughly 10–20 minutes before deep cognitive work or training. Elsewhere, he has described using it several times per week rather than necessarily every day.
+You can [compare Alpha-GPC on Amazon](https://www.amazon.com/s?k=Alpha+GPC+300mg).
 
-Alpha-GPC provides choline and can raise acetylcholine signaling, which is involved in attention and learning.
+Huberman has also discussed observational research raising questions about long-term Alpha-GPC exposure and stroke risk. That does not prove normal use causes stroke, but it is enough reason not to treat the supplement like candy.
 
-Source: [Huberman Lab — Focus Toolkit](https://www.hubermanlab.com/episode/focus-toolkit-tools-to-improve-your-focus-and-concentration)
+**Our take:** interesting for targeted use, not remotely as easy a recommendation as creatine.
 
-There is an important caution here. Huberman himself has discussed observational research linking high or chronic Alpha-GPC exposure with stroke risk while noting that the data are not definitive. That makes it a poor candidate for a "more is better" approach.
+## 5. Vitamin D: test, then decide
 
-Source: [Huberman Lab — Optimize & Control Your Brain Chemistry](https://www.hubermanlab.com/episode/optimize-and-control-your-brain-chemistry-to-improve-health-and-performance)
+Vitamin D comes up constantly in performance and health conversations because deficiency is common in some populations and vitamin D matters biologically.
 
-## L-tyrosine and other focus compounds
+The wrong takeaway is to copy a podcaster's dose forever.
 
-L-tyrosine is a precursor used to make catecholamines such as dopamine and norepinephrine. Huberman has discussed it as a **situational focus tool**, particularly when cognitive demand is high.
+Vitamin D is fat soluble. Excessive intake can cause toxicity. Blood testing, sun exposure, diet, latitude and medical history all affect the decision.
 
-Research is more convincing for maintaining cognitive performance under stress, cold exposure or sleep deprivation than for turning a rested healthy person into a dramatically better thinker.
+If you need a supplement, [compare vitamin D3 products on Amazon](https://www.amazon.com/s?k=vitamin+D3), but the useful first step may be a lab test rather than a shopping cart.
 
-## Omega-3 fatty acids
+## 6. Tongkat ali: where the uncertainty starts climbing
 
-Huberman has frequently discussed omega-3 fatty acids, especially EPA and DHA, in the context of cardiovascular and brain health.
+Tongkat ali is one of the hormone-related supplements most associated with Huberman.
 
-Omega-3s are among the more established nutritional supplements, but the evidence depends on the outcome. Prescription-strength omega-3 products can meaningfully lower high triglycerides. Evidence for broad claims such as "better cognition in every healthy adult" is less definitive.
+He has discussed personal use in the **few-hundred-milligram range** and has talked about possible effects on libido and testosterone.
 
-When comparing products, focus on the actual grams of **EPA + DHA**, not simply the total milligrams of "fish oil" on the front label.
+There is human research, but the evidence base is far smaller and messier than the evidence for creatine.
 
-## Vitamin D
+Product quality also matters because botanical extracts can vary considerably.
 
-Vitamin D has appeared frequently in Huberman's discussions. Correcting deficiency is important, but that does not mean everyone benefits from pushing levels as high as possible.
+[Browse tongkat ali supplements on Amazon](https://www.amazon.com/s?k=tongkat+ali+standardized+extract)
 
-Because vitamin D is fat soluble and excessive intake can cause toxicity, blood testing and clinician guidance are more useful than blindly copying someone else's dose.
+**Our take:** do not put this in the same mental category as protein, creatine or correcting a deficiency.
 
-## Tongkat ali
+## 7. Fadogia agrestis: this is where we would slow down
 
-Tongkat ali, or *Eurycoma longifolia*, is one of the hormone-related supplements most closely associated with Huberman. He has discussed using it personally and has described doses in the **few-hundred-milligram-per-day range**, commonly around 400 mg in public discussions.
+Fadogia agrestis became popular online partly because of Huberman-related discussions around testosterone.
 
-The proposed use is support for libido and free testosterone. Human studies suggest possible effects on stress, sexual function or testosterone in some populations, but the evidence base is much thinner than it is for creatine.
+The problem is simple: **good human safety data are extremely limited**.
 
-Product quality matters with botanical extracts because active-compound concentrations can vary substantially.
+Animal studies have raised toxicity concerns, including reproductive and organ-related findings at some doses.
 
-## Fadogia agrestis deserves more caution
+This is not the kind of uncertainty we think should be solved with a big affiliate button.
 
-Fadogia agrestis is often included in online "Huberman testosterone stack" articles because he has discussed it in connection with luteinizing hormone and testosterone.
+**Our take:** high caution. There are easier, better studied ways to spend money on health and performance.
 
-However, **human clinical evidence and long-term human safety data are extremely limited**. Animal research has raised toxicity concerns at higher doses, including possible effects on testicular tissue and other organs.
+## 8. Ashwagandha
 
-Huberman has emphasized blood testing when experimenting with hormone-related supplements. We would not put fadogia in the same evidence tier as creatine, omega-3s or correcting a documented nutrient deficiency.
+Huberman has discussed ashwagandha as a stress-related tool, not as something every healthy adult must permanently take.
 
-## Ashwagandha
+Some studies suggest certain preparations may help with stress or sleep. Rare liver injury has also been reported, and the supplement can interact with medications and certain medical conditions.
 
-Huberman has discussed ashwagandha as an adaptogen and stress-related supplement rather than as an essential part of one permanent daily stack.
+If you are comparing products, [look for clearly labeled standardized extracts](https://www.amazon.com/s?k=ashwagandha+standardized+extract) rather than assuming every generic powder is identical.
 
-Some research suggests certain ashwagandha preparations may help with stress or insomnia, but studies are often small and product-specific. Rare liver injury cases have also been reported, and it can interact with thyroid, blood-pressure, diabetes, sedative and immune-suppressing medications.
+For safety context, see [NCCIH's ashwagandha overview](https://www.nccih.nih.gov/health/ashwagandha).
 
-Source: [NCCIH — Ashwagandha: Usefulness and Safety](https://www.nccih.nih.gov/health/ashwagandha)
+## 9. Electrolytes
 
-## AG1 / Athletic Greens
+Huberman talks frequently about hydration, sodium and electrolytes, particularly around exercise.
 
-AG1 has been a Huberman Lab sponsor and Huberman has publicly discussed using it. That commercial relationship should be kept separate from the scientific question of whether a greens powder is necessary.
+The basic idea is real. The marketing can still get ridiculous.
 
-A greens powder can be convenient, but it is not a replacement for fruits, vegetables, adequate protein, fiber or an overall nutritious diet.
+If you train hard, sweat heavily, spend time in heat or use a sauna frequently, an electrolyte mix can be convenient.
 
-## Electrolytes
+If you sit at a desk all day and eat a normal high-sodium diet, you may not need expensive flavored salt water every morning.
 
-Huberman frequently discusses hydration and electrolytes, especially sodium, in the context of neural function and exercise. Electrolyte brands such as LMNT have also appeared as sponsors.
+[Compare electrolyte powders on Amazon](https://www.amazon.com/s?k=electrolyte+powder)
 
-Whether someone needs a dedicated electrolyte supplement depends on sweat rate, climate, exercise duration, diet and medical conditions. Many sedentary people already consume ample sodium, while endurance athletes training in heat may lose substantial amounts through sweat.
+## 10. AG1 and greens powders
 
-## Not every supplement Huberman discusses is "Huberman's stack"
+AG1 has been a Huberman Lab sponsor and Huberman has publicly discussed using it.
 
-Huberman Lab has covered compounds such as lion's mane, bacopa, uridine, CoQ10, PQQ, shilajit, maca, L-carnitine, amino acids and many others. Their appearance in an episode should not be interpreted as proof that Huberman personally takes all of them.
+That financial relationship belongs in the evaluation.
 
-For accuracy, use three buckets:
+A greens powder can be convenient, especially for someone who likes having a single routine. It is not a replacement for fruits, vegetables, protein, fiber or an overall diet.
 
-1. **Personal use:** Huberman has explicitly said he takes or has taken it.
-2. **Protocol/tool:** Huberman has described it as something people may consider for a defined goal.
-3. **Discussion only:** the compound came up in scientific or guest conversation without becoming a blanket recommendation.
+If you buy one, buy it because the convenience is worth the price to you, not because a podcast ad convinced you vegetables became obsolete.
 
-That framework is far more useful than treating every molecule ever mentioned on the podcast as one giant daily stack.
+## Best Huberman supplements by goal
 
-## A simplified Huberman-style approach
+### Strength and performance
 
-If you strip away the internet's tendency to turn every podcast mention into a shopping list, the practical framework becomes much simpler:
+**Creatine monohydrate** is the first place we would look.
 
-- Fix sleep schedule, morning light exposure, exercise and nutrition first.
-- Correct actual nutrient deficiencies when they exist.
-- Consider creatine if strength, power or cognitive support are relevant goals.
-- Get sufficient EPA/DHA from fish or a supplement if dietary intake is low.
-- Use goal-specific tools such as Alpha-GPC or sleep supplements selectively.
-- Treat hormone-oriented botanicals as higher-uncertainty interventions that deserve more caution, better sourcing and often bloodwork.
+[Shop creatine monohydrate on Amazon](https://www.amazon.com/s?k=creatine+monohydrate+powder)
 
-## Safety: do not copy someone else's stack blindly
+### Sleep
 
-Supplement safety depends on the person, dose, medications, health conditions and product quality.
+Start with behavior. If you still want a supplement experiment, magnesium is the simplest entry point before stacking three or four products together.
 
-Extra caution is warranted if you are pregnant or breastfeeding, have kidney or liver disease, take prescription medications, have a cardiovascular condition, use anticoagulants, have a thyroid disorder, or are experimenting with supplements intended to alter hormones.
+### Focus
 
-Supplements are also regulated differently from prescription drugs in the United States. Third-party testing can reduce — but not eliminate — contamination, adulteration or inaccurate-label risks.
+Caffeine is still the obvious baseline. L-theanine can make sense with it. Alpha-GPC is a more specialized tool.
 
-## Frequently asked questions
+### Cardiovascular / general nutrition
 
-### What supplements does Andrew Huberman take every day?
+Get omega-3s from food when practical. Supplement based on actual dietary intake and health context.
 
-There is no single permanent public list that should be treated as his unchanging daily stack. Creatine is one supplement he has clearly described using consistently. He has also publicly discussed omega-3s and several sleep and hormone-related supplements, but frequency and exact protocols have changed over time.
+### Hormone optimization
 
-### What is Andrew Huberman's sleep stack?
+Do not start with a shopping list. Start with sleep, body composition, training, nutrition and appropriate medical evaluation if symptoms are real.
 
-The best-known combination is magnesium threonate or bisglycinate, apigenin and L-theanine before bed. He has also discussed myo-inositol, glycine and GABA for specific situations.
+## What we would actually buy
 
-### How much creatine does Andrew Huberman take?
+This is the shortlist, in order:
 
-Huberman has said 5 g per day is a common dose and that he personally takes about 10 g per day at roughly 100 kg / 220 lb body weight. Creatine monohydrate is the form he discusses most often.
+1. **Creatine monohydrate**
+2. **Omega-3** if fatty-fish intake is low
+3. **Magnesium** if there is a reason to use it
+4. **L-theanine** if caffeine or relaxation use fits
+5. **Apigenin** only as a targeted sleep experiment
+6. **Alpha-GPC** only if you specifically want a situational focus tool
+7. **Tongkat ali** only after understanding the uncertainty
+8. **Fadogia:** skip unless the evidence picture improves substantially
 
-### How much Alpha-GPC does Huberman take?
+[Browse the higher-confidence Huberman supplement basics on Amazon](https://www.amazon.com/s?k=creatine+magnesium+omega+3+L-theanine)
 
-He has described taking about 300 mg before workouts or focused cognitive work while noting that 300–600 mg is a commonly discussed range. He has also said he tends to use it several times per week rather than necessarily daily.
+## How to buy supplements without getting ripped off
 
-### Does Andrew Huberman take tongkat ali?
+A lot of supplement shopping problems are boring quality-control problems.
 
-He has publicly discussed personal use of tongkat ali and has described doses around the few-hundred-milligram range. That should not be interpreted as a recommendation for every listener.
+Look for:
 
-### Does Huberman still recommend fadogia agrestis?
+- clearly stated ingredient amounts
+- no mystery proprietary blends
+- third-party testing when available
+- realistic serving sizes
+- sensible return policies
+- manufacturers that publish enough information to evaluate the product
 
-It is more accurate to say he has **discussed and historically used** fadogia than to present it as an uncomplicated universal recommendation. Human safety evidence is limited, and animal toxicity findings make it one of the more caution-worthy items associated with his supplement discussions.
+Be skeptical when the marketing relies on words such as **detox, biohack, superhuman, anabolic, genius or clinically dosed** without telling you what is actually in the product.
 
-### Does Andrew Huberman recommend melatonin?
+## The rule that keeps this page useful
 
-He is generally cautious about routine melatonin use for otherwise healthy adults and tends to emphasize behavioral sleep tools and other approaches first. Melatonin can still have legitimate circadian and clinical uses.
+A supplement discussed on Huberman Lab can fall into one of three buckets:
 
-### Is Andrew Huberman's supplement stack scientifically proven?
+1. **Personal use:** Huberman explicitly says he uses or has used it.
+2. **Tool / protocol:** he discusses it as something that may fit a defined goal.
+3. **Discussion only:** the molecule came up in science or guest conversation.
 
-No. The evidence ranges from strong for certain outcomes — such as creatine for strength and power — to preliminary or limited for others. Mechanistic evidence and early research are not the same thing as proof of meaningful benefit in healthy humans.
+Those are not the same thing.
 
-## Bottom line
+Treating them as the same is how a 90-minute podcast becomes a $400 monthly supplement bill.
 
-The most useful lesson from Andrew Huberman's supplement discussions is not the size of the stack. It is matching a tool to a specific problem while keeping the evidence, dose, side effects and alternatives in view.
+## Sources and further reading
 
-**Higher-confidence options:** creatine monohydrate, correcting documented deficiencies, and obtaining adequate omega-3 intake.
+- [Huberman Lab: Rational Approach to Supplementation](https://www.hubermanlab.com/episode/developing-a-rational-approach-to-supplementation-for-health-and-performance)
+- [Huberman Lab: Sleep Toolkit](https://www.hubermanlab.com/episode/sleep-toolkit-tools-for-optimizing-sleep-and-sleep-wake-timing)
+- [Huberman Lab: Focus Toolkit](https://www.hubermanlab.com/episode/focus-toolkit-tools-to-improve-your-focus-and-concentration)
+- [NCCIH: Ashwagandha](https://www.nccih.nih.gov/health/ashwagandha)
 
-**More goal-specific options:** magnesium, apigenin, L-theanine and Alpha-GPC.
-
-**Higher-uncertainty options that deserve more caution:** tongkat ali, fadogia agrestis and other hormone-oriented botanicals.
-
-For a broader look at what Joe Rogan has discussed and used himself, see our complete [Joe Rogan supplements guide](/supplements).
+For the main JRE-focused stack, use our [Joe Rogan supplements guide](/supplements).
