@@ -31,7 +31,7 @@ That part is easy. The annoying part is that Kill Cliff has changed names, formu
 
 They are not.
 
-> **What matters right now:** the current Kill Cliff Energy Spicy Pineapple is a **12 oz, zero-sugar drink with 150 mg of caffeine**. Kill Cliff currently sells a 12-pack for $35.99 on its direct site. citeturn728092search5turn728092search12
+> **What matters right now:** the current Kill Cliff Energy Spicy Pineapple is a **12 oz, zero-sugar drink with 150 mg of caffeine**. Kill Cliff currently sells a 12-pack for $35.99 on its direct site.
 
 ## Joe Rogan's Kill Cliff at a glance
 
@@ -93,7 +93,7 @@ For rough perspective:
 
 The useful thing about a canned drink is that the dose is known. A giant coffee-shop cold brew can be much harder to estimate.
 
-Kill Cliff's current Energy lineup lists **150 mg caffeine** for Spicy Pineapple and Cherry Lime Grenade. citeturn728092search5turn728092search12
+Kill Cliff's [current Energy lineup](https://killcliff.com/pages/kill-cliff-energy-ignite) lists **150 mg caffeine** for Spicy Pineapple and Cherry Lime Grenade.
 
 ## Is 150 mg a lot?
 
@@ -116,7 +116,7 @@ If you have:
 
 ## Does it have sugar?
 
-The current Energy Spicy Pineapple is **zero sugar**. citeturn728092search5turn728092search12
+The current Energy Spicy Pineapple is **zero sugar**, according to Kill Cliff's current product lineup.
 
 That is probably the cleanest reason to choose it over a traditional high-sugar energy drink if you already know you want caffeine in a can.
 
@@ -128,7 +128,7 @@ This is where old Kill Cliff articles get messy.
 
 Kill Cliff has sold **different Rogan-branded Spicy Pineapple products**, including CBD versions in the past. That does not mean every can with Joe Rogan's name on it contains CBD.
 
-The **current standard Energy Spicy Pineapple** is presented by Kill Cliff as a 150 mg caffeine energy drink. citeturn728092search5turn728092search12
+The **current standard Energy Spicy Pineapple** is presented by Kill Cliff as a 150 mg caffeine energy drink.
 
 If you are buying an older can, a third-party listing or a different product line, read the actual label.
 
@@ -180,7 +180,7 @@ If the caffeine were removed, this would be a very different product.
 
 ## Is Kill Cliff worth $35.99 per case?
 
-At the direct price we checked, **$35.99 for 12 cans works out to about $3.00 per can** before shipping and tax. citeturn728092search12
+At the direct price we checked, **$35.99 for 12 cans works out to about $3.00 per can** before shipping and tax.
 
 That is normal premium energy-drink territory.
 
@@ -241,7 +241,7 @@ Kill Cliff's current simplified lineup includes:
 - **Cherry Lime Grenade** — 150 mg Energy
 - **Lemon Lime Lightning** — 25 mg Recovery
 
-Kill Cliff lists all three as zero sugar, with different caffeine levels depending on the line. citeturn728092search5
+Kill Cliff lists all three as zero sugar, with different caffeine levels depending on the line. [See the current lineup](https://killcliff.com/pages/kill-cliff-energy-recovery-b).
 
 ### If you came here because of Rogan
 
