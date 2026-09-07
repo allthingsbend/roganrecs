@@ -360,6 +360,98 @@ const featuredSelector = data.image?.replace(/["\\]/g, '\\$&');
     .article-content a:not(.button):not(.rec__cta):hover {
       text-decoration-color: var(--accent-dark);
     }
+
+    /* Affiliate links should feel like useful actions, not buried text links. */
+    .article-content p > a[href*="amazon.com"]:only-child,
+    .article-content p > a[href*="amzn.to"]:only-child,
+    .article-content p > a[href*="amazon.co.uk"]:only-child,
+    .article-content p > a[href*="amazon.ca"]:only-child {
+      display: inline-flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      min-height: 50px;
+      margin: .25rem 0 .6rem;
+      border: 1px solid #1d1b17;
+      border-radius: .8rem;
+      padding: .78rem 1rem;
+      background: #1d1b17;
+      color: #fff;
+      font-family: var(--font-ui);
+      font-size: .88rem;
+      font-weight: 800;
+      line-height: 1.2;
+      text-decoration: none;
+      box-shadow: 0 7px 20px rgba(31,28,23,.12);
+      transition: transform .15s ease, box-shadow .15s ease, background .15s ease;
+    }
+    .article-content p > a[href*="amazon.com"]:only-child::after,
+    .article-content p > a[href*="amzn.to"]:only-child::after,
+    .article-content p > a[href*="amazon.co.uk"]:only-child::after,
+    .article-content p > a[href*="amazon.ca"]:only-child::after {
+      content: 'Amazon ↗';
+      flex: 0 0 auto;
+      border-radius: 999px;
+      padding: .34rem .55rem;
+      background: var(--gold);
+      color: #1d1b17;
+      font-size: .66rem;
+      font-weight: 850;
+      letter-spacing: .02em;
+    }
+    .article-content p > a[href*="amazon.com"]:only-child:hover,
+    .article-content p > a[href*="amzn.to"]:only-child:hover,
+    .article-content p > a[href*="amazon.co.uk"]:only-child:hover,
+    .article-content p > a[href*="amazon.ca"]:only-child:hover {
+      transform: translateY(-1px);
+      background: #29261f;
+      box-shadow: 0 10px 26px rgba(31,28,23,.16);
+      text-decoration: none;
+    }
+    .article-content p > a[href*="amazon.com"]:only-child:focus-visible,
+    .article-content p > a[href*="amzn.to"]:only-child:focus-visible,
+    .article-content p > a[href*="amazon.co.uk"]:only-child:focus-visible,
+    .article-content p > a[href*="amazon.ca"]:only-child:focus-visible {
+      outline: 3px solid var(--gold);
+      outline-offset: 3px;
+    }
+
+    /* Amazon links inside comparison tables stay compact and scannable. */
+    .article-content table a[href*="amazon.com"],
+    .article-content table a[href*="amzn.to"],
+    .article-content table a[href*="amazon.co.uk"],
+    .article-content table a[href*="amazon.ca"] {
+      display: inline-flex;
+      align-items: center;
+      min-height: 38px;
+      border: 1px solid var(--line);
+      border-radius: .65rem;
+      padding: .48rem .68rem;
+      background: #fff;
+      color: var(--ink);
+      font-family: var(--font-ui);
+      font-size: .76rem;
+      font-weight: 800;
+      line-height: 1.15;
+      text-decoration: none;
+      white-space: normal;
+    }
+    .article-content table a[href*="amazon.com"]::after,
+    .article-content table a[href*="amzn.to"]::after,
+    .article-content table a[href*="amazon.co.uk"]::after,
+    .article-content table a[href*="amazon.ca"]::after {
+      content: ' ↗';
+      margin-left: .2rem;
+      color: var(--accent-dark);
+    }
+    .article-content table a[href*="amazon.com"]:hover,
+    .article-content table a[href*="amzn.to"]:hover,
+    .article-content table a[href*="amazon.co.uk"]:hover,
+    .article-content table a[href*="amazon.ca"]:hover {
+      border-color: var(--accent-dark);
+      text-decoration: none;
+    }
+
     .article-sidebar__inner {
       border-left: 0;
       border-radius: .9rem;
@@ -404,6 +496,23 @@ const featuredSelector = data.image?.replace(/["\\]/g, '\\$&');
       .guide-standard ul { display: grid; grid-template-columns: 1fr; gap: .45rem; }
       .article-content > blockquote:first-of-type { padding: 1.1rem 1.15rem 1.1rem 1.3rem; }
       .faq-section { margin-inline: -.2rem; padding: 1.2rem 1rem .3rem; }
+      .article-content p > a[href*="amazon.com"]:only-child,
+      .article-content p > a[href*="amzn.to"]:only-child,
+      .article-content p > a[href*="amazon.co.uk"]:only-child,
+      .article-content p > a[href*="amazon.ca"]:only-child {
+        width: 100%;
+        min-height: 54px;
+        margin-block: .4rem .8rem;
+        padding: .86rem .92rem;
+        font-size: .9rem;
+      }
+      .article-content table a[href*="amazon.com"],
+      .article-content table a[href*="amzn.to"],
+      .article-content table a[href*="amazon.co.uk"],
+      .article-content table a[href*="amazon.ca"] {
+        min-height: 44px;
+        padding: .56rem .62rem;
+      }
     }
   </style>
 </BaseLayout>
