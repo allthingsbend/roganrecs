@@ -1,234 +1,295 @@
 ---
-title: "Joe Rogan Iron Neck: What He Uses & Is It Worth It?"
-h1: "Joe Rogan Iron Neck: what he uses and whether it is worth it"
-description: "A sourced guide to Joe Rogan's Iron Neck, how the device works, Iron Neck 3.0 vs. Pro, what neck training can actually do, and safer buying advice."
+title: "Joe Rogan Iron Neck: What He Uses, Price & Is It Worth It?"
+h1: "Joe Rogan Iron Neck: what he uses, what it costs and who should actually buy one"
+description: "A current, sourced guide to Joe Rogan's Iron Neck, Iron Neck 3.0 vs. Pro, live pricing, neck-training evidence, cheaper alternatives and who it is really for."
 category: gear
 order: 70
-updated: 2026-08-29
+updated: 2026-09-06
 imported: true
 image: "/images/iron-neck-joe-rogan/iron-neck-jre.png"
 imageAlt: "Iron Neck neck-training device used for resisted neck exercises"
 faq:
-  - q: "Does Joe Rogan use the Iron Neck?"
-    a: "Yes. Rogan has repeatedly discussed and demonstrated the Iron Neck on JRE, recommended it to guests, and described it as a better way to train his neck than older methods such as neck bridges."
+  - q: "Does Joe Rogan actually use Iron Neck?"
+    a: "Yes. Rogan has repeatedly discussed and demonstrated Iron Neck on JRE and has recommended it when conversations turn to neck strength, grappling and safer alternatives to old-school neck bridges."
   - q: "Which Iron Neck does Joe Rogan use?"
-    a: "Rogan's older JRE discussions predate the current third-generation lineup, so we would not claim that he uses one specific current model. Iron Neck currently sells the 3.0 and 3.0 Pro."
+    a: "His best-known JRE mentions span older versions of the product, so it would be misleading to claim one current 3.0 model is permanently his exact unit. The current consumer lineup centers on the Iron Neck 3.0 and 3.0 Pro."
   - q: "What is the difference between Iron Neck 3.0 and 3.0 Pro?"
-    a: "Both provide 360-degree movement with band resistance. The 3.0 Pro adds adjustable rotational resistance through Iron Neck's friction-dial system, which matters most for athletes who specifically want resisted rotation."
+    a: "Both use a fitted headpiece with band resistance and 360-degree movement. The Pro adds adjustable rotational resistance through Iron Neck's friction-dial system, which is most relevant to athletes deliberately training resisted rotation."
+  - q: "How much does Iron Neck cost?"
+    a: "Iron Neck lists regular prices of $349 for the 3.0 and $599 for the 3.0 Pro. Sale pricing changes frequently, so readers should check the live manufacturer price before buying."
   - q: "Does neck training prevent concussions?"
-    a: "The evidence is not strong enough to say that it reliably prevents concussions. Resistance training clearly improves neck strength, but recent systematic reviews describe the relationship between neck strength and concussion risk as mixed or inconclusive overall."
-  - q: "Is Iron Neck good for neck pain?"
-    a: "Iron Neck is a training device, not a diagnosis or guaranteed treatment for neck pain. People with persistent pain, numbness, weakness, radiating symptoms, recent trauma or known cervical-spine problems should get medical guidance before loading the neck."
-  - q: "Is the Iron Neck worth it?"
-    a: "For combat-sport athletes, contact-sport athletes and people who will train their neck consistently, it is one of the most versatile purpose-built options. For casual users, a simple neck harness or resistance-band routine can build strength for far less money."
+    a: "Not reliably enough to claim that. Neck resistance training can improve neck strength, but systematic reviews describe the relationship between neck strength and concussion risk as mixed or inconclusive."
+  - q: "Is Iron Neck worth it?"
+    a: "It makes the most sense for BJJ, MMA, wrestling, contact-sport athletes, motorsports athletes and people who already know they will train their neck consistently. For basic neck strength, bands or a traditional neck harness can cost far less."
 ---
 
-Joe Rogan has been talking about **neck training and the Iron Neck for years**. Unlike a lot of products loosely associated with JRE, this connection is easy to verify: Rogan has recommended the device to guests, kept units at the studio and explained why he prefers it to old-school neck bridges and plate-loaded head harnesses.
+Joe Rogan talking about the **Iron Neck** is not one of those internet associations where a product appears in the background once and suddenly twenty affiliate sites claim it is his favorite thing on earth.
 
-The more important question is whether **you** need one.
+He has actually talked about it, recommended it and explained why he prefers it to old-school neck bridges and hanging plates off your head.
 
-The Iron Neck is a clever, highly specialized strength tool. It can make neck training easier to load in multiple directions, but it is also expensive — and some of the claims surrounding neck training have historically gone further than the research supports.
+The real question is not whether Rogan likes it. He clearly does.
 
-**Last reviewed: August 29, 2026.** This guide separates Rogan's comments, the current Iron Neck lineup and the evidence on neck strength instead of treating marketing claims as established medical facts.
+The real question is whether **you need a $349–$599 neck-training device**.
 
-## Joe Rogan and Iron Neck at a glance
+> **Quick answer:** if you train BJJ, MMA, wrestling, football, rugby or another sport where your head and neck get loaded constantly, Iron Neck is a smart, very well-designed tool. If you are a casual gym user who just thinks neck training might be good, start with bands or a cheap harness first.
 
-| Question | Short answer |
+## Joe Rogan's Iron Neck at a glance
+
+| Question | Answer |
 |---|---|
-| Does Joe Rogan use Iron Neck? | **Yes — repeatedly documented on JRE** |
-| Why does he like it? | Controlled resistance, multidirectional training and less reliance on neck bridges |
-| Current models | **Iron Neck 3.0** and **Iron Neck 3.0 Pro** |
-| Main Pro upgrade | Adjustable rotational resistance |
-| Best fit | BJJ, MMA, wrestling, football, motorsports and serious neck-strength training |
-| Biggest drawback | Price |
-| Does it prevent concussions? | **Not proven**; evidence remains mixed |
+| **Does Rogan really use it?** | Yes, documented repeatedly on JRE |
+| **Current models** | Iron Neck 3.0 and 3.0 Pro |
+| **Regular manufacturer price** | $349 / $599 |
+| **Main Pro upgrade** | Adjustable rotational resistance |
+| **Best use case** | Combat and contact sports, serious neck training |
+| **Biggest downside** | It is expensive for one body part |
+| **Does it prevent concussions?** | Not proven |
+| **Best budget alternative** | Neck harness + resistance bands |
 
-[Check Iron Neck options on Amazon](https://www.amazon.com/s?k=Iron+Neck+3.0)
+[Check current Iron Neck listings on Amazon](https://www.amazon.com/s?k=Iron+Neck+3.0)
 
-## What has Joe Rogan actually said about Iron Neck?
+## What Joe Rogan has actually said about Iron Neck
 
-One of the clearest discussions came in **JRE #1735 with Peter Attia**. Rogan asked Attia whether he did anything specifically to strengthen his neck and then explained the Iron Neck setup: a fitted halo connected to resistance so the user can train under tension while moving the head.
+One of the clearest conversations is **JRE #1735 with Peter Attia**.
 
-Rogan also contrasted it with the old plate-loaded head harnesses he had seen and with neck bridges. His point was not simply that neck strength matters; he liked having a device that let him train the neck through controlled resistance without balancing his body weight on his head.
+Rogan asks Attia about neck strength and explains the Iron Neck as a fitted halo-style device connected to resistance. The important part of the conversation is why he likes it: he can load the neck while moving under controlled tension instead of putting his body weight directly on his head in a wrestler's bridge.
 
-In the **JRE MMA Show #147 with Sean O'Malley and Tim Welch**, Rogan again recommended the Iron Neck when the conversation turned to neck strength and posture, calling it his preferred tool for working the neck.
+That is a pretty rational reason to like the product.
 
-That is enough to call the Iron Neck a **real Rogan recommendation**, rather than a product that merely bought an ad on JRE.
+He recommends it again in the **JRE MMA Show #147 with Sean O'Malley and Tim Welch** when neck strength and posture come up.
 
 - [JRE #1735 — Peter Attia transcript](https://jre.ai/episodes/1735-peter-attia/transcript)
 - [JRE MMA Show #147 transcript](https://jre.ai/episodes/jre-mma-show-147-with-sean-o-malley-and-tim-welch/transcript)
 
-## What is the Iron Neck?
+## What the Iron Neck actually does
 
-Iron Neck is a head-mounted resistance-training system. A band anchors the device to a door, rack or other fixed point while the headpiece allows the user to train against tension.
+Strip away the marketing and it is a very clever resistance system for your neck.
 
-The appeal is **multidirectional loading**. Instead of only flexing or extending the neck with a weight hanging from a strap, you can change your body position and train isometric stability, controlled rotation and other movements while the band pulls from different angles.
+The headpiece fits securely around your head. A resistance band connects the unit to an anchor. You change your body position, then resist or move against the pull from different directions.
 
-That makes it especially relevant to sports where the head is constantly being pushed, pulled or rotated — including **Brazilian jiu-jitsu, wrestling, MMA, rugby, football and motorsports**.
+That gives you something a basic neck harness does not do nearly as elegantly: **multidirectional loading**.
 
-## Iron Neck 3.0 vs. Iron Neck 3.0 Pro
+You can train:
 
-Iron Neck's current third-generation lineup is much simpler than its older product catalog.
+- flexion and extension
+- lateral stability
+- isometric holds
+- controlled rotation
+- resisting force from changing angles
+
+That is why the product makes so much sense for grappling. Nobody in a front headlock applies force to your neck in one perfect gym-machine plane.
+
+## Iron Neck 3.0 vs. 3.0 Pro
+
+This is the decision most buyers actually need help with.
 
 | Feature | Iron Neck 3.0 | Iron Neck 3.0 Pro |
 |---|---|---|
 | 360° movement | Yes | Yes |
 | Linear band resistance | Yes | Yes |
-| Inflatable/custom-fit headpiece | Yes | Yes |
-| Door/rack anchoring | Yes | Yes |
-| Rotational resistance | No | **Yes** |
-| Adjustable friction dial | No | **Yes** |
-| Best for | General strength, mobility and controlled neck training | Athletes wanting more advanced rotational loading |
+| AirFit-style fitted headpiece | Yes | Yes |
+| Door / rack anchors | Yes | Yes |
+| 25 lb resistance band included | Yes | Yes |
+| Adjustable rotational resistance | No | **Yes** |
+| Variable friction dial | No | **Yes** |
+| Regular price | **$349** | **$599** |
+| Who should buy it? | Most people | Athletes who specifically need resisted rotation |
 
-Iron Neck lists the **3.0 at $349** and the **3.0 Pro at $599** at the time of this review. Sale prices change, so check the live price rather than relying on an old article.
-
-[View Iron Neck 3.0](https://www.iron-neck.com/products/iron-neck-3-0)
-
-[View Iron Neck 3.0 Pro](https://www.iron-neck.com/products/iron-neck-3-0-pro)
+Iron Neck's own current comparison says the defining difference is the Pro's **rotational resistance and variable friction dial**. Both include the core headpiece, linear resistance and anchor setup. citeturn728092search0turn728092search2
 
 ### Which one would we buy?
 
-For most people: **Iron Neck 3.0**.
+**Iron Neck 3.0 for most people.**
 
-The standard 3.0 already gives you the main reason to buy the system — a secure headpiece, anchor options and multidirectional band resistance. The Pro makes sense when **resisted rotation itself is a major training goal**, such as for combat sports or higher-level contact-sport preparation.
+You are already getting the big upgrade over a normal harness: a secure headpiece and easy multidirectional band loading.
 
-Paying hundreds more simply because the Pro is the top model does not automatically produce a better result.
+The **3.0 Pro** makes sense if you can explain exactly why adjustable resisted rotation belongs in your program. Fighters, wrestlers, motorsports athletes and coaches may have a very good answer to that.
 
-## Is the Iron Neck worth $349–$599?
+If your answer is “the Pro is better because it costs more,” save the $250.
 
-It depends on how often you will use it.
+## The price changes a lot, so do not trust old articles
 
-### Iron Neck makes the most sense for
+Iron Neck regularly runs sales.
 
-- **BJJ and MMA athletes** whose neck is routinely loaded during grappling.
-- **Wrestlers and contact-sport athletes** who deliberately include neck strength in their program.
-- **Motorsports athletes** dealing with repeated lateral loading and G-forces.
-- Strength coaches or gyms where several athletes will use the same system.
-- People who have tried basic neck resistance work and want a more comfortable, repeatable setup.
+At the time we checked on **September 6, 2026**, the manufacturer showed the 3.0 at **$299 sale / $349 regular** and the Pro at **$499 sale / $599 regular** on parts of its current storefront. Other live storefront variants showed regular pricing, which is exactly why hard-coding a sale price into an evergreen guide is a bad idea. citeturn728092search0turn728092search6turn728092search9
 
-### It is probably overkill for
+Our advice:
 
-- Someone who just wants slightly better posture.
-- A beginner who has never trained the neck before.
-- Someone hoping a device will automatically fix chronic neck pain.
-- Anyone who will use it twice and then leave it in a closet.
+**Judge the product at the regular price. Treat any sale as a bonus.**
 
-For basic neck strength, inexpensive equipment can still work.
+[Check Iron Neck's current pricing](https://www.iron-neck.com/collections/all)
 
-[Shop neck harnesses on Amazon](https://www.amazon.com/s?k=neck+training+harness)
+## Who should actually buy an Iron Neck?
 
-[Shop resistance bands on Amazon](https://www.amazon.com/s?k=resistance+bands+with+door+anchor)
+### BJJ and MMA athletes
 
-The Iron Neck's value is mostly in **comfort, control and the range of movements it makes easy to repeat**, not because neck muscles somehow require proprietary equipment to get stronger.
+This is probably the cleanest fit.
 
-## Does neck training actually work?
+In grappling, the neck is constantly resisting:
 
-For the narrow question of **getting the neck stronger**, yes.
+- collar ties
+- snap-downs
+- crossfaces
+- front headlocks
+- guillotines
+- head-and-arm control
+- awkward rotational force
 
-A 2024 systematic review and meta-analysis of exercise interventions found a large effect of resistance training on isometric neck strength. That is the least controversial reason to train the neck: progressively loading muscle generally makes it stronger.
+A stronger neck will not make you submission-proof. But it is easy to understand why deliberately training the area can make sense when your sport repeatedly loads it.
 
-[Read the systematic review on PubMed](https://pubmed.ncbi.nlm.nih.gov/39242177/)
+### Wrestlers and contact-sport athletes
 
-Where things get much less certain is when people jump from **"stronger neck"** to **"prevents concussions."**
+Same basic logic. The neck is part of the kinetic chain and gets exposed to force from weird angles.
+
+Iron Neck's advantage is not magic. It is that the setup makes consistent, controlled training easier.
+
+### Motorsports athletes
+
+This is a less obvious but legitimate use case. Drivers can experience repeated lateral loading, and neck endurance matters when the head and helmet are being pulled around by G-forces.
+
+### Coaches and gyms
+
+The value proposition changes when ten or twenty athletes use one device.
+
+A $599 tool sitting in one person's closet is expensive. A $599 tool integrated into a team training program is a different calculation.
+
+## Who probably does not need one
+
+You probably do **not** need an Iron Neck if:
+
+- you have never trained your neck before
+- your main goal is “better posture”
+- you are hoping it fixes unexplained chronic pain
+- you saw Rogan use one and want another piece of home-gym gear
+- you are inconsistent with basic strength training already
+
+There is no point owning the world's fanciest neck trainer if you do not use it.
+
+## Does neck training work?
+
+For the basic question **“can resistance training make your neck stronger?”**, yes.
+
+A 2024 systematic review and meta-analysis found a substantial effect of exercise interventions on isometric neck strength. That is the strongest, least controversial reason to train the neck.
+
+[Read the review on PubMed](https://pubmed.ncbi.nlm.nih.gov/39242177/)
+
+The problem is what happens next in marketing:
+
+**stronger neck → therefore fewer concussions → therefore buy this device.**
+
+That chain is not established nearly well enough.
 
 ## Does a stronger neck prevent concussions?
 
-This page previously made that claim too confidently. The current evidence does **not** justify saying that neck strengthening reliably prevents concussions across athletes and sports.
+Maybe in some contexts. Not reliably enough to promise it.
 
-A 2023 systematic review and meta-analysis found very low-certainty evidence and a small, statistically nonsignificant relationship between greater neck strength and lower concussion risk.
+A 2023 systematic review found the evidence connecting greater neck strength with reduced sports-related concussion risk to be **very low certainty**, with the pooled relationship small and not statistically convincing.
 
-A newer 2026 systematic review similarly concluded that the evidence remains **inconclusive**. Some individual studies and subgroups look promising — including research in male rugby players — but that is different from proving that an Iron Neck prevents concussions.
+A newer review in 2026 still described the overall relationship as **inconclusive**.
 
-- [2023 systematic review: neck strength and concussion risk](https://pubmed.ncbi.nlm.nih.gov/37428807/)
-- [2026 systematic review: evaluation of neck strength and concussion risk](https://pubmed.ncbi.nlm.nih.gov/41524441/)
+- [2023 systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/37428807/)
+- [2026 review of neck strength and concussion risk](https://pubmed.ncbi.nlm.nih.gov/41524441/)
 
-The responsible takeaway is:
+So the useful position is:
 
-**Train your neck because neck strength can be useful. Do not treat neck training as concussion armor.**
+> **Train your neck because having a stronger neck can be useful. Do not pretend you bought concussion armor.**
 
-Rules, technique, exposure to impacts, protective equipment where appropriate and medical concussion protocols still matter.
+Technique, rules, exposure, impact forces, medical protocols and appropriate protective equipment still matter.
 
-## Why neck training makes sense for BJJ and MMA
+## Iron Neck vs. a $40 neck harness
 
-Even without making concussion claims, the logic for neck training in grappling is easy to understand.
+This comparison is more useful than pretending everyone needs the premium device.
 
-In BJJ and wrestling, opponents constantly control the head. You resist collar ties, front headlocks, snap-downs, guillotines and cross-face pressure. The neck is not working in one clean gym-machine plane; it is stabilizing while force comes from different directions.
-
-That is where the Iron Neck's design makes sense. You can work on **controlled isometric tension and movement from multiple angles** rather than only doing heavy neck flexion and extension.
-
-Rogan specifically framed the device this way when discussing jiu-jitsu with Peter Attia: older wrestlers and fighters often used neck bridges, but he preferred the Iron Neck as a way to train the area under controlled resistance.
-
-![Joe Rogan Iron Neck training](/images/iron-neck-joe-rogan/iron-neck-rogan.png)
-
-## A safer way to start neck training
-
-The neck is not a muscle group where chasing a huge pump or maxing out resistance makes much sense.
-
-If you are healthy and cleared to train your neck, a conservative approach is more sensible:
-
-1. **Start with low resistance.** Learn to keep the movement smooth before adding tension.
-2. **Use controlled ranges.** Do not force end-range rotation or extension under heavy load.
-3. **Train stability first.** Isometric holds and small controlled movements are easier to dose than aggressive circles.
-4. **Add volume gradually.** Your neck does not need a bodybuilding-style marathon.
-5. **Stop for neurological symptoms.** Numbness, tingling, weakness, dizziness, radiating pain or unusual headache are not "push through it" signals.
-
-If you have a history of cervical-disc problems, neck surgery, significant trauma or persistent pain, get individualized guidance from a qualified clinician rather than copying a fighter's workout from the internet.
-
-## Iron Neck vs. a traditional neck harness
-
-| | Iron Neck | Traditional neck harness |
+| | Iron Neck | Basic neck harness |
 |---|---|---|
 | Price | High | Low |
-| Multidirectional work | Excellent | Limited to moderate |
-| Rotational training | Strongest on Pro | Awkward |
-| Setup consistency | Excellent | Basic |
+| Setup comfort | Excellent | Basic |
+| Multidirectional work | Excellent | Limited |
+| Rotation | Excellent on Pro | Awkward |
+| Simple flexion/extension | Excellent | **Also excellent** |
 | Portability | Good | Excellent |
-| Beginner value | Depends | Excellent |
-| Best use | Serious multidirectional neck program | Cheap basic flexion/extension loading |
+| Beginner value | Medium | **High** |
+| Best fit | Serious, repeatable neck program | Cheap basic strengthening |
 
-A $30–$50 neck harness is not as sophisticated, but that does not make it useless.
+[Shop neck harnesses on Amazon](https://www.amazon.com/s?k=neck+strength+training+harness)
 
-[Compare neck-training harnesses on Amazon](https://www.amazon.com/s?k=neck+strength+training+harness)
+[Shop resistance bands with anchors](https://www.amazon.com/s?k=resistance+bands+door+anchor)
 
-If a basic setup gets you training consistently, it may be the smarter first purchase. You can always move to an Iron Neck later.
+A cheap harness is not as polished. Your neck muscles also do not know how expensive your equipment is.
 
-## Can Iron Neck fix posture or neck pain?
+If basic resistance gets you training consistently, that is a win.
 
-This is another area where marketing can outrun evidence.
+## A sane way to start neck training
 
-Strength can be one part of managing certain musculoskeletal problems, but **neck pain has many causes**. A product cannot diagnose whether your pain is coming from muscular load tolerance, a joint, a disc, a nerve, headache disorder, an old injury or something else.
+The neck is a terrible place to bring the “more weight at all costs” mentality.
 
-The same goes for posture. Becoming stronger may make it easier to tolerate positions and maintain the posture you want, but there is no single "perfect posture" that a neck device installs.
+A better progression:
 
-If your goal is simply to feel better at a desk, you may get more value from a broader program involving upper-back strength, movement breaks, workstation adjustments and general exercise before spending hundreds on specialized neck equipment.
+1. **Start with isometrics.** Learn to create tension without jerking your head around.
+2. **Use low resistance.** The goal is control, not proving your neck is strong on day one.
+3. **Train multiple directions.** Flexion, extension and lateral stability all matter.
+4. **Add rotation carefully.** Especially under load.
+5. **Progress slowly.** More resistance, range or duration should be earned over time.
+
+Stop and get evaluated for numbness, tingling, weakness, radiating pain, unusual headache, dizziness or symptoms after significant trauma.
+
+## Can Iron Neck fix neck pain?
+
+Do not buy a device as a diagnosis.
+
+Neck pain can come from muscular load tolerance, joints, discs, nerves, headache disorders, prior trauma and a pile of other causes. Resistance exercise can absolutely be part of rehabilitation for some people, but that does not mean one product fixes every neck problem.
+
+Iron Neck's site makes broad claims around mobility, discomfort and posture. Those are manufacturer claims and should not be confused with a personalized medical assessment. citeturn728092search7
+
+If you have persistent or neurological symptoms, get the problem assessed before you start loading it harder.
+
+## Can Iron Neck fix posture?
+
+It can strengthen muscles involved in supporting and controlling the head. That is useful.
+
+But posture is not a single broken position you cure by making your neck stronger. Desk time, upper-back strength, movement variety, fatigue, vision, ergonomics and pain all matter.
+
+If your only complaint is “I slouch at my computer,” start with basic strength training and more movement before spending hundreds on specialized gear.
 
 ## Our buying recommendation
 
-**Best for most Iron Neck buyers:** **Iron Neck 3.0**. It provides the core 360-degree system without paying for the Pro's rotational-friction hardware.
+### Best for most buyers: Iron Neck 3.0
 
-**Best for serious combat/contact-sport training:** **Iron Neck 3.0 Pro**, if you know you will use the adjustable rotational resistance.
+You get the core system without paying for the Pro's friction-based rotational resistance.
 
-**Best budget option:** a traditional neck harness plus bands.
+### Best for serious combat/contact sport use: Iron Neck 3.0 Pro
 
-[Check Iron Neck listings on Amazon](https://www.amazon.com/s?k=Iron+Neck)
+Buy it when resisted rotation is a real programming need, not because it has “Pro” in the name.
 
-[Shop budget neck-training equipment](https://www.amazon.com/s?k=neck+strengthening+equipment)
+### Best budget option: harness + bands
 
-## More Joe Rogan training and recovery guides
+If you have never trained your neck, this is where we would start.
 
+[Compare Iron Neck listings on Amazon](https://www.amazon.com/s?k=Iron+Neck)
+
+[Browse budget neck-training equipment](https://www.amazon.com/s?k=neck+strengthening+equipment)
+
+## More Rogan training and recovery guides
+
+- [Joe Rogan cold plunge routine](/joe-rogan-cold-plunge-guide)
 - [Joe Rogan sauna routine](/joe-rogan-sauna-guide)
-- [Joe Rogan cold plunge guide](/joe-rogan-cold-plunge-guide)
 - [Joe Rogan supplements](/supplements)
 - [Joe Rogan podcast equipment](/podcast-guests/joe-rogan-podcast-equipment)
 - [Joe Rogan energy drink](/energy-drink-joe-rogan)
 
 ## Sources and verification
 
-- **JRE #1735 — Peter Attia:** direct discussion of how Rogan uses and describes the Iron Neck. [Transcript](https://jre.ai/episodes/1735-peter-attia/transcript)
-- **JRE MMA Show #147 — Sean O'Malley & Tim Welch:** Rogan recommends the device during a discussion of neck strength. [Transcript](https://jre.ai/episodes/jre-mma-show-147-with-sean-o-malley-and-tim-welch/transcript)
-- **Iron Neck:** current 3.0 and 3.0 Pro specifications and pricing. [Iron Neck 3.0](https://www.iron-neck.com/products/iron-neck-3-0) · [Iron Neck 3.0 Pro](https://www.iron-neck.com/products/iron-neck-3-0-pro)
-- **British Journal of Sports Medicine:** systematic review of exercise interventions and neck strength. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39242177/)
-- **JOSPT:** systematic review/meta-analysis on neck strength and sports-related concussion. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37428807/)
-- **Current Sports Medicine Reports (2026):** newer review finding the neck-strength/concussion relationship remains inconclusive. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41524441/)
+- **JRE #1735 — Peter Attia:** direct Iron Neck discussion. [Transcript](https://jre.ai/episodes/1735-peter-attia/transcript)
+- **JRE MMA Show #147 — Sean O'Malley & Tim Welch:** Rogan recommends the device. [Transcript](https://jre.ai/episodes/jre-mma-show-147-with-sean-o-malley-and-tim-welch/transcript)
+- **Iron Neck:** current model comparison and pricing. [3.0](https://www.iron-neck.com/products/iron-neck-3-0) and [3.0 Pro](https://www.iron-neck.com/products/iron-neck-3-0-pro)
+- **British Journal of Sports Medicine:** neck-strength exercise review. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39242177/)
+- **JOSPT:** neck strength and concussion risk review. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37428807/)
+- **Current Sports Medicine Reports (2026):** newer concussion-risk review. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41524441/)
 
-**Editorial note:** Iron Neck sells the product discussed here. Product claims from the manufacturer are treated as manufacturer claims; medical and injury-risk statements are checked separately against independent research.
+## Bottom line
+
+Iron Neck is a legitimately good piece of equipment. It is also a piece of equipment for **one relatively small area of your body**, and it costs as much as some people's entire garage-gym setup.
+
+If you grapple, fight, wrestle or have a real reason to train your neck seriously, it makes a lot of sense.
+
+If you are just curious, buy bands or a harness first. Prove you will actually train your neck. Then buy the expensive thing.
