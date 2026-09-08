@@ -10,8 +10,8 @@ const { Content, headings } = await render(entry);
 const words = (entry.body ?? '').split(/\s+/).filter(Boolean).length;
 const data = {
   ...entry.data,
-  image: 'https://images.unsplash.com/photo-1763668331599-487470fb85b2?auto=format&fit=crop&w=1400&q=82',
-  imageAlt: 'Neutral supplement bottle with capsules on a clean studio background',
+  image: '/images/supplements/pure-encapsulations-macular-support.webp',
+  imageAlt: 'Pure Encapsulations Macular Support Formula supplement bottle',
 };
 const crumbs = [
   { label: 'Home', href: '/' },
@@ -57,6 +57,38 @@ const related = [
 >
   <Content />
 </ArticleLayout>
+
+<script is:inline>
+  document.addEventListener('DOMContentLoaded', () => {
+    const links = document.querySelector('.article-hero .hero-shop__links');
+    if (!links) return;
+
+    const first = links.querySelector('a');
+    if (first) {
+      first.innerHTML = 'Creatine powder <span aria-hidden="true">→</span>';
+      first.setAttribute('data-product', 'Creatine powder');
+    }
+
+    if (!links.querySelector('[data-product="Creatine gummies"]')) {
+      const gummies = document.createElement('a');
+      gummies.href = 'https://www.amazon.com/s?k=creatine+gummies&tag=rogan-recs-20';
+      gummies.target = '_blank';
+      gummies.rel = 'sponsored nofollow noopener';
+      gummies.setAttribute('data-affiliate-link', '');
+      gummies.setAttribute('data-product', 'Creatine gummies');
+      gummies.setAttribute('data-cta', 'hero quick shop');
+      gummies.innerHTML = 'Creatine gummies <span aria-hidden="true">→</span>';
+      first?.insertAdjacentElement('afterend', gummies);
+    }
+
+    for (const link of links.querySelectorAll('a')) {
+      if (link.textContent?.trim().startsWith('Macular Support')) {
+        link.innerHTML = 'Macular Support (eye) <span aria-hidden="true">→</span>';
+        link.setAttribute('data-product', 'Macular Support (eye)');
+      }
+    }
+  });
+</script>
 
 <style is:global>
   @media (max-width: 640px) {
@@ -130,7 +162,7 @@ const related = [
     }
 
     .hero-shop__links a:first-child {
-      grid-column: 1 / -1;
+      grid-column: auto;
       background: var(--gold);
     }
 
