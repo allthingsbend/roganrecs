@@ -48,8 +48,8 @@ const fallbackImages = {
         <h1>{home.data.h1}</h1>
         <p>{home.data.description}</p>
         <div class="button-row">
-          <a class="button button--accent" href="/supplements">Explore the supplement stack</a>
-          <a class="button button--ghost" href="#guides">Browse every guide</a>
+          <a class="button button--accent" href="/joe-rogan-products">Browse what Rogan uses</a>
+          <a class="button button--ghost" href="/supplements">Explore the supplement stack</a>
         </div>
         <ul class="trust-list" aria-label="How Rogan Recs works">
           <li>Public episodes & interviews</li>
@@ -59,28 +59,28 @@ const fallbackImages = {
       </div>
 
       <div class="hero-collage" aria-label="Featured Rogan Recs guides">
-        <a class="hero-collage__main" href="/joe-rogan-sauna-guide">
+        <a class="hero-collage__main" href="/joe-rogan-products">
           <img
             src="/images/joe-rogan-sauna-guide/joe-rogan-sauna-guide.png"
-            alt="Warm wooden sauna interior"
+            alt="Home sauna representing Joe Rogan products and gear"
             width="900"
             height="600"
             loading="eager"
             fetchpriority="high"
           />
-          <span><small>Recovery</small> The sauna guide</span>
+          <span><small>Start here</small> What Joe Rogan uses</span>
         </a>
-        <a href="/joe-rogan-cold-plunge-guide">
+        <a href="/supplements">
           <img
-            src="/images/joe-rogan-cold-plunge-guide/rogan-cold-plugne.jpg"
-            alt="Cold plunge setup"
+            src="/images/blog-methylated-vitamins/vitamins-on-counter.png"
+            alt="Supplements arranged on a counter"
             width="450"
             height="300"
             loading="eager"
           />
-          <span>Cold plunge</span>
+          <span>Supplement stack</span>
         </a>
-        <a href="/podcast-guests">
+        <a href="/podcast-guests/joe-rogan-podcast-equipment">
           <img
             src="/images/podcast-guests/podcast-microphone.png"
             alt="Podcast microphone"
@@ -88,7 +88,7 @@ const fallbackImages = {
             height="300"
             loading="eager"
           />
-          <span>Guest guides</span>
+          <span>Podcast gear</span>
         </a>
       </div>
     </div>
@@ -97,6 +97,7 @@ const fallbackImages = {
   <section class="topic-rail" aria-label="Browse by topic">
     <div class="shell">
       <span>Browse:</span>
+      <a href="/joe-rogan-products">All products</a>
       <a href="/supplements">Supplements</a>
       <a href="/joe-rogan-sauna-guide">Sauna</a>
       <a href="/joe-rogan-cold-plunge-guide">Cold plunge</a>
@@ -107,7 +108,7 @@ const fallbackImages = {
   </section>
 
   <div class="shell home-disclosure">
-      <AffiliateDisclosure />
+    <AffiliateDisclosure />
   </div>
 
   <div class="shell home-sections">
@@ -117,7 +118,7 @@ const fallbackImages = {
           <p class="eyebrow">Start here</p>
           <h2>Essential guides</h2>
         </div>
-        <a href="/sitemap-html">See every guide <span aria-hidden="true">→</span></a>
+        <a href="/joe-rogan-products">Search all products <span aria-hidden="true">→</span></a>
       </div>
       <ul class="card-grid">
         {guides.map((g) => (
@@ -164,7 +165,7 @@ const fallbackImages = {
         <h2>What was discussed, what it does and whether it makes sense.</h2>
         <p>
           The JRE covers a lot of ground. Rogan Recs turns those long conversations into
-          practical, readable guides—with uncertainty and safety caveats left intact.
+          practical, readable guides with uncertainty and safety caveats left intact.
         </p>
       </div>
       <div class="article home-explainer__content">
