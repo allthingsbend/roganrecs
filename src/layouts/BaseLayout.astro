@@ -26,11 +26,8 @@ const props = Astro.props;
     <Seo {...props} />
 
     <!-- Google Analytics 4. Same property as the Squarespace site, so your
-         historical data and the new data stay in one place. To change or
-         remove it, edit / delete this block. -->
-    <script
-      async
-      src="https://www.googletagmanager.com/gtag/js?id=G-XC52J75H6W"></script>
+         historical data and the new data stay in one place. -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XC52J75H6W"></script>
     <script is:inline>
       window.dataLayer = window.dataLayer || [];
       function gtag() { dataLayer.push(arguments); }
@@ -45,5 +42,28 @@ const props = Astro.props;
       <slot />
     </main>
     <Footer />
+    <script is:inline>
+      // Measure affiliate intent without delaying navigation. Works for the
+      // new recommendation cards and existing Amazon links across old guides.
+      document.addEventListener('click', function (event) {
+        const link = event.target.closest('a');
+        if (!link) return;
+        const href = link.href || '';
+        const isAmazon = /amazon\.|amzn\.to/i.test(href);
+        const isMarkedAffiliate = link.hasAttribute('data-affiliate-link');
+        if (!isAmazon && !isMarkedAffiliate) return;
+        if (typeof window.gtag !== 'function') return;
+
+        const card = link.closest('[data-product]');
+        window.gtag('event', 'affiliate_click', {
+          affiliate: isAmazon ? 'amazon' : 'other',
+          product: link.dataset.product || card?.dataset.product || link.textContent.trim().slice(0, 100),
+          cta: link.dataset.cta || link.textContent.trim().slice(0, 100),
+          destination_url: href,
+          page_path: window.location.pathname,
+          link_position: card ? 'recommendation_card' : 'inline'
+        });
+      });
+    </script>
   </body>
 </html>
