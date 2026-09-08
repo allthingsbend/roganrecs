@@ -43,6 +43,91 @@ const readMins = words ? Math.max(1, Math.round(words / 225)) : 0;
 const fmt = (d) =>
   new Intl.DateTimeFormat('en-US', { month: 'long', day: 'numeric', year: 'numeric' }).format(d);
 
+const moneyGuidePicks = {
+  '/supplements': {
+    label: 'Quick shop',
+    note: 'The highest-value places to start, not every bottle Rogan has ever mentioned.',
+    links: [
+      { name: 'Creatine monohydrate', href: 'https://www.amazon.com/s?k=creatine+monohydrate+powder&tag=rogan-recs-20' },
+      { name: 'Alpha Brain', href: 'https://www.amazon.com/s?k=Onnit+Alpha+Brain&tag=rogan-recs-20' },
+      { name: 'Macular Support', href: 'https://www.amazon.com/s?k=Pure+Encapsulations+Macular+Support&tag=rogan-recs-20' },
+    ],
+  },
+  '/supplements/joe-rogan-creatine': {
+    label: 'Quick shop',
+    note: 'Plain creatine monohydrate is the simple pick. You do not need a fancy blend.',
+    links: [
+      { name: 'Creatine monohydrate', href: 'https://www.amazon.com/s?k=creatine+monohydrate+third+party+tested&tag=rogan-recs-20' },
+      { name: 'Creatine gummies', href: 'https://www.amazon.com/s?k=creatine+gummies&tag=rogan-recs-20' },
+    ],
+  },
+  '/supplements/neuro-gum-joe-rogan': {
+    label: 'Quick shop',
+    note: 'Neuro Gum is mainly caffeine plus L-theanine in a convenient format.',
+    links: [
+      { name: 'Neuro Gum', href: 'https://www.amazon.com/s?k=Neuro+Gum&tag=rogan-recs-20' },
+      { name: 'Caffeine + L-theanine', href: 'https://www.amazon.com/s?k=caffeine+l-theanine&tag=rogan-recs-20' },
+    ],
+  },
+  '/joe-rogan-sauna-guide': {
+    label: 'Quick shop',
+    note: 'Traditional sauna is the closest match to Rogan. Infrared is often easier for home use.',
+    links: [
+      { name: 'Traditional saunas', href: 'https://www.amazon.com/s?k=traditional+home+sauna&tag=rogan-recs-20' },
+      { name: 'Infrared saunas', href: 'https://www.amazon.com/s?k=infrared+home+sauna&tag=rogan-recs-20' },
+    ],
+  },
+  '/joe-rogan-cold-plunge-guide': {
+    label: 'Quick shop',
+    note: 'Compare a real tub setup first. Cheap portable tubs are a different experience but can be enough to start.',
+    links: [
+      { name: 'Cold plunge tubs', href: 'https://www.amazon.com/s?k=cold+plunge+tub&tag=rogan-recs-20' },
+      { name: 'Portable ice baths', href: 'https://www.amazon.com/s?k=portable+ice+bath&tag=rogan-recs-20' },
+    ],
+  },
+  '/podcast-guests/joe-rogan-podcast-equipment': {
+    label: 'Quick shop',
+    note: 'Start with the microphone. The rest of the studio can come later.',
+    links: [
+      { name: 'Shure SM7B', href: 'https://www.amazon.com/s?k=Shure+SM7B&tag=rogan-recs-20' },
+      { name: 'Podcast headphones', href: 'https://www.amazon.com/s?k=professional+podcast+headphones&tag=rogan-recs-20' },
+    ],
+  },
+  '/podcast-guests/joe-rogan-chair-jre-podcast': {
+    label: 'Quick shop',
+    note: 'The HAG Capisco is the classic JRE-associated saddle-style chair.',
+    links: [
+      { name: 'HAG Capisco', href: 'https://www.amazon.com/s?k=HAG+Capisco+8106&tag=rogan-recs-20' },
+      { name: 'Saddle chair alternatives', href: 'https://www.amazon.com/s?k=ergonomic+saddle+chair&tag=rogan-recs-20' },
+    ],
+  },
+  '/iron-neck-joe-rogan': {
+    label: 'Quick shop',
+    note: 'Iron Neck is the Rogan-associated option. Resistance-based neck trainers are the cheaper category.',
+    links: [
+      { name: 'Iron Neck options', href: 'https://www.amazon.com/s?k=Iron+Neck+trainer&tag=rogan-recs-20' },
+      { name: 'Neck trainers', href: 'https://www.amazon.com/s?k=neck+training+harness&tag=rogan-recs-20' },
+    ],
+  },
+  '/joe-rogan-books': {
+    label: 'Quick shop',
+    note: 'Browse the books first, then use the guide to see why each one came up.',
+    links: [
+      { name: 'Rogan book picks', href: 'https://www.amazon.com/s?k=Joe+Rogan+recommended+books&tag=rogan-recs-20' },
+    ],
+  },
+  '/joe-rogan-coffee': {
+    label: 'Quick shop',
+    note: 'Coffee is one of the simpler categories. Buy for roast, freshness and taste, not podcast mythology.',
+    links: [
+      { name: 'Black Rifle Coffee', href: 'https://www.amazon.com/s?k=Black+Rifle+Coffee&tag=rogan-recs-20' },
+      { name: 'Organic whole bean coffee', href: 'https://www.amazon.com/s?k=organic+whole+bean+coffee&tag=rogan-recs-20' },
+    ],
+  },
+};
+
+const quickShop = moneyGuidePicks[path];
+
 const jsonLd = [];
 
 if (crumbs.length) {
@@ -118,6 +203,30 @@ const featuredSelector = data.image?.replace(/["\\]/g, '\\$&');
             {readMins > 0 && <span>{readMins} min read</span>}
             <span>Independent guide</span>
           </div>
+
+          {quickShop && (
+            <div class="hero-shop" aria-label="Quick shopping links">
+              <div class="hero-shop__head">
+                <strong>{quickShop.label}</strong>
+                <span>{quickShop.note}</span>
+              </div>
+              <p class="hero-shop__disclosure">Affiliate links. As an Amazon Associate I earn from qualifying purchases.</p>
+              <div class="hero-shop__links">
+                {quickShop.links.map((item) => (
+                  <a
+                    href={item.href}
+                    target="_blank"
+                    rel="sponsored nofollow noopener"
+                    data-affiliate-link
+                    data-product={item.name}
+                    data-cta="hero quick shop"
+                  >
+                    {item.name} <span aria-hidden="true">→</span>
+                  </a>
+                ))}
+              </div>
+            </div>
+          )}
         </div>
         {data.image && (
           <figure class="article-hero__media">
@@ -155,7 +264,7 @@ const featuredSelector = data.image?.replace(/["\\]/g, '\\$&');
 
   <div class="shell article-shell">
     <article class="article">
-      <AffiliateDisclosure />
+      {!quickShop && <AffiliateDisclosure />}
 
       {tocHeadings.length >= 2 && (
         <details class="mobile-toc">
@@ -235,6 +344,62 @@ const featuredSelector = data.image?.replace(/["\\]/g, '\\$&');
   )}
 
   <style is:global>
+    .hero-shop {
+      max-width: 660px;
+      margin-top: 1.35rem;
+      border: 1px solid rgba(255,255,255,.17);
+      border-radius: 1rem;
+      padding: .95rem;
+      background: rgba(255,255,255,.07);
+      backdrop-filter: blur(10px);
+      font-family: var(--font-ui);
+    }
+    .hero-shop__head {
+      display: grid;
+      gap: .2rem;
+    }
+    .hero-shop__head strong {
+      color: #fff;
+      font: 800 .78rem/1 var(--font-ui);
+      letter-spacing: .08em;
+      text-transform: uppercase;
+    }
+    .hero-shop__head span {
+      color: #bdb8ae;
+      font-size: .78rem;
+      line-height: 1.4;
+    }
+    .hero-shop__disclosure {
+      margin: .55rem 0 .65rem;
+      color: #918c83;
+      font: 500 .67rem/1.35 var(--font-ui);
+    }
+    .hero-shop__links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: .55rem;
+    }
+    .hero-shop__links a {
+      min-height: 42px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: .65rem;
+      border-radius: 999px;
+      padding: .68rem .9rem;
+      background: #fff;
+      color: var(--ink);
+      font: 800 .77rem/1 var(--font-ui);
+      text-decoration: none;
+      box-shadow: 0 8px 20px rgba(0,0,0,.12);
+    }
+    .hero-shop__links a:hover {
+      background: var(--gold);
+      color: var(--ink);
+    }
+    .hero-shop__links a span {
+      color: var(--accent-dark);
+    }
     .guide-standard {
       border-bottom: 1px solid var(--line);
       background: #fff;
@@ -361,7 +526,6 @@ const featuredSelector = data.image?.replace(/["\\]/g, '\\$&');
       text-decoration-color: var(--accent-dark);
     }
 
-    /* Affiliate links should feel like useful actions, not buried text links. */
     .article-content p > a[href*="amazon.com"]:only-child,
     .article-content p > a[href*="amzn.to"]:only-child,
     .article-content p > a[href*="amazon.co.uk"]:only-child,
@@ -416,7 +580,6 @@ const featuredSelector = data.image?.replace(/["\\]/g, '\\$&');
       outline-offset: 3px;
     }
 
-    /* Amazon links inside comparison tables stay compact and scannable. */
     .article-content table a[href*="amazon.com"],
     .article-content table a[href*="amzn.to"],
     .article-content table a[href*="amazon.co.uk"],
@@ -492,6 +655,9 @@ const featuredSelector = data.image?.replace(/["\\]/g, '\\$&');
       .guide-standard ul { width: 100%; flex-wrap: wrap; gap: .6rem 1.2rem; }
     }
     @media (max-width: 640px) {
+      .hero-shop { margin-top: 1.1rem; }
+      .hero-shop__links { display: grid; grid-template-columns: 1fr; }
+      .hero-shop__links a { width: 100%; }
       .guide-standard__intro div > span { display: none; }
       .guide-standard ul { display: grid; grid-template-columns: 1fr; gap: .45rem; }
       .article-content > blockquote:first-of-type { padding: 1.1rem 1.15rem 1.1rem 1.3rem; }
