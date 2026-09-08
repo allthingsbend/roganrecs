@@ -1,86 +1,146 @@
 ---
-title: 'Joe Rogan Smelling Salts: What They Do, Brands & Safety'
-h1: 'Joe Rogan Smelling Salts: Why They Show Up on JRE'
+title: 'Joe Rogan Smelling Salts: Brands, Effects, Safety & What to Buy'
+h1: 'Joe Rogan Smelling Salts: Why They Show Up on JRE and What They Actually Do'
 description: >-
-  A sourced guide to the smelling salts used on JRE, how ammonia inhalants work,
-  what they can and cannot improve, safety concerns and buying considerations.
+  A practical guide to the smelling salts used around JRE, how ammonia inhalants work,
+  whether they improve strength, safety concerns, what to look for and common alternatives.
 category: gear
 order: 90
-updated: 2026-08-29
+updated: 2026-09-07
 imported: true
 image: /images/smelling-salts-jre-podcast/rogan-smelling-salts-theo-von.jpg
 imageAlt: 'Joe Rogan and Theo Von trying smelling salts on JRE'
 faq:
-  - q: 'What are smelling salts?'
-    a: 'Smelling salts are ammonia-based inhalants that irritate the nose and airways, provoking a sharp inhalation and brief increase in alertness.'
-  - q: 'Do smelling salts increase strength?'
-    a: 'They can make someone feel more alert, but research does not consistently show meaningful improvements in maximal strength or power.'
+  - q: 'What smelling salts does Joe Rogan use?'
+    a: 'There does not appear to be one permanent official JRE smelling-salts brand. Different products have appeared over time, so it is more useful to shop by clear labeling, sealed packaging and manufacturer instructions.'
+  - q: 'Do smelling salts make you stronger?'
+    a: 'They can create a sharp burst of alertness and arousal, but research has not consistently shown meaningful improvements in maximal strength or power.'
   - q: 'Are smelling salts safe?'
-    a: 'Brief use can cause eye, nose and airway irritation. They should never be used to wake someone after a suspected concussion or head injury because that can delay proper evaluation.'
+    a: 'Ammonia inhalants are irritants. Follow the product instructions, avoid direct eye or skin contact and do not use them to wake someone after a suspected concussion or head injury.'
 ---
 
 ![Joe Rogan smelling salts with Theo Von](/images/smelling-salts-jre-podcast/rogan-smelling-salts-theo-von.jpg)
 
-Smelling salts have become a recurring JRE gag because the reaction is immediate and dramatic. But the product itself is simple: **ammonia vapor irritates the upper airway, triggering a reflexive inhalation and a short burst of alertness**.
+Smelling salts are perfect podcast material because the reaction is immediate. Someone takes a sniff, their eyes go wide, and the room gets a laugh.
 
-That is different from proving that smelling salts make you stronger, improve athletic performance or safely 'wake up' an injured person.
+Physiologically, the product is much less mysterious: **ammonia vapor irritates the nose and upper airway, triggering a sharp inhalation and a brief increase in arousal**.
 
-## Why Joe Rogan uses smelling salts on the podcast
+> **Quick take:** Smelling salts can make you feel suddenly more awake, but they are not a proven strength supplement. If you buy them, choose a clearly labeled product from a reputable manufacturer and use it exactly as directed. Never use smelling salts as a response to a head injury.
 
-On JRE, smelling salts are usually entertainment first. Rogan and guests have opened strong ammonia products, taken a cautious sniff and reacted to the intense burning sensation.
+## What do smelling salts actually do?
 
-The effect can feel like a sudden reset because ammonia activates sensory nerves and produces a rapid respiratory response. It is not a stimulant in the same way caffeine is, and the effect is very short-lived.
+Ammonia vapor stimulates sensory nerves in the nose and airways. That irritation causes a reflexive inhalation and can produce a short-lived feeling of alertness.
 
-## Do smelling salts improve strength or performance?
+The effect is very different from caffeine:
 
-The evidence is much less exciting than the reaction videos.
+| | Smelling salts | Caffeine |
+| --- | --- | --- |
+| Main effect | Brief sensory jolt | Central nervous system stimulation |
+| Duration | Seconds to minutes | Hours |
+| Performance evidence | Limited / inconsistent | Much stronger |
+| Common use | Pre-lift arousal, novelty | Sustained alertness / performance |
 
-Small studies of ammonia inhalants have generally found **little or no consistent improvement in maximal strength, sprinting or power output**. Athletes may feel more psyched up, but subjective arousal is not the same thing as a meaningful performance gain.
+If you want something for actual sustained alertness, see our [Joe Rogan Neuro Gum guide](/supplements/neuro-gum-joe-rogan).
 
-That makes smelling salts closer to a pre-lift ritual than an evidence-based performance supplement.
+## Why do they show up on JRE?
 
-## The biggest safety mistake: head injuries
+Mostly because they make good entertainment.
 
-Smelling salts should **not** be used to wake up or 'test' someone after a suspected concussion.
+Rogan and guests have used strong ammonia products on the show and reacted to the intense sensation. That has helped turn smelling salts into another piece of JRE-adjacent gear, especially among lifters and combat-sports fans.
 
-If a person has been hit in the head, is confused, unconscious or neurologically abnormal, they need appropriate medical evaluation. An ammonia inhalant can provoke sudden head movement and may distract from symptoms that matter.
+There is not one permanent “official Joe Rogan smelling salt” we would tell readers they need to track down. Products and packaging change. **The category matters more than the screenshot.**
 
-That old sports-movie use case is exactly the one to avoid.
+## Do smelling salts improve strength?
 
-## How to use smelling salts more safely
+The evidence is a lot less dramatic than social media clips.
 
-If a healthy adult chooses to use them:
+Small studies of ammonia inhalants generally show that they can increase subjective arousal, but **they have not consistently improved maximal strength, sprint performance or power output**.
 
-- follow the manufacturer's distance and exposure instructions
-- do not put the container directly under the nostrils
-- avoid direct skin or eye contact
-- use in a ventilated area
-- do not repeatedly inhale for a stronger effect
-- stop if you develop significant coughing, wheezing, eye pain or breathing difficulty
+That does not mean a lifter cannot feel more psyched up after using them. It means feeling more aggressive or awake is not the same thing as a reliable physiological performance boost.
 
-People with respiratory disease or strong chemical sensitivities should be especially cautious.
+Think of smelling salts as a ritual or arousal tool, not a substitute for training, sleep, nutrition or an evidence-based supplement like creatine.
 
-## What brands show up around JRE?
+For the latter, see our [Joe Rogan creatine guide](/supplements/joe-rogan-creatine).
 
-Brands and packaging change, and JRE clips often feature whatever strong ammonia product is around rather than one permanent 'official Rogan brand.' That is why we would shop by **sealed packaging, clear instructions and reputable manufacturer** rather than chasing an old screenshot.
+## The most important safety warning: head injuries
+
+Do **not** use smelling salts to wake someone up after a suspected concussion or other head injury.
+
+If someone is confused, unconscious, unusually sleepy, vomiting, having a seizure, showing neurological symptoms or acting abnormally after a hit to the head, the priority is proper medical evaluation.
+
+An ammonia inhalant can provoke sudden movement and distract from symptoms that actually matter.
+
+## Who should be especially cautious?
+
+Because ammonia is an airway irritant, smelling salts are a poor experiment for people who have significant respiratory sensitivity or who react strongly to chemical fumes.
+
+Stop using them if they cause significant:
+
+- coughing
+- wheezing
+- breathing difficulty
+- eye pain
+- prolonged irritation
+
+If you have a respiratory condition and are unsure whether an ammonia inhalant is appropriate, ask a healthcare professional rather than testing your tolerance with a stronger product.
+
+## What to look for when buying smelling salts
+
+If you still want them, keep the buying criteria boring.
+
+### Clear instructions
+
+A reputable product should tell you how it is intended to be used and handled. Avoid unlabeled containers or homemade mixtures.
+
+### Sealed packaging
+
+Ammonia products lose potency over time and can leak or dry out. Good packaging matters more than aggressive branding.
+
+### Reputable manufacturer
+
+The category has plenty of novelty products. Choose a company that provides basic safety, storage and handling information.
+
+### Format that matches your use
+
+You will see jars, capsules/ampoules and other formats. Do not assume the strongest-smelling version is automatically the best one.
 
 [Browse smelling salts on Amazon](https://www.amazon.com/s?k=smelling+salts+ammonia+inhalant)
 
-## Smelling salts vs. caffeine
+## What not to do
 
-| | Smelling salts | Caffeine |
-|---|---|---|
-| Main effect | Brief sensory jolt | Central nervous system stimulation |
-| Duration | Seconds to minutes | Hours |
-| Evidence for performance | Limited/inconsistent | Stronger for endurance and alertness |
-| Best use | Short arousal ritual | Sustained alertness/performance |
+Do not chase a stronger reaction by ignoring the label, putting the product in direct contact with your nose or skin, or repeatedly exposing yourself because the first effect felt weak.
 
-If you want actual sustained alertness, our [Joe Rogan Neuro Gum guide](/supplements/neuro-gum-joe-rogan) covers caffeine plus L-theanine in a more practical format.
+The whole effect comes from **irritation**. More irritation is not a performance goal.
+
+## Are smelling salts worth buying?
+
+### They may make sense if:
+
+- you already know you like them as a pre-lift ritual
+- you want the novelty factor
+- you understand that the effect is short-lived
+- you will follow the manufacturer instructions
+
+### Skip them if:
+
+- you are expecting a meaningful strength increase
+- you have strong airway sensitivity
+- you are buying them as a substitute for caffeine or sleep
+- your intended use is anything involving concussion or loss of consciousness
 
 ## Sources
 
-For research, see PubMed's indexed literature on [ammonia inhalants and athletic performance](https://pubmed.ncbi.nlm.nih.gov/?term=ammonia+inhalants+athletic+performance) and sports-medicine discussions of ammonia inhalants in head injury.
+For the research literature, see PubMed's indexed studies on [ammonia inhalants and athletic performance](https://pubmed.ncbi.nlm.nih.gov/?term=ammonia+inhalants+athletic+performance).
+
+## Related Rogan Recs guides
+
+- [Joe Rogan Neuro Gum](/supplements/neuro-gum-joe-rogan)
+- [Joe Rogan creatine](/supplements/joe-rogan-creatine)
+- [Joe Rogan supplements](/supplements)
+- [Joe Rogan kettlebells](/blog/joe-rogan-kettlebells)
 
 ## Bottom line
 
-The JRE appeal is obvious: smelling salts create an instant, hilarious reaction. The physiological reality is narrower. They can produce a sharp burst of alertness, but they are **not a proven strength enhancer and should never be used as concussion treatment**.
+Smelling salts do one thing very well: **create an immediate sensory jolt**. That is why they work so well as a JRE bit and a pre-lift ritual.
+
+Just do not confuse the reaction with proven performance enhancement. Buy a clearly labeled product, follow the instructions and keep them far away from concussion treatment.
