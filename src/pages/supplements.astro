@@ -1,0 +1,191 @@
+---
+import { getCollection, render } from 'astro:content';
+import ArticleLayout from '../layouts/ArticleLayout.astro';
+
+const pages = await getCollection('pages');
+const entry = pages.find((item) => item.id === 'supplements');
+if (!entry) throw new Error('Supplements page not found');
+
+const { Content, headings } = await render(entry);
+const words = (entry.body ?? '').split(/\s+/).filter(Boolean).length;
+const data = {
+  ...entry.data,
+  image: 'https://images.unsplash.com/photo-1763668331599-487470fb85b2?auto=format&fit=crop&w=1400&q=82',
+  imageAlt: 'Neutral supplement bottle with capsules on a clean studio background',
+};
+const crumbs = [
+  { label: 'Home', href: '/' },
+  { label: data.h1 ?? data.title },
+];
+
+const allPosts = await getCollection('blog');
+const related = [
+  ...pages
+    .filter((item) =>
+      !item.data.hidden &&
+      item.id !== 'home' &&
+      item.id !== entry.id &&
+      item.data.category === entry.data.category,
+    )
+    .map((item) => ({
+      href: `/${item.id}`,
+      title: item.data.h1 ?? item.data.title,
+      description: item.data.description,
+      image: item.data.image,
+      imageAlt: item.data.imageAlt,
+      category: item.data.category,
+    })),
+  ...allPosts
+    .filter((item) => !item.data.draft && item.data.category === entry.data.category)
+    .map((item) => ({
+      href: `/blog/${item.id}`,
+      title: item.data.h1 ?? item.data.title,
+      description: item.data.description,
+      image: item.data.image,
+      imageAlt: item.data.imageAlt,
+      category: item.data.category,
+    })),
+].slice(0, 3);
+---
+<ArticleLayout
+  data={data}
+  path="/supplements"
+  crumbs={crumbs}
+  headings={headings}
+  related={related}
+  words={words}
+>
+  <Content />
+</ArticleLayout>
+
+<style is:global>
+  @media (max-width: 640px) {
+    .article-hero {
+      padding-block: .7rem 1.45rem;
+    }
+
+    .article-hero .breadcrumbs {
+      display: none;
+    }
+
+    .article-hero__grid {
+      gap: 0;
+    }
+
+    .article-hero__copy {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .article-hero .eyebrow {
+      order: 1;
+      margin-bottom: .55rem;
+      font-size: .69rem;
+      letter-spacing: .12em;
+    }
+
+    .article-hero h1 {
+      order: 2;
+      max-width: 11.5ch;
+      font-size: clamp(2.2rem, 10.5vw, 2.75rem);
+      line-height: .98;
+      letter-spacing: -.05em;
+    }
+
+    .article-hero .hero-shop {
+      order: 3;
+      width: 100%;
+      margin-top: 1rem;
+      border-color: rgba(255,255,255,.14);
+      border-radius: .9rem;
+      padding: .8rem;
+      background: rgba(255,255,255,.055);
+      box-shadow: inset 0 1px 0 rgba(255,255,255,.05);
+      backdrop-filter: none;
+    }
+
+    .hero-shop__head strong {
+      font-size: .68rem;
+      letter-spacing: .1em;
+    }
+
+    .hero-shop__head span {
+      display: none;
+    }
+
+    .hero-shop__links {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: .45rem;
+      margin-top: .15rem;
+    }
+
+    .hero-shop__links a {
+      min-height: 46px;
+      border-radius: .7rem;
+      padding: .7rem .75rem;
+      font-size: .75rem;
+      line-height: 1.15;
+      box-shadow: none;
+    }
+
+    .hero-shop__links a:first-child {
+      grid-column: 1 / -1;
+      background: var(--gold);
+    }
+
+    .hero-shop__disclosure {
+      order: 3;
+      margin: .5rem 0 0;
+      font-size: .59rem;
+      line-height: 1.25;
+      color: #77736b;
+    }
+
+    .article-hero__lede {
+      order: 4;
+      display: -webkit-box;
+      overflow: hidden;
+      -webkit-box-orient: vertical;
+      -webkit-line-clamp: 2;
+      margin-top: 1rem;
+      max-width: 34ch;
+      font-size: .92rem;
+      line-height: 1.45;
+      color: #aaa69d;
+    }
+
+    .spec-strip {
+      order: 5;
+      margin-top: .8rem;
+      gap: .35rem .85rem;
+      font-size: .61rem;
+    }
+
+    .spec-strip span:last-child {
+      display: none;
+    }
+
+    .spec-strip span + span::before {
+      margin-right: .85rem;
+    }
+
+    .article-hero__media {
+      display: none;
+    }
+
+    .guide-standard {
+      display: none;
+    }
+  }
+
+  @media (max-width: 390px) {
+    .article-hero h1 {
+      font-size: 2.08rem;
+    }
+
+    .hero-shop__links a {
+      font-size: .71rem;
+    }
+  }
+</style>
