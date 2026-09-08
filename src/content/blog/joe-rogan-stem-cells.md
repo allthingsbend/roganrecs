@@ -16,7 +16,7 @@ faq:
     a: 'Yes. Rogan has publicly discussed traveling to Panama for stem-cell-based regenerative treatments and has described positive personal experiences.'
   - q: 'Are stem cells FDA-approved for joint pain?'
     a: 'No. The FDA says regenerative-medicine products such as stem cells are not approved in the United States for orthopedic conditions including osteoarthritis, tendonitis, back pain, knee pain or shoulder pain.'
-  - q: 'Does Joe Rogan's experience prove stem cells work?'
+  - q: "Does Joe Rogan's experience prove stem cells work?"
     a: 'No. A personal outcome cannot establish effectiveness because symptoms can change naturally, other treatments may contribute, and there is no control group.'
 ---
 
