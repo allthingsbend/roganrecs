@@ -10,7 +10,7 @@ const { Content, headings } = await render(entry);
 const words = (entry.body ?? '').split(/\s+/).filter(Boolean).length;
 const data = {
   ...entry.data,
-  image: '/images/supplements/pure-encapsulations-macular-support.webp',
+  image: 'https://i5.walmartimages.com/asr/6058d247-ff08-4b24-824a-6e1796b0bf92.fa4b3fb020563a1da24b59f2f63385ec.jpeg',
   imageAlt: 'Pure Encapsulations Macular Support Formula supplement bottle',
 };
 const crumbs = [
@@ -78,7 +78,7 @@ const related = [
       gummies.setAttribute('data-product', 'Creatine gummies');
       gummies.setAttribute('data-cta', 'hero quick shop');
       gummies.innerHTML = 'Creatine gummies <span aria-hidden="true">→</span>';
-      first?.insertAdjacentElement('afterend', gummies);
+      first?.insertAdjacentElement('beforebegin', gummies);
     }
 
     for (const link of links.querySelectorAll('a')) {
