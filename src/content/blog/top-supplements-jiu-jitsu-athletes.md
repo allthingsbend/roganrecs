@@ -1,112 +1,216 @@
 ---
-title: Best Supplements for Jiu-Jitsu Athletes
-h1: Top Supplements for Jiu-Jitsu Athletes
+title: 'Best Supplements for BJJ & Jiu-Jitsu: Creatine, Protein, Electrolytes & More'
+h1: 'Best Supplements for Jiu-Jitsu Athletes: What Actually Helps'
 description: >-
-  Collagen, fish oil, creatine, magnesium and electrolytes for jiu-jitsu: what
-  each one does for joints, recovery and cramping on the mat.
+  An evidence-first guide to supplements for BJJ and jiu-jitsu, including creatine, protein,
+  electrolytes, caffeine, collagen, omega-3s and what is probably not worth buying.
 category: supplements
 pubDate: '2024-11-21'
-updated: 2025-03-03T00:00:00.000Z
+updated: 2026-09-07
 author: Rogan Recs
 imported: true
 image: /images/blog-top-supplements-jiu-jitsu-athletes/bjj-supplements.png
+faq:
+  - q: 'What is the best supplement for BJJ?'
+    a: 'Creatine monohydrate is one of the strongest all-around choices for strength and repeated high-intensity performance. Protein is useful when food intake does not cover daily needs, and electrolytes matter most during long or very sweaty sessions.'
+  - q: 'Should BJJ athletes take creatine?'
+    a: 'Creatine monohydrate is well studied for strength, power and repeated high-intensity exercise. A common maintenance approach is 3 to 5 grams daily; timing matters much less than consistent use.'
+  - q: 'Do electrolytes prevent cramps in jiu-jitsu?'
+    a: 'They can help replace sodium and other minerals lost in sweat, especially during long hot sessions. Cramps are multifactorial, so electrolyte powder is not a guaranteed cramp prevention tool.'
+  - q: 'Should you dehydrate to make weight for BJJ?'
+    a: 'Rapid dehydration can impair performance and create health risks. Supplements, diuretics and aggressive fluid restriction should not be used as shortcuts for a weight cut.'
 ---
 
-_Updated 3/3/25_
+Jiu-jitsu is an odd sport nutritionally. You need enough strength and explosiveness to scramble, enough conditioning to survive hard rounds, and enough recovery capacity to train again without feeling destroyed.
 
-Jiu-jitsu is a demanding martial art that challenges both the mind and body. From grueling training sessions to competition prep, practitioners need to focus not only on their technique but also on their recovery and overall health. Supplements can play a key role in supporting the unique physical demands of the sport, helping athletes stay strong, recover faster, and prevent injuries.
+That makes supplement marketing especially tempting. But the useful stack is much simpler than the typical 10-bottle “combat athlete” setup.
 
-Here’s a guide to some of the best supplements for [jiu-jitsu practitioners](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu), with a special emphasis on joint health, muscle recovery, and performance.
-
-## **1\. Collagen: Strengthen Your Joints and Tendons**
-
-Jiu-jitsu puts a lot of stress on joints, tendons, and ligaments, especially in the hands, wrists, and knees. Collagen supplements are a great way to support connective tissue health and improve resilience against injuries. Collagen is rich in amino acids like glycine and proline, which help repair and strengthen tendons and ligaments over time.
-
-**How to Use:** Mix collagen powder into your morning coffee, smoothie, or post-training shake. For best results, pair it with vitamin C to boost collagen synthesis.
-
+> **Quick take:** For most BJJ athletes, start with **creatine monohydrate**, enough **daily protein**, and **electrolytes when sweat losses are high**. Caffeine can help performance if you tolerate it. Collagen, omega-3s, vitamin D and magnesium can make sense in specific situations, but they are not automatic requirements.
 
 ![Brazilian jiu-jitsu supplements](/images/blog-top-supplements-jiu-jitsu-athletes/bjj-supplements.png)
 
-## **2\. Fish Oil: Fight Inflammation and Support Recovery**
+## Best BJJ supplements at a glance
 
-Jiu-jitsu can leave you sore, especially after intense rolling sessions. Fish oil, rich in omega-3 fatty acids (EPA and DHA), is a powerful [anti-inflammatory](https://www.healthline.com/nutrition/benefits-of-fish-oil) supplement that helps reduce joint pain and improve overall recovery. It’s also great for heart and brain health, making it a well-rounded addition to your stack.
+| Supplement | Best reason to use it | Evidence / priority | Main caution |
+| --- | --- | --- | --- |
+| **Creatine monohydrate** | Strength, power, repeated hard efforts | High | Small water-weight increase for some |
+| **Protein powder** | Conveniently hit daily protein | High when diet falls short | It is food convenience, not magic |
+| **Electrolytes** | Replace sweat losses | High when training is long/hot | Not everyone needs a high-sodium drink every session |
+| **Caffeine** | Alertness and exercise performance | High | Sleep, anxiety, tolerance |
+| **Collagen/gelatin** | Connective-tissue research interest | Moderate / situational | Does not prevent submissions or injuries |
+| **Omega-3s** | Fill a low seafood intake | Nutritional / situational | Not an acute recovery drug |
+| **Vitamin D** | Correct low status | High if deficient | Do not blindly megadose |
+| **Magnesium** | Correct inadequate intake | Useful if low | Not a guaranteed cramp cure |
 
-**How to Use:** Take 2-4 grams of combined EPA and DHA daily with meals for optimal absorption.
+## 1. Creatine monohydrate: the easiest recommendation
 
-## **3\. Protein Powder: Repair and Build Muscle**
+If you only want one performance supplement, **creatine monohydrate** is the strongest place to start.
 
-Protein is essential for repairing the muscle fibers that get torn during training and helping your body rebuild stronger. Whether you prefer whey, plant-based, or collagen-based protein powders, aim for a high-quality product that fits your dietary preferences.
+BJJ repeatedly asks for short bursts of high force: takedowns, bridges, stand-ups, guard passing, grip fighting and scrambles. Creatine helps increase muscle phosphocreatine availability, which supports repeated high-intensity work.
 
-**How to Use:** Have a protein shake within 30 minutes after training to kickstart muscle recovery.
+A practical maintenance dose is commonly **3–5 grams per day**. You do not need to take it exactly 30 minutes after training. Consistency matters much more than timing.
 
-## **4\. Creatine: Power Your Explosiveness and Endurance**
+Some athletes notice a small increase in scale weight from greater water storage in muscle. That is generally not the same as gaining body fat, but it matters if you compete near the top of a weight class.
 
-Creatine is a well-researched supplement that boosts muscle energy, helping you maintain power and endurance during those long, sweaty rolls. It also enhances recovery and may even improve cognitive function—a bonus for staying sharp on the mats.
+[Browse creatine monohydrate on Amazon](https://www.amazon.com/s?k=creatine+monohydrate+powder)
 
-**How to Use:** Take 5 grams daily, preferably post-workout, to saturate your muscles and maintain performance.
+For a deeper breakdown, see our [Joe Rogan creatine guide](/supplements/joe-rogan-creatine).
 
-[Dr. Huberman](/podcast-guests/andrew-huberman-supplement-guide) has talked more about creatine recently!
+## 2. Protein powder: useful because BJJ makes eating inconvenient
 
-## **5\. Magnesium: Prevent Cramps and Improve Recovery**
+Protein powder is not more anabolic than real food. It is just an easy way to hit your daily protein target when work, family and training schedules get messy.
 
-Cramps and soreness can slow you down, but magnesium helps by relaxing muscles and supporting nerve function. It also plays a role in energy production, keeping you fueled for training sessions.
+Whey is convenient if you tolerate dairy. Plant blends can work too. The bigger goal is **adequate total protein across the day**, not racing to drink a shake within a mythical 30-minute window after class.
 
-**How to Use:** Take 200-400 mg of magnesium glycinate before bed to support muscle relaxation and recovery overnight.
+Useful situations:
 
-Magnesium is also great for sleep as mentioned by [Dr. Rhonda Patrick](/podcast-guests/dr-rhonda-patrick-supplements)!
+- training late and not wanting a huge meal
+- needing a quick breakfast before work
+- trying to maintain protein while cutting calories
+- adding protein to a snack that would otherwise be mostly carbs
 
-## **6\. Glucosamine and Chondroitin: Protect Your Joints**
+[Browse whey protein on Amazon](https://www.amazon.com/s?k=whey+protein+powder)
 
-These two supplements are often paired together to promote joint health and reduce wear and tear from grappling. They can help lubricate the joints and reduce inflammation, making them ideal for athletes dealing with stiffness or joint pain.
+If you prefer bars, see our [protein bars without artificial sweeteners guide](/blog/protein-bars-without-artificial-sweeteners-fake-sugar-alternatives).
 
-**How to Use:** Take a daily dose as recommended on the label, ideally with food for better absorption.
+## 3. Electrolytes: especially useful when the mats become a sauna
 
-## **7\. Vitamin D3 and K2: Bone and Joint Health**
+A hard no-gi class in a warm gym can mean a lot of sweat loss. In that situation, replacing **fluid and sodium** can matter more than another exotic recovery supplement.
 
-Vitamin D3 helps your body absorb calcium, while vitamin K2 ensures calcium is directed to your bones rather than your arteries. Together, they provide a strong foundation for healthy bones, joints, and overall immune function.
+Electrolyte products are most useful when:
 
-**How to Use:** Take 2,000-5,000 IU of vitamin D3 daily, paired with K2 for maximum effectiveness.
+- sessions are long
+- you train multiple times in a day
+- the room is hot
+- you are a heavy/salty sweater
+- you finish class with a large body-weight drop from sweat
 
-## **8\. Turmeric or Curcumin: Natural Anti-Inflammatory**
+For a shorter easy session, normal meals and water may be plenty.
 
-Turmeric, or its active compound curcumin, is a natural way to reduce inflammation after hard training sessions. It’s particularly beneficial for jiu-jitsu practitioners looking for a natural alternative to over-the-counter painkillers.
+[Browse electrolyte powders on Amazon](https://www.amazon.com/s?k=electrolyte+powder+sodium+potassium)
 
-**How to Use:** Take a curcumin supplement with black pepper (piperine) for better absorption, or add turmeric to your meals.
+### Do electrolytes stop cramps?
 
-## **9\. Electrolytes: Stay Hydrated and Perform at Your Best**
+Not reliably. Exercise-associated cramps can involve fatigue, training load and neuromuscular factors as well as fluid/electrolyte losses.
 
-[Hydration](https://newsinhealth.nih.gov/2023/05/hydrating-health#:~:text=Tips%20for%20Staying%20Hydrated&text=Drink%20at%20regular%20times.,%2C%20or%20can't%20urinate.) is key during intense training, but plain water might not cut it when you’re sweating buckets. Electrolytes like sodium, potassium, and magnesium help replenish what you lose and prevent dehydration.
+If you are losing a lot of salt in sweat, replacing it is sensible. Just do not expect magnesium or electrolyte packets to compensate for being under-recovered and exhausted.
 
-**How to Use:** Drink an electrolyte solution during or after training, especially if you’re sweating heavily.
+## 4. Caffeine: effective, but easy to misuse
 
-## **10\. Probiotics: Support Gut Health and Immune Function**
+Caffeine can improve alertness and exercise performance, which can be useful before hard rounds or competition.
 
-A strong gut is essential for absorbing nutrients and staying healthy, especially during times of intense training or competition prep. Probiotics can help maintain gut flora balance and improve your overall immune health.
+The downside is obvious for evening grapplers: **a great 7 p.m. session followed by terrible sleep is a bad recovery trade**.
 
-**How to Use:** Take a high-quality probiotic supplement daily or include fermented foods like yogurt and kimchi in your diet.
+Use the minimum amount that works for you, account for caffeine from coffee and pre-workout, and avoid making every training session stimulant-dependent.
 
-### **Bonus Tip: Check Out Joe Rogan’s Supplement Stack**
+If you want a portable low-volume format, see our [Joe Rogan Neuro Gum guide](/supplements/neuro-gum-joe-rogan).
 
-If you’re curious about what supplements Joe Rogan uses to maintain his high-performance lifestyle, you can explore his full regimen [here](/supplements). Rogan incorporates many of the supplements mentioned above, including fish oil, collagen, and creatine, as part of his approach to fitness and longevity.
+## 5. Collagen or gelatin: interesting for connective tissue, not armor for your joints
 
-### **Bonus Tip: Supplements Are Great, But Quality Gear Comes First**
+BJJ puts repeated load on fingers, elbows, shoulders, knees and connective tissue. That makes collagen an intuitive supplement to market to grapplers.
 
-For Jiu-Jitsu athletes, supplements like protein, BCAAs, and joint support can help with recovery and performance. However, having the right gear is just as important. Training No-Gi requires high-quality rash guards that provide comfort, durability, and flexibility.
+There is some research interest around collagen/gelatin plus vitamin C and connective-tissue protein synthesis. The honest interpretation is that it may be a reasonable **adjunct** for an athlete who wants to support overall protein/connective-tissue nutrition.
 
-If you’re looking for some of the best **No-Gi rash guards**, check out this selection:
-[Shop No-Gi Rash Guards Here](https://www.elitesports.com/collections/brazilian-jiu-jitsu-bjj-nogi-rash-guards)
+It does not make your ligaments submission-proof, and it should not be sold as injury prevention.
 
-A good rash guard will keep you protected, wick away sweat, and allow you to train at your best. Invest in the right gear before hitting the mats.
+[Browse collagen peptides on Amazon](https://www.amazon.com/s?k=collagen+peptides+powder)
 
+## 6. Omega-3 fish oil: useful when your diet is low in fatty fish
+
+EPA and DHA are important nutrients. If you rarely eat salmon, sardines or other fatty fish, a quality omega-3 supplement can be a practical way to improve intake.
+
+What fish oil is **not** is a guaranteed way to eliminate soreness after rolling.
+
+Think about it as nutritional adequacy and long-term health rather than an acute recovery hack. Check the actual **EPA + DHA** amount rather than the larger “fish oil” number on the front label.
+
+Our [Dr. Rhonda Patrick supplements guide](/podcast-guests/dr-rhonda-patrick-supplements) has a deeper discussion of omega-3 dosing and testing.
+
+## 7. Vitamin D: test before assuming you need a huge dose
+
+Vitamin D matters for bone and overall health, but the internet has normalized very high doses as if every athlete is deficient.
+
+If your sun exposure is low or you have reason to suspect deficiency, checking a **25-hydroxyvitamin D blood level** gives you more useful information than guessing.
+
+Do not copy someone else's 5,000- or 10,000-IU routine indefinitely without knowing your status.
+
+## 8. Magnesium: important nutrient, overstated sports supplement
+
+Magnesium is involved in muscle and nerve function, but that does not mean every post-training cramp proves you are magnesium deficient.
+
+Supplementation makes the most sense when dietary intake is low or there is another reason to address magnesium status. Glycinate and citrate are commonly used forms, but dose and GI tolerance matter.
+
+For broader context, see the magnesium section in our [Joe Rogan supplements guide](/supplements).
+
+## What about glucosamine, chondroitin and curcumin?
+
+These are common “joint support” supplements. Some people report benefit, and research exists in specific pain/osteoarthritis contexts, but the evidence is not strong enough to put them ahead of the basics for a healthy grappler.
+
+Before spending money there, make sure you have handled:
+
+- training volume
+- sleep
+- daily protein
+- calories/carbohydrates
+- strength work
+- rehab for actual injuries
+
+A supplement should not become a reason to ignore an irritated knee or shoulder for three months.
+
+## What BJJ athletes probably do not need
+
+### BCAAs if protein intake is already adequate
+
+If you eat enough high-quality protein, separate BCAA supplements are usually redundant.
+
+### “Test boosters” and mystery proprietary blends
+
+The more aggressive the marketing, the more carefully you should read the label.
+
+### Ten separate recovery supplements
+
+A simple stack that you can evaluate is better than adding everything at once and having no idea what matters.
+
+## A simple BJJ supplement stack
+
+### Minimalist
+
+- creatine monohydrate daily
+- protein powder only when food intake falls short
+- electrolytes for long/hot/high-sweat sessions
+
+### Optional performance layer
+
+- caffeine before selected hard sessions or competition if tolerated
+
+### Situational health layer
+
+- vitamin D if low
+- omega-3s if seafood intake is low
+- magnesium if intake/status warrants it
+- collagen if you specifically want to experiment with connective-tissue support
+
+That is enough for most people.
+
+## The weight-cut warning
+
+One of the worst places to get creative with supplements is a rapid competition weight cut.
+
+**Diuretics, aggressive dehydration, laxatives and extreme fluid restriction can impair performance and create real health risks.** A lighter number on the scale is not useful if you arrive depleted and unable to perform.
+
+If you compete, build your normal body weight and nutrition strategy far enough in advance that the final cut is modest and deliberate.
 
 ![Jiu jitsu fish oil supplements](/images/blog-top-supplements-jiu-jitsu-athletes/jit-jitsu-fish-oil-supplements.png)
 
-#### Why You Should Take Supplements for Jiu-Jitsu
+## The Rogan connection
 
-Jiu-jitsu is a full-body workout that challenges your strength, flexibility, endurance, and mental focus. With all the rolling, gripping, and sparring, your body undergoes immense physical stress. Proper nutrition is the foundation of recovery and performance, but supplements can fill in nutritional gaps and give your body the additional support it needs to meet the demands of the sport.
+Joe Rogan's interests overlap heavily with grappling culture: creatine, omega-3s, recovery, sauna, strength work and supplements in general.
 
-One of the most significant benefits of supplements for jiu-jitsu is injury prevention. The repetitive strain on joints, tendons, and ligaments—especially in the fingers, wrists, and knees—can lead to long-term wear and tear. Supplements like collagen, glucosamine, and fish oil help fortify connective tissues, reduce inflammation, and enhance recovery, keeping you on the mats and off the injured list.
+That makes his routine useful for discovering products, but **a celebrity stack is not a BJJ prescription**. Your training load, diet, weight class and labs matter more.
 
-Supplements also optimize recovery by speeding up muscle repair and replenishing lost nutrients. Whether it’s protein for muscle rebuilding, creatine for energy restoration, or electrolytes for rehydration, these supplements allow you to bounce back faster after intense sessions. For athletes juggling training, work, and life, supplementation becomes a practical and effective way to maintain peak performance.
+See our [complete Joe Rogan supplements guide](/supplements) for the broader list.
 
-Lastly, supplements can enhance your overall health and longevity in the sport. By supporting your immune system, gut health, and mental clarity, you’re not just improving your performance today but ensuring you can continue practicing jiu-jitsu for years to come. Supplements are a tool to help you thrive in a demanding martial art and enjoy every roll to the fullest.
+## Bottom line
+
+For BJJ, the boring supplements win.
+
+**Creatine, enough protein and appropriate hydration/electrolytes** cover far more ground than a giant recovery stack. Caffeine is useful when it does not wreck sleep. Everything else should solve a specific problem instead of simply earning a spot because another grappler takes it.
