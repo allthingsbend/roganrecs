@@ -1,0 +1,137 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import AffiliateDisclosure from '../components/AffiliateDisclosure.astro';
+
+const products = [
+  { name: 'Creatine Monohydrate', category: 'Supplements', status: 'Recent use', verdict: 'Strong buy', note: 'The simplest high-value supplement in the Rogan orbit. Plain monohydrate is the boring answer that works.', guide: '/supplements/joe-rogan-creatine', amazon: 'https://www.amazon.com/s?k=creatine+monohydrate+powder&tag=rogan-recs-20' },
+  { name: 'AG1 / Athletic Greens', category: 'Supplements', status: 'Current association', verdict: 'Maybe', note: 'Convenient, expensive, and commercially connected to Rogan. Best judged as a convenience product.', guide: '/supplements', amazon: 'https://www.amazon.com/s?k=AG1+Athletic+Greens&tag=rogan-recs-20' },
+  { name: 'Alpha Brain', category: 'Supplements', status: 'Long-running', verdict: 'Maybe', note: 'One of the most recognizable Rogan products, but the Onnit financial relationship matters.', guide: '/supplements', amazon: 'https://www.amazon.com/s?k=Onnit+Alpha+Brain&tag=rogan-recs-20' },
+  { name: 'Pure Encapsulations Macular Support', category: 'Supplements', status: 'Recent specific mention', verdict: 'Maybe', note: 'A specific product Rogan has discussed buying himself. That makes the Rogan connection unusually clear.', guide: '/supplements', amazon: 'https://www.amazon.com/s?k=Pure+Encapsulations+Macular+Support&tag=rogan-recs-20' },
+  { name: 'Magnesium', category: 'Supplements', status: 'Recurring', verdict: 'If needed', note: 'A real nutrient, not a magic sleep hack. Form, dose and whether you need it matter.', guide: '/supplements', amazon: 'https://www.amazon.com/s?k=magnesium+glycinate&tag=rogan-recs-20' },
+  { name: 'Omega-3 Fish Oil', category: 'Supplements', status: 'Recurring topic', verdict: 'If needed', note: 'Compare EPA and DHA per serving instead of buying the biggest number printed on the bottle.', guide: '/supplements', amazon: 'https://www.amazon.com/s?k=omega+3+EPA+DHA+third+party+tested&tag=rogan-recs-20' },
+  { name: 'Neuro Gum', category: 'Supplements', status: 'Recent recommendation', verdict: 'Maybe', note: 'Mostly a convenient caffeine plus L-theanine delivery system. Useful if gum fits your routine.', guide: '/supplements/neuro-gum-joe-rogan', amazon: 'https://www.amazon.com/s?k=Neuro+Gum&tag=rogan-recs-20' },
+  { name: 'HÅG Capisco Chair', category: 'Podcast Gear', status: 'JRE-associated', verdict: 'Premium', note: 'The saddle-style chair strongly associated with the JRE setup. Expensive, unusual and not for everyone.', guide: '/podcast-guests/joe-rogan-chair-jre-podcast', amazon: 'https://www.amazon.com/s?k=HAG+Capisco+chair&tag=rogan-recs-20' },
+  { name: 'JRE Podcast Microphone Setup', category: 'Podcast Gear', status: 'JRE-associated', verdict: 'For serious setups', note: 'The useful question is not copying every studio item. Start with the microphone and interface that fit your room.', guide: '/podcast-guests/joe-rogan-podcast-equipment', amazon: 'https://www.amazon.com/s?k=podcast+microphone+professional&tag=rogan-recs-20' },
+  { name: 'Iron Neck', category: 'Fitness Gear', status: 'Rogan-associated', verdict: 'Niche', note: 'Interesting for athletes who specifically want neck training. Overkill for most casual gym users.', guide: '/iron-neck-joe-rogan', amazon: 'https://www.amazon.com/s?k=neck+training+equipment&tag=rogan-recs-20' },
+  { name: 'Kettlebells', category: 'Fitness Gear', status: 'Long-running training gear', verdict: 'Strong buy', note: 'One of the easiest Rogan-adjacent purchases to justify because the equipment itself is broadly useful.', guide: '/blog/joe-rogan-kettlebells', amazon: 'https://www.amazon.com/s?k=kettlebell&tag=rogan-recs-20' },
+  { name: 'Traditional Sauna', category: 'Recovery', status: 'Long-running', verdict: 'Strong if you will use it', note: 'The closest match to Rogan style heat exposure. Cost and space are the real buying constraints.', guide: '/joe-rogan-sauna-guide', amazon: 'https://www.amazon.com/s?k=home+sauna&tag=rogan-recs-20' },
+  { name: 'Cold Plunge', category: 'Recovery', status: 'Long-running', verdict: 'Lifestyle buy', note: 'Popular in the Rogan recovery routine, but you do not need a luxury tub to experiment with cold exposure.', guide: '/joe-rogan-cold-plunge-guide', amazon: 'https://www.amazon.com/s?k=cold+plunge+tub&tag=rogan-recs-20' },
+  { name: 'Red Light Therapy', category: 'Recovery', status: 'JRE / guest topic', verdict: 'Evidence varies', note: 'Some use cases have promising evidence, but device claims frequently run far beyond the research.', guide: '/blog/red-light-therapy-gary-brecka', amazon: 'https://www.amazon.com/s?k=red+light+therapy+panel&tag=rogan-recs-20' },
+  { name: 'Kill Cliff', category: 'Food & Drink', status: 'Long-running association', verdict: 'Taste / convenience', note: 'A recognizable JRE-adjacent drink brand. Think of it as a beverage choice, not a health necessity.', guide: '/energy-drink-joe-rogan', amazon: 'https://www.amazon.com/s?k=Kill+Cliff&tag=rogan-recs-20' },
+  { name: 'Joe Rogan Books', category: 'Books', status: 'Ongoing recommendations', verdict: 'Great category', note: 'Books are one of the least spammy affiliate opportunities because the recommendation itself is the value.', guide: '/joe-rogan-books', amazon: 'https://www.amazon.com/s?k=joe+rogan+recommended+books&tag=rogan-recs-20' },
+];
+
+const categories = ['All', ...new Set(products.map((p) => p.category))];
+---
+<BaseLayout
+  title="What Joe Rogan Uses: Products, Gear, Supplements & JRE Recommendations"
+  description="A searchable guide to Joe Rogan products, supplements, podcast gear, fitness equipment, recovery tools, books and JRE-associated recommendations."
+  path="/joe-rogan-products"
+>
+  <section class="directory-hero">
+    <div class="shell directory-hero__inner">
+      <p class="eyebrow">The database</p>
+      <h1>What Joe Rogan uses</h1>
+      <p>Products, gear and supplements connected to Rogan and the JRE world, with the important part included: how strong the connection is and whether the thing is actually worth considering.</p>
+      <div class="directory-stats">
+        <span><strong>{products.length}</strong> researched entries</span>
+        <span><strong>{categories.length - 1}</strong> categories</span>
+        <span><strong>1</strong> no-hype rule</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="shell directory-shell">
+    <AffiliateDisclosure />
+
+    <section class="directory-intro">
+      <div>
+        <p class="eyebrow">How to use this</p>
+        <h2>Start with the product, then check the context</h2>
+      </div>
+      <p>This is not a list of things you should buy. Rogan changes routines, sponsors exist, old mentions get recycled as current facts, and guest recommendations are not the same as Rogan personally using something. Each entry points to the deeper guide where we have one.</p>
+    </section>
+
+    <div class="directory-tools" aria-label="Filter products">
+      <label class="directory-search">
+        <span>Search products</span>
+        <input id="product-search" type="search" placeholder="Try creatine, sauna, microphone..." autocomplete="off" />
+      </label>
+      <div class="directory-filters" role="group" aria-label="Product category">
+        {categories.map((category, index) => (
+          <button class:list={['filter-button', { active: index === 0 }]} type="button" data-filter={category}>{category}</button>
+        ))}
+      </div>
+    </div>
+
+    <p id="directory-count" class="directory-count">Showing all {products.length} entries</p>
+
+    <div class="product-directory" id="product-directory">
+      {products.map((product) => (
+        <article class="directory-card" data-category={product.category} data-search={`${product.name} ${product.category} ${product.status} ${product.note}`.toLowerCase()} data-product={product.name}>
+          <div class="directory-card__top">
+            <span class="directory-card__category">{product.category}</span>
+            <span class="directory-card__status">{product.status}</span>
+          </div>
+          <h2>{product.name}</h2>
+          <p>{product.note}</p>
+          <div class="directory-card__verdict"><span>Our take</span><strong>{product.verdict}</strong></div>
+          <div class="directory-card__actions">
+            <a class="directory-card__guide" href={product.guide}>Read the guide →</a>
+            <a class="directory-card__amazon" href={product.amazon} target="_blank" rel="sponsored nofollow noopener" data-affiliate-link data-product={product.name} data-cta="Check on Amazon">Check on Amazon ↗</a>
+          </div>
+        </article>
+      ))}
+    </div>
+
+    <section class="directory-method">
+      <p class="eyebrow">What the labels mean</p>
+      <h2>Rogan connection is not the same thing as endorsement quality</h2>
+      <div class="method-grid">
+        <div><strong>Recent / current</strong><span>A newer public association or mention.</span></div>
+        <div><strong>Long-running</strong><span>A product or category repeatedly tied to Rogan over time.</span></div>
+        <div><strong>JRE-associated</strong><span>Part of the podcast setup or strongly connected to the show.</span></div>
+        <div><strong>Guest topic</strong><span>Discussed in the JRE ecosystem, but not necessarily something Rogan personally uses.</span></div>
+      </div>
+    </section>
+  </div>
+
+  <script is:inline>
+    const search = document.getElementById('product-search');
+    const buttons = Array.from(document.querySelectorAll('[data-filter]'));
+    const cards = Array.from(document.querySelectorAll('.directory-card'));
+    const count = document.getElementById('directory-count');
+    let activeCategory = 'All';
+
+    function filterProducts() {
+      const query = (search?.value || '').trim().toLowerCase();
+      let visible = 0;
+      cards.forEach((card) => {
+        const matchesCategory = activeCategory === 'All' || card.dataset.category === activeCategory;
+        const matchesSearch = !query || card.dataset.search.includes(query);
+        const show = matchesCategory && matchesSearch;
+        card.hidden = !show;
+        if (show) visible += 1;
+      });
+      count.textContent = visible === cards.length && !query && activeCategory === 'All' ? `Showing all ${visible} entries` : `Showing ${visible} ${visible === 1 ? 'entry' : 'entries'}`;
+    }
+
+    search?.addEventListener('input', filterProducts);
+    buttons.forEach((button) => button.addEventListener('click', () => {
+      activeCategory = button.dataset.filter;
+      buttons.forEach((item) => item.classList.toggle('active', item === button));
+      filterProducts();
+    }));
+  </script>
+
+  <style>
+    .directory-hero{background:var(--ink);color:#fff;padding-block:clamp(4rem,9vw,7rem)}
+    .directory-hero__inner{max-width:1000px}.directory-hero .eyebrow{color:var(--gold)}.directory-hero h1{max-width:11ch;color:#fff}.directory-hero p:not(.eyebrow){max-width:65ch;margin:1.4rem 0 0;color:#c9c6be;font-family:var(--font-ui);font-size:var(--step-1);line-height:1.55}.directory-stats{display:flex;flex-wrap:wrap;gap:1rem 2rem;margin-top:2rem;color:#aaa69d;font:600 .78rem/1.4 var(--font-ui);text-transform:uppercase;letter-spacing:.06em}.directory-stats strong{margin-right:.35rem;color:var(--gold);font-size:1.1rem}.directory-shell{padding-block:clamp(3rem,7vw,6rem)}
+    .directory-intro{display:grid;grid-template-columns:.8fr 1.2fr;gap:clamp(2rem,6vw,5rem);align-items:start;margin:0 0 3rem}.directory-intro h2{margin:0;font-size:var(--step-3);line-height:1.08}.directory-intro>p{margin:0;color:var(--muted);font-family:var(--font-ui);line-height:1.7}
+    .directory-tools{position:sticky;top:76px;z-index:20;margin:0 0 1rem;border:1px solid var(--line);border-radius:var(--radius);padding:1rem;background:rgba(246,243,237,.96);backdrop-filter:blur(12px);box-shadow:0 8px 24px rgba(25,23,19,.06)}.directory-search{display:grid;gap:.45rem}.directory-search span{color:var(--muted);font:700 .66rem/1 var(--font-ui);letter-spacing:.1em;text-transform:uppercase}.directory-search input{width:100%;border:1px solid #cfc7bb;border-radius:.75rem;padding:.9rem 1rem;background:#fff;color:var(--ink);font:600 .95rem/1.2 var(--font-ui)}.directory-filters{display:flex;gap:.5rem;overflow-x:auto;margin-top:.8rem;padding-bottom:.15rem}.filter-button{flex:0 0 auto;border:1px solid var(--line);border-radius:99px;padding:.5rem .75rem;background:#fff;color:var(--ink-3);font:700 .72rem/1 var(--font-ui);cursor:pointer}.filter-button.active,.filter-button:hover{border-color:var(--ink);background:var(--ink);color:#fff}.directory-count{margin:0 0 1rem;color:var(--muted);font:600 .76rem/1.3 var(--font-ui)}
+    .product-directory{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1rem}.directory-card{min-width:0;display:flex;flex-direction:column;border:1px solid var(--line);border-radius:var(--radius);padding:1.2rem;background:#fff;box-shadow:0 8px 24px rgba(25,23,19,.05)}.directory-card[hidden]{display:none}.directory-card__top{display:flex;align-items:center;justify-content:space-between;gap:.7rem}.directory-card__category{color:var(--accent-dark);font:800 .64rem/1 var(--font-ui);letter-spacing:.1em;text-transform:uppercase}.directory-card__status{color:var(--muted);font:650 .65rem/1.2 var(--font-ui);text-align:right}.directory-card h2{margin:.85rem 0 .55rem;font-size:1.35rem;line-height:1.1}.directory-card>p{margin:0 0 1rem;color:var(--muted);font-family:var(--font-ui);font-size:.86rem;line-height:1.55}.directory-card__verdict{display:flex;align-items:center;justify-content:space-between;gap:1rem;margin-top:auto;border-top:1px solid var(--line);padding-top:.8rem;font-family:var(--font-ui)}.directory-card__verdict span{color:var(--muted);font-size:.68rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em}.directory-card__verdict strong{font-size:.82rem}.directory-card__actions{display:grid;grid-template-columns:1fr 1fr;gap:.55rem;margin-top:.9rem}.directory-card__actions a{display:flex;align-items:center;justify-content:center;min-height:42px;border-radius:.65rem;padding:.65rem .7rem;font:750 .72rem/1.2 var(--font-ui);text-align:center;text-decoration:none}.directory-card__guide{border:1px solid var(--line);color:var(--ink)}.directory-card__amazon{background:var(--ink);color:#fff}.directory-card__amazon:hover{background:var(--accent-dark);color:#fff}
+    .directory-method{margin-top:4rem;border-top:1px solid var(--line);padding-top:3rem}.directory-method h2{max-width:18ch;margin:.3rem 0 1.5rem;font-size:var(--step-3);line-height:1.08}.method-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;overflow:hidden;border:1px solid var(--line);border-radius:var(--radius);background:var(--line)}.method-grid div{padding:1rem;background:#fff}.method-grid strong,.method-grid span{display:block;font-family:var(--font-ui)}.method-grid strong{font-size:.8rem}.method-grid span{margin-top:.4rem;color:var(--muted);font-size:.75rem;line-height:1.45}
+    @media(max-width:900px){.product-directory{grid-template-columns:repeat(2,minmax(0,1fr))}.method-grid{grid-template-columns:repeat(2,1fr)}}
+    @media(max-width:640px){.directory-intro{grid-template-columns:1fr}.directory-tools{top:68px}.product-directory{grid-template-columns:1fr}.directory-card__actions{grid-template-columns:1fr}.method-grid{grid-template-columns:1fr}}
+  </style>
+</BaseLayout>
