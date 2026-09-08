@@ -56,6 +56,13 @@ for (const file of files) {
   builtUrls.add(url);
   const $ = cheerio.load(await fs.readFile(file, 'utf8'));
 
+  // Astro static redirects intentionally render tiny HTML documents. They are
+  // valid redirect targets, not indexable content pages, so do not require
+  // article-level SEO fields such as an H1 or meta description.
+  const refresh = $('meta[http-equiv="refresh"], meta[http-equiv="Refresh"]').attr('content') ?? '';
+  const isRedirectPage = Boolean(refresh);
+  if (isRedirectPage) continue;
+
   const title = $('title').text().trim();
   const desc = $('meta[name="description"]').attr('content')?.trim() ?? '';
   const canonical = $('link[rel="canonical"]').attr('href')?.trim() ?? '';
@@ -88,7 +95,7 @@ for (const file of files) {
 
   // Body content still holding the migration placeholder
   if ($('body').text().includes('Content not imported yet')) {
-    warnings.push(`${url}: still a stub — body content not imported`);
+    warnings.push(`${url}: still a stub - body content not imported`);
   }
 
   // Images without alt text
