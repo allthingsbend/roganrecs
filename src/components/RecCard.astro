@@ -1,24 +1,53 @@
 ---
 /**
- * The signature block. Use it anywhere you point someone at a product, so a
- * recommendation looks and behaves the same everywhere on the site.
- *
- * Usage inside an .astro page:
- *   <RecCard name="HAG Capisco" href="https://..." label="Rogan's podcast chair">
- *     Why it is here, in a sentence or two.
- *   </RecCard>
+ * The signature recommendation block. It is intentionally useful before it is promotional:
+ * identify the pick, explain the Rogan/JRE connection, say who it is for, and give readers
+ * a clear way to check the product without turning the page into an ad.
  */
 interface Props {
   name: string;
   href: string;
   label?: string;
   cta?: string;
+  connection?: string;
+  bestFor?: string;
+  skipIf?: string;
+  verdict?: 'Yes' | 'Maybe' | 'No' | string;
+  verified?: string;
+  sourceHref?: string;
+  sourceLabel?: string;
 }
-const { name, href, label = 'The pick', cta = 'Check price' } = Astro.props;
+const {
+  name,
+  href,
+  label = 'The pick',
+  cta = 'See the product',
+  connection,
+  bestFor,
+  skipIf,
+  verdict,
+  verified,
+  sourceHref,
+  sourceLabel = 'View source',
+} = Astro.props;
 ---
-<aside class="rec">
-  <p class="rec__label">{label}</p>
+<aside class="rec" data-product={name}>
+  <div class="rec__topline">
+    <p class="rec__label">{label}</p>
+    {verified && <span class="rec__verified">Verified {verified}</span>}
+  </div>
   <p class="rec__name">{name}</p>
+  {connection && <p class="rec__connection"><strong>Why it is here:</strong> {connection}</p>}
   <div class="rec__body"><slot /></div>
-  <a class="rec__cta" href={href} target="_blank" rel="sponsored nofollow noopener">{cta}</a>
+  {(bestFor || skipIf || verdict) && (
+    <dl class="rec__facts">
+      {bestFor && <div><dt>Best for</dt><dd>{bestFor}</dd></div>}
+      {skipIf && <div><dt>Skip if</dt><dd>{skipIf}</dd></div>}
+      {verdict && <div><dt>Worth buying?</dt><dd>{verdict}</dd></div>}
+    </dl>
+  )}
+  <div class="rec__actions">
+    <a class="rec__cta" href={href} target="_blank" rel="sponsored nofollow noopener" data-affiliate-link data-product={name} data-cta={cta}>{cta} →</a>
+    {sourceHref && <a class="rec__source" href={sourceHref} target="_blank" rel="noopener">{sourceLabel}</a>}
+  </div>
 </aside>
