@@ -161,6 +161,7 @@ They involve different skills, but bowhunters generally need to get much closer 
 ## More Rogan outdoor guides
 
 - [Joe Rogan elk](/blog/joe-rogan-elk)
+- [Joe Rogan's Traeger and reverse-sear elk method](/joe-rogan-traeger-grill)
 - [Joe Rogan elk boots](/blog/joe-rogans-elk-boots)
 - [Joe Rogan kettlebells](/blog/joe-rogan-kettlebells)
 - [Joe Rogan carnivore diet](/blog/carnivore-diet-joe-rogan)

@@ -277,6 +277,8 @@ The [American Heart Association](https://www.heart.org/en/news/2022/12/05/youre-
 - [Everything Joe Rogan uses](/joe-rogan-products)
 - [Joe Rogan supplements](/supplements)
 - [Joe Rogan Iron Neck guide](/iron-neck-joe-rogan)
+- [Joe Rogan's inversion table](/joe-rogan-inversion-table)
+- [Mouth taping, from JRE #1506](/joe-rogan-mouth-tape)
 - [Joe Rogan energy drink](/energy-drink-joe-rogan)
 
 ## Sources and verification

@@ -139,6 +139,7 @@ Yes. Wild game, especially elk, has been a major part of the meat-heavy diets Ro
 
 ## Related Rogan guides
 
+- [How Joe Rogan cooks elk on his Traeger](/joe-rogan-traeger-grill)
 - [Joe Rogan hunting](/blog/joe-rogan-hunting)
 - [Joe Rogan carnivore diet](/blog/carnivore-diet-joe-rogan)
 - [Joe Rogan elk boots](/blog/joe-rogans-elk-boots)

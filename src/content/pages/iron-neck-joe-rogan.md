@@ -271,6 +271,8 @@ If you have never trained your neck, this is where we would start.
 
 ## More Rogan training and recovery guides
 
+- [Joe Rogan's Captains of Crush gripper](/captains-of-crush-joe-rogan)
+- [Joe Rogan's Teeter inversion table and DEX II](/joe-rogan-inversion-table)
 - [Joe Rogan cold plunge routine](/joe-rogan-cold-plunge-guide)
 - [Joe Rogan sauna routine](/joe-rogan-sauna-guide)
 - [Joe Rogan supplements](/supplements)
