@@ -47,7 +47,7 @@ They are not.
 | **Flavor** | Sweet pineapple + noticeable spicy finish |
 | **CBD?** | Not in the standard Energy version; older/separate CBD products have existed |
 
-[Check Kill Cliff Spicy Pineapple on Amazon](https://www.amazon.com/s?k=Kill+Cliff+Joe+Rogan+Spicy+Pineapple)
+[Check Kill Cliff Spicy Pineapple on Amazon](https://www.amazon.com/dp/B093TJTMTL?tag=rogan-recs-20)
 
 ## Flaming Joe is now Spicy Pineapple
 
@@ -247,7 +247,7 @@ Kill Cliff lists all three as zero sugar, with different caffeine levels dependi
 
 Get **Spicy Pineapple**.
 
-[Shop Kill Cliff Spicy Pineapple on Amazon](https://www.amazon.com/s?k=Kill+Cliff+Spicy+Pineapple)
+[Shop Kill Cliff Spicy Pineapple on Amazon](https://www.amazon.com/dp/B093TJTMTL?tag=rogan-recs-20)
 
 ### If spicy pineapple sounds terrible
 

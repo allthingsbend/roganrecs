@@ -4,6 +4,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import AffiliateDisclosure from '../components/AffiliateDisclosure.astro';
 import ContentCard from '../components/ContentCard.astro';
 import { resolveTitle } from '../lib/seo.mjs';
+import { TOP_PICKS } from '../data/picks.mjs';
 
 const home = await getEntry('pages', 'home');
 const { Content } = await render(home);
@@ -105,6 +106,37 @@ const fallbackImages = {
       <a href="/joe-rogan-books">Books</a>
       <a href="/joe-rogan-coffee">Coffee</a>
       <a href="/podcast-guests/joe-rogan-podcast-equipment">Podcast gear</a>
+      <a href="/gifts-for-joe-rogan-fans">Gift guide</a>
+    </div>
+  </section>
+
+  <section class="picks" aria-labelledby="picks-title">
+    <div class="shell">
+      <div class="picks__head">
+        <div>
+          <p class="eyebrow">The short list</p>
+          <h2 id="picks-title">Six things with a real Rogan connection</h2>
+        </div>
+        <p>Not his whole cabinet. These are the picks where the link to Rogan is documented and the product holds up on its own. Each one has a full guide if you want the receipts.</p>
+      </div>
+      <ol class="picks__grid">
+        {TOP_PICKS.map((p, i) => (
+          <li class="pick" data-product={p.name}>
+            <div class="pick__top">
+              <span class="pick__num">{String(i + 1).padStart(2, '0')}</span>
+              <span class="pick__kind">{p.kind}</span>
+            </div>
+            <h3 class="pick__name">{p.name}</h3>
+            <p class="pick__link"><span aria-hidden="true">✓</span> {p.connection}</p>
+            <p class="pick__take">{p.take}</p>
+            <div class="pick__actions">
+              <a class="pick__buy" href={p.href} target="_blank" rel="sponsored nofollow noopener" data-affiliate-link data-product={p.name} data-cta="home short list">Check price on Amazon</a>
+              <a class="pick__guide" href={p.guide}>Why it made the list</a>
+            </div>
+          </li>
+        ))}
+      </ol>
+      <p class="picks__note">Affiliate links. As an Amazon Associate, Rogan Recs earns from qualifying purchases. It never decides what makes the list. <a href="/joe-rogan-products">See every product we track →</a></p>
     </div>
   </section>
 
@@ -175,3 +207,29 @@ const fallbackImages = {
     </div>
   </section>
 </BaseLayout>
+
+<style>
+  .picks{padding-block:clamp(2.75rem,6vw,4.5rem);background:var(--paper);border-bottom:1px solid var(--line)}
+  .picks__head{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:clamp(1.5rem,5vw,4rem);align-items:end;margin-bottom:1.8rem}
+  .picks__head h2{margin:0;font-size:var(--step-3);line-height:1.06;letter-spacing:-.035em}
+  .picks__head>p{margin:0;color:var(--muted);font-family:var(--font-ui);font-size:.95rem;line-height:1.6}
+  .picks__grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1rem;list-style:none;margin:0;padding:0}
+  .pick{display:flex;flex-direction:column;min-width:0;border:1px solid var(--line);border-radius:var(--radius);padding:1.2rem 1.2rem 1.1rem;background:var(--surface);font-family:var(--font-ui);transition:border-color 180ms ease,box-shadow 180ms ease}
+  .pick:hover{border-color:#c9c0b3;box-shadow:var(--shadow)}
+  .pick__top{display:flex;align-items:center;justify-content:space-between;gap:.75rem}
+  .pick__num{color:var(--accent);font:700 1.05rem/1 var(--font-display)}
+  .pick__kind{color:var(--muted);font:700 .64rem/1 var(--font-ui);letter-spacing:.1em;text-transform:uppercase}
+  .pick__name{margin:.7rem 0 .55rem;font-size:1.3rem;line-height:1.12;letter-spacing:-.02em}
+  .pick__link{align-self:flex-start;margin:0 0 .75rem;border-radius:99px;padding:.35rem .6rem;background:#f5efe2;color:var(--ink-3);font-size:.74rem;font-weight:700;line-height:1.3}
+  .pick__link span{color:var(--sage,#4f7a5a)}
+  .pick__take{margin:0 0 1rem;color:var(--ink-3);font-size:.88rem;line-height:1.55}
+  .pick__actions{display:grid;gap:.5rem;margin-top:auto}
+  .pick__buy{display:flex;align-items:center;justify-content:center;min-height:44px;border-radius:.7rem;background:var(--ink);color:#fff;font-weight:700;font-size:.8rem;text-decoration:none}
+  .pick__buy:hover{background:var(--accent-dark);color:#fff}
+  .pick__guide{color:var(--ink);font-size:.78rem;font-weight:700;text-align:center;text-decoration:none}
+  .pick__guide:hover{color:var(--accent-dark)}
+  .picks__note{margin:1.2rem 0 0;color:var(--muted);font-family:var(--font-ui);font-size:.74rem;line-height:1.5}
+  .picks__note a{font-weight:700}
+  @media(max-width:900px){.picks__head{grid-template-columns:1fr}.picks__grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+  @media(max-width:600px){.picks__grid{grid-template-columns:1fr}.pick__actions{grid-template-columns:1fr}}
+</style>

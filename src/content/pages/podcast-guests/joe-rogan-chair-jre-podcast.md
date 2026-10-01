@@ -25,7 +25,7 @@ It looks unusual because it is not designed like a normal executive chair. The C
 
 > **Quick take:** The Capisco is a legitimately interesting chair, but it is not automatically the “best office chair” because Rogan uses it. Buy it if you like active sitting and a sit-stand setup. Try before buying if you can.
 
-[Browse HÅG Capisco listings on Amazon](https://www.amazon.com/s?k=HAG+Capisco)
+[Browse HÅG Capisco listings on Amazon](https://www.amazon.com/dp/B00OHUB0CG?tag=rogan-recs-20)
 
 ## Which HÅG Capisco does Joe Rogan use?
 

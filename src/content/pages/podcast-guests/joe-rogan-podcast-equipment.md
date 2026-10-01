@@ -35,9 +35,9 @@ They want to know what microphone Rogan uses, what gear actually matters, and wh
 
 | Gear | JRE connection | Our verdict | Shop |
 |---|---|---|---|
-| **Shure SM7B** | Strongly documented JRE microphone | **Best thing to copy** | [Amazon](https://www.amazon.com/s?k=Shure+SM7B) |
-| **Shure SM7dB** | Modern alternative, not claimed as Rogan's mic | **Easier setup** | [Amazon](https://www.amazon.com/s?k=Shure+SM7dB) |
-| **Sennheiser HD 280 Pro** | Recently documented JRE headphones | **Easy yes** | [Amazon](https://www.amazon.com/s?k=Sennheiser+HD+280+Pro) |
+| **Shure SM7B** | Strongly documented JRE microphone | **Best thing to copy** | [Amazon](https://www.amazon.com/dp/B0002E4Z8M?tag=rogan-recs-20) |
+| **Shure SM7dB** | Modern alternative, not claimed as Rogan's mic | **Easier setup** | [Amazon](https://www.amazon.com/dp/B0CMFXN65Z?tag=rogan-recs-20) |
+| **Sennheiser HD 280 Pro** | Recently documented JRE headphones | **Easy yes** | [Amazon](https://www.amazon.com/dp/B00IT0IHOY?tag=rogan-recs-20) |
 | **O.C. White Ultima Gen2** | Recently documented JRE boom arm | Great, expensive | [Amazon search](https://www.amazon.com/s?k=O.C.+White+Ultima+Gen2) |
 | **Modern Focusrite interface** | Scarlett hardware has been documented in JRE inventories | Good practical choice | [Amazon](https://www.amazon.com/s?k=Focusrite+Scarlett+audio+interface) |
 | **Old Behringer / FireWire / TASCAM gear** | Historical JRE reporting | Skip for a new build | Buy current gear instead |
@@ -52,7 +52,7 @@ It is a dynamic cardioid broadcast microphone. That matters because a dynamic mi
 
 That does **not** mean the SM7B magically deletes echo. It means it gives you a better starting point for speech in the kind of setup JRE uses.
 
-[Shop the Shure SM7B on Amazon](https://www.amazon.com/s?k=Shure+SM7B)
+[Shop the Shure SM7B on Amazon](https://www.amazon.com/dp/B0002E4Z8M?tag=rogan-recs-20)
 
 ### Why it works so well for long-form podcasts
 
@@ -74,7 +74,7 @@ The original SM7B has relatively low output and often needs a preamp with plenty
 | Best for | JRE purists, good interfaces | People who want an easier signal chain |
 | Our pick | Best value if your interface can drive it | Best convenience pick |
 
-If you care about owning the exact famous mic, get the SM7B. If you care more about getting great speech audio with fewer gain headaches, the [SM7dB is worth comparing](https://www.amazon.com/s?k=Shure+SM7dB).
+If you care about owning the exact famous mic, get the SM7B. If you care more about getting great speech audio with fewer gain headaches, the [SM7dB is worth comparing](https://www.amazon.com/dp/B0CMFXN65Z?tag=rogan-recs-20).
 
 [Compare Shure SM7B and SM7dB on Amazon](https://www.amazon.com/s?k=Shure+SM7B+SM7dB)
 
@@ -117,7 +117,7 @@ They are not glamorous. Good.
 
 For podcasting, you want closed-back headphones that let you hear the feed without leaking a bunch of sound back into the microphone.
 
-[Shop Sennheiser HD 280 Pro on Amazon](https://www.amazon.com/s?k=Sennheiser+HD+280+Pro)
+[Shop Sennheiser HD 280 Pro on Amazon](https://www.amazon.com/dp/B00IT0IHOY?tag=rogan-recs-20)
 
 This is one of the easiest pieces of the Rogan setup to copy because the price is reasonable and the use case is straightforward.
 
@@ -149,15 +149,15 @@ For a lower-cost mic, a [Shure MV7X](https://www.amazon.com/s?k=Shure+MV7X) is w
 
 ### Better setup: the practical JRE copy
 
-- [Shure SM7B](https://www.amazon.com/s?k=Shure+SM7B)
-- [Sennheiser HD 280 Pro](https://www.amazon.com/s?k=Sennheiser+HD+280+Pro)
+- [Shure SM7B](https://www.amazon.com/dp/B0002E4Z8M?tag=rogan-recs-20)
+- [Sennheiser HD 280 Pro](https://www.amazon.com/dp/B00IT0IHOY?tag=rogan-recs-20)
 - modern Focusrite or similar interface with enough gain
 - quality low-profile arm
 - proper lighting if video matters
 
 ### Easiest premium setup
 
-- [Shure SM7dB](https://www.amazon.com/s?k=Shure+SM7dB)
+- [Shure SM7dB](https://www.amazon.com/dp/B0CMFXN65Z?tag=rogan-recs-20)
 - closed-back studio headphones
 - modern multi-input interface or podcast console
 - premium low-profile arm
@@ -215,9 +215,9 @@ Joe Rogan did not build the biggest podcast in the world because he discovered a
 
 If you came here to buy instead of study JRE archaeology, this is the useful list:
 
-1. **Actual JRE mic:** [Shure SM7B](https://www.amazon.com/s?k=Shure+SM7B)
-2. **Easier premium mic:** [Shure SM7dB](https://www.amazon.com/s?k=Shure+SM7dB)
-3. **Headphones:** [Sennheiser HD 280 Pro](https://www.amazon.com/s?k=Sennheiser+HD+280+Pro)
+1. **Actual JRE mic:** [Shure SM7B](https://www.amazon.com/dp/B0002E4Z8M?tag=rogan-recs-20)
+2. **Easier premium mic:** [Shure SM7dB](https://www.amazon.com/dp/B0CMFXN65Z?tag=rogan-recs-20)
+3. **Headphones:** [Sennheiser HD 280 Pro](https://www.amazon.com/dp/B00IT0IHOY?tag=rogan-recs-20)
 4. **Interface:** [Focusrite Scarlett options](https://www.amazon.com/s?k=Focusrite+Scarlett+audio+interface)
 5. **Arm:** [low-profile podcast boom arms](https://www.amazon.com/s?k=low+profile+podcast+microphone+boom+arm)
 6. **If the room sounds bad:** [acoustic treatment panels](https://www.amazon.com/s?k=podcast+acoustic+treatment+panels)

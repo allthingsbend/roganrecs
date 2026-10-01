@@ -31,6 +31,7 @@ export const FOOTER_LINKS = [
   { label: 'Rogan Supplements', href: '/supplements' },
   { label: 'Coffee', href: '/joe-rogan-coffee' },
   { label: 'Books', href: '/joe-rogan-books' },
+  { label: 'Gift Guide', href: '/gifts-for-joe-rogan-fans' },
   { label: 'Sitemap', href: '/sitemap-html' },
 ];
 

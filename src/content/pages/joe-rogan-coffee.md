@@ -60,7 +60,7 @@ For a normal person choosing a bag, this is more useful:
 
 | Roast | Best for | Buy |
 |---|---|---|
-| **Just Black** | Easy medium-roast starting point | [Amazon](https://www.amazon.com/s?k=Black+Rifle+Coffee+Just+Black) |
+| **Just Black** | Easy medium-roast starting point | [Amazon](https://www.amazon.com/dp/B07DT75MS5?tag=rogan-recs-20) |
 | **Silencer Smooth** | People who prefer a lighter, smoother cup | [Amazon](https://www.amazon.com/s?k=Black+Rifle+Coffee+Silencer+Smooth) |
 | **AK-Espresso** | Espresso, moka pot or a bolder profile | [Amazon](https://www.amazon.com/s?k=Black+Rifle+Coffee+AK+Espresso) |
 | **Beyond Black** | Dark-roast drinkers | [Amazon](https://www.amazon.com/s?k=Black+Rifle+Coffee+Beyond+Black) |
@@ -71,7 +71,7 @@ For most readers, **Just Black** is the safest place to start because it is a ma
 
 That is our recommendation, not a claim that Joe Rogan personally crowned it king of coffee.
 
-[Shop Black Rifle Just Black on Amazon](https://www.amazon.com/s?k=Black+Rifle+Coffee+Just+Black)
+[Shop Black Rifle Just Black on Amazon](https://www.amazon.com/dp/B07DT75MS5?tag=rogan-recs-20)
 
 ## 2. Laird Superfood: the JRE-style coffee add-in
 
@@ -84,7 +84,7 @@ So the useful distinction is:
 - Black Rifle can be the coffee itself.
 - Laird can be the add-in or functional-coffee component.
 
-If that sounds good to you, [Laird Turmeric Superfood Creamer](https://www.amazon.com/s?k=Laird+Superfood+Turmeric+Creamer) is an obvious product to compare.
+If that sounds good to you, [Laird Turmeric Superfood Creamer](https://www.amazon.com/dp/B01N2B3DEG?tag=rogan-recs-20) is an obvious product to compare.
 
 ### Should you buy it?
 
@@ -131,8 +131,8 @@ Four Sigmatic makes more sense if you specifically like mushroom-coffee blends a
 If you are standing in the metaphorical coffee aisle wondering what to do:
 
 1. **Want the clearest Rogan connection?** Buy [Black Rifle Coffee](https://www.amazon.com/s?k=Black+Rifle+Coffee).
-2. **Want a safe first Black Rifle roast?** Try [Just Black](https://www.amazon.com/s?k=Black+Rifle+Coffee+Just+Black).
-3. **Want the Laird-style setup?** Add [Laird Turmeric Superfood Creamer](https://www.amazon.com/s?k=Laird+Superfood+Turmeric+Creamer).
+2. **Want a safe first Black Rifle roast?** Try [Just Black](https://www.amazon.com/dp/B07DT75MS5?tag=rogan-recs-20).
+3. **Want the Laird-style setup?** Add [Laird Turmeric Superfood Creamer](https://www.amazon.com/dp/B01N2B3DEG?tag=rogan-recs-20).
 4. **Want the older-school JRE recommendation?** Try [Caveman Coffee](https://www.amazon.com/s?k=Caveman+Coffee).
 5. **Want mushroom coffee specifically?** Compare [Four Sigmatic](https://www.amazon.com/s?k=Four+Sigmatic+Mushroom+Coffee).
 
@@ -156,7 +156,7 @@ Fastest and easiest, but you give up some control over grind and extraction.
 
 Black Rifle sells multiple formats, so buy the format your brewer actually uses instead of turning this into a gear project.
 
-If convenience wins, [compare Black Rifle K-Cups](https://www.amazon.com/s?k=Black+Rifle+Coffee+K+Cups).
+If convenience wins, [compare Black Rifle K-Cups](https://www.amazon.com/dp/B0CW9HPR5J?tag=rogan-recs-20).
 
 ## What brewing method makes sense?
 
@@ -239,10 +239,10 @@ For people specifically shopping mushroom coffee, not because mushrooms are mand
 ### Quick shopping list by what you want
 
 - Want the clearest recent JRE connection? [Black Rifle Coffee](https://www.amazon.com/s?k=Black+Rifle+Coffee)
-- Want an easy everyday drip roast? [Black Rifle Just Black](https://www.amazon.com/s?k=Black+Rifle+Coffee+Just+Black)
+- Want an easy everyday drip roast? [Black Rifle Just Black](https://www.amazon.com/dp/B07DT75MS5?tag=rogan-recs-20)
 - Brewing espresso? [Black Rifle AK-Espresso](https://www.amazon.com/s?k=Black+Rifle+Coffee+AK+Espresso)
-- Using a pod machine? [Black Rifle K-Cups](https://www.amazon.com/s?k=Black+Rifle+Coffee+K+Cups). There is no reason to buy whole bean just to imitate a podcast setup.
-- Want the Laird-style functional cup? [Laird Turmeric Superfood Creamer](https://www.amazon.com/s?k=Laird+Superfood+Turmeric+Creamer)
+- Using a pod machine? [Black Rifle K-Cups](https://www.amazon.com/dp/B0CW9HPR5J?tag=rogan-recs-20). There is no reason to buy whole bean just to imitate a podcast setup.
+- Want the Laird-style functional cup? [Laird Turmeric Superfood Creamer](https://www.amazon.com/dp/B01N2B3DEG?tag=rogan-recs-20)
 - Want a historical Rogan coffee? [Caveman Coffee](https://www.amazon.com/s?k=Caveman+Coffee)
 - Specifically want mushroom coffee? [Four Sigmatic](https://www.amazon.com/s?k=Four+Sigmatic+Mushroom+Coffee)
 

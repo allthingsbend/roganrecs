@@ -139,7 +139,7 @@ This is one of the more interesting entries because it is unusually specific. Ro
 
 That is worth reporting accurately. It is not proof that the supplement caused his vision to improve.
 
-[Shop Pure Encapsulations Macular Support](https://www.amazon.com/s?k=Pure+Encapsulations+Macular+Support)
+[Shop Pure Encapsulations Macular Support](https://www.amazon.com/dp/B00NC2TZBS?tag=rogan-recs-20)
 
 Eye-health formulas commonly include carotenoids such as **lutein and zeaxanthin**, which have legitimate scientific interest in retinal health. If your eyesight is changing, though, get your eyes examined rather than turning a Rogan anecdote into a treatment plan.
 
@@ -153,7 +153,7 @@ If people had to name one Joe Rogan supplement, **Alpha Brain** might beat creat
 
 Rogan was an early partner and investor in Onnit and helped make the brand enormous. That financial history is not a footnote. It belongs next to the recommendation.
 
-[Shop Alpha Brain on Amazon](https://www.amazon.com/s?k=Onnit+Alpha+Brain)
+[Shop Alpha Brain on Amazon](https://www.amazon.com/dp/B07WT6RLX9?tag=rogan-recs-20)
 
 ### Does Alpha Brain work?
 
@@ -239,7 +239,7 @@ Neuro Gum sounds more exotic than it is. The basic appeal is **caffeine + L-thea
 
 That is not an insult. Convenience is a real feature.
 
-[Shop Neuro Gum](https://www.amazon.com/s?k=Neuro+Gum)
+[Shop Neuro Gum](https://www.amazon.com/dp/B071RZ2SY6?tag=rogan-recs-20)
 
 Our [Joe Rogan Neuro Gum guide](/supplements/neuro-gum-joe-rogan) goes deeper.
 
@@ -518,7 +518,7 @@ Do not build a seven-supplement sleep stack before fixing a 1 a.m. bedtime and c
 
 The specific Rogan-associated product is **Pure Encapsulations Macular Support**.
 
-[Shop Macular Support](https://www.amazon.com/s?k=Pure+Encapsulations+Macular+Support)
+[Shop Macular Support](https://www.amazon.com/dp/B00NC2TZBS?tag=rogan-recs-20)
 
 Actual vision changes still deserve an eye exam.
 
@@ -658,11 +658,11 @@ If we were spending our own money, in order:
 
 **4. Convenience products if convenience is worth paying for**
 
-[Check AG1](https://www.amazon.com/s?k=AG1+Athletic+Greens) | [Check Neuro Gum](https://www.amazon.com/s?k=Neuro+Gum)
+[Check AG1](https://www.amazon.com/s?k=AG1+Athletic+Greens) | [Check Neuro Gum](https://www.amazon.com/dp/B071RZ2SY6?tag=rogan-recs-20)
 
 **5. Rogan-specific products because you specifically want to try them**
 
-[Check Alpha Brain](https://www.amazon.com/s?k=Onnit+Alpha+Brain) | [Check Macular Support](https://www.amazon.com/s?k=Pure+Encapsulations+Macular+Support)
+[Check Alpha Brain](https://www.amazon.com/dp/B07WT6RLX9?tag=rogan-recs-20) | [Check Macular Support](https://www.amazon.com/dp/B00NC2TZBS?tag=rogan-recs-20)
 
 That is a more defensible shopping order than buying every item in numerical order because it appeared on a podcast.
 

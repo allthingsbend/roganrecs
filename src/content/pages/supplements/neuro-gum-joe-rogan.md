@@ -27,7 +27,7 @@ The interesting part is not the nootropic branding. The useful questions are sim
 
 > **Quick take:** Neuro Gum is one of the more sensible JRE-adjacent “focus” products because the active idea is straightforward and the ingredients are familiar. Buy it for convenience and portability, not because you expect a dramatic cognitive upgrade.
 
-[Check current Neuro Gum options on Amazon](https://www.amazon.com/s?k=Neuro+Gum+Energy+Focus)
+[Check current Neuro Gum options on Amazon](https://www.amazon.com/dp/B071RZ2SY6?tag=rogan-recs-20)
 
 ## Neuro Gum at a glance
 
@@ -142,7 +142,7 @@ The most expensive nootropic stack on earth will not outperform adequate sleep f
 
 If you specifically want the Rogan-adjacent product, search for **Neuro Energy & Focus Gum** or the equivalent current mint version. Check the label because package size, flavor and caffeine content can vary.
 
-[Browse Neuro Gum on Amazon](https://www.amazon.com/s?k=Neuro+Gum)
+[Browse Neuro Gum on Amazon](https://www.amazon.com/dp/B071RZ2SY6?tag=rogan-recs-20)
 
 If you only want the format and not the brand, compare other caffeinated gums and mints by:
 
