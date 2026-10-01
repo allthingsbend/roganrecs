@@ -104,6 +104,7 @@ Kettlebells are only one piece of the larger JRE fitness ecosystem. Rogan has al
 - [cold plunges](/joe-rogan-cold-plunge-guide)
 - [supplements](/supplements)
 - [Iron Neck training](/iron-neck-joe-rogan)
+- [air bike conditioning](/joe-rogan-echo-bike)
 - [striking equipment](/blog/joe-rogan-showcases-sorinex-x-factor-the-ultimate-equipment-for-striking-sports)
 
 That broader context matters. You do not need to turn kettlebell training into a daily punishment session to benefit from it.

@@ -96,6 +96,8 @@ For most home gyms, a functional trainer wins on versatility. The X-Factor is th
 ## Related Rogan training guides
 
 - [Joe Rogan kettlebells](/blog/joe-rogan-kettlebells)
+- [Joe Rogan's heavy bag setup](/joe-rogan-heavy-bag)
+- [Joe Rogan's steel maces and clubs](/joe-rogan-steel-mace)
 - [Joe Rogan Iron Neck](/iron-neck-joe-rogan)
 - [Joe Rogan cold plunge](/joe-rogan-cold-plunge-guide)
 - [Joe Rogan sauna routine](/joe-rogan-sauna-guide)
