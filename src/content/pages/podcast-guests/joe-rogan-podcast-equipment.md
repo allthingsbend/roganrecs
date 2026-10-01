@@ -1,5 +1,5 @@
 ---
-title: "Joe Rogan Podcast Setup: Shure SM7B, Headphones & Gear"
+title: "Joe Rogan Podcast Equipment: Shure SM7B Mic & Full Setup"
 h1: "Joe Rogan podcast equipment: what he uses and what is actually worth buying"
 description: "The JRE podcast setup: Joe Rogan's Shure SM7B mic, Sennheiser HD 280 Pro headphones, boom arms and interface, plus the smarter version to buy today."
 category: gear
