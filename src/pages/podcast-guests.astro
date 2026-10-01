@@ -1,6 +1,9 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { getEntry } from 'astro:content';
+
+const meta = (await getEntry('pages', 'podcast-guests'))!.data;
 
 const FEED_URL = 'https://feeds.megaphone.fm/GLT1412515089';
 
@@ -119,8 +122,8 @@ const jsonLd = [
   {
     '@context': 'https://schema.org',
     '@type': 'CollectionPage',
-    name: 'JRE Podcast Guests & Latest Episodes',
-    description: 'Latest Joe Rogan Experience episodes plus useful guides to recurring JRE guests, their recommendations, books, supplements and gear.',
+    name: meta.title,
+    description: meta.description,
     url: 'https://roganrecs.com/podcast-guests',
   },
   {
@@ -134,8 +137,8 @@ const jsonLd = [
 ];
 ---
 <BaseLayout
-  title="JRE Podcast Guests & Latest Episodes"
-  description="Latest Joe Rogan Experience episodes plus useful guides to recurring JRE guests, their recommendations, books, supplements and gear."
+  title={meta.title}
+  description={meta.description}
   path="/podcast-guests"
   image="/images/podcast-guests/podcast-microphone.png"
   imageAlt="Podcast microphone"
@@ -248,6 +251,7 @@ const jsonLd = [
         <a href="/supplements"><strong>Health, supplements & longevity</strong><span>Rogan’s supplement stack, Huberman, Rhonda Patrick and wellness topics →</span></a>
         <a href="/joe-rogan-cold-plunge-guide"><strong>Recovery & performance</strong><span>Cold plunge, sauna, training and recovery practices →</span></a>
         <a href="/blog/protect-our-parks"><strong>Comedy & recurring friends</strong><span>Protect Our Parks and the recurring comedy universe →</span></a>
+        <a href="/joe-rogan-products"><strong>Everything Joe Rogan uses</strong><span>The full searchable list of Rogan products, supplements and gear →</span></a>
         <a href="/podcast-guests/joe-rogan-podcast-equipment"><strong>Podcast setup & gear</strong><span>Microphones, headphones, chairs and studio equipment →</span></a>
       </div>
     </div>

@@ -1,7 +1,7 @@
 ---
-title: "Andrew Huberman Supplements: Stack, Doses, Evidence & What to Buy"
+title: "Andrew Huberman Supplements ({year}): Stack & Doses"
 h1: "Andrew Huberman supplements: what he uses, what is worth buying and what to skip"
-description: "A practical, sourced guide to Andrew Huberman's supplement stack, including sleep, creatine, focus, omega-3s and hormone-related products, with buying advice and evidence context."
+description: "Andrew Huberman's supplement stack for sleep, focus, creatine, omega-3s and hormones: what he takes, the doses he cites and what the evidence shows."
 category: supplements
 order: 21
 updated: 2026-09-06

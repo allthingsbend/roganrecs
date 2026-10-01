@@ -1,10 +1,7 @@
 ---
-title: How to Get Kill Tony Tickets in Austin Without Getting Scammed
+title: "How to Get Kill Tony Tickets in Austin (Without Scams)"
 h1: How to Get Kill Tony Tickets
-
-description: >-
-  How Kill Tony tickets work in Austin, where official tickets are sold, why resale is risky,
-  how the Comedy Mothership standby line works, and how to improve your odds on ticket-drop day.
+description: "How to get Kill Tony tickets at the Comedy Mothership: how ticket drops work, how to beat the sale, the standby line and how to avoid resale scams."
 category: comedy
 pubDate: '2024-11-22'
 updated: 2026-08-28T00:00:00.000Z

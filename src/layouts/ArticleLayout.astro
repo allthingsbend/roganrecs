@@ -4,6 +4,7 @@ import Breadcrumbs from '../components/Breadcrumbs.astro';
 import AffiliateDisclosure from '../components/AffiliateDisclosure.astro';
 import ContentCard from '../components/ContentCard.astro';
 import { SITE, CATEGORIES } from '../../site.config.mjs';
+import { resolveTitle } from '../lib/seo.mjs';
 
 interface Crumb { label: string; href?: string }
 interface Heading { depth: number; slug: string; text: string }
@@ -179,7 +180,7 @@ const tocHeadings = headings.filter((heading) => heading.depth === 2 || heading.
 const featuredSelector = data.image?.replace(/["\\]/g, '\\$&');
 ---
 <BaseLayout
-  title={data.title}
+  title={resolveTitle(data.title, data.updated ?? data.pubDate)}
   description={data.description}
   path={path}
   noindex={data.noindex}

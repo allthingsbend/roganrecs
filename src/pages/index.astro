@@ -3,6 +3,7 @@ import { getCollection, getEntry, render } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import AffiliateDisclosure from '../components/AffiliateDisclosure.astro';
 import ContentCard from '../components/ContentCard.astro';
+import { resolveTitle } from '../lib/seo.mjs';
 
 const home = await getEntry('pages', 'home');
 const { Content } = await render(home);
@@ -35,7 +36,7 @@ const fallbackImages = {
 };
 ---
 <BaseLayout
-  title={home.data.title}
+  title={resolveTitle(home.data.title, home.data.updated)}
   description={home.data.description}
   path="/"
   image={home.data.image}

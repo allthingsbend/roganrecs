@@ -22,11 +22,37 @@ const products = [
 ];
 
 const categories = ['All', ...new Set(products.map((p) => p.category))];
+
+/** Bump when the list is reviewed. Feeds the title year and the sitemap. */
+const UPDATED = new Date('2026-09-07');
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://roganrecs.com' },
+      { '@type': 'ListItem', position: 2, name: 'What Joe Rogan Uses' },
+    ],
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    name: 'What Joe Rogan uses',
+    numberOfItems: products.length,
+    itemListElement: products.map((p, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: p.name,
+    })),
+  },
+];
 ---
 <BaseLayout
-  title="What Joe Rogan Uses: Products, Gear, Supplements & JRE Recommendations"
-  description="A searchable guide to Joe Rogan products, supplements, podcast gear, fitness equipment, recovery tools, books and JRE-associated recommendations."
+  title={`What Joe Rogan Uses (${UPDATED.getUTCFullYear()}): Products & Gear`}
+  description="Everything Joe Rogan uses in one searchable list: his supplements, sauna and cold plunge, coffee, podcast mic and chair, training gear and books."
   path="/joe-rogan-products"
+  jsonLd={jsonLd}
 >
   <section class="directory-hero">
     <div class="shell directory-hero__inner">

@@ -1,9 +1,7 @@
 ---
-title: 'Joe Rogan Books: Best Recommendations, Recent Reads & Where to Start'
+title: "Joe Rogan Book Recommendations: Where to Start"
 h1: 'Joe Rogan books: the recommendations actually worth starting with'
-description: >-
-  A sourced, practical guide to Joe Rogan book recommendations, including recent reads,
-  recurring favorites, audiobooks, JRE authors and the best books to start with.
+description: "Joe Rogan's book recommendations: recent reads, recurring favorites, books by JRE authors, audiobook picks and the best ones to start with."
 category: podcast
 order: 30
 updated: 2026-09-06
@@ -135,7 +133,7 @@ Start with:
 - books by Cameron Hanes if you want the training/bowhunting side
 - broader Rinella titles if you want hunting ethics, cooking and conservation
 
-See our [Joe Rogan hunting guide](/blog/joe-rogan-hunting-guide) for the gear-and-practice side.
+See our [Joe Rogan hunting guide](/blog/joe-rogan-hunting) for the gear-and-practice side.
 
 ### UFOs and the weird stuff
 

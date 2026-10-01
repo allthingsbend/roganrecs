@@ -1,5 +1,5 @@
 ---
-title: "Joe Rogan Sauna: Routine, Temperature, Time & Best Home Setup"
+title: "Joe Rogan Sauna Routine: Temperature, Time & Setup"
 h1: "Joe Rogan sauna routine: the useful version, plus what to buy"
 description: "Joe Rogan's sauna temperature and time, what the research actually supports, traditional vs infrared, and the smartest home sauna setup by budget."
 category: wellness
@@ -236,7 +236,7 @@ If we were starting from zero:
 
 [Browse traditional home saunas on Amazon](https://www.amazon.com/s?k=traditional+home+sauna)
 
-That keeps the affiliate links where they are useful without turning the page into a wall of buttons.
+Ready to compare models? Our [home sauna buying guide](/joe-rogan-home-sauna) breaks down traditional vs infrared vs portable, and the full [list of what Joe Rogan uses](/joe-rogan-products) covers the rest of his recovery gear.
 
 ## Safety
 

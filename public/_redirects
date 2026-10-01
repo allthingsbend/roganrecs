@@ -17,3 +17,8 @@
 # If you ever rename a page, add the old path here rather than letting it 404.
 # Example:
 # /old-page-name     /new-page-name       301
+
+# --- Moved pages -----------------------------------------------------------
+# Real 301s at the edge (the old Astro stubs only rendered a meta refresh).
+/podcast-guests/joe-rogan-peptides   /blog/joe-rogan-peptides   301
+/blog/joe-rogan-hunting-guide        /blog/joe-rogan-hunting    301

@@ -1,9 +1,7 @@
 ---
-title: 'Joe Rogan Podcast Chair: HÅG Capisco Model, Fit, Price & Alternatives'
+title: "Joe Rogan's Podcast Chair: HÅG Capisco Model & Price"
 h1: 'Joe Rogan Podcast Chair: The HÅG Capisco Explained'
-description: >-
-  The chair associated with Joe Rogan's JRE studio, how the HÅG Capisco works,
-  which model to look for, fit, ergonomic tradeoffs, buying tips and cheaper alternatives.
+description: "The HÅG Capisco chair from Joe Rogan's JRE studio: which model to look for, how it fits, ergonomic tradeoffs, price and cheaper alternatives."
 category: gear
 order: 23
 updated: 2026-09-07

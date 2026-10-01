@@ -1,7 +1,7 @@
 ---
-title: "Rogan Recs: Joe Rogan's Supplements, Gear & Book Picks"
+title: "Rogan Recs: Joe Rogan Recommendations, Supplements & Gear"
 h1: "Everything Joe Rogan actually recommends"
-description: "A fan-curated guide to what Joe Rogan actually uses and recommends: supplements, sauna and cold plunge gear, coffee, books and podcast equipment."
+description: "Every Joe Rogan recommendation in one place: his supplements, sauna and cold plunge setup, coffee, books and JRE podcast gear, with the evidence noted."
 category: site
 order: 0
 updated: 2026-07-25
@@ -17,6 +17,8 @@ actually is, why it came up, what it costs, and whether it makes sense for a
 normal person who isn't a millionaire comedian with a home gym.
 
 ## What's here
+
+**[What Joe Rogan uses](/joe-rogan-products)** is the fastest way in: every product, supplement and piece of gear connected to Rogan in one searchable list, with how strong the connection is and whether it's worth buying.
 
 **[Supplements](/supplements)** is the biggest section and the one most people
 arrive at. It covers the full stack that gets discussed, broken out by what each

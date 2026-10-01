@@ -1,5 +1,5 @@
 ---
-title: "Joe Rogan Energy Drink: Kill Cliff Spicy Pineapple, Caffeine & Price"
+title: "Joe Rogan Energy Drink: Kill Cliff Spicy Pineapple"
 h1: "Joe Rogan energy drink: Kill Cliff Spicy Pineapple without the marketing fluff"
 description: "A current guide to Joe Rogan's Kill Cliff Spicy Pineapple energy drink, including caffeine, sugar, flavor, price, CBD confusion, alternatives and where to buy."
 category: food

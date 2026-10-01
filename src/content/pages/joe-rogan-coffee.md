@@ -1,7 +1,7 @@
 ---
-title: "Joe Rogan Coffee: What He Drinks, Best Brands & What to Buy"
+title: "Joe Rogan Coffee: Black Rifle, Laird & What He Drinks"
 h1: "Joe Rogan coffee: what he actually drinks and what is worth buying"
-description: "A practical guide to Joe Rogan's coffee, including Black Rifle, Laird, Caveman Coffee and Four Sigmatic, with current vs historical context and buying advice."
+description: "What coffee Joe Rogan actually drinks: Black Rifle in the JRE studio, his Laird-style setup, Caveman Coffee and Four Sigmatic, with what's worth buying."
 category: food
 order: 40
 updated: 2026-09-06
@@ -235,6 +235,8 @@ A genuine older Rogan recommendation that deserves the date label.
 **Four Sigmatic**
 
 For people specifically shopping mushroom coffee, not because mushrooms are mandatory for coffee to count as optimized.
+
+If you just want the shopping list sorted by brew method (drip, espresso, pods), use our [Rogan coffee buying guide](/joe-rogan-coffee-products). For the rest of his routine, see [everything Joe Rogan uses](/joe-rogan-products) and his [supplement stack](/supplements).
 
 ## Sources and verification
 

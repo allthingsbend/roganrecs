@@ -1,9 +1,7 @@
 ---
-title: 'Joe Rogan Smelling Salts: Brands, Effects, Safety & What to Buy'
+title: "Joe Rogan Smelling Salts: Brands, Effects & Safety"
 h1: 'Joe Rogan Smelling Salts: Why They Show Up on JRE and What They Actually Do'
-description: >-
-  A practical guide to the smelling salts used around JRE, how ammonia inhalants work,
-  whether they improve strength, safety concerns, what to look for and common alternatives.
+description: "The smelling salts used around JRE: how ammonia inhalants work, whether they actually boost strength, the safety concerns and what to buy."
 category: gear
 order: 90
 updated: 2026-09-07

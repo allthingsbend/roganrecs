@@ -1,7 +1,7 @@
 ---
-title: "Joe Rogan Supplements: Current Stack, Vitamins & What Is Worth Buying"
+title: "Joe Rogan Supplements List ({year}): His Full Stack"
 h1: "Joe Rogan supplements: the complete stack, without the nonsense"
-description: "The definitive guide to Joe Rogan's supplements: what he takes, current vs historical products, evidence, sponsor ties, buying advice and what is actually worth it."
+description: "Joe Rogan's full supplement list: what he takes now vs. years ago, doses he's mentioned, sponsor ties, the evidence and which ones are worth buying."
 category: supplements
 order: 10
 updated: 2026-09-06
@@ -445,7 +445,7 @@ Rogan has discussed **BPC-157** and other peptides around injury and recovery.
 
 These are experimental drug-like compounds, not routine dietary supplements. BPC-157 is not an FDA-approved dietary supplement, and high-quality human evidence is extremely limited.
 
-See our [Joe Rogan peptides guide](/podcast-guests/joe-rogan-peptides).
+See our [Joe Rogan peptides guide](/blog/joe-rogan-peptides).
 
 ### IV vitamin and wellness drips
 
@@ -692,7 +692,9 @@ A few existing guides go deeper where there is a genuinely different search ques
 - [Supplements for mental clarity and focus](/blog/supplements-mental-clarity-focus)
 - [Dr. Rhonda Patrick supplements](/podcast-guests/dr-rhonda-patrick-supplements)
 - [Andrew Huberman supplements](/podcast-guests/andrew-huberman-supplement-guide)
-- [Joe Rogan peptides](/podcast-guests/joe-rogan-peptides)
+- [Joe Rogan peptides](/blog/joe-rogan-peptides)
+
+Looking for gear rather than pills? The [full list of what Joe Rogan uses](/joe-rogan-products) covers his sauna, cold plunge, coffee, podcast setup and training equipment in one place.
 
 ## Bottom line
 

@@ -1,10 +1,7 @@
 ---
-title: 'Comedy Mothership Austin: Tickets, Rules, Rooms and What to Expect'
+title: "Comedy Mothership Austin: Tickets, Rules & What to Expect"
 h1: Comedy Mothership Austin Guide
-
-description: >-
-  A practical guide to Joe Rogan's Comedy Mothership in Austin: tickets, age rules,
-  phone policy, rooms, arrival timing, resale warnings and what to expect at a show.
+description: "Joe Rogan's Comedy Mothership in Austin: how to get tickets, ID and age rules, what happens to your phone, when to arrive and downtown parking."
 category: comedy
 pubDate: '2024-06-05'
 updated: 2026-08-28T00:00:00.000Z

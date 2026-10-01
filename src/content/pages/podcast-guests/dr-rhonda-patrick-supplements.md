@@ -1,5 +1,5 @@
 ---
-title: 'Dr. Rhonda Patrick Supplements: Current Stack, Doses & Evidence'
+title: "Rhonda Patrick Supplements ({year}): Stack & Doses"
 h1: 'Dr. Rhonda Patrick Supplements: A Sourced Guide to Her Current Stack'
 description: >-
   A sourced guide to Dr. Rhonda Patrick's current supplements, doses and timing,

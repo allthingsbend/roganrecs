@@ -1,9 +1,7 @@
 ---
-title: 'Joe Rogan Neuro Gum: Ingredients, Caffeine, Effects & Alternatives'
+title: "Joe Rogan Neuro Gum: Caffeine, Ingredients & Is It Worth It?"
 h1: 'Joe Rogan Neuro Gum: What It Is, How It Works and Whether It Is Worth It'
-description: >-
-  A practical guide to Neuro Gum, the caffeine and L-theanine gum associated with Joe Rogan,
-  including ingredients, use cases, evidence, safety, value and cheaper alternatives.
+description: "Neuro Gum, the caffeine and L-theanine gum tied to Joe Rogan: what's in it, how it compares to coffee, what the evidence says and cheaper alternatives."
 category: supplements
 order: 11
 updated: 2026-09-07

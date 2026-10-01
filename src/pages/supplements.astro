@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import ArticleLayout from '../layouts/ArticleLayout.astro';
+import { pickRelated } from '../lib/seo.mjs';
 
 const pages = await getCollection('pages');
 const entry = pages.find((item) => item.id === 'supplements');
@@ -19,15 +20,12 @@ const crumbs = [
 ];
 
 const allPosts = await getCollection('blog');
-const related = [
+const relatedPool = [
   ...pages
-    .filter((item) =>
-      !item.data.hidden &&
-      item.id !== 'home' &&
-      item.id !== entry.id &&
-      item.data.category === entry.data.category,
-    )
+    .filter((item) => !item.data.hidden && item.id !== 'home')
     .map((item) => ({
+      id: item.id,
+      sameCategory: item.data.category === entry.data.category,
       href: `/${item.id}`,
       title: item.data.h1 ?? item.data.title,
       description: item.data.description,
@@ -36,8 +34,10 @@ const related = [
       category: item.data.category,
     })),
   ...allPosts
-    .filter((item) => !item.data.draft && item.data.category === entry.data.category)
+    .filter((item) => !item.data.draft)
     .map((item) => ({
+      id: `blog/${item.id}`,
+      sameCategory: item.data.category === entry.data.category,
       href: `/blog/${item.id}`,
       title: item.data.h1 ?? item.data.title,
       description: item.data.description,
@@ -45,7 +45,8 @@ const related = [
       imageAlt: item.data.imageAlt,
       category: item.data.category,
     })),
-].slice(0, 3);
+];
+const related = pickRelated(entry.id, relatedPool, 3).map(({ id, sameCategory, ...rest }) => rest);
 ---
 <ArticleLayout
   data={data}

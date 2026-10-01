@@ -1,9 +1,7 @@
 ---
-title: 'Joe Rogan Cold Plunge: Temperature, Time, Routine & Best Setup'
+title: "Joe Rogan Cold Plunge: Temperature, Time & Routine"
 h1: 'Joe Rogan cold plunge: his routine, what works and what is overkill'
-description: >-
-  A practical, sourced guide to Joe Rogan's cold plunge routine, including temperature,
-  time, benefits, safety, post-workout timing and home cold-plunge buying advice.
+description: "Joe Rogan's cold plunge routine: water temperature, how long he stays in, what the research supports and the setup worth buying for home."
 category: wellness
 order: 60
 updated: 2026-09-06
@@ -276,6 +274,8 @@ The [American Heart Association](https://www.heart.org/en/news/2022/12/05/youre-
 ## More Rogan recovery guides
 
 - [Joe Rogan sauna routine](/joe-rogan-sauna-guide)
+- [Best home sauna for a Rogan-style routine](/joe-rogan-home-sauna)
+- [Everything Joe Rogan uses](/joe-rogan-products)
 - [Joe Rogan supplements](/supplements)
 - [Joe Rogan Iron Neck guide](/iron-neck-joe-rogan)
 - [Joe Rogan energy drink](/energy-drink-joe-rogan)
