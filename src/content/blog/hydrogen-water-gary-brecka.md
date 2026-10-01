@@ -2,20 +2,29 @@
 title: 'Hydrogen Water: Gary Brecka, JRE and What the Evidence Says'
 h1: Gary Brecka Hydrogen Water Guide
 
-description: >-
-  What Gary Brecka has said about hydrogen water, how molecular hydrogen works,
-  what human studies actually show, and how tablets, bottles and generators compare.
+description: "Gary Brecka's hydrogen water advice from JRE #2060 and #2304, the Echo bottle he named, what human studies actually show, and tablets vs bottles."
 category: wellness
 pubDate: '2024-02-06'
-updated: 2026-08-28T00:00:00.000Z
+updated: 2026-10-01
 author: Rogan Recs
 imported: true
 image: /images/blog-hydrogen-water-gary-brecka/h2tab-bath-hydrogen.png
+faq:
+  - q: "Does Gary Brecka recommend hydrogen water?"
+    a: "He has spoken positively about molecular hydrogen and demonstrated hydrogen-water products in podcast and social-media discussions. That is an endorsement of the practice, not proof that every claimed benefit is established."
+  - q: "Did Gary Brecka discuss hydrogen water with Joe Rogan?"
+    a: "Yes. On JRE #2060 (November 2023) he ranked hydrogen water above spring and alkaline water and named the Echo hydrogen bottle. On JRE #2304 (April 2025), molecular hydrogen got its own segment."
+  - q: "Is hydrogen water just alkaline water?"
+    a: "No. Hydrogen-rich water refers to dissolved H2 gas. Alkaline water refers primarily to pH. A product can be hydrogen-rich without being strongly alkaline, and alkaline water does not automatically contain meaningful dissolved hydrogen."
+  - q: "How quickly does hydrogen leave the water?"
+    a: "Hydrogen gas can dissipate relatively quickly, especially from an open container. This is why many products instruct users to consume hydrogen-rich water soon after generating it."
+  - q: "Can hydrogen water treat disease?"
+    a: "Hydrogen-rich water is being researched in multiple medical contexts, but it is not an established treatment for disease and should not replace evidence-based care."
 ---
 
 Hydrogen water is regular water with extra **molecular hydrogen gas (H2)** dissolved in it. Gary Brecka has discussed it on podcasts including *The Joe Rogan Experience*, helping turn hydrogen tablets and portable hydrogen-water bottles into a much bigger wellness trend.
 
-The useful question is not whether hydrogen water is "real" — dissolved molecular hydrogen can be measured — but whether drinking it produces meaningful health benefits in humans. The current answer is **promising in a few areas, but far from proven for most of the claims made online**.
+The useful question is not whether hydrogen water is "real" (dissolved molecular hydrogen can be measured) but whether drinking it produces meaningful health benefits in humans. The current answer is **promising in a few areas, but far from proven for most of the claims made online**.
 
 > **Quick take:** Small clinical studies have reported changes in some markers of oxidative stress, inflammation, exercise recovery and metabolic health. Reviews repeatedly note, however, that studies are small, protocols vary and stronger long-term trials are still needed. Hydrogen water should be viewed as an optional wellness experiment, not a replacement for sleep, exercise, nutrition or medical care.
 
@@ -25,9 +34,11 @@ The useful question is not whether hydrogen water is "real" — dissolved molecu
 
 Brecka has promoted molecular hydrogen as a simple way to experiment with hydrogen-rich water, including tablets that release hydrogen gas when dropped into water. During his JRE appearances, the discussion has centered on oxidative stress, inflammation, recovery and the fact that molecular hydrogen is extremely small and can diffuse through tissues.
 
+On [JRE #2060](https://podcastnotes.org/joe-rogan-experience/2060-gary-brecka-joe-rogan-experience/) (November 9, 2023), Brecka gave a specific ranking: **hydrogen water first, spring water second, alkaline water third**, and tap water to avoid. He named the **Echo** hydrogen bottle and **Mountain Valley** spring water. When he came back for [JRE #2304](https://jre.ai/episodes/2304-gary-brecka) in April 2025, molecular hydrogen got its own segment, with hydrogen researcher Tyler LeBaron's work coming up in the conversation.
+
 Those are **mechanistic ideas and wellness claims**, not the same thing as proven clinical outcomes. That distinction matters. A compound can affect a biological pathway without producing a large or reliable real-world health benefit.
 
-If you're exploring more of the supplements and wellness products discussed around JRE, see our main [Joe Rogan supplements guide](/supplements).
+For the rest of what he recommended on those episodes, see our [Gary Brecka supplements and protocol guide](/podcast-guests/gary-brecka-supplements). For Rogan's own routine, see the [Joe Rogan supplements guide](/supplements).
 
 ## What exactly is molecular hydrogen water?
 
@@ -79,6 +90,8 @@ When comparing products, look for:
 - materials intended for drinking water
 - realistic claims rather than promises to treat disease
 
+If you want the bottle Brecka named, it's the [Echo Go+](https://www.amazon.com/dp/B0CW9HJTP5?tag=rogan-recs-20). Whatever you buy, look for a stated ppm figure.
+
 [Browse hydrogen-water products on Amazon](https://www.amazon.com/s?k=hydrogen+water&tag=rogan-recs-20)
 
 *Rogan Recs may earn a commission from qualifying purchases.*
@@ -105,31 +118,9 @@ For a healthy adult who is curious and comfortable with the cost, hydrogen water
 
 If a month of tablets fits your budget and you enjoy the routine, fine. If you are choosing between hydrogen water and basic habits such as adequate sleep, resistance/cardio exercise, protein, fruits and vegetables, or addressing a diagnosed health issue, the basics have vastly stronger evidence.
 
-## Frequently asked questions
-
-### Does Gary Brecka recommend hydrogen water?
-
-He has spoken positively about molecular hydrogen and demonstrated hydrogen-water products in podcast and social-media discussions. That is an endorsement of the practice, not proof that every claimed benefit is established.
-
-### Did Gary Brecka discuss hydrogen water with Joe Rogan?
-
-Yes. Molecular hydrogen was discussed during Brecka's appearances on *The Joe Rogan Experience*, including discussion of hydrogen-rich water and other delivery methods.
-
-### Is hydrogen water just alkaline water?
-
-No. Hydrogen-rich water refers to **dissolved H2 gas**. Alkaline water refers primarily to pH. A product can be hydrogen-rich without being strongly alkaline, and alkaline water does not automatically contain meaningful dissolved hydrogen.
-
-### How quickly does hydrogen leave the water?
-
-Hydrogen gas can dissipate relatively quickly, especially from an open container. This is why many products instruct users to consume hydrogen-rich water soon after generating it.
-
-### Can hydrogen water treat disease?
-
-Hydrogen-rich water is being researched in multiple medical contexts, but it is **not an established treatment for disease** and should not replace evidence-based care.
-
 ## Sources and further reading
 
-- [2024 systematic review: Hydrogen Water — Extra Healthy or a Hoax? (PubMed)](https://pubmed.ncbi.nlm.nih.gov/38256045/)
+- [2024 systematic review: Hydrogen Water: Extra Healthy or a Hoax? (PubMed)](https://pubmed.ncbi.nlm.nih.gov/38256045/)
 - [Systematic review and meta-analysis of hydrogen-rich water and blood lipids (PubMed)](https://pubmed.ncbi.nlm.nih.gov/39839806/)
 - [Joe Rogan supplements guide](/supplements)
 - [Joe Rogan cold plunge guide](/joe-rogan-cold-plunge-guide)

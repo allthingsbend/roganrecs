@@ -1,16 +1,23 @@
 ---
 title: 'PEMF Mats vs. Grounding Mats: Gary Brecka Claims & Evidence'
 h1: 'Gary Brecka PEMF Mats vs. Grounding Mats: What the Evidence Says'
-description: >-
-  PEMF and grounding mats explained clearly: how they differ, what Gary Brecka has discussed,
-  what human research supports, safety issues and whether either is worth buying.
+description: "PEMF mats vs grounding mats: how they differ, what Gary Brecka said about grounding on JRE, what the research supports, safety and whether either is worth it."
 category: wellness
 pubDate: '2023-12-18'
-updated: 2026-08-29
+updated: 2026-10-01
 author: Rogan Recs
 imported: true
 image: /images/blog-gary-brecka-pemf-mat-grounding-mats/grounding-mats-at-home.png
 imageAlt: 'PEMF and grounding mat wellness guide'
+faq:
+  - q: "What's the difference between a PEMF mat and a grounding mat?"
+    a: "A PEMF mat actively generates pulsed electromagnetic fields. A grounding mat generates nothing; it connects you electrically to earth ground, usually through a grounded outlet."
+  - q: "What did Gary Brecka say about grounding on JRE?"
+    a: "On JRE #2060 (November 2023) he listed grounding among free morning habits, alongside sunlight and breathwork."
+  - q: "Do grounding mats work?"
+    a: "The evidence is weak and early: small studies with design limits. If you find one relaxing, the cost is low, but claims that grounding treats inflammation or disease go beyond the research."
+  - q: "Are PEMF mats safe?"
+    a: "Follow the manufacturer's instructions, and ask a clinician first if you have a pacemaker or other implanted electronic device, or are pregnant."
 ---
 
 PEMF mats and grounding mats are often bundled together in wellness marketing, but they are **not the same technology**.
@@ -32,7 +39,7 @@ Gary Brecka has discussed both as wellness tools, but the scientific evidence is
 
 ## What is PEMF?
 
-Pulsed electromagnetic field therapy uses changing magnetic fields to induce small electrical currents in tissue. That broad category is real and has legitimate medical applications — for example, certain FDA-cleared devices are used for specific bone-healing indications.
+Pulsed electromagnetic field therapy uses changing magnetic fields to induce small electrical currents in tissue. That broad category is real and has legitimate medical applications. For example, certain FDA-cleared devices are used for specific bone-healing indications.
 
 That does **not** mean every consumer PEMF mat is proven to improve sleep, recovery, inflammation, circulation, hormones or longevity.
 
@@ -52,7 +59,9 @@ A grounding mat aims to electrically connect your body to earth ground while you
 
 Small studies exist, but the evidence base is limited by small sample sizes, study design and replication. Claims that grounding reliably treats inflammation, chronic disease or major sleep disorders go well beyond what current evidence establishes.
 
-## What Gary Brecka gets right — and where caution is needed
+## What Gary Brecka gets right, and where caution is needed
+
+On [JRE #2060](https://podcastnotes.org/joe-rogan-experience/2060-gary-brecka-joe-rogan-experience/) (November 9, 2023), Brecka put grounding on a short list of **free** morning habits, alongside sunlight and breathwork. That's the most sensible way to try it: standing barefoot on grass costs nothing, so you don't need to believe the strongest claims to give it a go.
 
 Brecka often frames these tools as part of a larger recovery environment rather than a replacement for sleep, exercise or nutrition. That is the more defensible way to think about them.
 
@@ -98,6 +107,7 @@ Before buying, ask:
 
 ## Related guides
 
+- [Everything Gary Brecka recommended on JRE](/podcast-guests/gary-brecka-supplements)
 - [Gary Brecka hydrogen water](/blog/hydrogen-water-gary-brecka)
 - [Gary Brecka red-light therapy](/blog/red-light-therapy-gary-brecka)
 - [Joe Rogan cold plunge guide](/joe-rogan-cold-plunge-guide)

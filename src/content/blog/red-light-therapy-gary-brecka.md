@@ -1,12 +1,10 @@
 ---
-title: 'Gary Brecka Red Light Therapy: Benefits, Evidence & Home Device Guide'
+title: 'Gary Brecka Red Light Therapy: Evidence & Home Devices'
 h1: 'Gary Brecka Red Light Therapy: What the Science Supports and What to Buy'
-description: >-
-  Gary Brecka has helped popularize red light therapy. Here is what red and near-infrared light may actually help,
-  what is still uncertain, how home devices differ and what to look for before buying a panel or mask.
+description: "What Gary Brecka recommended about red light therapy on JRE, what red and near-infrared light can actually help with, and how to choose a home panel."
 category: wellness
 pubDate: '2023-12-18'
-updated: 2026-09-07
+updated: 2026-10-01
 author: Rogan Recs
 imported: true
 image: /images/blog-red-light-therapy-gary-brecka/red-light-therapy-modern.png
@@ -83,6 +81,8 @@ Some research is genuinely interesting, including trials in neurological and cog
 For general healthy users, we would not buy a panel primarily because an ad promises better cognition, testosterone or lifespan.
 
 ## Gary Brecka's role in the popularity
+
+On [JRE #2060](https://podcastnotes.org/joe-rogan-experience/2060-gary-brecka-joe-rogan-experience/) (November 9, 2023), Brecka described using red light for **about 20 minutes a day**, either in a full-body bed or as spot treatment, and mentioned Joovv. Twenty minutes is in the range many home devices recommend, but the right dose depends on the device's output and distance, which is why the buying section below matters more than the minutes.
 
 Brecka often discusses health optimization through the lens of oxygen, cellular function, recovery and personalized wellness. Red light therapy fits naturally into that world because it is non-invasive, technology-driven and easy to use at home.
 
@@ -189,12 +189,13 @@ If you are building a broader recovery setup, see our [Joe Rogan sauna guide](/j
 
 ## Sources
 
-- [Cleveland Clinic — Can Red Light Therapy Improve Your Skin and Hair?](https://newsroom.clevelandclinic.org/2026/09/02/can-red-light-therapy-improve-your-skin-and-hair)
-- [PubMed — Evidence-based consensus on clinical photobiomodulation](https://pubmed.ncbi.nlm.nih.gov/40253006/)
-- [PubMed — Umbrella review of randomized photobiomodulation trials](https://pubmed.ncbi.nlm.nih.gov/40770824/)
+- [Cleveland Clinic: Can Red Light Therapy Improve Your Skin and Hair?](https://newsroom.clevelandclinic.org/2026/09/02/can-red-light-therapy-improve-your-skin-and-hair)
+- [PubMed: Evidence-based consensus on clinical photobiomodulation](https://pubmed.ncbi.nlm.nih.gov/40253006/)
+- [PubMed: Umbrella review of randomized photobiomodulation trials](https://pubmed.ncbi.nlm.nih.gov/40770824/)
 
 ## Related Rogan Recs guides
 
+- [Everything Gary Brecka recommended on JRE](/podcast-guests/gary-brecka-supplements)
 - [Joe Rogan sauna guide](/joe-rogan-sauna-guide)
 - [Joe Rogan cold plunge guide](/joe-rogan-cold-plunge-guide)
 - [Joe Rogan supplements](/supplements)

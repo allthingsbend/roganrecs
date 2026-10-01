@@ -163,6 +163,7 @@ The better approach is exactly what the optimization crowd claims to value: **me
 
 ## Related Rogan Recs guides
 
+- [Gary Brecka's supplements and protocol from JRE](/podcast-guests/gary-brecka-supplements)
 - [Joe Rogan supplements](/supplements)
 - [Andrew Huberman supplements](/podcast-guests/andrew-huberman-supplement-guide)
 - [Dr. Rhonda Patrick supplements](/podcast-guests/dr-rhonda-patrick-supplements)

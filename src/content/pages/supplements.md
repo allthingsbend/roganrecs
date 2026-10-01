@@ -692,6 +692,7 @@ A few existing guides go deeper where there is a genuinely different search ques
 - [Supplements for mental clarity and focus](/blog/supplements-mental-clarity-focus)
 - [Dr. Rhonda Patrick supplements](/podcast-guests/dr-rhonda-patrick-supplements)
 - [Andrew Huberman supplements](/podcast-guests/andrew-huberman-supplement-guide)
+- [Gary Brecka supplements and protocol](/podcast-guests/gary-brecka-supplements)
 - [Joe Rogan peptides](/blog/joe-rogan-peptides)
 
 Looking for gear rather than pills? The [full list of what Joe Rogan uses](/joe-rogan-products) covers his sauna, cold plunge, coffee, podcast setup and training equipment in one place.

@@ -6,18 +6,39 @@ description: >-
   including omega-3s, vitamin D, magnesium, creatine, sulforaphane and more.
 category: supplements
 order: 22
-updated: 2026-08-28T00:00:00.000Z
+updated: 2026-10-01
 imported: true
 image: /images/podcast-guests-dr-rhonda-patrick-supplements/dr-rhonda-patrick.png
+faq:
+  - q: "What are Dr. Rhonda Patrick's top five supplements?"
+    a: "In a recent 2026 discussion she highlighted omega-3s, a multivitamin, vitamin D, magnesium and creatine as five high-priority supplements based on common nutritional and performance considerations."
+  - q: "How much creatine does Rhonda Patrick take?"
+    a: "She has said she typically takes 10 grams per day, often split into two 5-gram doses. She may use 5 grams on some lower-demand days and has described higher short-term intakes during travel or severe sleep deprivation. Standard evidence-based maintenance doses for muscle are often lower, around 3–5 grams per day."
+  - q: "How much omega-3 does Rhonda Patrick take?"
+    a: "Her dose has changed. In her 2025 routine update she said she had reduced supplemental EPA/DHA from roughly 4 grams to about 2 grams per day because she ate substantial salmon and her Omega-3 Index was already very high."
+  - q: "How much vitamin D does Rhonda Patrick take?"
+    a: "In a 2025 routine update she described taking about 2,000 IU of separate vitamin D3 in addition to approximately 2,000 IU from her multivitamin. In broader discussions she often references a total range around 2,000–4,000 IU per day, but she strongly emphasizes vitamin D status and individual variability."
+  - q: "What form of magnesium does Rhonda Patrick take?"
+    a: "Her recent routine has included magnesium glycinate. She has also used and discussed citrate/malate formulations in the past. In recent public discussions her supplemental amount has ranged from roughly 125 to 250 mg per day."
+  - q: "Does Rhonda Patrick take sulforaphane?"
+    a: "Yes. In a recent routine update she said she takes Avmacol, which provides glucoraphanin and myrosinase to support sulforaphane production. She has also long emphasized broccoli sprouts and cruciferous vegetables as food sources."
+  - q: "Does Rhonda Patrick take melatonin?"
+    a: "She has. In a 2025 routine update she described 3 mg at night, specifically for her personal history of night terrors. She has also described situational use around jet lag. That should not be interpreted as a universal 3 mg recommendation."
+  - q: "Does Rhonda Patrick take NAD boosters?"
+    a: "She has listed Tru Niagen / nicotinamide riboside in a recent description of her personal routine. NR can raise NAD-related metabolites, but meaningful human longevity benefits have not been proven."
+  - q: "What fish oil brand does Rhonda Patrick recommend?"
+    a: "She has named different products over the years, and her choices have changed. Rather than treating one brand as permanently \"the Rhonda Patrick fish oil,\" focus on the amount of EPA + DHA, oxidation/contaminant testing and whether the product helps you reach an appropriate Omega-3 Index."
+  - q: "Does she recommend taking everything on this page?"
+    a: "No. This page documents her personal routine and the supplements she discusses most often. Patrick's own behavior shows the opposite of a one-size-fits-all approach: she adjusts supplements based on diet, testing, training and specific goals."
 ---
 
 ![Dr. Rhonda Patrick](/images/podcast-guests-dr-rhonda-patrick-supplements/dr-rhonda-patrick.png)
 
-Dr. Rhonda Patrick has discussed supplements for years, but her routine is **not a fixed list that stays the same forever**. She changes doses based on diet, training, bloodwork, travel, sleep and new research. That is important because many online “Rhonda Patrick supplement stack” lists still repeat doses she used years ago as if they are current.
+Dr. Rhonda Patrick is one of the most frequent science guests on the Joe Rogan Experience. She has discussed supplements for years, but her routine is **not a fixed list that stays the same forever**. She changes doses based on diet, training, bloodwork, travel, sleep and new research. That is important because many online “Rhonda Patrick supplement stack” lists still repeat doses she used years ago as if they are current.
 
 This guide focuses on what Patrick has **recently said she personally takes**, what she considers higher-priority for many people, the doses and timing she has publicly described, and where the evidence is strong, mixed or still emerging.
 
-> **Quick takeaway:** Patrick's most consistently emphasized core supplements are omega-3s, a multivitamin, vitamin D, magnesium and creatine. Her own larger routine also includes compounds such as sulforaphane, vitamin K2, PQQ, ubiquinol, cocoa flavanols, myo-inositol and — depending on the situation — melatonin and beetroot.
+> **Quick takeaway:** Patrick's most consistently emphasized core supplements are omega-3s, a multivitamin, vitamin D, magnesium and creatine. Her own larger routine also includes compounds such as sulforaphane, vitamin K2, PQQ, ubiquinol, cocoa flavanols, myo-inositol and, depending on the situation, melatonin and beetroot.
 
 For Joe Rogan's broader routine, see our [Joe Rogan supplements guide](/supplements). You can also compare this page with our [Andrew Huberman supplements guide](/podcast-guests/andrew-huberman-supplement-guide).
 
@@ -48,7 +69,7 @@ In a 2026 discussion, Patrick highlighted five supplements that she thinks cover
 
 She did not argue that every person needs the exact same dose. Instead, she framed them around common shortfalls, food intake, exercise and measurable status.
 
-Source: [FoundMyFitness — How Five Common Supplements Fit a Health Plan](https://www.foundmyfitness.com/episodes/how-five-common-supplements-fit-a-health-plan)
+Source: [FoundMyFitness: How Five Common Supplements Fit a Health Plan](https://www.foundmyfitness.com/episodes/how-five-common-supplements-fit-a-health-plan)
 
 ### 1. Omega-3 fatty acids
 
@@ -60,7 +81,7 @@ That is also a good example of why her old supplement lists can be misleading. P
 
 In her 2025 routine update she described taking roughly **1 gram with breakfast and another gram after dinner**.
 
-Source: [FoundMyFitness — How Dr. Rhonda Patrick Builds Her Supplement Routine](https://www.foundmyfitness.com/episodes/rhonda-patrick-supplement-routine-2025)
+Source: [FoundMyFitness: How Dr. Rhonda Patrick Builds Her Supplement Routine](https://www.foundmyfitness.com/episodes/rhonda-patrick-supplement-routine-2025)
 
 #### What matters when choosing fish oil?
 
@@ -90,13 +111,13 @@ In her 2025 supplement update, she said she was taking around **2,000 IU of sepa
 
 In 2026, she again used **4,000 IU per day as a common reference point**, while emphasizing that individual needs vary.
 
-Source: [FoundMyFitness — How Five Common Supplements Fit a Health Plan](https://www.foundmyfitness.com/episodes/how-five-common-supplements-fit-a-health-plan)
+Source: [FoundMyFitness: How Five Common Supplements Fit a Health Plan](https://www.foundmyfitness.com/episodes/how-five-common-supplements-fit-a-health-plan)
 
 Vitamin D is fat-soluble, so it should not be treated like an unlimited “more is better” supplement. A **25-hydroxyvitamin D blood test** is far more useful than guessing indefinitely.
 
 Patrick has also discussed taking vitamin D with food. Absorption studies suggest taking D3 with a fat-containing meal can improve absorption compared with taking it without dietary fat.
 
-Source: [FoundMyFitness — How to Time Supplements for Better Absorption](https://www.foundmyfitness.com/episodes/how-to-time-supplements-for-better-absorption)
+Source: [FoundMyFitness: How to Time Supplements for Better Absorption](https://www.foundmyfitness.com/episodes/how-to-time-supplements-for-better-absorption)
 
 ## 4. Magnesium
 
@@ -106,7 +127,7 @@ She tries to obtain substantial magnesium from food, especially leafy greens, bu
 
 Her public dose has changed. In the 2025 routine update she described about **125 mg of magnesium glycinate** in the evening. In a 2026 discussion she described **250 mg per day**, or two 125 mg capsules, while continuing to emphasize dietary magnesium.
 
-Source: [FoundMyFitness — How Five Common Supplements Fit a Health Plan](https://www.foundmyfitness.com/episodes/how-five-common-supplements-fit-a-health-plan)
+Source: [FoundMyFitness: How Five Common Supplements Fit a Health Plan](https://www.foundmyfitness.com/episodes/how-five-common-supplements-fit-a-health-plan)
 
 The form matters mostly for absorption and gastrointestinal tolerance. Patrick has used glycinate and previously discussed citrate/malate forms. Magnesium oxide tends to be less well absorbed and is more likely to have a laxative effect.
 
@@ -120,7 +141,7 @@ She has said her typical personal intake is **10 grams per day**, often split in
 
 In her 2026 discussion she again described **10 grams per day**, typically 5 grams before training and 5 grams afterward.
 
-Source: [FoundMyFitness — How Five Common Supplements Fit a Health Plan](https://www.foundmyfitness.com/episodes/how-five-common-supplements-fit-a-health-plan)
+Source: [FoundMyFitness: How Five Common Supplements Fit a Health Plan](https://www.foundmyfitness.com/episodes/how-five-common-supplements-fit-a-health-plan)
 
 ### Why does she take more than the common 3–5 g maintenance dose?
 
@@ -174,7 +195,7 @@ Coenzyme Q10 is involved in the mitochondrial electron-transport chain and cellu
 
 In her 2025 routine update Patrick said she had switched to a **VesiSorb ubiquinol** formulation because of its bioavailability characteristics.
 
-CoQ10 has more established clinical relevance in some specific settings — including certain cardiovascular contexts and statin-associated muscle symptoms — than it does as a universal anti-aging supplement for healthy people.
+CoQ10 has more established clinical relevance in some specific settings, including certain cardiovascular contexts and statin-associated muscle symptoms, than it does as a universal anti-aging supplement for healthy people.
 
 If someone takes warfarin or is being treated for cardiovascular disease, they should discuss CoQ10 with their clinician because supplement-drug interactions and treatment goals can matter.
 
@@ -194,7 +215,7 @@ Patrick said in 2025 that she was taking **3 mg at night**, but she specifically
 
 She also noted that she sometimes goes through periods without taking it. In a 2026 description of her routine, she mentioned using melatonin while jet-lagged after international travel.
 
-Source: [FoundMyFitness — How Dr. Rhonda Patrick Builds Her Supplement Routine](https://www.foundmyfitness.com/episodes/rhonda-patrick-supplement-routine-2025)
+Source: [FoundMyFitness: How Dr. Rhonda Patrick Builds Her Supplement Routine](https://www.foundmyfitness.com/episodes/rhonda-patrick-supplement-routine-2025)
 
 So “Rhonda Patrick takes 3 mg of melatonin” is true in a specific context. “Rhonda Patrick recommends 3 mg of melatonin to everyone” is not.
 
@@ -232,7 +253,7 @@ In a 2025 presentation later published by FoundMyFitness, Patrick listed **Tru N
 
 Nicotinamide riboside is a precursor used by the body to make NAD+, a molecule involved in redox reactions and cellular metabolism. Human studies show that NR can increase NAD-related metabolites, but evidence that it meaningfully extends lifespan or prevents age-related disease in humans is not established.
 
-Source: [FoundMyFitness — How Exercise, Nutrition, and Heat Fit Into a Weekly Routine](https://www.foundmyfitness.com/episodes/how-exercise-nutrition-and-heat-fit-into-a-weekly-routine)
+Source: [FoundMyFitness: How Exercise, Nutrition, and Heat Fit Into a Weekly Routine](https://www.foundmyfitness.com/episodes/how-exercise-nutrition-and-heat-fit-into-a-weekly-routine)
 
 ## Does Rhonda Patrick still take all the supplements from older lists?
 
@@ -281,6 +302,20 @@ This timing is **her routine**, not a requirement. The most important timing con
 Patrick has publicly named brands such as Pure Encapsulations, Thorne, NOW, Avmacol and CocoaVia in descriptions of her own routine. She has also explicitly said in first-party discussions that she does **not have a financial affiliation with the brands she was naming** in those routine updates.
 
 A brand mention is useful because it can clarify the exact formulation she is talking about, but readers should not assume that the brand itself is the reason a supplement works.
+
+### Shopping the products she has named
+
+Where her routine points to a specific product, we link to it. Where she has named a brand but not a specific product, we say so.
+
+| What she takes | Product | How specific is the link to Patrick? |
+| --- | --- | --- |
+| Sulforaphane precursor | [Avmacol](https://www.amazon.com/dp/B07V485YZH?tag=rogan-recs-20) | **Exact product** she named in a recent routine update |
+| Cocoa flavanols | [CocoaVia](https://www.amazon.com/dp/B00RBS5I92?tag=rogan-recs-20) | **Exact brand** she named; check which strength suits you |
+| Magnesium glycinate | [Pure Encapsulations Magnesium (Glycinate)](https://www.amazon.com/dp/B0058HWV9S?tag=rogan-recs-20) | The form she uses, from a brand she has named |
+| Creatine monohydrate | [Thorne Creatine](https://www.amazon.com/dp/B01LDSCYDS?tag=rogan-recs-20) | The supplement she takes, from a brand she has named |
+| Multivitamin | [Thorne Basic Nutrients 2/Day](https://www.amazon.com/dp/B00FOTMGTU?tag=rogan-recs-20) | A brand she has named; not confirmed as her exact multi |
+
+*Rogan Recs may earn a commission from qualifying purchases. Patrick has said she has no financial affiliation with the brands she named.*
 
 For products such as creatine, fish oil and botanical extracts, priorities include:
 
@@ -345,48 +380,6 @@ Extra caution is warranted if you:
 
 Also check for **duplicate ingredients**. A multivitamin plus separate vitamin D, vitamin K, magnesium or other formulas can add up quickly.
 
-## Frequently asked questions
-
-### What are Dr. Rhonda Patrick's top five supplements?
-
-In a recent 2026 discussion she highlighted **omega-3s, a multivitamin, vitamin D, magnesium and creatine** as five high-priority supplements based on common nutritional and performance considerations.
-
-### How much creatine does Rhonda Patrick take?
-
-She has said she typically takes **10 grams per day**, often split into two 5-gram doses. She may use 5 grams on some lower-demand days and has described higher short-term intakes during travel or severe sleep deprivation. Standard evidence-based maintenance doses for muscle are often lower, around 3–5 grams per day.
-
-### How much omega-3 does Rhonda Patrick take?
-
-Her dose has changed. In her 2025 routine update she said she had reduced supplemental EPA/DHA from roughly 4 grams to about **2 grams per day** because she ate substantial salmon and her Omega-3 Index was already very high.
-
-### How much vitamin D does Rhonda Patrick take?
-
-In a 2025 routine update she described taking about **2,000 IU of separate vitamin D3** in addition to approximately 2,000 IU from her multivitamin. In broader discussions she often references a total range around **2,000–4,000 IU per day**, but she strongly emphasizes vitamin D status and individual variability.
-
-### What form of magnesium does Rhonda Patrick take?
-
-Her recent routine has included **magnesium glycinate**. She has also used and discussed citrate/malate formulations in the past. In recent public discussions her supplemental amount has ranged from roughly **125 to 250 mg per day**.
-
-### Does Rhonda Patrick take sulforaphane?
-
-Yes. In a recent routine update she said she takes **Avmacol**, which provides glucoraphanin and myrosinase to support sulforaphane production. She has also long emphasized broccoli sprouts and cruciferous vegetables as food sources.
-
-### Does Rhonda Patrick take melatonin?
-
-She has. In a 2025 routine update she described **3 mg at night**, specifically for her personal history of night terrors. She has also described situational use around jet lag. That should not be interpreted as a universal 3 mg recommendation.
-
-### Does Rhonda Patrick take NAD boosters?
-
-She has listed **Tru Niagen / nicotinamide riboside** in a recent description of her personal routine. NR can raise NAD-related metabolites, but meaningful human longevity benefits have not been proven.
-
-### What fish oil brand does Rhonda Patrick recommend?
-
-She has named different products over the years, and her choices have changed. Rather than treating one brand as permanently “the Rhonda Patrick fish oil,” focus on the amount of EPA + DHA, oxidation/contaminant testing and whether the product helps you reach an appropriate Omega-3 Index.
-
-### Does she recommend taking everything on this page?
-
-No. This page documents her personal routine and the supplements she discusses most often. Patrick's own behavior shows the opposite of a one-size-fits-all approach: she adjusts supplements based on diet, testing, training and specific goals.
-
 ## Bottom line
 
 Dr. Rhonda Patrick's supplement routine is extensive, but the most useful part is not the number of bottles. It is the hierarchy behind it.
@@ -399,12 +392,18 @@ The key is to separate three questions:
 2. **Is there good evidence for the goal you care about?**
 3. **Do you personally need it at that dose?**
 
-Those are not the same question — and keeping them separate makes this a much more useful way to read any celebrity, scientist or podcast supplement stack.
+Those are not the same question, and keeping them separate makes this a much more useful way to read any celebrity, scientist or podcast supplement stack.
+
+### Other JRE guest guides
+
+- [Andrew Huberman's supplements](/podcast-guests/andrew-huberman-supplement-guide)
+- [Gary Brecka's supplements and protocol](/podcast-guests/gary-brecka-supplements)
+- [Joe Rogan's own supplement stack](/supplements)
 
 ### Primary sources used for this guide
 
-- [FoundMyFitness — How Dr. Rhonda Patrick Builds Her Supplement Routine](https://www.foundmyfitness.com/episodes/rhonda-patrick-supplement-routine-2025)
-- [FoundMyFitness — How Five Common Supplements Fit a Health Plan](https://www.foundmyfitness.com/episodes/how-five-common-supplements-fit-a-health-plan)
-- [FoundMyFitness — How Exercise, Nutrition, and Heat Fit Into a Weekly Routine](https://www.foundmyfitness.com/episodes/how-exercise-nutrition-and-heat-fit-into-a-weekly-routine)
-- [FoundMyFitness — How to Time Supplements for Better Absorption](https://www.foundmyfitness.com/episodes/how-to-time-supplements-for-better-absorption)
-- [FoundMyFitness — How to Evaluate a Supplement Stack: Evidence, Dose, and Quality](https://www.foundmyfitness.com/episodes/how-to-evaluate-a-supplement-stack-evidence-dose-and-quality)
+- [FoundMyFitness: How Dr. Rhonda Patrick Builds Her Supplement Routine](https://www.foundmyfitness.com/episodes/rhonda-patrick-supplement-routine-2025)
+- [FoundMyFitness: How Five Common Supplements Fit a Health Plan](https://www.foundmyfitness.com/episodes/how-five-common-supplements-fit-a-health-plan)
+- [FoundMyFitness: How Exercise, Nutrition, and Heat Fit Into a Weekly Routine](https://www.foundmyfitness.com/episodes/how-exercise-nutrition-and-heat-fit-into-a-weekly-routine)
+- [FoundMyFitness: How to Time Supplements for Better Absorption](https://www.foundmyfitness.com/episodes/how-to-time-supplements-for-better-absorption)
+- [FoundMyFitness: How to Evaluate a Supplement Stack: Evidence, Dose, and Quality](https://www.foundmyfitness.com/episodes/how-to-evaluate-a-supplement-stack-evidence-dose-and-quality)

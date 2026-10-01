@@ -4,7 +4,7 @@ h1: "Andrew Huberman supplements: what he uses, what is worth buying and what to
 description: "Andrew Huberman's supplement stack for sleep, focus, creatine, omega-3s and hormones: what he takes, the doses he cites and what the evidence shows."
 category: supplements
 order: 21
-updated: 2026-09-06
+updated: 2026-10-01
 imported: true
 image: "/images/podcast-guests-andrew-huberman-supplement-guide/andrew-huberman-pic.jpg"
 faq:
@@ -89,7 +89,7 @@ The important thing is not to confuse "Huberman has discussed this" with "every 
 
 Huberman has frequently discussed magnesium threonate and bisglycinate in the context of sleep.
 
-[Compare magnesium threonate on Amazon](https://www.amazon.com/s?k=magnesium+L-threonate)
+[Check a Magtein magnesium threonate on Amazon](https://www.amazon.com/dp/B0B336FCWC?tag=rogan-recs-20)
 
 If you want a simpler and usually less expensive option, [magnesium glycinate](https://www.amazon.com/s?k=magnesium+glycinate) is also widely used.
 
@@ -252,7 +252,17 @@ This is the shortlist, in order:
 7. **Tongkat ali** only after understanding the uncertainty
 8. **Fadogia:** skip unless the evidence picture improves substantially
 
-[Browse the higher-confidence Huberman supplement basics on Amazon](https://www.amazon.com/s?k=creatine+magnesium+omega+3+L-theanine)
+**One disclosure worth knowing:** Huberman Lab has a commercial partnership with **Momentous**, and AG1 has been a show sponsor. That doesn't make their products bad, but it means "the brand Huberman uses" and "the best value" aren't always the same answer.
+
+| Pick | Option | Note |
+| --- | --- | --- |
+| Creatine | [Momentous Creatine](https://www.amazon.com/dp/B085Z9P87K?tag=rogan-recs-20) | The Huberman-partner option (Creapure) |
+| Creatine | [Thorne Creatine](https://www.amazon.com/dp/B01LDSCYDS?tag=rogan-recs-20) | NSF Certified for Sport, no partnership |
+| Magnesium threonate | [Magtein-based threonate](https://www.amazon.com/dp/B0B336FCWC?tag=rogan-recs-20) | The form he discusses for sleep |
+
+*Rogan Recs may earn a commission from qualifying purchases.*
+
+[Browse the higher-confidence Huberman supplement basics on Amazon](https://www.amazon.com/s?k=creatine+magnesium+omega+3+L-theanine&tag=rogan-recs-20)
 
 ## How to buy supplements without getting ripped off
 
@@ -287,5 +297,11 @@ Treating them as the same is how a 90-minute podcast becomes a $400 monthly supp
 - [Huberman Lab: Sleep Toolkit](https://www.hubermanlab.com/episode/sleep-toolkit-tools-for-optimizing-sleep-and-sleep-wake-timing)
 - [Huberman Lab: Focus Toolkit](https://www.hubermanlab.com/episode/focus-toolkit-tools-to-improve-your-focus-and-concentration)
 - [NCCIH: Ashwagandha](https://www.nccih.nih.gov/health/ashwagandha)
+
+## Other JRE guest guides
+
+- [Dr. Rhonda Patrick's supplements](/podcast-guests/dr-rhonda-patrick-supplements)
+- [Gary Brecka's supplements and protocol](/podcast-guests/gary-brecka-supplements)
+- [Mouth taping, from JRE #1506 with James Nestor](/joe-rogan-mouth-tape)
 
 For the main JRE-focused stack, use our [Joe Rogan supplements guide](/supplements).
