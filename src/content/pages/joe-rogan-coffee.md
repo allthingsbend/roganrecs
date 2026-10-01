@@ -4,7 +4,7 @@ h1: "Joe Rogan coffee: what he actually drinks and what is worth buying"
 description: "What coffee Joe Rogan actually drinks: Black Rifle in the JRE studio, his Laird-style setup, Caveman Coffee and Four Sigmatic, with what's worth buying."
 category: food
 order: 40
-updated: 2026-09-06
+updated: 2026-10-01
 imported: true
 image: "https://images.unsplash.com/photo-1766747021051-b2d2e8610883?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=1800"
 imageAlt: "Steaming black coffee on a wooden table in morning light"
@@ -236,7 +236,17 @@ A genuine older Rogan recommendation that deserves the date label.
 
 For people specifically shopping mushroom coffee, not because mushrooms are mandatory for coffee to count as optimized.
 
-If you just want the shopping list sorted by brew method (drip, espresso, pods), use our [Rogan coffee buying guide](/joe-rogan-coffee-products). For the rest of his routine, see [everything Joe Rogan uses](/joe-rogan-products) and his [supplement stack](/supplements).
+### Quick shopping list by what you want
+
+- Want the clearest recent JRE connection? [Black Rifle Coffee](https://www.amazon.com/s?k=Black+Rifle+Coffee)
+- Want an easy everyday drip roast? [Black Rifle Just Black](https://www.amazon.com/s?k=Black+Rifle+Coffee+Just+Black)
+- Brewing espresso? [Black Rifle AK-Espresso](https://www.amazon.com/s?k=Black+Rifle+Coffee+AK+Espresso)
+- Using a pod machine? [Black Rifle K-Cups](https://www.amazon.com/s?k=Black+Rifle+Coffee+K+Cups). There is no reason to buy whole bean just to imitate a podcast setup.
+- Want the Laird-style functional cup? [Laird Turmeric Superfood Creamer](https://www.amazon.com/s?k=Laird+Superfood+Turmeric+Creamer)
+- Want a historical Rogan coffee? [Caveman Coffee](https://www.amazon.com/s?k=Caveman+Coffee)
+- Specifically want mushroom coffee? [Four Sigmatic](https://www.amazon.com/s?k=Four+Sigmatic+Mushroom+Coffee)
+
+For the rest of his routine, see [everything Joe Rogan uses](/joe-rogan-products) and his [supplement stack](/supplements).
 
 ## Sources and verification
 

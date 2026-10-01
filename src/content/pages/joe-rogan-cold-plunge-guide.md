@@ -274,7 +274,6 @@ The [American Heart Association](https://www.heart.org/en/news/2022/12/05/youre-
 ## More Rogan recovery guides
 
 - [Joe Rogan sauna routine](/joe-rogan-sauna-guide)
-- [Best home sauna for a Rogan-style routine](/joe-rogan-home-sauna)
 - [Everything Joe Rogan uses](/joe-rogan-products)
 - [Joe Rogan supplements](/supplements)
 - [Joe Rogan Iron Neck guide](/iron-neck-joe-rogan)

@@ -22,3 +22,7 @@
 # Real 301s at the edge (the old Astro stubs only rendered a meta refresh).
 /podcast-guests/joe-rogan-peptides   /blog/joe-rogan-peptides   301
 /blog/joe-rogan-hunting-guide        /blog/joe-rogan-hunting    301
+
+# Merged into the main guides (Oct 2026).
+/joe-rogan-coffee-products           /joe-rogan-coffee          301
+/joe-rogan-home-sauna                /joe-rogan-sauna-guide     301
